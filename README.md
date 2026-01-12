@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 01:25:26 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 02:35:43 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://00a85603-d8c6-437d-a8bd-ea521107bd87@notability.com:2053?type=ws&sni=snippet.danfeng.frii.site&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%2011%20TG%40jcnode
-vless://69647d8d-a349-efdf-6be2-77e494ba6894@80.76.34.190:443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL-1%20TG%40jcnode
-vless://69647d8d-a349-efdf-6be2-77e494ba6894@57.129.16.33:8443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE11%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@162.159.36.180:443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-6%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Epicgames%20TG%40jcnode
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@cloudflare.182682.xyz:443?type=ws&sni=l.ayovo.netlib.re&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%20-%20Cloudflare%2C%20Inc.%20-%202%20TG%40jcnode
 ```
 
 ---
