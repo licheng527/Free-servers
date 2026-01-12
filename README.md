@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 00:29:56 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 01:25:26 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIDUgVEdAamNub2RlIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-vless://69647d8d-a349-efdf-6be2-77e494ba6894@104.16.29.96:443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SJC-4%20TG%40jcnode
-vless://69647d8d-a349-efdf-6be2-77e494ba6894@104.234.36.27:33388?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US8%20TG%40jcnode
+vless://00a85603-d8c6-437d-a8bd-ea521107bd87@notability.com:2053?type=ws&sni=snippet.danfeng.frii.site&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%2011%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@80.76.34.190:443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL-1%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@57.129.16.33:8443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE11%20TG%40jcnode
 ```
 
 ---
