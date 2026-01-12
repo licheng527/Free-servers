@@ -5,25 +5,29 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-12 19:24:36 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-12 19:40:27 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
-<p style="text-align: center;">吃饭->睡觉->测节点。</p>
+<p style="text-align: center;">测节点->吃饭->睡觉。</p>
 </blockquote>
 
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://0639982f-22d4-44d9-baa8-a4a7e761a5d3@lvs.jueduibupao.top:50001?sni=lvs.jueduibupao.top#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2040%20TG%40jcnode
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.udemy.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Udemy%20TG%40jcnode
-vless://69647f33-a1c5-0d8f-7d7c-55e503fb536d@153.121.45.101:443?type=ws&sni=22.netlib.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-25%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@51.38.49.187:2053?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR80%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@107.172.102.212:20700?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US2%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.141:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%2023%20TG%40jcnode
 ```
+
+---
+
+# 常用软件工具下载
 
 ## Windows 版本下载
 
-| 客户端 | 下载链接 |
-|--------|----------|
+| 客户端 | 官方下载链接 |
+|:------:|:------------:|
 | Karing | [下载](https://github.com/KaringX/karing/releases) |
 | FLClash | [下载](https://github.com/chen08209/FlClash/releases) |
 | Clash Verge | [下载](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
@@ -33,8 +37,8 @@ vless://69647f33-a1c5-0d8f-7d7c-55e503fb536d@153.121.45.101:443?type=ws&sni=22.n
 
 ## Android 版本下载
 
-| 客户端 | 下载链接 |
-|--------|----------|
+| 客户端 | 官方下载链接 |
+|:------:|:------------:|
 | Karing | [下载](https://github.com/KaringX/karing/releases) |
 | FLClash | [下载](https://github.com/chen08209/FlClash/releases) |
 | ClashMetaForAndroid | [下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) |
@@ -45,8 +49,8 @@ vless://69647f33-a1c5-0d8f-7d7c-55e503fb536d@153.121.45.101:443?type=ws&sni=22.n
 
 ## iOS 版本下载
 
-| 客户端 | 下载链接 | 备注 |
-|--------|----------|------|
+| 客户端 | 官方下载链接 | 备注 |
+|:------:|:------------:|:----:|
 | Clash Mi | [下载](https://apps.apple.com/us/app/clash-mi/id6744321968) | 免费 |
 | Sing-box VT | [下载](https://apps.apple.com/us/app/sing-box-vt/id6673731168) | 免费 |
 | Hiddify | [下载](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532) | 免费 |
@@ -58,8 +62,8 @@ vless://69647f33-a1c5-0d8f-7d7c-55e503fb536d@153.121.45.101:443?type=ws&sni=22.n
 
 ## MacOS 版本下载
 
-| 客户端 | 下载链接 |
-|--------|----------|
+| 客户端 | 官方下载链接 |
+|:------:|:------------:|
 | Karing | [下载](https://github.com/KaringX/karing/releases) |
 | FLClash | [下载](https://github.com/chen08209/FlClash/releases) |
 | Clash Verge | [下载](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
