@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-12 20:11:13 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-12 20:52:02 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69647d8d-a349-efdf-6be2-77e494ba6894@217.110.20.141:443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE26%20TG%40jcnode
-vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%20VLESS-57%20TG%40jcnode
-vless://69647d8d-a349-efdf-6be2-77e494ba6894@140.83.57.183:22735?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP5%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@162.19.247.245:443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20FR10%20TG%40jcnode
+vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@england.torprospeed.ir:587?sni=excoino.com&security=tls&security=reality&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&sid=916e8258c4a01b02#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB0005%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@5.196.13.49:2053?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR72%20TG%40jcnode
 ```
 
 ---
