@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-12 18:46:17 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-12 19:22:33 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIDggVEdAamNub2RlIiwgImFkZCI6ICI4ZjYwNTVlNS10OHJkczAtdGJ0OG94LTFzcG5yLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJwb3J0IjogIjgwIiwgImlkIjogIjEyN2UzZjkyLWY3MTQtMTFlZi1iYmIwLWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiJ9
-vless://69647d8d-a349-efdf-6be2-77e494ba6894@158.180.49.11:8443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE41%20TG%40jcnode
-vless://69647f33-a1c5-0d8f-7d7c-55e503fb536d@221.158.146.223:50001?type=ws&sni=22.netlib.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-35%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@162.159.152.155:443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CT-5%20TG%40jcnode
+trojan://1fc44bf4-62ff-4b37-b72e-e682f7f50334@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%201A-1%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@51.159.6.227:8443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR13%20TG%40jcnode
 ```
 
 <p></p>
