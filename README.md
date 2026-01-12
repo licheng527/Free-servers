@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-12 19:40:27 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-12 19:48:34 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69647d8d-a349-efdf-6be2-77e494ba6894@51.38.49.187:2053?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR80%20TG%40jcnode
-vless://69647d8d-a349-efdf-6be2-77e494ba6894@107.172.102.212:20700?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US2%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.141:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%2023%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@152.70.113.150:52125?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US7%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@140.83.57.183:22735?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP5%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@192.252.182.52:7602?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US11%20TG%40jcnode
 ```
 
 ---
@@ -55,7 +55,7 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 | Sing-box VT | [下载](https://apps.apple.com/us/app/sing-box-vt/id6673731168) | 免费 |
 | Hiddify | [下载](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532) | 免费 |
 | Karing | [下载](https://apps.apple.com/us/app/karing/id6472431552) | 免费 |
-| Shadowrocket | [下载](https://apps.apple.com/us/app/shadowrocket/id932747118) | 付费，[共享账号1](https://id.jincaii.com/) [共享账号2](https://free.iosapp.icu/) [共享账号3](https://idfree.top/) [共享账号4](https://ios.juzixp.com/) |
+| Shadowrocket | [下载](https://apps.apple.com/us/app/shadowrocket/id932747118) | 付费，[公益共享账号1](https://id.jincaii.com/) [公益共享账号2](https://free.iosapp.icu/) [公益共享账号3](https://idfree.top/) [公益共享账号4](https://ios.juzixp.com/) |
 | Stash | [下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) | 付费 |
 | Loon | [下载](https://apps.apple.com/us/app/loon/id1373567447) | 付费 |
 | Surge | [下载](https://apps.apple.com/us/app/surge-5/id1442620678) | 付费 |
