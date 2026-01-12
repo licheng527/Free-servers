@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 02:35:43 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 03:22:01 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69647d8d-a349-efdf-6be2-77e494ba6894@162.159.36.180:443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-6%20TG%40jcnode
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Epicgames%20TG%40jcnode
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@cloudflare.182682.xyz:443?type=ws&sni=l.ayovo.netlib.re&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%20-%20Cloudflare%2C%20Inc.%20-%202%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.shopify.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Shopify%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@54.37.64.97:8443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR6%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@172.67.74.174:443?type=ws&sni=snip.cfn.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-3%20TG%40jcnode
 ```
 
 ---
