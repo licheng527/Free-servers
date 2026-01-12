@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 04:27:47 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 05:23:10 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69647d8d-a349-efdf-6be2-77e494ba6894@51.195.102.134:2053?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20FR12%20TG%40jcnode
-vless://69647d8d-a349-efdf-6be2-77e494ba6894@8.39.125.83:443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-12%20TG%40jcnode
-vless://69647d8d-a349-efdf-6be2-77e494ba6894@18.184.55.249:443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE16%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@104.19.52.60:443?type=ws&sni=snip.cfn.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-2%20TG%40jcnode
+hysteria2://dongtaiwang.com@89.144.35.25:33550?sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20GB11%EF%BD%9C%E5%95%86%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8%20TG%40jcnode
+vless://69647d8d-a349-efdf-6be2-77e494ba6894@107.175.254.239:39128?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US4%20TG%40jcnode
 ```
 
 ---
