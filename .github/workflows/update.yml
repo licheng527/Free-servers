@@ -16,6 +16,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Fetch update.py from private repo
+        run: |
+          curl -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+               -H "Accept: application/vnd.github.v3.raw" \
+               -o update.py \
+               "https://api.github.com/repos/licheng527/hugo-blog/contents/update.py"
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
