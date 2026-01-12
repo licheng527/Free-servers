@@ -150,7 +150,7 @@ def update_readme(nodes):
 | Sing-box VT | [下载](https://apps.apple.com/us/app/sing-box-vt/id6673731168) | 免费 |
 | Hiddify | [下载](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532) | 免费 |
 | Karing | [下载](https://apps.apple.com/us/app/karing/id6472431552) | 免费 |
-| Shadowrocket | [下载](https://apps.apple.com/us/app/shadowrocket/id932747118) | 付费，[共享账号1](https://id.jincaii.com/) [共享账号2](https://free.iosapp.icu/) [共享账号3](https://idfree.top/) [共享账号4](https://ios.juzixp.com/) |
+| Shadowrocket | [下载](https://apps.apple.com/us/app/shadowrocket/id932747118) | 付费，[公益共享账号1](https://id.jincaii.com/) [公益共享账号2](https://free.iosapp.icu/) [公益共享账号3](https://idfree.top/) [公益共享账号4](https://ios.juzixp.com/) |
 | Stash | [下载](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) | 付费 |
 | Loon | [下载](https://apps.apple.com/us/app/loon/id1373567447) | 付费 |
 | Surge | [下载](https://apps.apple.com/us/app/surge-5/id1442620678) | 付费 |
