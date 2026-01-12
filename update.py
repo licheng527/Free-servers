@@ -88,35 +88,36 @@ def update_readme(nodes):
     beijing_tz = timezone(timedelta(hours=8))
     update_time = datetime.now(beijing_tz).strftime("%Y-%m-%d %H:%M:%S")
 
-    node_lines = []
-    for i, node in enumerate(selected, 1):
+    node_links = []
+    for node in selected:
         link = node_to_link(node)
         if link:
-            node_lines.append(f"```")
-            node_lines.append(link)
-            node_lines.append(f"```")
-            node_lines.append("")
+            node_links.append(link)
 
     # 生成 README 内容
-    readme_content = f"""# Free-servers
+    readme_content = f"""<h2>点击加入 Telegram 电报频道：</h2>
+<blockquote>
+<p style="text-align: center;"><a href="https://t.me/jcnode">https://t.me/jcnode</a></p>
+</blockquote>
 
-免费节点分享，每小时自动更新
+<h2>免费节点：</h2>
+<blockquote>
+<p style="text-align: center;">节点每小时自动更新，更新时间：{update_time} (北京时间)</p>
+</blockquote>
 
-## 节点信息
+<h4>节点列表：(这里仅展示部分节点，完整订阅请访问 <a href="https://jcnode.top">jcnode.top</a>)</h4>
 
-更新时间：{update_time} (北京时间)
+```
+{chr(10).join(node_links)}
+```
 
-{chr(10).join(node_lines)}
+<h4>订阅地址：</h4>
 
-## 说明
-
-- 节点每小时自动更新
-- 节点来源于网络收集
-- 仅供学习交流使用
-
-## 订阅链接
-
-Clash 订阅：`https://jcnode.top/clash`
+| 格式 | 地址 |
+|------|------|
+| Clash | `https://jcnode.top/clash` |
+| V2ray | `https://jcnode.top/v2ray` |
+| Singbox | `https://jcnode.top/singbox` |
 
 ---
 
