@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 12:41:37 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 13:27:09 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69659eb7-a6be-6512-a8e0-55214e93247c@51.38.48.27:2053?type=ws&sni=sss.2026.camdvr.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2063%20TG%40jcnode
-vless://69659eb7-a6be-6512-a8e0-55214e93247c@45.77.25.6:48828?type=ws&sni=sss.2026.camdvr.org&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%206%20TG%40jcnode
-vless://69659eb7-a6be-6512-a8e0-55214e93247c@141.94.221.2:2053?type=ws&sni=sss.2026.camdvr.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2071%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@104.19.38.211:443?type=ws&sni=snip.zrfme.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CT-SJC%203%20TG%40jcnode
+vless://e9b48241-8a27-43ac-9f8f-a88537a7084e@104.19.48.29:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%20127ms-1%20TG%40jcnode
+vless://69659eb7-a6be-6512-a8e0-55214e93247c@8.39.125.34:443?type=ws&sni=sss.2026.camdvr.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-6%20TG%40jcnode
 ```
 
 ---
