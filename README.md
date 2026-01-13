@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 16:33:40 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 17:30:18 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@154.218.15.1:443?type=ws&sni=snip.zrfme.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%204-1%20TG%40jcnode
-vless://e9b48241-8a27-43ac-9f8f-a88537a7084e@162.159.32.58:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2069ms-2%20TG%40jcnode
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.89.176:5076?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%202-1%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIDQ3IFRHQGpjbm9kZSIsICJhZGQiOiAiYWRmZGEwYWItdDcwZjQwLXRjb3Aybi10bDMyLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJwb3J0IjogIjgwIiwgImlkIjogIjVjMDJhYjg4LTdiOWMtMTFlYS04ZmM5LWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYWRmZGEwYWItdDcwZjQwLXRjb3Aybi10bDMyLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20ifQ==
+vless://e9b48241-8a27-43ac-9f8f-a88537a7084e@8.39.125.30:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20vless-US%20133ms-1%20TG%40jcnode
+vless://69659eb7-a6be-6512-a8e0-55214e93247c@104.249.40.28:443?type=ws&sni=sss.2026.camdvr.org&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2012%20TG%40jcnode
 ```
 
 ---
