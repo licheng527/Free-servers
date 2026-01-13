@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-14 03:21:42 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-14 04:27:52 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@80.76.32.12:443?type=ws&sni=kuangbao.xiejiang.dpdns.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20vless-GB%2050ms-2%20TG%40jcnode
-vless://e9b48241-8a27-43ac-9f8f-a88537a7084e@162.159.152.52:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%20126ms-1%20TG%40jcnode
-vless://618bfcb8-c5ea-4e40-ac5d-2ef9933ba053@168.138.165.174:443?type=ws&sni=kejiland.hkvip.ip-ddns.com&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20vless-HK%20131ms%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIEhLMzI0XHVmZjVjXHU1YmI2XHU1YmJkXHVmZjVjXHU5NzVlXHU1ZTM4XHU1Yjg5XHU1MTY4IFRHQGpjbm9kZSIsICJhZGQiOiAiNmFmMTEzY2ItdDhsdHMwLXRjZm80MC0xN3hvOC5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAicG9ydCI6ICI4MCIsICJpZCI6ICJiNGU0MGFhMi03NGExLTExZWQtYjBiNS1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.33:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20-%20FASTLY%20-%209%20TG%40jcnode
+vless://69659eb7-a6be-6512-a8e0-55214e93247c@194.87.25.176:443?type=ws&sni=sss.2026.camdvr.org&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2041%20TG%40jcnode
 ```
 
 ---
