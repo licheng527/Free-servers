@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 15:26:24 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 16:33:40 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69659fe9-628d-74cc-ec88-6be2dbcbb716@149.104.29.223:443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%204%20TG%40jcnode
-vless://69659eb7-a6be-6512-a8e0-55214e93247c@141.94.205.130:2053?type=ws&sni=sss.2026.camdvr.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2021%20TG%40jcnode
-vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@81.200.154.2:2053?type=ws&sni=kuangbao.xiejiang.dpdns.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20vless-GB%20116ms%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@154.218.15.1:443?type=ws&sni=snip.zrfme.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%204-1%20TG%40jcnode
+vless://e9b48241-8a27-43ac-9f8f-a88537a7084e@162.159.32.58:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2069ms-2%20TG%40jcnode
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.89.176:5076?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%202-1%20TG%40jcnode
 ```
 
 ---
