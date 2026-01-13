@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 13:27:09 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-13 14:37:18 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@104.19.38.211:443?type=ws&sni=snip.zrfme.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CT-SJC%203%20TG%40jcnode
-vless://e9b48241-8a27-43ac-9f8f-a88537a7084e@104.19.48.29:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%20127ms-1%20TG%40jcnode
-vless://69659eb7-a6be-6512-a8e0-55214e93247c@8.39.125.34:443?type=ws&sni=sss.2026.camdvr.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-6%20TG%40jcnode
+vless://69659eb7-a6be-6512-a8e0-55214e93247c@116.93.199.28:30012?type=ws&sni=sss.2026.camdvr.org&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR-5%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@172.67.75.206:443?type=ws&sni=snip.cfnb.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-8%20TG%40jcnode
 ```
 
 ---
