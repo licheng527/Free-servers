@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-14 00:34:38 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-14 01:28:07 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69659eb7-a6be-6512-a8e0-55214e93247c@51.91.255.163:8443?type=ws&sni=sss.2026.camdvr.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2014%20TG%40jcnode
-vless://e9b48241-8a27-43ac-9f8f-a88537a7084e@162.159.32.2:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2087ms-1%20TG%40jcnode
-vless://69659eb7-a6be-6512-a8e0-55214e93247c@51.91.254.177:8443?type=ws&sni=sss.2026.camdvr.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2062%20TG%40jcnode
+vless://69659eb7-a6be-6512-a8e0-55214e93247c@51.178.141.191:8443?type=ws&sni=sss.2026.camdvr.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2020%20TG%40jcnode
+trojan://61d8077bfb174e171b8283f155a555ad@112.118.116.123:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK%20TROJAN-14%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@172.64.53.102:443?type=ws&sni=snip.zrfme.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CF-69.47MB/s%20TG%40jcnode
 ```
 
 ---
