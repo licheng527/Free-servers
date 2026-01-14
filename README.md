@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 04:23:47 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 05:23:43 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1nY206MDM0NjljMDEtZmU0My0zYTY0LThiYjktOWQzYTA2Y2JhMjUz@j.s.e.k.k.y.4.9.6.hk04-ae5.entry.v51124-3.qpon:805#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20Y04%20IEPL%20TG%40jcnode
-ss://YWVzLTEyOC1nY206MjUwMmRhODEtODYzNi00MmI3LWE3OGItZTMwNjIyMWZlOTIw@hksi-six.orbit7net.com:602#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2009-923%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@172.64.52.76:443?type=ws&sni=snip.drr.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CF-69.22MB/s%20TG%40jcnode
+hysteria2://beddd73b-ed90-4e76-8a30-492384220878@sgclaw.lycoreco.eu.org:55688?sni=sgclaw.lycoreco.eu.org#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%5Bdirect%20hysteria%5D-1050%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWQ2ZTY4Ny01OGE5LTQ4MzYtYmE2Mi03ZDgxODRjOTRkZjQ=@hk13.network-cdn-gw-yd.net:32061#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2042%20TG%40jcnode
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:8443?type=ws&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%205%20TG%40jcnode
 ```
 
 ---
