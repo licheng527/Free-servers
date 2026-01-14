@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-14 17:30:53 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-14 18:27:36 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@27.50.48.2:443?type=ws&sni=snip.qqq.hidns.co&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%205-1%20TG%40jcnode
-trojan://71a472ed-7ef8-4e3c-b2c6-4974c3ce0ddf@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%201C%20TG%40jcnode
-vless://288e0174-2f12-4818-a809-b93507d92184@104.16.68.52:8443?type=ws&sni=www.pjw5.top&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20082%20TG%40jcnode
+vless://69671e80-65ee-2e40-218b-59de247a3590@152.228.135.27:8443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2041%20TG%40jcnode
+vless://69671e80-65ee-2e40-218b-59de247a3590@37.59.96.47:443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2028%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@104.18.35.219:443?type=ws&sni=snip.qqq.hidns.co&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CF-10.17MB/s%20TG%40jcnode
 ```
 
 ---
