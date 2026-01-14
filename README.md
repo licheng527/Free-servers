@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 02:36:11 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 03:20:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1nY206MDM0NjljMDEtZmU0My0zYTY0LThiYjktOWQzYTA2Y2JhMjUz@z.s.5.e.k.u.q.9.6.us01-ae5.entry.v51124-3.qpon:20011#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Y01%20TG%40jcnode
-vless://6967a577-2848-a73a-756e-c9c87f650d10@154.21.83.48:443?type=ws&sni=saas.saas.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%208-3%20TG%40jcnode
-vless://69671e80-65ee-2e40-218b-59de247a3590@5.196.13.217:2053?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2019%20TG%40jcnode
+ss://YWVzLTI1Ni1nY206MDM0NjljMDEtZmU0My0zYTY0LThiYjktOWQzYTA2Y2JhMjUz@v.s.8.k.c.t.4.9.6.tr01-ae5.entry.v51124-3.qpon:20036#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20Y01%20TG%40jcnode
+vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20TR0027%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.temu.com:2095?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Temu%20TG%40jcnode
 ```
 
 ---
