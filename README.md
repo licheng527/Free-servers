@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-14 20:51:35 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-14 21:41:26 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwQ0ZcdTRmMThcdTkwMDkgXHVkODNlXHVkZGVkIDEwLjBNQi9zIFRHQGpjbm9kZSIsICJhZGQiOiAiMTcyLjY3LjIwNC44NCIsICJwb3J0IjogIjgwODAiLCAiaWQiOiAibmFzbmV0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJwYXRoIjogIi9uYXNuZXQvY2RuIiwgInRscyI6ICIiLCAic25pIjogIiJ9
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@mfa.gov.ua:443?type=ws&sni=snip.cfnb.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%A4%96%E4%BA%A4%E9%83%A8%20TG%40jcnode
-vless://696786a1-468c-0a6e-c900-72a9325b2c58@220.70.226.44:50001?type=ws&sni=sss.2026.camdvr.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%207-3%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIEhLIFRHQGpjbm9kZSIsICJhZGQiOiAiZmQxZjk4NTctdDh5c2cwLXQ4eHlmNC0xbDBxYS5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAicG9ydCI6ICI4MCIsICJpZCI6ICIwNzIwYzg3NC0zNWU4LTExZWYtYWE4OC1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+vless://696785fa-b801-40b8-b75d-46ad15a71e97@172.67.74.59:443?type=ws&sni=ssss.saass.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-8%20TG%40jcnode
+vless://69679196-d891-d896-4875-78fe84f4b476@94.74.83.173:45069?type=ws&sni=saas.saas.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%203-1%20TG%40jcnode
 ```
 
 ---
