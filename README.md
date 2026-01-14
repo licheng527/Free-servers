@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-14 13:26:35 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-14 14:37:29 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@154.218.15.198:443?type=ws&sni=snip.qqq.hidns.co&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQ2dBRWJYQnc0V0N2LVBFcHZybDNn@89.104.74.100:94#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%C2%AE%EF%B8%8FRussia%C2%A9%EF%B8%8FMoscow-2%20TG%40jcnode
-vless://69671e80-65ee-2e40-218b-59de247a3590@135.125.234.148:8443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2054%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.71.187.88:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%20TG%40jcnode
+vless://69671e80-65ee-2e40-218b-59de247a3590@51.38.48.153:8443?type=ws&sni=22.soos.us.ci&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2066%20TG%40jcnode
 ```
 
 ---
