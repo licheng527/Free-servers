@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 05:23:43 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 06:24:28 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://beddd73b-ed90-4e76-8a30-492384220878@sgclaw.lycoreco.eu.org:55688?sni=sgclaw.lycoreco.eu.org#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%5Bdirect%20hysteria%5D-1050%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWQ2ZTY4Ny01OGE5LTQ4MzYtYmE2Mi03ZDgxODRjOTRkZjQ=@hk13.network-cdn-gw-yd.net:32061#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2042%20TG%40jcnode
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@5.10.214.0:8443?type=ws&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%205%20TG%40jcnode
+vless://6967a577-2848-a73a-756e-c9c87f650d10@5.144.179.205:8443?type=ws&sni=saas.saas.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%206-5%20TG%40jcnode
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.44.142:443?type=ws&sni=l.ayovo.netlib.re&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E6%88%90%E7%94%B0%E5%B8%82%20-%20Cloudflare%2C%20Inc.%20-%204%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIDggVEdAamNub2RlIiwgImFkZCI6ICJhZmEyMGU2Ni10OHlzZzAtdGNvcDJuLXRsMzIuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiNWMwMmFiODgtN2I5Yy0xMWVhLThmYzktZjIzYzkxM2M4ZDJiIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
