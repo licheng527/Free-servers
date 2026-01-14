@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 03:20:35 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 04:23:47 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1nY206MDM0NjljMDEtZmU0My0zYTY0LThiYjktOWQzYTA2Y2JhMjUz@v.s.8.k.c.t.4.9.6.tr01-ae5.entry.v51124-3.qpon:20036#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20Y01%20TG%40jcnode
-vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20TR0027%20TG%40jcnode
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.temu.com:2095?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Temu%20TG%40jcnode
+ss://YWVzLTI1Ni1nY206MDM0NjljMDEtZmU0My0zYTY0LThiYjktOWQzYTA2Y2JhMjUz@j.s.e.k.k.y.4.9.6.hk04-ae5.entry.v51124-3.qpon:805#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20Y04%20IEPL%20TG%40jcnode
+ss://YWVzLTEyOC1nY206MjUwMmRhODEtODYzNi00MmI3LWE3OGItZTMwNjIyMWZlOTIw@hksi-six.orbit7net.com:602#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2009-923%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@172.64.52.76:443?type=ws&sni=snip.drr.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CF-69.22MB/s%20TG%40jcnode
 ```
 
 ---
