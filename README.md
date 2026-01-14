@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-14 21:41:26 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-14 22:27:31 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIEhLIFRHQGpjbm9kZSIsICJhZGQiOiAiZmQxZjk4NTctdDh5c2cwLXQ4eHlmNC0xbDBxYS5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAicG9ydCI6ICI4MCIsICJpZCI6ICIwNzIwYzg3NC0zNWU4LTExZWYtYWE4OC1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-vless://696785fa-b801-40b8-b75d-46ad15a71e97@172.67.74.59:443?type=ws&sni=ssss.saass.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-8%20TG%40jcnode
-vless://69679196-d891-d896-4875-78fe84f4b476@94.74.83.173:45069?type=ws&sni=saas.saas.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%203-1%20TG%40jcnode
+vless://696785fa-b801-40b8-b75d-46ad15a71e97@57.128.183.79:443?type=ws&sni=ssss.saass.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2066-1%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWQ2ZTY4Ny01OGE5LTQ4MzYtYmE2Mi03ZDgxODRjOTRkZjQ=@hk3.network-cdn-gw-yd.net:32058#%F0%9F%87%AC%F0%9F%87%B7%E5%B8%8C%E8%85%8A%20ss-GR%2032ms%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMWQ5NmZhYjc2ZWE0MDA4@163.171.137.66:11201#%F0%9F%87%AE%F0%9F%87%AA%E7%88%B1%E5%B0%94%E5%85%B0%20ss-IE%20124ms%20TG%40jcnode
 ```
 
 ---
