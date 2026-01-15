@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-16 06:23:51 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-16 07:23:18 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIDEwLTIgVEdAamNub2RlIiwgImFkZCI6ICJmdC11cy14eWdoLWJ5LjUxZmVpdHUuY29tIiwgInBvcnQiOiAiMTQwMTAiLCAiaWQiOiAiM2Y5OTFmZmUtYzY1ZC00YWYyLTlhZjgtNzlkOGI4MjRhN2E2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@mfa.gov.ua:443?type=ws&sni=snip.zrf.ee.cd&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%A4%96%E4%BA%A4%E9%83%A8%20TG%40jcnode
-vless://6968d8e1-583c-f7a9-75c5-e47f27147367@104.19.36.189:443?type=ws&sni=ss.sooos.eu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-9%20TG%40jcnode
+trojan://8jJVmFbM7qKnR3bSXX@pro-jp2.crabyakiniku.com:465?sni=pro-jp2.crabyakiniku.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20Japan-JP2-Rate%3A0.2-18%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@162.159.34.183:443?type=ws&sni=snip.zrf.ee.cd&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CF-0.81MB/s%20TG%40jcnode
 ```
 
 ---
