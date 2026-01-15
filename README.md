@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 11:42:51 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 12:42:34 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6968446e-8c11-af86-98a3-22b21676503e@91.107.157.253:20531?type=ws&sni=saas.saas.ccwu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2040%20TG%40jcnode
-vless://69684d0d-befd-4000-baea-047ae93e8f3d@123.111.169.70:2087?type=ws&sni=sss.nycmn.camdvr.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%207-2%20TG%40jcnode
-vless://6968446e-8c11-af86-98a3-22b21676503e@104.16.237.129:443?type=ws&sni=saas.saas.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SJC%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIEhvbmcgS29uZyBUZWxlY29tbXVuaWNhdGlvbnMgKEhLVCkgTGltaXRlZCBNYXNzIEludGVybmV0IC0gNjMgVEdAamNub2RlIiwgImFkZCI6ICJkOTBkNzJjZC10NnI1czAtdDk1bmNyLTFzbG9wLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJwb3J0IjogIjgwIiwgImlkIjogIjUyMGI5MTI2LTk4NzAtMTFlZi04MWIwLWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSJ9
+trojan://e4af2638-bb12-4e4a-84f1-a032e23ca63f@usla.mjt000.com:443?sni=usla.mjt000.com#%F0%9F%87%B7%F0%9F%87%B4%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20RO%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIEhvbmcgS29uZyBUZWxlY29tbXVuaWNhdGlvbnMgKEhLVCkgTGltaXRlZCBNYXNzIEludGVybmV0IC0gOTggVEdAamNub2RlIiwgImFkZCI6ICJhZjE2YWE2Yi10OHd4czAtdGNkbHVyLTFxd29tLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJwb3J0IjogIjgwIiwgImlkIjogIjhkMGVjN2NjLWVlZmEtMTFlZS05YjU5LWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSJ9
 ```
 
 ---
