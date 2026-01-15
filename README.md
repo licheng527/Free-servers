@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 09:51:35 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 11:42:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.132:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%2021%20TG%40jcnode
-ss://YWVzLTI1Ni1nY206MDM0NjljMDEtZmU0My0zYTY0LThiYjktOWQzYTA2Y2JhMjUz@j.p.8.m.c.y.q.9.6.jp07-ae5.entry.v51124-3.qpon:14006#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20Y07%20x0.8%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@104.19.44.124:443?type=ws&sni=snip.drr.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-23%20TG%40jcnode
+vless://6968446e-8c11-af86-98a3-22b21676503e@91.107.157.253:20531?type=ws&sni=saas.saas.ccwu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2040%20TG%40jcnode
+vless://69684d0d-befd-4000-baea-047ae93e8f3d@123.111.169.70:2087?type=ws&sni=sss.nycmn.camdvr.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%207-2%20TG%40jcnode
+vless://6968446e-8c11-af86-98a3-22b21676503e@104.16.237.129:443?type=ws&sni=saas.saas.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SJC%20TG%40jcnode
 ```
 
 ---
