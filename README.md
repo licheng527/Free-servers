@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 22:27:02 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 23:28:12 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6968d8e1-583c-f7a9-75c5-e47f27147367@188.116.21.135:8443?type=ws&sni=ss.sooos.eu.cc&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2013%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@154.211.8.18:443?type=ws&sni=snip.zrf.ee.cd&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20https%3A//lsmoo%20TG%40jcnode
-vless://6968d8e1-583c-f7a9-75c5-e47f27147367@202.61.248.96:443?type=ws&sni=ss.sooos.eu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2052%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZjk5MWZmZS1jNjVkLTRhZjItOWFmOC03OWQ4YjgyNGE3YTY=@ft-us-xygh-by.51feitu.com:14003#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2003-2%20TG%40jcnode
+hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%20ORACLE%2004-36%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20npmjs%20TG%40jcnode
 ```
 
 ---
