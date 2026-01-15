@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 19:22:05 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 20:50:28 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6968446e-8c11-af86-98a3-22b21676503e@47.76.218.163:443?type=ws&sni=saas.saas.ccwu.cc&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK%207%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIDIzIFRHQGpjbm9kZSIsICJhZGQiOiAiODNiYjhkZmItdDh5c2cwLXRhNmx4Yy1qanYyLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJwb3J0IjogIjgwIiwgImlkIjogIjMxNjc2NzI1LWIwZmQtZmVkMi1jODU3LTJkYThjZTVhNmU0ZiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiJ9
-ss://YWVzLTEyOC1nY206MjUwMmRhODEtODYzNi00MmI3LWE3OGItZTMwNjIyMWZlOTIw@udrlink.orbit7net.com:1055#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20A%20TG%40jcnode
+vless://6968d8e1-583c-f7a9-75c5-e47f27147367@188.245.183.216:8443?type=ws&sni=ss.sooos.eu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%202%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZjk5MWZmZS1jNjVkLTRhZjItOWFmOC03OWQ4YjgyNGE3YTY=@ft-qt-xygh-by.51feitu.com:21012#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20FI-2%20TG%40jcnode
+vless://6968d8e1-583c-f7a9-75c5-e47f27147367@57.128.176.90:8443?type=ws&sni=ss.sooos.eu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%203%20TG%40jcnode
 ```
 
 ---
