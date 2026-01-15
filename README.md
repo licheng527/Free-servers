@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 23:28:12 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-16 00:37:23 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZjk5MWZmZS1jNjVkLTRhZjItOWFmOC03OWQ4YjgyNGE3YTY=@ft-us-xygh-by.51feitu.com:14003#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2003-2%20TG%40jcnode
-hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%20ORACLE%2004-36%20TG%40jcnode
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20npmjs%20TG%40jcnode
+vless://adf05193-be02-4c6e-85e5-1f8683302bdb@xg1.kunlun01.com:18000?type=tcp&sni=s0.awsstatic.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=hlRqquCI6AiCSbifwaNIlf_fVoHols95S2A1OG8xnVk&sid=#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2038%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@104.17.200.133:443?type=ws&sni=snip.zrf.ee.cd&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CT-SJC%203%20TG%40jcnode
+vless://6968d8e1-583c-f7a9-75c5-e47f27147367@57.128.183.133:8443?type=ws&sni=ss.sooos.eu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2040%20TG%40jcnode
 ```
 
 ---
