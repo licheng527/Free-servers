@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-16 02:39:11 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-16 03:26:05 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZjk5MWZmZS1jNjVkLTRhZjItOWFmOC03OWQ4YjgyNGE3YTY=@ft-sg-xygh-by.51feitu.com:12009#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2009%20TG%40jcnode
-ss://YWVzLTEyOC1nY206MjUwMmRhODEtODYzNi00MmI3LWE3OGItZTMwNjIyMWZlOTIw@chkpluglink.cloud-links.org:822#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2011-1005%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZjk5MWZmZS1jNjVkLTRhZjItOWFmOC03OWQ4YjgyNGE3YTY=@ft-qt-xygh-by.51feitu.com:21023#%F0%9F%87%AD%F0%9F%87%BA%E5%8C%88%E7%89%99%E5%88%A9%20HU-1%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZjk5MWZmZS1jNjVkLTRhZjItOWFmOC03OWQ4YjgyNGE3YTY=@ft-qt-xygh-by.51feitu.com:21003#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20RU-3%20TG%40jcnode
+vless://6968d93e-801d-270a-1bfc-a876bd9d95b5@38.60.89.136:50000?type=ws&sni=ss.sooos.eu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%202-5%20TG%40jcnode
 ```
 
 ---
