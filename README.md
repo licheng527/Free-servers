@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 20:50:28 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-15 21:41:07 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6968d8e1-583c-f7a9-75c5-e47f27147367@188.245.183.216:8443?type=ws&sni=ss.sooos.eu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%202%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozZjk5MWZmZS1jNjVkLTRhZjItOWFmOC03OWQ4YjgyNGE3YTY=@ft-qt-xygh-by.51feitu.com:21012#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20FI-2%20TG%40jcnode
-vless://6968d8e1-583c-f7a9-75c5-e47f27147367@57.128.176.90:8443?type=ws&sni=ss.sooos.eu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%203%20TG%40jcnode
+vless://6968d8e1-583c-f7a9-75c5-e47f27147367@88.99.60.34:2053?type=ws&sni=ss.sooos.eu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2034%20TG%40jcnode
+vless://6968d93e-801d-270a-1bfc-a876bd9d95b5@83.229.123.87:443?type=ws&sni=ss.sooos.eu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%AE%98%E6%96%B9HKG%EF%BC%9A%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-4%20TG%40jcnode
+vless://6968d8e1-583c-f7a9-75c5-e47f27147367@104.26.7.107:443?type=ws&sni=ss.sooos.eu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-2%20TG%40jcnode
 ```
 
 ---
