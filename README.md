@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-17 04:24:01 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-17 05:23:40 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://696a01de-977f-92d6-ce0c-ec01329afedd@91.107.134.254:45603?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2037%20TG%40jcnode
-hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%20ORACLE%2004-36%20TG%40jcnode
-vless://696a01de-977f-92d6-ce0c-ec01329afedd@51.38.49.187:8443?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2065%20TG%40jcnode
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.87.174:4006?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%20TROJAN-111%20TG%40jcnode
+vless://696a01de-977f-92d6-ce0c-ec01329afedd@51.195.119.65:8443?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2010%20TG%40jcnode
+vless://696a01de-977f-92d6-ce0c-ec01329afedd@173.245.58.86:443?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-37%20TG%40jcnode
 ```
 
 ---
