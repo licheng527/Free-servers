@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-16 15:26:31 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-16 16:32:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69698f2c-a4be-b16b-02b3-9e5e32052c34@116.203.1.35:2053?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2049%20TG%40jcnode
-vless://da849c56-9a6b-4fae-86e3-d76a8512b14c@ru-msk.elix.rip:8080?type=grpc#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20Russia%2C%20Moscow%20%5BBL%5D-2%20TG%40jcnode
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs3.jymzffbquawl.com:5600#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Standard%20IEPL%2001%20TG%40jcnode
+vless://69698f2c-a4be-b16b-02b3-9e5e32052c34@91.107.134.254:36521?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%204%20TG%40jcnode
+vless://69698f2c-a4be-b16b-02b3-9e5e32052c34@172.64.148.225:443?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CT-SIN-2%20TG%40jcnode
+vless://6969e6b1-8990-535f-447e-7dd56701fd48@123.111.169.70:2087?type=ws&sni=sssorg.nycmn.camdvr.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%208-3%20TG%40jcnode
 ```
 
 ---
