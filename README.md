@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-17 05:23:40 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-17 06:23:05 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.87.174:4006?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%20TROJAN-111%20TG%40jcnode
-vless://696a01de-977f-92d6-ce0c-ec01329afedd@51.195.119.65:8443?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2010%20TG%40jcnode
-vless://696a01de-977f-92d6-ce0c-ec01329afedd@173.245.58.86:443?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-37%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a1ZvVHdxOWhYeGRpdDB6RGc3THYwODlhMjVsWE1lWUtJdldsLzM5VTdwND06U1ZWTnFjWEV4akloL2FTemppQUNXcjVnM1pabXhHbktzMHNaTHlsZ25HRT0=@103.236.62.154:33013#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E5%AE%B6%E5%AE%BD%2001%20TG%40jcnode
+vless://696a01de-977f-92d6-ce0c-ec01329afedd@141.95.149.52:2053?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2051%20TG%40jcnode
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs3.jymzffbquawl.com:5602#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Standard%20IEPL%2003%20TG%40jcnode
 ```
 
 ---
