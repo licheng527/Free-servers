@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-16 16:32:51 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-16 17:29:05 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69698f2c-a4be-b16b-02b3-9e5e32052c34@91.107.134.254:36521?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%204%20TG%40jcnode
-vless://69698f2c-a4be-b16b-02b3-9e5e32052c34@172.64.148.225:443?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CT-SIN-2%20TG%40jcnode
-vless://6969e6b1-8990-535f-447e-7dd56701fd48@123.111.169.70:2087?type=ws&sni=sssorg.nycmn.camdvr.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%208-3%20TG%40jcnode
+vless://84f66368-8a37-468e-ae95-5622255fd4db@159.195.26.28:443?sni=live.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DK0003%20TG%40jcnode
+vless://69698f2c-a4be-b16b-02b3-9e5e32052c34@51.75.74.138:2053?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2034%20TG%40jcnode
+vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:8443?type=ws&sni=TjLwH7cTdH.sMaRtTeChZaAl.InFo&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%20-%20Florian%20Kolb%20-%2016%20TG%40jcnode
 ```
 
 ---
