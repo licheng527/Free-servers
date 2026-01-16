@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-16 18:26:40 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-16 19:21:22 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@time.is:443?type=ws&sni=snip.asss.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Time.is%E4%BC%98%E9%80%89%20TG%40jcnode
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@chengbai02.ascwt179.com:13223#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP-1%20TG%40jcnode
-vless://6969e6b1-8990-535f-447e-7dd56701fd48@47.57.182.141:443?type=ws&sni=sssorg.nycmn.camdvr.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%AE%98%E6%96%B9HKG%EF%BC%9A%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%20TG%40jcnode
+ss://YWVzLTI1Ni1nY206OGYzYTgzNWMtOGE0NS00ODBkLWFlMzUtMWRlYjJjNTJkY2Fl@cgroup.node4.s2.nodelist-airport.com:48712#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HongKong2%20SS%20-%20C%20Group%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIFx1MDBhZVx1ZmUwZkhvbmcgS29uZ1x1MDBhOVx1ZmUwZlRzdWVuIFdhbi00IFRHQGpjbm9kZSIsICJhZGQiOiAiZnQtaGsteHlnaC1wcm8uNTFmZWl0dS5jb20iLCAicG9ydCI6ICIyMDAwNCIsICJpZCI6ICI2NDgyODQ3OS01ZjkwLTRmNzgtOTU0NC01OGU0NDc4ZGNmZmIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@pr3.jymzffbquawl.com:3036#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20Premium%20IEPL%2002%20TG%40jcnode
 ```
 
 ---
