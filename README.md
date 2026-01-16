@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-16 14:37:08 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-16 15:26:31 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://9e2f7f6f-2ff8-450c-b19b-a88de1a36d88@51.81.223.166:48897?sni=tv.apple.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2043%20TG%40jcnode
-trojan://JVrsLLN1tkN8oXZO@test123.skycon808.com:42303?sni=hk19d.casacam.net#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK%20TG%40jcnode
+vless://69698f2c-a4be-b16b-02b3-9e5e32052c34@116.203.1.35:2053?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2049%20TG%40jcnode
+vless://da849c56-9a6b-4fae-86e3-d76a8512b14c@ru-msk.elix.rip:8080?type=grpc#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20Russia%2C%20Moscow%20%5BBL%5D-2%20TG%40jcnode
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs3.jymzffbquawl.com:5600#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Standard%20IEPL%2001%20TG%40jcnode
 ```
 
 ---
