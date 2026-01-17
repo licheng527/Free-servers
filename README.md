@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-17 12:33:40 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-17 13:22:11 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://8c10273b-1d54-49b3-9af8-801d9978d1f9@172.64.69.160:2087?type=ws&sni=ezdriv-server.help&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20050%20TG%40jcnode
-trojan://BxceQaOe@58.152.53.219:443?sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%203130333565376462%20TG%40jcnode
+vless://696ae892-bd6b-f60f-36bc-7e66239bc165@45.8.145.149:443?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20RU-5%20TG%40jcnode
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@pr3.jymzffbquawl.com:4609#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20Premium%20IEPL%2010%20TG%40jcnode
+ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ==@212.192.15.59:60129#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK%C2%B27%201.5MB/s%200%25%20X%20Succeed%20%5B%E5%B9%BF%E6%92%AD%20%E6%9C%BA%E6%88%BF%5D%20TG%40jcnode
 ```
 
 ---
