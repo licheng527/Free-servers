@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 00:25:42 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 01:18:54 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://696ae892-bd6b-f60f-36bc-7e66239bc165@104.19.47.110:443?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-15%20TG%40jcnode
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn5.suio.me:443?type=tcp&sni=plcdn5.suio.me&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20Poland%20%5B%2ACIDR%5D-24%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@162.159.34.195:443?type=ws&sni=snip.zrfs.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-21%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@172.64.52.85:443?type=ws&sni=snip.zrf.ee.cd&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CF-67.84MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIDUxIFRHQGpjbm9kZSIsICJhZGQiOiAiMTZlMTg5YjktdDcwZjQwLXRkMWwxdC0xczgyNC5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAicG9ydCI6ICI4MCIsICJpZCI6ICI2ZDRhYmFjMC04NmU2LTExZWYtODNjYy1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjE2ZTE4OWI5LXQ3MGY0MC10ZDFsMXQtMXM4MjQuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSJ9
+vless://696ae892-bd6b-f60f-36bc-7e66239bc165@57.128.177.191:8443?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2012%20TG%40jcnode
 ```
 
 ---
