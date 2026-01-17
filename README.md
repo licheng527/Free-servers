@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-17 15:20:38 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-17 16:28:19 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://696ae892-bd6b-f60f-36bc-7e66239bc165@51.75.64.246:8443?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE-5%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@108.162.198.164:443?type=ws&sni=snip.zrf.ee.cd&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CF-68.98MB/s%20TG%40jcnode
-vless://696ae892-bd6b-f60f-36bc-7e66239bc165@51.15.105.75:8443?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%209%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@198.41.223.209:443?type=ws&sni=snip.zrfs.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-20%20TG%40jcnode
+vless://696ae892-bd6b-f60f-36bc-7e66239bc165@51.195.107.5:8443?type=ws&sni=ss.saas.int.yt&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2053%20TG%40jcnode
+vless://8c10273b-1d54-49b3-9af8-801d9978d1f9@104.24.23.37:2053?type=ws&sni=ezdriv-server.help&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2002%20TG%40jcnode
 ```
 
 ---
