@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 19:18:10 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 20:42:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@185.103.252.54:2053?type=ws&sni=kuangbao.xiejiang.dpdns.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20vless-GB%2037ms%20TG%40jcnode
+vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444?sni=max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%203%20TG%40jcnode
+vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.151.190:443?type=ws&sni=kuangbao.xiejiang.dpdns.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20vless-GB%2059ms%20TG%40jcnode
 ```
 
 ---
