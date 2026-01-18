@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 09:59:50 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 11:51:15 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://e258977b-e413-4718-a3af-02d75492c349@68.64.179.210:443?type=ws&sni=ww3.xaniujp1.qzz.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%204%20TG%40jcnode
-vless://7005f499-036f-4570-a2a1-29761cfbbd9e@ru.fasti.win:443?sni=ru.fasti.win&security=tls&flow=xtls-rprx-vision&security=reality&pbk=iAI3AU1ymQksBudcPndvOpV-mFWn-ECQKF0K42qb12k&sid=5e93929f12f446fe#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%206564%20TG%40jcnode
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@nbxqerdlufam.com:6609#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20Premium%20IEPL%2010%20TG%40jcnode
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@nbxqerdlufam.com:6602#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20Premium%20IEPL%2003%20TG%40jcnode
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@84.252.138.149:47014?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20Germany%20%5B%2ACIDR%5D-50%20TG%40jcnode
 ```
 
 ---
