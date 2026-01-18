@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 11:51:15 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 12:42:44 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@nbxqerdlufam.com:6609#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20Premium%20IEPL%2010%20TG%40jcnode
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@nbxqerdlufam.com:6602#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20Premium%20IEPL%2003%20TG%40jcnode
-vless://95abaefc-7861-417a-81b7-166cb788ce1a@84.252.138.149:47014?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20Germany%20%5B%2ACIDR%5D-50%20TG%40jcnode
+vless://00a85603-d8c6-437d-a8bd-ea521107bd87@77.93.89.171:25059?type=ws&sni=snippet.danfeng.de5.net&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2002-1%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@bestcf.030101.xyz:443?type=ws&sni=snip.drr.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20MY%E4%BC%98%E9%80%89%20TG%40jcnode
+vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@51.195.43.174:8443?type=ws&sni=kuangbao.xiejiang.dpdns.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20vless-GB%2035ms%20TG%40jcnode
 ```
 
 ---
