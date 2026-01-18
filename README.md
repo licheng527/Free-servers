@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 17:23:02 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 18:23:00 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://964891e6-d09e-480c-b041-c7f3207953d3@104.16.17.45:8080?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%206-1%20TG%40jcnode
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@openai.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20openai%20TG%40jcnode
-vless://80d6cbef-6f0d-4e80-b9d0-d000d052119f@104.26.11.56:2087?type=ws&sni=cf.ldy2023.eu.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SG1%20%E2%AC%87%EF%B8%8F%202.9MB/s%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@www.visa.cn:443?type=ws&sni=snip.drr.pp.ua&security=tls#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20Visa%E4%BC%98%E9%80%89%20TG%40jcnode
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@nbxqerdlufam.com:4604#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20Premium%20IEPL%2005%20TG%40jcnode
 ```
 
 ---
