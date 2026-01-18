@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 13:25:20 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 14:34:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://123456@104.19.220.93:8443?sni=bPbG.aNguSWeN.TOP#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20NL7%20%E2%AC%87%EF%B8%8F%201.3MB/s%20TG%40jcnode
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn1.suio.me:443?type=tcp&sni=plcdn1.suio.me&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20Poland%20%5B%2ACIDR%5D-18%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@104.19.59.22:443?type=ws&sni=snip.drr.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CT-SJC%20TG%40jcnode
+vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@85.193.92.242:2053?type=ws&sni=kuangbao.xiejiang.dpdns.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20vless-GB%2047ms%20TG%40jcnode
+vless://e258977b-e413-4718-a3af-02d75492c349@43.161.254.121:443?type=ws&sni=ww3.xaniujp1.qzz.io&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20Cloudflare%2C%20Inc.%20-%2072%20TG%40jcnode
 ```
 
 ---
