@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 04:24:36 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 05:20:08 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@v1.dabache.top:2096?type=ws&sni=sni.meibidi.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2012-3%20TG%40jcnode
-vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@206.189.25.65:443?type=ws&sni=kuangbao.xiejiang.dpdns.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20vless-GB%2047ms-1%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@172.67.74.253:443?type=ws&sni=snip.drr.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-1%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?type=ws#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20whatismyip%20TG%40jcnode
+vless://d4a23188-85b0-4b46-b84b-f1d36d66c03e@43.161.253.78:9527?type=none#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%3A3838%20TG%40jcnode
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@nbxqerdlufam.com:6601#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20Premium%20IEPL%2002%20TG%40jcnode
 ```
 
 ---
