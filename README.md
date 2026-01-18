@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 15:21:35 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 16:29:18 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.235:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20-%20FASTLY%20-%2016%20TG%40jcnode
-vless://696c352a-7e26-15f9-2098-5650ef64c92e@125.134.233.181:35554?type=ws&sni=sssorg.ifree.int.yt&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-41%20TG%40jcnode
-vless://b5dbd0aa-22f6-4a00-9bcc-3606fa8fc56d@staticdelivery.nexusmods.com:443?type=ws&sni=kb.as129394.me&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2016%20TG%40jcnode
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?sni=i2pd.website&security=tls&flow=xtls-rprx-vision&security=reality&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98#%F0%9F%87%AE%F0%9F%87%B1%E4%BB%A5%E8%89%B2%E5%88%97%20IL%20TG%40jcnode
+vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@90.156.228.74:2053?type=ws&sni=kuangbao.xiejiang.dpdns.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20vless-GB%20137ms%20TG%40jcnode
 ```
 
 ---
