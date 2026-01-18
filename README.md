@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 02:30:14 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 03:17:41 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@nbxqerdlufam.com:3602#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20Premium%20IEPL%2003%20TG%40jcnode
-vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@206.189.25.65:443?type=ws&sni=kuangbao.xiejiang.dpdns.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20vless-GB%2047ms-1%20TG%40jcnode
-vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@4.240.110.47:443?type=ws&sni=kuangbao.xiejiang.dpdns.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20vless-GB%20130ms%20TG%40jcnode
+vless://e258977b-e413-4718-a3af-02d75492c349@www.wto.org:443?type=ws&sni=ww3.xaniujp1.qzz.io&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20UN%2027%20TG%40jcnode
+vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@98.70.1.250:443?type=ws&sni=kuangbao.xiejiang.dpdns.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20vless-GB%2080ms%20TG%40jcnode
+trojan://e4af2638-bb12-4e4a-84f1-a032e23ca63f@usla.mjt000.com:443?sni=usla.mjt000.com#%F0%9F%87%B7%F0%9F%87%B4%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20RO%20TG%40jcnode
 ```
 
 ---
