@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 12:42:44 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-18 13:25:20 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://00a85603-d8c6-437d-a8bd-ea521107bd87@77.93.89.171:25059?type=ws&sni=snippet.danfeng.de5.net&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2002-1%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@bestcf.030101.xyz:443?type=ws&sni=snip.drr.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20MY%E4%BC%98%E9%80%89%20TG%40jcnode
-vless://5aba5b77-48eb-4ae2-b60d-5bfee7ac169e@51.195.43.174:8443?type=ws&sni=kuangbao.xiejiang.dpdns.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20vless-GB%2035ms%20TG%40jcnode
+trojan://123456@104.19.220.93:8443?sni=bPbG.aNguSWeN.TOP#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20NL7%20%E2%AC%87%EF%B8%8F%201.3MB/s%20TG%40jcnode
+vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn1.suio.me:443?type=tcp&sni=plcdn1.suio.me&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20Poland%20%5B%2ACIDR%5D-18%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@104.19.59.22:443?type=ws&sni=snip.drr.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CT-SJC%20TG%40jcnode
 ```
 
 ---
