@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 05:20:08 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 06:21:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.whatismyip.net:2095?type=ws#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20whatismyip%20TG%40jcnode
-vless://d4a23188-85b0-4b46-b84b-f1d36d66c03e@43.161.253.78:9527?type=none#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%3A3838%20TG%40jcnode
-ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@nbxqerdlufam.com:6601#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20Premium%20IEPL%2002%20TG%40jcnode
+trojan://123456@104.19.220.93:8443?sni=bPbG.aNguSWeN.TOP#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20NL7%20%E2%AC%87%EF%B8%8F%201.3MB/s%20TG%40jcnode
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.17.25.173:443?type=ws&sni=l.ayovo.netlib.re&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20US-3%20TG%40jcnode
 ```
 
 ---
