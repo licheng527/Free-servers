@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 09:58:02 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 11:55:56 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@vip1.kaixincloud.top:8443?type=ws&sni=sni.meibidi.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2003%20TG%40jcnode
-vless://8c10273b-1d54-49b3-9af8-801d9978d1f9@104.24.31.217:2096?type=ws&sni=ezdriv-server.help&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%203%20TG%40jcnode
+trojan://16963a77-9eda-36bb-899c-9b641683b410@fbxt0765gh0pielsss.ftisthebest.com:56209?sni=fbxt0765gh0pielsss.ftisthebest.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20Hong%20Kong-09%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFWVd4MGM=@fbxt0765gh0pielsss.ftisthebest.com:56013#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%5BSS%5D%20Hong%20Kong-13%20TG%40jcnode
+hysteria2://003b6a3f-4bff-46f7-a515-73c734a24dd7@85.209.53.178:8443?sni=85.209.53.178#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%E5%B7%B4%E7%89%B9%E5%9F%BA%E8%BE%9B%E6%A0%B9%20-%20Georg%20Kroeber%20-%201%20TG%40jcnode
 ```
 
 ---
