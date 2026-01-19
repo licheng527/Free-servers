@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 02:34:59 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 03:20:41 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://16963a77-9eda-36bb-899c-9b641683b410@fbxt0765gh0pielsss.ftisthebest.com:56245?sni=fbxt0765gh0pielsss.ftisthebest.com#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20Singapore-05%20TG%40jcnode
-vless://95abaefc-7861-417a-81b7-166cb788ce1a@84.201.148.218:47014?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20Germany%20%5B%2ACIDR%5D-40%20TG%40jcnode
-vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@68.64.176.135:443?type=ws&sni=sni.meibidi.pp.ua&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2011%20TG%40jcnode
+vless://696d9c02-7973-afd2-75c2-06029793d1df@219.76.13.166:443?type=ws&sni=sos.cfree.ccwu.cc&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK%202%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@172.64.53.101:443?type=ws&sni=snip2.zrfme.site&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CF-69.39MB/s%20TG%40jcnode
 ```
 
 ---
