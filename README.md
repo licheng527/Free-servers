@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 15:30:38 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 16:35:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@v3.dabache.top:443?type=ws&sni=sni.meibidi.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2011%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@104.19.35.141:443?type=ws&sni=snip2.zrfme.site&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-2%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%202%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFWVd4MGM=@fbxt0765gh0pielsss.ftisthebest.com:56046#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20%5BSS%5D%20Singapore-06%20TG%40jcnode
+vless://3f53e1ff-3779-4fc5-895f-2a434a7248d3@172.64.144.76:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%20111ms-1%20TG%40jcnode
 ```
 
 ---
