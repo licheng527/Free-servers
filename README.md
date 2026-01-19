@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 21:47:44 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 22:29:25 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@68.64.176.135:443?type=ws&sni=sni.meibidi.pp.ua&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2011%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhXHU2ZmIzXHU1OTI3XHU1MjI5XHU0ZTlhIEFVIFRHQGpjbm9kZSIsICJhZGQiOiAiZ3RtMS5rdG13YW4ubmV0IiwgInBvcnQiOiAiMTI4ODkiLCAiaWQiOiAiM2M2ZTk1MTgtNTBlMy00ODJlLThlNWQtM2E2ZmU4YjlmODU5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJiYWlkdS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+vless://696d9c02-7973-afd2-75c2-06029793d1df@54.37.64.98:8443?type=ws&sni=sos.cfree.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%207%20TG%40jcnode
+vless://696d9c02-7973-afd2-75c2-06029793d1df@162.19.65.172:2053?type=ws&sni=sos.cfree.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2073%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@store.ubi.com:443?type=ws&sni=snip2.zrfme.site&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Ubisoft%20TG%40jcnode
 ```
 
 ---
