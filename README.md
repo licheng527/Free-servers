@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 07:21:11 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-19 09:58:02 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@173.245.58.117:443?type=ws&sni=snip1.xcf.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-21%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YXhUOWc5U3BNMk1NTXU1R0p4RFNHQ0pzdWhmYzNZcHF0bXNhUUtmcExOcz06M0FwbFdEbFFwL09RdDZhZHZOZUZGL0xnamRmVFluMnJQWCs3RjRZOGtPRT0=@103.236.62.154:33014#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20Catixs%20Ltd%20-%204%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@27.50.48.6:443?type=ws&sni=snip.drr.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-2%20TG%40jcnode
+vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@vip1.kaixincloud.top:8443?type=ws&sni=sni.meibidi.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2003%20TG%40jcnode
+vless://8c10273b-1d54-49b3-9af8-801d9978d1f9@104.24.31.217:2096?type=ws&sni=ezdriv-server.help&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%203%20TG%40jcnode
 ```
 
 ---
