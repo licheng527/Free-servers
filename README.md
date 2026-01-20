@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 12:47:16 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 13:30:20 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://4dd859b3-c9f6-477e-95f5-283abb3129e5@sg.zuomomo.top:16667?sni=sg.zuomomo.top#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2015-1%20TG%40jcnode
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Cloudflare%20Developers%20TG%40jcnode
+vless://696edaeb-122c-0d97-b053-57456baa269a@51.91.254.100:8443?type=ws&sni=ss.cloudfront.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2032%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIDpcdWQ4M2NcdWRmMDAzOTM1IFRHQGpjbm9kZSIsICJhZGQiOiAiNDUuMTkyLjEwMy4xMSIsICJwb3J0IjogIjgwODgiLCAiaWQiOiAiMDUzMmMyN2EtOWRjZS00NWYzLWZlNzAtZjU4NjNjYjQ1ZjU2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+vless://696edaeb-122c-0d97-b053-57456baa269a@152.70.101.24:16056?type=ws&sni=ss.cloudfront.ccwu.cc&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%204%20TG%40jcnode
 ```
 
 ---
