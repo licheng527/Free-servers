@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 13:30:20 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 14:39:03 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://696edaeb-122c-0d97-b053-57456baa269a@51.91.254.100:8443?type=ws&sni=ss.cloudfront.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2032%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIDpcdWQ4M2NcdWRmMDAzOTM1IFRHQGpjbm9kZSIsICJhZGQiOiAiNDUuMTkyLjEwMy4xMSIsICJwb3J0IjogIjgwODgiLCAiaWQiOiAiMDUzMmMyN2EtOWRjZS00NWYzLWZlNzAtZjU4NjNjYjQ1ZjU2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-vless://696edaeb-122c-0d97-b053-57456baa269a@152.70.101.24:16056?type=ws&sni=ss.cloudfront.ccwu.cc&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%204%20TG%40jcnode
+trojan://9271ed933c6052a3@c18ca9e.p4.gladns.com:443?sni=n2.gladns.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20GLaDOS-H2-04%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.r8.gladns.com:2377#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20GLaDOS-R2-08%20TG%40jcnode
+vless://696edbe5-9d66-7b84-5901-62b7d1a31ffe@178.239.123.216:24443?type=ws&sni=sos.cfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-16%20TG%40jcnode
 ```
 
 ---
