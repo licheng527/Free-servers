@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 22:33:17 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 23:33:36 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIDpcdWQ4M2NcdWRmMDA2MTYxIFRHQGpjbm9kZSIsICJhZGQiOiAiNDUuMTkyLjEwMy4xMSIsICJwb3J0IjogIjgwODkiLCAiaWQiOiAiM2RlZmEwYTMtZGQ2NS00NjNiLTlkNDEtNDU1ZjRlZGVjMjc5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-vless://696edaeb-122c-0d97-b053-57456baa269a@57.129.63.145:2053?type=ws&sni=ss.cloudfront.ccwu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%203%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@104.18.41.120:443?type=ws&sni=snip.cfnb.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%200.32MB/s%20TG%40jcnode
+vless://696edbe5-9d66-7b84-5901-62b7d1a31ffe@57.129.137.64:8443?type=ws&sni=sos.cfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-59%20TG%40jcnode
+vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@vip1.kaixincloud.top:2096?type=ws&sni=sni.meibidi.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20US%20TG%40jcnode
 ```
 
 ---
