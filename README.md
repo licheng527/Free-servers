@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 15:29:48 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 16:35:08 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@104.19.33.29:443?type=ws&sni=snip.cfnb.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.f1.gladns.com:2377#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20GLaDOS-S2-01%20TG%40jcnode
+vless://e258977b-e413-4718-a3af-02d75492c349@v2.dabache.top:2096?type=ws&sni=sg.aniua.qzz.io&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%AE%98%E7%BD%91zangyun.xyz%20-02-1%20TG%40jcnode
+vless://696edaeb-122c-0d97-b053-57456baa269a@188.245.230.218:7788?type=ws&sni=ss.cloudfront.ccwu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%205%20TG%40jcnode
+vless://696edaeb-122c-0d97-b053-57456baa269a@91.107.166.26:8888?type=ws&sni=ss.cloudfront.ccwu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2021%20TG%40jcnode
 ```
 
 ---
