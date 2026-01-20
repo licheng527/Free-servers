@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 06:24:45 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 07:24:40 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://696edaeb-122c-0d97-b053-57456baa269a@152.228.135.132:2053?type=ws&sni=ss.cloudfront.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2025%20TG%40jcnode
-vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@v1.dabache.top:2096?type=ws&sni=sni.meibidi.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20US0044%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@zrf.cf.090227.xyz:443?type=ws&sni=snip.cfnb.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CM%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OERiRXcxdlZkZnI5S0hWcVBjYUQrQ3lkMlFVR0ErMmRlRVZMcUlIQnZDRT06N2VsOHNWVmcyRGUyTStxTm5McVB4aXNXSENVbXF1UVpwVkNCNWE4ODRjZz0=@103.236.62.154:33012#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%E5%AE%B6%E5%AE%BD%20TG%40jcnode
+vless://696edaeb-122c-0d97-b053-57456baa269a@57.129.47.59:8443?type=ws&sni=ss.cloudfront.ccwu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2047%20TG%40jcnode
 ```
 
 ---
