@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 19:25:22 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 20:54:14 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.34:38388#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E8%B6%8A%E5%8D%97-013%201.1MB/s%20GPT%E2%81%BA%20YT-US%20NF%20GM%20TG%40jcnode
+trojan://a5596408-be2b-4cc9-9b1a-c0c1242656d0@cdnfire.xiaomispeed.com:25501?sni=cdnfire.xiaomispeed.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%201B%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.t2.gladns.com:2377#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20GLaDOS-TW-02%20TG%40jcnode
+vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@34.143.159.175:443?type=ws&sni=sni.meibidi.pp.ua&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2037%20TG%40jcnode
 ```
 
 ---
