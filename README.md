@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 17:34:48 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 18:30:23 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a1ZvVHdxOWhYeGRpdDB6RGc3THYwODlhMjVsWE1lWUtJdldsLzM5VTdwND06U1ZWTnFjWEV4akloL2FTemppQUNXcjVnM1pabXhHbktzMHNaTHlsZ25HRT0=@103.236.62.154:33013#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%204%20TG%40jcnode
+vless://696edaeb-122c-0d97-b053-57456baa269a@104.16.30.232:8443?type=ws&sni=ss.cloudfront.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20A15%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@172.64.229.100:443?type=ws&sni=snip.cfnb.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2069.79MB/s%20TG%40jcnode
 ```
 
 ---
