@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 02:39:43 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 04:12:47 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://696edaeb-122c-0d97-b053-57456baa269a@104.26.12.209:443?type=ws&sni=ss.cloudfront.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-6%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.u2.gladns.com:2377#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20GLaDOS-US-02%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@172.67.65.2:443?type=ws&sni=snip.eea.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-8%20TG%40jcnode
+trojan://7ce6fe46-611c-481d-9adf-aae51ffaf7f5@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%201A-1%20TG%40jcnode
 ```
 
 ---
