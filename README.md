@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 14:39:03 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-20 15:29:48 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://9271ed933c6052a3@c18ca9e.p4.gladns.com:443?sni=n2.gladns.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20GLaDOS-H2-04%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.r8.gladns.com:2377#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20GLaDOS-R2-08%20TG%40jcnode
-vless://696edbe5-9d66-7b84-5901-62b7d1a31ffe@178.239.123.216:24443?type=ws&sni=sos.cfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-16%20TG%40jcnode
+vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@104.19.33.29:443?type=ws&sni=snip.cfnb.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.f1.gladns.com:2377#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20GLaDOS-S2-01%20TG%40jcnode
 ```
 
 ---
