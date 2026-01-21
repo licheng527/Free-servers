@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 22:33:12 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 23:35:07 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6e633d8d-1a64-4bdf-aa28-d4a2ce9962db@172.64.144.27:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2049ms-2%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNDJjMjdiZWExOWZjNGRi@158.220.80.123:48436#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%20SS-119%20TG%40jcnode
+vless://69703c09-0c18-ee61-42d4-6cc607c2bdeb@129.154.48.176:36355?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR%208%20TG%40jcnode
+vless://6e633d8d-1a64-4bdf-aa28-d4a2ce9962db@104.19.48.66:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2092ms%20TG%40jcnode
 ```
 
 ---
