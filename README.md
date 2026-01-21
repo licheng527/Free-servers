@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 01:55:45 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 02:49:00 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://7ce6fe46-611c-481d-9adf-aae51ffaf7f5@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%201A-1%20TG%40jcnode
-vless://efdd92c0-c32d-4039-a564-374abaa5d8ce@85.133.204.131:2024?type=tcp#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%20VLESS-13%20TG%40jcnode
-vless://69703c09-0c18-ee61-42d4-6cc607c2bdeb@51.91.100.173:2053?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2036%20TG%40jcnode
+trojan://WES_fgw3oQW65zFx4_Ax1AmdW-rrAorU@ee.nnvpn.io:443?sni=ee.nnvpn.io#%F0%9F%87%AA%F0%9F%87%AA%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%20Estonia%20%5B%2ACIDR%5D-5%20TG%40jcnode
+vless://6e633d8d-1a64-4bdf-aa28-d4a2ce9962db@172.64.144.27:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2049ms-2%20TG%40jcnode
+vless://69703cf3-b81d-4804-783a-3a2af0d49ae8@8.35.211.250:2083?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-49%20TG%40jcnode
 ```
 
 ---
