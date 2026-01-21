@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 20:54:28 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 21:48:41 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@94.228.213.219:443?sni=hls-svod.itunes.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL0013%20TG%40jcnode
-vless://69703c09-0c18-ee61-42d4-6cc607c2bdeb@142.132.165.86:2053?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2057%20TG%40jcnode
-trojan://9271ed933c6052a3@c18ca9e.he.gladns.com:443?sni=n2.gladns.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20GLaDOS-T3-05%20TG%40jcnode
+vless://69703c09-0c18-ee61-42d4-6cc607c2bdeb@57.128.182.61:8443?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2010%20TG%40jcnode
+hysteria2://06338f84-30b5-4255-a56a-ea6acdedc3c0@pq.us7.globals-download.com:443?sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2007-0.1%E5%80%8D%20%E7%94%B5%E4%BF%A1%E8%81%94%E9%80%9A%E7%A7%BB%E5%8A%A8%E6%8E%A8%E8%8D%90%20TG%40jcnode
 ```
 
 ---
