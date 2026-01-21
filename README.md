@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 13:30:08 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 14:39:14 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://3bd03e2f-7fca-4258-9214-e6f4b18f698f@51.250.46.105:9443?type=ws&sni=yandex.catlove.qzz.io&security=tls#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20Canada%20%5B%2ACIDR%5D-2%20TG%40jcnode
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.90.215:443?type=tcp&sni=ficdn19.suio.me&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%203%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOUVJDaC1xbTExR0g5TWFSV1g5TmRtU2RXYUdSaEZlUw==@51.250.79.203:80#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20Germany%20%5B%2ACIDR%5D-67%20TG%40jcnode
+trojan://9271ed933c6052a3@c18ca9e.hb.gladns.com:443?sni=n2.gladns.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20GLaDOS-T3-02%20TG%40jcnode
 ```
 
 ---
