@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 09:55:38 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 11:46:26 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://3eb59ff0-f3ee-416d-a0e8-a141c966f99b@139.185.32.100:50000?sni=www.hoyoverse.com#%F0%9F%87%A6%F0%9F%87%AA%E9%98%BF%E8%81%94%E9%85%8B%20%E8%BF%AA%E6%8B%9C-1.2%E5%80%8D%E7%8E%87%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@162.159.40.115:443?type=ws&sni=snip.eea.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-16%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@162.159.44.185:443?type=ws&sni=snip.cfnb.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2068.28MB/s%20TG%40jcnode
+vless://69703c09-0c18-ee61-42d4-6cc607c2bdeb@104.19.47.163:443?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-16%20TG%40jcnode
+vless://06338f84-30b5-4255-a56a-ea6acdedc3c0@104.18.125.69:443?type=ws&sni=ujp2.xn--ghqu5fm27b67w.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E4%B8%9C%E4%BA%AC06%20%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF%E6%8E%A8%E8%8D%90%20TG%40jcnode
+vless://69703c09-0c18-ee61-42d4-6cc607c2bdeb@5.78.77.41:2053?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2010%20TG%40jcnode
 ```
 
 ---
