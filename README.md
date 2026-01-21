@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 12:46:25 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 13:30:08 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69703c09-0c18-ee61-42d4-6cc607c2bdeb@51.178.37.179:2053?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2024%20TG%40jcnode
-vless://6e633d8d-1a64-4bdf-aa28-d4a2ce9962db@104.19.48.49:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2054ms-2%20TG%40jcnode
-vless://69703c09-0c18-ee61-42d4-6cc607c2bdeb@162.159.38.16:443?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20.38.16%20TG%40jcnode
+vless://3bd03e2f-7fca-4258-9214-e6f4b18f698f@51.250.46.105:9443?type=ws&sni=yandex.catlove.qzz.io&security=tls#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20Canada%20%5B%2ACIDR%5D-2%20TG%40jcnode
+vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.90.215:443?type=tcp&sni=ficdn19.suio.me&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%203%20TG%40jcnode
 ```
 
 ---
