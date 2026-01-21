@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 19:26:02 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 20:54:28 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69703c09-0c18-ee61-42d4-6cc607c2bdeb@202.84.53.85:19999?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%202%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.33:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20-%20FASTLY%20-%2014%20TG%40jcnode
-vless://d5d6faa0-9136-4e2d-b7b5-51a1b9e61126@172.65.90.6:443?type=ws&sni=cfzx.653827.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20YUL%20TG%40jcnode
+vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@94.228.213.219:443?sni=hls-svod.itunes.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL0013%20TG%40jcnode
+vless://69703c09-0c18-ee61-42d4-6cc607c2bdeb@142.132.165.86:2053?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2057%20TG%40jcnode
+trojan://9271ed933c6052a3@c18ca9e.he.gladns.com:443?sni=n2.gladns.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20GLaDOS-T3-05%20TG%40jcnode
 ```
 
 ---
