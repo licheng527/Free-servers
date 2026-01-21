@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 18:31:34 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 19:26:02 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.d1.gladns.com:2377#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20GLaDOS-Netflix-01%20TG%40jcnode
-vless://d65f5eda-38b3-448f-8e5d-50587f19dd25@cf.877774.xyz:443?type=ws&sni=snip.drd.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-2%20TG%40jcnode
-vless://6e633d8d-1a64-4bdf-aa28-d4a2ce9962db@162.159.32.49:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2065ms%20TG%40jcnode
+vless://69703c09-0c18-ee61-42d4-6cc607c2bdeb@202.84.53.85:19999?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%202%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.33:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20-%20FASTLY%20-%2014%20TG%40jcnode
+vless://d5d6faa0-9136-4e2d-b7b5-51a1b9e61126@172.65.90.6:443?type=ws&sni=cfzx.653827.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20YUL%20TG%40jcnode
 ```
 
 ---
