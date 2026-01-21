@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 14:39:14 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-21 15:30:25 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOUVJDaC1xbTExR0g5TWFSV1g5TmRtU2RXYUdSaEZlUw==@51.250.79.203:80#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20Germany%20%5B%2ACIDR%5D-67%20TG%40jcnode
-trojan://9271ed933c6052a3@c18ca9e.hb.gladns.com:443?sni=n2.gladns.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20GLaDOS-T3-02%20TG%40jcnode
+vless://4fe214fb-048e-431f-b939-4518dc9df6a2@178.154.202.184:8443?type=ws&sni=chat.speedload.ru&security=tls#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%2016%20TG%40jcnode
+vless://8b478ea5-826d-45b5-bea2-4bdacf71a0e6@45.131.4.11:80?type=ws&sni=Dry-boNUs-2744.JENEWEd462.WorKErS.dEV#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2025%20TG%40jcnode
 ```
 
 ---
