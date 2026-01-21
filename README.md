@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 00:53:51 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 01:55:45 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6e633d8d-1a64-4bdf-aa28-d4a2ce9962db@172.64.144.11:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2077ms-1%20TG%40jcnode
-vless://69703c09-0c18-ee61-42d4-6cc607c2bdeb@51.158.205.158:2053?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%204%20TG%40jcnode
+trojan://7ce6fe46-611c-481d-9adf-aae51ffaf7f5@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%201A-1%20TG%40jcnode
+vless://efdd92c0-c32d-4039-a564-374abaa5d8ce@85.133.204.131:2024?type=tcp#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%20VLESS-13%20TG%40jcnode
+vless://69703c09-0c18-ee61-42d4-6cc607c2bdeb@51.91.100.173:2053?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2036%20TG%40jcnode
 ```
 
 ---
