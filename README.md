@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 02:49:00 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 03:28:40 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://WES_fgw3oQW65zFx4_Ax1AmdW-rrAorU@ee.nnvpn.io:443?sni=ee.nnvpn.io#%F0%9F%87%AA%F0%9F%87%AA%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%20Estonia%20%5B%2ACIDR%5D-5%20TG%40jcnode
-vless://6e633d8d-1a64-4bdf-aa28-d4a2ce9962db@172.64.144.27:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2049ms-2%20TG%40jcnode
-vless://69703cf3-b81d-4804-783a-3a2af0d49ae8@8.35.211.250:2083?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-49%20TG%40jcnode
+trojan://9271ed933c6052a3@c18ca9e.hd.gladns.com:443?sni=n2.gladns.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20GLaDOS-T3-04%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.u4.gladns.com:2377#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20GLaDOS-US-04%20TG%40jcnode
+vless://69703cf3-b81d-4804-783a-3a2af0d49ae8@114.200.58.47:50001?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-36%20TG%40jcnode
 ```
 
 ---
