@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 21:49:47 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 22:33:09 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69718687-9474-09fd-415e-4d9e4e8aa3ef@141.94.204.206:8443?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2037%20TG%40jcnode
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.90.215:443?type=tcp&sni=ficdn19.suio.me&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20%5B%F0%9F%8E%AC%F0%9F%A4%96%F0%9F%93%BA%F0%9F%8E%AD%5D62fb6fd7%20TG%40jcnode
-vless://e43dd231-7c75-4606-80ec-50fbb8335ce7@132.226.85.167:443?type=tcp&sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=3ik9ws7ATJ5dKDY2Fofv9y7_vpFYsTqgOJRxiQKwA3A&sid=7b233a973c94ca0a#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Oracle-Phoenix-Reality%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjIDA1IFx1MDExZlx1MDE3OFx1MjAyMVx1MDBiYVx1MDExZlx1MDE3OFx1MjAyMVx1MDBiOCBWTWVzcyBXUyBUR0BqY25vZGUiLCAiYWRkIjogIjIzLjI3LjExLjIyMyIsICJwb3J0IjogIjI2NzI0IiwgImlkIjogImQzMWIwNWZmLTY4NmUtNDk0NC05ZGFkLWE4YTI5OWM2OGQzZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+vless://8d762d9a-1238-4522-af8c-a7b6edb96183@ca.vpn.ls:443?type=tcp&sni=ca.vpn.ls&security=tls#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20VLESS-ca.vpn.ls%20TG%40jcnode
 ```
 
 ---
