@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-23 05:25:38 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-23 06:25:30 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://3eb59ff0-f3ee-416d-a0e8-a141c966f99b@129.151.193.163:50000?sni=www.microsoft.com#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8%20%E6%96%AF%E5%BE%B7%E5%93%A5%E5%B0%94%E6%91%A9-1.5%E5%80%8D%E7%8E%87%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.134:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%205%20TG%40jcnode
-vless://69718687-9474-09fd-415e-4d9e4e8aa3ef@107.173.147.41:27170?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%209%20TG%40jcnode
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.16.250.22:443?type=ws&sni=l.ayovo.netlib.re&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%5B%F0%9F%8E%AC%F0%9F%A4%96%F0%9F%93%BA%F0%9F%8E%AD%5D2dd21709%20TG%40jcnode
+hysteria2://7ec3d7ad-8704-4a39-8fb8-e66a080a5d80@172.174.246.240:25126?sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Hysteria2-Node%20TG%40jcnode
+vless://efdd92c0-c32d-4039-a564-374abaa5d8ce@85.133.204.131:2024?type=tcp#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%20VLESS-38%20TG%40jcnode
 ```
 
 ---
