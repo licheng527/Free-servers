@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-23 00:37:54 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-23 01:30:33 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NlNzOVZYNkNNdUFESUQxYnI1Slk4dFNPelRNRmxwSUZRZkJOaEpOYUd4TT0=@47.79.95.67:21912#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20VPS2%20-%2007%20SS-2022%20TG%40jcnode
-vless://228e57af-b00e-4754-97bb-1b7dbce850eb@162.159.152.27:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2066ms%20TG%40jcnode
-trojan://e212986c-65d2-4ea2-8489-fc504f71ab1b@107.174.196.235:39503?sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20VPS5%20-%2003%20Trojan%20Reality%20TG%40jcnode
+vless://228e57af-b00e-4754-97bb-1b7dbce850eb@104.18.32.87:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2079ms%20TG%40jcnode
+hysteria2://wfRq9c1iziyrcca9SWq65FEf1ELl/Y5psKl8L6UCOys=@45.143.131.35:26181?sni=www.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20VPS3%20-%2006%20Hysteria2%20OBFS%20TG%40jcnode
 ```
 
 ---
