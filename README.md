@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 19:24:35 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 20:54:09 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1nY206WUVTUnNPQmxNd2l0QndoNw==@hk-nat-toys-ddns.337979.xyz:20415#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%5B%E7%9B%B4%E8%BF%9E--%E5%8A%A8%E6%80%81%E5%AE%B6%E5%AE%BD%5D%201x%20TG%40jcnode
-vless://d5d6faa0-9136-4e2d-b7b5-51a1b9e61126@104.18.37.34:443?type=ws&sni=cfzx.653827.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%AE%9D%E4%BC%98%E9%80%89-12%20TG%40jcnode
-hysteria2://123qwe!@#QWE@129.146.131.57:29157?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Hysteria2-%C3%A7%C2%AB%C2%AF%C3%A5%EF%BF%BD%C2%A329157-%C3%A8%C5%A0%E2%80%9A%C3%A7%E2%80%9A%C2%B920%20TG%40jcnode
+vless://228e57af-b00e-4754-97bb-1b7dbce850eb@162.159.152.9:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2048ms-3%20TG%40jcnode
+vless://0582626b-615b-49bc-aaea-5a88d3c6d03d@141.101.114.40:443?type=ws&sni=snip.zrf.gv.uy&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-10%20TG%40jcnode
 ```
 
 ---
