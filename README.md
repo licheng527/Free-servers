@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 22:33:09 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 23:33:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjIDA1IFx1MDExZlx1MDE3OFx1MjAyMVx1MDBiYVx1MDExZlx1MDE3OFx1MjAyMVx1MDBiOCBWTWVzcyBXUyBUR0BqY25vZGUiLCAiYWRkIjogIjIzLjI3LjExLjIyMyIsICJwb3J0IjogIjI2NzI0IiwgImlkIjogImQzMWIwNWZmLTY4NmUtNDk0NC05ZGFkLWE4YTI5OWM2OGQzZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtIiwgInRscyI6ICIiLCAic25pIjogIiJ9
-vless://8d762d9a-1238-4522-af8c-a7b6edb96183@ca.vpn.ls:443?type=tcp&sni=ca.vpn.ls&security=tls#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20VLESS-ca.vpn.ls%20TG%40jcnode
+vless://228e57af-b00e-4754-97bb-1b7dbce850eb@162.159.152.67:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2059ms%20TG%40jcnode
+vless://efb6be44-df82-41fb-98a6-812de8071913@cdncdncdn.aikunapp.com:443?type=ws&sni=sm-1gn.xn--osvr71goa.com&security=tls#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2B%E9%AB%98%E9%80%9F%2Bcdn%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206T0RsbU1qZGtOVGRqWW1NeE1UY3dZakExTURWbFltVXlZbUl4TnpsalpUYz06TW1GbVl6ZGpPR010T1RrNE9TMDBPR1ZpTFdFeVpEQXRaVGM1TjJNd09Uaz0=@48b05961-ce24-4957-a7c0-729f945442ee1.palcloud.top:23004#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%5B%F0%9F%8E%AC%F0%9F%A7%A0%F0%9F%93%BA%F0%9F%8E%AD%5D7eec2fff%20TG%40jcnode
 ```
 
 ---
