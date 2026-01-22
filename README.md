@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 14:38:17 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 15:28:59 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.b2.gladns.com:2377#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20GLaDOS-B1-02%20TG%40jcnode
-vless://69718687-9474-09fd-415e-4d9e4e8aa3ef@141.94.206.26:8443?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2055%20TG%40jcnode
+hysteria2://123qwe!@#QWE@129.146.131.57:29382?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Hysteria2-%C3%A7%C2%AB%C2%AF%C3%A5%EF%BF%BD%C2%A329382-%C3%A8%C5%A0%E2%80%9A%C3%A7%E2%80%9A%C2%B941%20TG%40jcnode
+hysteria2://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50016?sni=do-vnyear.9966663.xyz#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20UDP%E8%AF%AD%E9%9F%B301-%E9%99%90%E9%80%9F10M%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206cGVWN2VVY29sUlVhbExqVEZaZk9kdk1LdnpjQ2VEa1lySUVOaE9qaFl6bz0=@47.79.144.115:40171#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20ss2022%20TG%40jcnode
 ```
 
 ---
