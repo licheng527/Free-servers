@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 20:54:09 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-22 21:49:47 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://228e57af-b00e-4754-97bb-1b7dbce850eb@162.159.152.9:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%2048ms-3%20TG%40jcnode
-vless://0582626b-615b-49bc-aaea-5a88d3c6d03d@141.101.114.40:443?type=ws&sni=snip.zrf.gv.uy&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-10%20TG%40jcnode
+vless://69718687-9474-09fd-415e-4d9e4e8aa3ef@141.94.204.206:8443?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2037%20TG%40jcnode
+vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.90.215:443?type=tcp&sni=ficdn19.suio.me&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20%5B%F0%9F%8E%AC%F0%9F%A4%96%F0%9F%93%BA%F0%9F%8E%AD%5D62fb6fd7%20TG%40jcnode
+vless://e43dd231-7c75-4606-80ec-50fbb8335ce7@132.226.85.167:443?type=tcp&sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=3ik9ws7ATJ5dKDY2Fofv9y7_vpFYsTqgOJRxiQKwA3A&sid=7b233a973c94ca0a#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Oracle-Phoenix-Reality%20TG%40jcnode
 ```
 
 ---
