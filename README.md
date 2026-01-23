@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-23 12:44:30 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-23 13:29:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6972dc04-e3e3-0283-4fe9-40210d7675a7@91.107.141.128:2055?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2042%20TG%40jcnode
-vless://0582626b-615b-49bc-aaea-5a88d3c6d03d@zrf.cf.090227.xyz:443?type=ws&sni=snip.zrf.gv.uy&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CM%20TG%40jcnode
-vless://6972dc04-e3e3-0283-4fe9-40210d7675a7@57.129.137.242:8443?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2011%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjIDE0IFx1MDExZlx1MDE3OFx1MjAyMVx1MDBiYVx1MDExZlx1MDE3OFx1MjAyMVx1MDBiOCBXQVJQIFZNZXNzIFRHQGpjbm9kZSIsICJhZGQiOiAiMjMuMjcuMTEuMjIzIiwgInBvcnQiOiAiMjUzMzQiLCAiaWQiOiAiZDMxYjA1ZmYtNjg2ZS00OTQ0LTlkYWQtYThhMjk5YzY4ZDNmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm0iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+hysteria2://5MgFgzZkKOes28y6mEDv0v1o3jpaiDoWWTikyeuU9co=@23.27.11.223:35025?sni=www.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2015%20%C4%9F%C5%B8%E2%80%A1%C2%BA%C4%9F%C5%B8%E2%80%A1%C2%B8%20WARP%20Hy2%20OBFS%20TG%40jcnode
+trojan://goZ1uUuChpauqP03hLIQjHA2y@47.79.146.159:443?sni=47.79.146.159#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20Tokyo-Trojan%20TG%40jcnode
 ```
 
 ---
