@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-23 09:52:51 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-23 11:43:59 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69718687-9474-09fd-415e-4d9e4e8aa3ef@151.80.57.196:2053?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%203%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29302?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20Hysteria2-%C3%A7%C2%AB%C2%AF%C3%A5%EF%BF%BD%C2%A329302-%C3%A8%C5%A0%E2%80%9A%C3%A7%E2%80%9A%C2%B942%20TG%40jcnode
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@172.64.158.130:443?type=ws&sni=2026012119.smjh.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-18%20TG%40jcnode
+vless://4fe214fb-048e-431f-b939-4518dc9df6a2@144.31.27.190:443?type=tcp&sni=reserve.ayagut.ovh&security=tls&flow=xtls-rprx-vision&security=reality&pbk=qKDDfmvDvBgtUqhSnJf8OFDCaBPZ1Mr0GKGZyATtggo&sid=a20d3ed244c76426#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20b54ea4a8%20TG%40jcnode
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.119.84:443?type=tcp&sni=st.ozone.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20fc975c99%20TG%40jcnode
+vless://96e762e4-7c8b-4be6-a084-911adefad270@173.245.58.81:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%20133ms-1%20TG%40jcnode
 ```
 
 ---
