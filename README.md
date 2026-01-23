@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-23 21:43:55 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-23 22:27:30 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjIFx1OGY2Zlx1OTRmNjFUQiBUR0BqY25vZGUiLCAiYWRkIjogImM5MnM0LnBvcnRhYmxlc3VibWFyaW5lcy5jb20iLCAicG9ydCI6ICIxNzY2MCIsICJpZCI6ICI4MWQ2NzgzZS00NzJlLTRiYmItYmExMS1mNDkzY2Q2ZjRkY2MiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-hysteria2://123qwe!@#QWE@140.245.68.95:29200?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20Hysteria2-%E7%AB%AF29200-33%20TG%40jcnode
-vless://0582626b-615b-49bc-aaea-5a88d3c6d03d@172.64.53.26:443?type=ws&sni=snip.zrf.gv.uy&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2068.75MB/s%20TG%40jcnode
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@cnamefuckxxs.yuchen.icu:443?type=ws&sni=2026012119.yja.de5.net&security=tls#%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%20cnamefuckxxs.yuchen.icu%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIFVTLXZtZXNzIFRHQGpjbm9kZSIsICJhZGQiOiAibGlhbmppZS5zZXZlbnBhZ2VzLnRvcCIsICJwb3J0IjogIjUwMDAwIiwgImlkIjogIjE1NTJhNjY5LThjMGYtNDU5NS1hZWZmLWMzMWJhMGU5MmYwOCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+hysteria2://w8P7v2K4v6Y1e@155.94.154.163:8443?sni=155.94.154.163#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20r%20TG%40jcnode
 ```
 
 ---
