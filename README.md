@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 01:26:56 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 02:36:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@th1.jueduibupao.top:30000?sni=th1.jueduibupao.top#%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BD%20%E6%9B%BC%E8%B0%B7-hy2%20TG%40jcnode
-vless://6972dc04-e3e3-0283-4fe9-40210d7675a7@89.19.44.247:2053?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%207%20TG%40jcnode
-vless://96e762e4-7c8b-4be6-a084-911adefad270@172.64.144.40:2096?type=ws&sni=yd.bsbb.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20vless-%20132ms%20TG%40jcnode
+vless://71031aa1-067e-425e-97f5-37875f838a10@51.250.41.237:8443?type=tcp&sni=api-maps.yandex.ru&security=tls&security=reality&pbk=Oy9IM1uV6W9P3Pm4EIaW1LPqOP0XaT0jSCi4qITSYAI&sid=70cae732#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%203%20TG%40jcnode
+vless://6972dc04-e3e3-0283-4fe9-40210d7675a7@54.37.64.126:8443?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2041%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29364?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20Hysteria2-%E7%AB%AF29364-49%20TG%40jcnode
 ```
 
 ---
