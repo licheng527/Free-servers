@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 03:25:30 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 04:28:30 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6972dc04-e3e3-0283-4fe9-40210d7675a7@104.18.47.22:443?type=ws&sni=saas2026.cfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CT-SIN-4%20TG%40jcnode
-hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@th1.jueduibupao.top:30000?sni=th1.jueduibupao.top#%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BD%20%E6%9B%BC%E8%B0%B7-hy2%20TG%40jcnode
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@cf.zhetengsha.eu.org:443?type=ws&sni=2026012119.yzqiang6.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20cf.zhetengsha.eu.org%20TG%40jcnode
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@162.159.0.8:443?type=ws&sni=2026012119.smjh.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-19%20TG%40jcnode
 ```
 
 ---
