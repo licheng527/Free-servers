@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 14:34:35 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 15:21:26 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@104.18.43.130:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-SIN-443-WS-TLS-1%20TG%40jcnode
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@172.64.152.250:443?type=ws&sni=2026012119.smjh.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-26%20TG%40jcnode
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@172.64.35.101:443?type=ws&sni=2026012119.smjh.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-33%20TG%40jcnode
+vless://69743360-0a6b-7650-d8e2-bb8944c6c1fb@45.153.230.220:443?type=ws&sni=saas2026.saas.loc.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2071%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29416?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20Hysteria2-%E7%AB%AF29416-54%20TG%40jcnode
+vless://b489cfa2-48af-4784-b1c8-b53cfd4b6363@35.230.57.109:10196?type=tcp&sni=apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=1aOTQPRjpttxKUx4x1fprgzNkl_1BbqXdBZ_iKAPRhY&sid=9e885500#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20vless-reality%20TG%40jcnode
 ```
 
 ---
