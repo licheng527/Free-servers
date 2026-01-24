@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-25 00:27:11 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-25 01:19:29 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.r8.gladns.com:2377#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20GLaDOS-R2-08%20TG%40jcnode
-vless://a0aa7a54-38eb-4f0d-80d5-e3fbe124d915@two.cloudflare-ddns.sakuraikaede.com:443?type=ws&sni=us.alice.cloudns.pro&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20US7-CF%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.t2.gladns.com:2377#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20GLaDOS-TW-02%20TG%40jcnode
+hysteria2://1Ym7c9EQsjhZJCKZrWTgwgldl9LUOecjbm/fwE3gDTQ=@45.143.131.35:22404?sni=www.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20VPS3%20-%2013%20WARP%20Hysteria2%20TG%40jcnode
 ```
 
 ---
