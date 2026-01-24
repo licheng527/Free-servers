@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 22:21:15 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 23:22:11 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69743360-0a6b-7650-d8e2-bb8944c6c1fb@188.34.189.43:2053?type=ws&sni=saas2026.saas.loc.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2056%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.66:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20VN%C2%B26%202.6MB/s%20GPT%E2%81%BA%20GM%20X%20%5B%E5%8E%9F%E7%94%9F%20%E6%9C%BA%E6%88%BF%5D%20TG%40jcnode
-vless://0524840c-b9c9-4994-82db-129ac8caeac5@iran.zone-server-irani.ir:2053?type=ws&sni=wizwiz.vidboxco.ir&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-3%20TG%40jcnode
+trojan://8pzQCWvRF8vC8UxFma4RvutAwV7ccN@217.12.204.110:8443?sni=chat.speedload.ru#%F0%9F%87%AC%F0%9F%87%B7%E5%B8%8C%E8%85%8A%20Greece%20%5B%2ACIDR%5D-1%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:28979?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20Hysteria2-%E7%AB%AF28979-06%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29133?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20Hysteria2-%E7%AB%AF29133-23%20TG%40jcnode
 ```
 
 ---
