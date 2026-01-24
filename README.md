@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 18:23:20 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 19:19:20 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://1Ym7c9EQsjhZJCKZrWTgwgldl9LUOecjbm/fwE3gDTQ=@45.143.131.35:38664?sni=www.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20VPS3%20-%2004%20Hysteria2%20TG%40jcnode
-vless://0524840c-b9c9-4994-82db-129ac8caeac5@cf.zone-server-irani.ir:2053?type=ws&sni=sepah.systemgamingirani.ir&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE23%204.3MB/s%20TG%40jcnode
-trojan://9271ed933c6052a3@c18ca9e.p1.gladns.com:443?sni=n2.gladns.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20GLaDOS-H2-01%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.u2.gladns.com:2377#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20GLaDOS-US-02%20TG%40jcnode
+hysteria2://123qwe!@#QWE@129.146.131.57:29601?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Hysteria2-%E7%AB%AF29601-69%20TG%40jcnode
+vless://69743360-0a6b-7650-d8e2-bb8944c6c1fb@92.222.24.127:2053?type=ws&sni=saas2026.saas.loc.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2076-1%20TG%40jcnode
 ```
 
 ---
