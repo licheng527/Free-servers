@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 20:43:59 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 21:31:34 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69743360-0a6b-7650-d8e2-bb8944c6c1fb@151.80.57.36:2053?type=ws&sni=saas2026.saas.loc.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2052-1%20TG%40jcnode
-vless://0582626b-615b-49bc-aaea-5a88d3c6d03d@172.67.64.86:443?type=ws&sni=snip.ddly.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-2%20TG%40jcnode
-vless://69743360-0a6b-7650-d8e2-bb8944c6c1fb@92.222.24.127:2053?type=ws&sni=saas2026.saas.loc.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2076-1%20TG%40jcnode
+vless://69743360-0a6b-7650-d8e2-bb8944c6c1fb@45.153.187.209:8443?type=ws&sni=saas2026.saas.loc.cc&security=tls#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8%20SE%203%20TG%40jcnode
+vless://69743360-0a6b-7650-d8e2-bb8944c6c1fb@51.91.100.159:8443?type=ws&sni=saas2026.saas.loc.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2075-1%20TG%40jcnode
+vless://0582626b-615b-49bc-aaea-5a88d3c6d03d@8.39.125.165:443?type=ws&sni=snip.zrf.hidns.co&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20UN%2047%20TG%40jcnode
 ```
 
 ---
