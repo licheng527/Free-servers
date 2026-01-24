@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 23:22:11 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-25 00:27:11 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://8pzQCWvRF8vC8UxFma4RvutAwV7ccN@217.12.204.110:8443?sni=chat.speedload.ru#%F0%9F%87%AC%F0%9F%87%B7%E5%B8%8C%E8%85%8A%20Greece%20%5B%2ACIDR%5D-1%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:28979?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20Hysteria2-%E7%AB%AF28979-06%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29133?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20Hysteria2-%E7%AB%AF29133-23%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.r8.gladns.com:2377#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20GLaDOS-R2-08%20TG%40jcnode
+vless://a0aa7a54-38eb-4f0d-80d5-e3fbe124d915@two.cloudflare-ddns.sakuraikaede.com:443?type=ws&sni=us.alice.cloudns.pro&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20US7-CF%20TG%40jcnode
 ```
 
 ---
