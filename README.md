@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 15:21:26 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 16:29:31 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69743360-0a6b-7650-d8e2-bb8944c6c1fb@45.153.230.220:443?type=ws&sni=saas2026.saas.loc.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2071%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29416?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20Hysteria2-%E7%AB%AF29416-54%20TG%40jcnode
-vless://b489cfa2-48af-4784-b1c8-b53cfd4b6363@35.230.57.109:10196?type=tcp&sni=apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=1aOTQPRjpttxKUx4x1fprgzNkl_1BbqXdBZ_iKAPRhY&sid=9e885500#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20vless-reality%20TG%40jcnode
+vless://69743360-0a6b-7650-d8e2-bb8944c6c1fb@51.75.64.246:2053?type=ws&sni=saas2026.saas.loc.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2055%20TG%40jcnode
+vless://69743360-0a6b-7650-d8e2-bb8944c6c1fb@57.129.137.206:443?type=ws&sni=saas2026.saas.loc.cc&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2020%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjIFx1OGY2Zlx1OTRmNjFUQiBUR0BqY25vZGUiLCAiYWRkIjogImM5MnM0LnBvcnRhYmxlc3VibWFyaW5lcy5jb20iLCAicG9ydCI6ICIxNzY2MCIsICJpZCI6ICI4MWQ2NzgzZS00NzJlLTRiYmItYmExMS1mNDkzY2Q2ZjRkY2MiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
