@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-25 01:19:29 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-25 02:32:38 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.t2.gladns.com:2377#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20GLaDOS-TW-02%20TG%40jcnode
-hysteria2://1Ym7c9EQsjhZJCKZrWTgwgldl9LUOecjbm/fwE3gDTQ=@45.143.131.35:22404?sni=www.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20VPS3%20-%2013%20WARP%20Hysteria2%20TG%40jcnode
+vless://0582626b-615b-49bc-aaea-5a88d3c6d03d@162.159.35.39:443?type=ws&sni=snip.zrf.hidns.co&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20UN%2092%20TG%40jcnode
+vless://69743360-0a6b-7650-d8e2-bb8944c6c1fb@116.203.214.87:8443?type=ws&sni=saas2026.saas.loc.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2044-1%20TG%40jcnode
+hysteria2://123qwe!@#QWE@129.146.131.57:29706?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Hysteria2-%E7%AB%AF29706-78%20TG%40jcnode
 ```
 
 ---
