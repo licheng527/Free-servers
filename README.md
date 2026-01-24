@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 13:23:08 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-24 14:34:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.17.25.173:443?type=ws&sni=l.ayovo.netlib.re&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20US-1%20TG%40jcnode
-hysteria2://bsKADuOjozDM0Pua0tdA0PG7+Ln8AEfc2qQJRYRaDPM=@96.9.231.8:20633?sni=www.microsoft.com#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20VPS4%20-%2015%20WARP%20Hy2%20OBFS%20TG%40jcnode
+vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@104.18.43.130:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-SIN-443-WS-TLS-1%20TG%40jcnode
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@172.64.152.250:443?type=ws&sni=2026012119.smjh.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-26%20TG%40jcnode
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@172.64.35.101:443?type=ws&sni=2026012119.smjh.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-33%20TG%40jcnode
 ```
 
 ---
