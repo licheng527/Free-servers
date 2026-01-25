@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-26 05:20:41 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-26 06:22:23 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://123qwe!@#QWE@129.146.131.57:29382?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF29382-41%20TG%40jcnode
-hysteria2://123qwe!@#QWE@129.146.131.57:28931?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF28931-04%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UGtoS0Q3Mm4wRjBuaWhsL3dsbTQvRXNndXpUMk14ODVLRXpIbVRIMGNHcz0=@107.174.196.235:17407#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20VPS5%20-%2016%20WARP%20SS-2022%20TG%40jcnode
+vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?type=ws&sni=yousef.varzesh.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%204819%20Canada%20VLESS%20YT%20TG%40jcnode
+vless://0e0bf934-1942-4379-9c98-5cd9aa93140a@25.129.197.138:2096?type=ws&sni=speed1.best-cloud.ir&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20github.com/Ruk1ng001%20f79ac773%20TG%40jcnode
+vless://6974e38e-2a3a-3f90-c8b2-0c2b837806ae@54.37.64.97:2053?type=ws&sni=saas2026.saaas.eu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2041%20TG%40jcnode
 ```
 
 ---
