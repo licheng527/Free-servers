@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-26 01:19:15 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-26 02:32:41 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://2823201e-90c4-41f5-b036-8c688a1dc259@96.9.231.8:10425?type=grpc&sni=www.microsoft.com&security=tls&security=reality&pbk=KKE7oGdSUVfZGTy2ycaS1bRzI1Xcr_9yuowqkFzURHw&sid=6e0bb2fc7da4519e#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20VPS4%20-%2011%20WARP%20VLESS%20gRPC%20TG%40jcnode
-hysteria2://123qwe!@#QWE@129.146.131.57:29456?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF29456-50%20TG%40jcnode
-vless://6974e38e-2a3a-3f90-c8b2-0c2b837806ae@104.168.87.155:5432?type=ws&sni=saas2026.saaas.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%205%20TG%40jcnode
+vless://6974e38e-2a3a-3f90-c8b2-0c2b837806ae@209.250.236.123:8443?type=ws&sni=saas2026.saaas.eu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2036%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHU1MmEwXHU2MmZmXHU1OTI3IFx1N2VmY1x1NTQwOFx1N2ViZlx1OGRlZjFUQiBUR0BqY25vZGUiLCAiYWRkIjogImM5MnM1LnBvcnRhYmxlc3VibWFyaW5lcy5jb20iLCAicG9ydCI6ICIxNzY2MCIsICJpZCI6ICI4MWQ2NzgzZS00NzJlLTRiYmItYmExMS1mNDkzY2Q2ZjRkY2MiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+vless://6974e38e-2a3a-3f90-c8b2-0c2b837806ae@141.94.220.64:2053?type=ws&sni=saas2026.saaas.eu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2072%20TG%40jcnode
 ```
 
 ---
