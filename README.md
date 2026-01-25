@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-26 00:28:01 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-26 01:19:15 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://123qwe!@#QWE@129.146.131.57:28986?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF28986-06%20TG%40jcnode
-vless://316ddca7-03dd-4d22-8d18-0205c6115cad@45.143.131.35:41576?type=tcp&sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=OSiHPEOhOSi-UchL4HM7Vxu5LiMXlEjOXuh_cnfGjAU&sid=87c5784f08874d41#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20VPS3%20-%2010%20WARP%20VLESS%20Reality%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29166?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF29166-26%20TG%40jcnode
+vless://2823201e-90c4-41f5-b036-8c688a1dc259@96.9.231.8:10425?type=grpc&sni=www.microsoft.com&security=tls&security=reality&pbk=KKE7oGdSUVfZGTy2ycaS1bRzI1Xcr_9yuowqkFzURHw&sid=6e0bb2fc7da4519e#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20VPS4%20-%2011%20WARP%20VLESS%20gRPC%20TG%40jcnode
+hysteria2://123qwe!@#QWE@129.146.131.57:29456?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF29456-50%20TG%40jcnode
+vless://6974e38e-2a3a-3f90-c8b2-0c2b837806ae@104.168.87.155:5432?type=ws&sni=saas2026.saaas.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%205%20TG%40jcnode
 ```
 
 ---
