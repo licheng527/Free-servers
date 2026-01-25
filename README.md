@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-25 22:20:49 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-25 23:22:14 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6974e38e-2a3a-3f90-c8b2-0c2b837806ae@57.129.137.227:8443?type=ws&sni=saas2026.saaas.eu.cc&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2012%20TG%40jcnode
-hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@linsg2.jueduibupao.top:49636?sni=linsg2.jueduibupao.top#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%201-hy2%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.s1.glados-config.net:2377#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG-01%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIFx1NzUzNVx1NGZlMTFUQiBUR0BqY25vZGUiLCAiYWRkIjogImM5MnMzLnBvcnRhYmxlc3VibWFyaW5lcy5jb20iLCAicG9ydCI6ICIxNzY2MCIsICJpZCI6ICI4MWQ2NzgzZS00NzJlLTRiYmItYmExMS1mNDkzY2Q2ZjRkY2MiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+vless://6974e38e-2a3a-3f90-c8b2-0c2b837806ae@162.19.243.173:2053?type=ws&sni=saas2026.saaas.eu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2039%20TG%40jcnode
+trojan://9271ed933c6052a3@c18ca9e.p4.glados-config.net:443?sni=n2.gladns.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20H2-04%20TG%40jcnode
 ```
 
 ---
