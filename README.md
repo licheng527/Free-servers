@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-25 18:23:56 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-25 19:19:27 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.r5.glados-config.net:2377#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20R2-05%20TG%40jcnode
-vless://697552e4-18e3-53b8-5a16-320a2c08f8c3@118.223.217.35:30001?type=ws&sni=saas2026.soos.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-42%20TG%40jcnode
-hysteria2://D4QVJtilJYj3usmG+2uZadfvcs7BIwKWuZILD7UBv5g=@96.9.231.8:25571?sni=www.microsoft.com#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20VPS4%20-%2004%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29225?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF29225-38%20TG%40jcnode
+vless://6974e38e-2a3a-3f90-c8b2-0c2b837806ae@37.187.225.21:2053?type=ws&sni=saas2026.saaas.eu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2069%20TG%40jcnode
 ```
 
 ---
