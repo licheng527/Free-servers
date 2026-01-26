@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 02:38:51 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 03:24:58 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://123qwe!@#QWE@140.245.68.95:28957?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF28957-05%20TG%40jcnode
-hysteria2://50a8888d-b94a-40be-93f1-c96bcae3d8d4@129.153.25.59:35000?sni=www.lamer.com.hk#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E9%98%BF%E4%BB%80%E6%9C%AC%20%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF-hy2%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29200?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF29200-33%20TG%40jcnode
+hysteria2://123qwe!@#QWE@129.146.131.57:29954?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF29954-97%20TG%40jcnode
 ```
 
 ---
