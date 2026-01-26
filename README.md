@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 04:29:26 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 05:26:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://81802152-7cc8-414b-85f8-0fd013969c4f@vpsracknerd6g.tianmind.com:17352?sni=vpsracknerd6g.tianmind.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Trojan%20TLS%20TG%40jcnode
-hysteria2://1y4HweESOT@sss.ikun6.dpdns.org:27995?sni=azure.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%20UDP%206.00TB%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29383?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF29383-52%20TG%40jcnode
+vless://0f892e39-3c98-43be-9223-25c4dea677de@34.19.65.198:19174?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20GCP-VLESS%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@xiaofeizhu.idsduf.com:40019#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2002%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@dafeizhu.whtjdasha.com:12980#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E5%87%A4%E5%87%B0%E5%9F%8E01%20TG%40jcnode
 ```
 
 ---
