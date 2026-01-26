@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 06:24:55 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 07:24:42 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://123qwe!@#QWE@140.245.68.95:29008?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF29008-09%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29508?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF29508-63%20TG%40jcnode
-hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@tw2.jueduibupao.top:30078?sni=tw2.jueduibupao.top#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%201-%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%20AI-hy2%20TG%40jcnode
+vless://d31b05ff-686e-4944-9dad-a8a299c68d3f@23.27.11.223:20020?type=grpc&sni=www.microsoft.com&security=tls&security=reality&pbk=cP0-117vdjtL0efyeuWJQG7dck6qJAxWCr25-JeyuSE&sid=e462bf4accee51b3#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2002%20VLESS%20gRPC%20Reality%20TG%40jcnode
+vless://97e79a62-f686-4b91-87a7-be39c9e57658@173.249.201.109:54443?type=ws&sni=page.anjue39.qzz.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20002%201.1MB/s%20GPT%E2%81%BA%20YT-US%20NF%20D%2B%20GM%204%25%20TG%40jcnode
+hysteria2://5MgFgzZkKOes28y6mEDv0v1o3jpaiDoWWTikyeuU9co=@23.27.11.223:35025?sni=www.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2015%20WARP%20Hy2%20OBFS%20TG%40jcnode
 ```
 
 ---
