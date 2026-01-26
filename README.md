@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-26 21:46:19 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-26 22:30:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@c18ca9e.d1.glados-config.net:2377#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Netflix-01%20TG%40jcnode
-hysteria2://123qwe!@#QWE@129.146.131.57:29157?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF29157-20%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29677?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF29677-74%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NlNzOVZYNkNNdUFESUQxYnI1Slk4dFNPelRNRmxwSUZRZkJOaEpOYUd4TT0=@47.79.95.67:26676#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20VPS2%20-%2016%20WARP%20SS-2022%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@dafeizhu.whtjdasha.com:39301#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2005-%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%20TG%40jcnode
 ```
 
 ---
