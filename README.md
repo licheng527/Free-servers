@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 00:36:54 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 01:31:45 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.16.250.22:443?type=ws&sni=l.ayovo.netlib.re&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%202dd21709%20TG%40jcnode
-vless://8d762d9a-1238-4522-af8c-a7b6edb96183@ca.vpn.ls:443?type=tcp&sni=ca.vpn.ls&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20VLESS-2%20TG%40jcnode
-hysteria2://123qwe!@#QWE@129.146.131.57:29382?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF29382-41%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29047?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF29047-13%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MEhlWF9oU0RoRWJCREtaQTdoZ3Fid1B6NTRyVmFGbg==@nl01-ss01.tcp-reset-club.net:8444#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%200176%20SS%20YT%20TG%40jcnode
+hysteria2://123qwe!@#QWE@129.146.131.57:29165?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF29165-21%20TG%40jcnode
 ```
 
 ---
