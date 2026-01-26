@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 05:26:13 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 06:24:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://0f892e39-3c98-43be-9223-25c4dea677de@34.19.65.198:19174?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20GCP-VLESS%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@xiaofeizhu.idsduf.com:40019#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2002%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@dafeizhu.whtjdasha.com:12980#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E5%87%A4%E5%87%B0%E5%9F%8E01%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29008?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF29008-09%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29508?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF29508-63%20TG%40jcnode
+hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@tw2.jueduibupao.top:30078?sni=tw2.jueduibupao.top#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%201-%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%20AI-hy2%20TG%40jcnode
 ```
 
 ---
