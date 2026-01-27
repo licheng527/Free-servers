@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-28 02:41:47 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-28 03:28:03 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://123qwe!@#QWE@140.245.68.95:29770?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF29770-82%20TG%40jcnode
-hysteria2://50a8888d-b94a-40be-93f1-c96bcae3d8d4@134.195.101.191:443?sni=www.apple.com#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A581.43%20GB%20TG%40jcnode
+hysteria2://123qwe!@#QWE@129.146.131.57:29135?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF29135-19%20TG%40jcnode
+ss://YWVzLTEyOC1nY206Nkg5MDV1UjNQbTBMdjdI@mbqg94o.26l6c42.rkzn8ni.vm331.cn:46048#%F0%9F%87%A7%F0%9F%87%AC%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%20Host%20-177%20TG%40jcnode
+hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@linsg2.jueduibupao.top:42034?sni=linsg2.jueduibupao.top#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%201-hy2%20TG%40jcnode
 ```
 
 ---
