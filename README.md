@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-28 04:25:44 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-28 05:19:56 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://123qwe!@#QWE@129.146.131.57:29800?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF29800-84%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMWU0NDJmMS04YWJiLTRkZjYtOWM2ZS1kZGQxMTQyMjRiM2E=@mbqg940.26i6c42.rkzn8ni.vm331.cn:10702#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20EBGP%20-151%20TG%40jcnode
-hysteria2://123qwe!@#QWE@129.146.131.57:28893?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF28893-01%20TG%40jcnode
+hysteria2://dd47f84d-cddb-4b6f-847f-a71faf2ddd2e@hk3.jueduibupao.top:40090?sni=hk3.jueduibupao.top#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2035%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@162.19.242.212:2053?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%203%20TG%40jcnode
+ss://YWVzLTEyOC1nY206Nkg5MDV1UjNQbTBMdjdI@mbqg94o.26l6c42.rkzn8ni.vm331.cn:46047#%F0%9F%87%B3%F0%9F%87%B4%E6%8C%AA%E5%A8%81%20Host%20-176%20TG%40jcnode
 ```
 
 ---
