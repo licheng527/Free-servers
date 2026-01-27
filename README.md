@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 07:24:42 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 09:59:19 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://d31b05ff-686e-4944-9dad-a8a299c68d3f@23.27.11.223:20020?type=grpc&sni=www.microsoft.com&security=tls&security=reality&pbk=cP0-117vdjtL0efyeuWJQG7dck6qJAxWCr25-JeyuSE&sid=e462bf4accee51b3#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2002%20VLESS%20gRPC%20Reality%20TG%40jcnode
-vless://97e79a62-f686-4b91-87a7-be39c9e57658@173.249.201.109:54443?type=ws&sni=page.anjue39.qzz.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20002%201.1MB/s%20GPT%E2%81%BA%20YT-US%20NF%20D%2B%20GM%204%25%20TG%40jcnode
-hysteria2://5MgFgzZkKOes28y6mEDv0v1o3jpaiDoWWTikyeuU9co=@23.27.11.223:35025?sni=www.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2015%20WARP%20Hy2%20OBFS%20TG%40jcnode
+hysteria2://3b74c0cd-7515-4937-94f0-6315bf508706@pq.hy.jp5.yydjc.top:443?sni=www.apple.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20%E4%B8%9C%E4%BA%AC5%20%E7%A7%BB%E5%8A%A8%E8%81%94%E9%80%9A%E6%8E%A8%E8%8D%90-hy2%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@57.129.137.198:8443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%207%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@51.75.24.135:8443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2057%20TG%40jcnode
 ```
 
 ---
