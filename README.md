@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 09:59:19 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-27 11:53:05 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://3b74c0cd-7515-4937-94f0-6315bf508706@pq.hy.jp5.yydjc.top:443?sni=www.apple.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20%E4%B8%9C%E4%BA%AC5%20%E7%A7%BB%E5%8A%A8%E8%81%94%E9%80%9A%E6%8E%A8%E8%8D%90-hy2%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@57.129.137.198:8443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%207%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@51.75.24.135:8443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2057%20TG%40jcnode
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@s2.dipvpn.ru:443?type=tcp&sni=dipvpn.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&sid=#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20DipVPN%202%20-%20%E2%80%A1%C2%AB%E2%80%A1%C2%AE%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@51.77.141.117:443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2019%20TG%40jcnode
 ```
 
 ---
