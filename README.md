@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-28 06:24:39 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-28 07:24:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://50a8888d-b94a-40be-93f1-c96bcae3d8d4@143.47.32.143:35000?sni=www.lamer.com.hk#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99%20%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF-hy2%20TG%40jcnode
-hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@de1.jueduibupao.top:42171?sni=de1.jueduibupao.top#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20hy2%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29200?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF29200-33%20TG%40jcnode
+vless://0deffbc8-fb89-4e89-89f1-60e0b8ef79dd@89.169.162.214:443?type=tcp&sni=yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=e57932a42872a362#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20%5B%2ACIDR%5D-2%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29021?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E7%AB%AF29021-10%20TG%40jcnode
+vless://6977efa4-0fe9-94eb-8cfe-e842b85306e4@83.229.123.16:443?type=ws&sni=4e0afdfb-5b42-49a6-990e-a1a73a2e586a.soos.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-5%20TG%40jcnode
 ```
 
 ---
