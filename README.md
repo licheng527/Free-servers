@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-28 17:36:11 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-28 18:31:05 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69798f4c-8dd2-deac-8d80-3892dd6ce320@121.145.153.217:50001?type=ws&sni=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-29%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@103.21.244.16:8443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20B01%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.16.33.161:2096?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20B15%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@61.79.252.188:15018?type=ws&sni=snippet.fgfw.indevs.in&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KRTG%40%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TmpWaE1XRTJZbVZtTnpnNE1UY3dNQT09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@dafeizhu.whtjdasha.com:45690#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%2003-%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%20AI%20TG%40jcnode
+vless://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.008500.xyz:443?type=ws&sni=_acme-challenge.sb.cloudns.biz&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK-snippets-vless%20TG%40jcnode
 ```
 
 ---
