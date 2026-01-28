@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-29 05:31:14 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-29 06:28:53 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.55:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%203-1%20TG%40jcnode
-hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@de1.jueduibupao.top:45310?sni=de1.jueduibupao.top#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20hy2%20TG%40jcnode
-vless://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@172.64.229.90:443?type=ws&sni=snip.ere.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20UN-19%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@51.91.252.44:8443?type=ws&sni=snippet.fgfw.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FRTG%40%20TG%40jcnode
+vless://9dadf4a6-2ed5-4414-982f-05befa366905@146.185.240.23:8443?type=tcp&sni=m.vk.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20%5B%2ACIDR%5D%20VK%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@107.173.149.215:443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%203%20TG%40jcnode
 ```
 
 ---
