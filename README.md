@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-28 15:27:53 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-28 16:35:28 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Cloudflare%20Developers%20TG%40jcnode
-vless://a742029a-2561-49bc-a22e-3ae614d21016@test.cndzhe01.shop:39838?type=vless&sni=www.intel.cn&security=tls&flow=xtls-rprx-vision&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2021%20-519%20TG%40jcnode
+vless://e32f9c43-b141-3d58-b879-15c6a402e119@193.142.59.180:443?type=tcp&sni=u730537u0236s148.okgfw.top&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20%5B%2ACIDR%5D%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@57.129.137.70:8443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2015%20TG%40jcnode
+hysteria2://123qwe!@#QWE@129.146.131.57:29805?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF29805-85%20TG%40jcnode
 ```
 
 ---
