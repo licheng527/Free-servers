@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-29 00:40:12 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-29 01:33:48 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://123qwe!@#QWE@129.146.131.57:29800?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF29800-84%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@57.128.183.142:443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2016%20TG%40jcnode
-trojan://42bbf526-5530-470a-aeec-3b919b21c58d@193.17.183.157:8443?sni=0000.hkvip.ip-ddns.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%2C%20Chicago%20%5BBL%5D-1%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@85.234.100.221:443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2027%20TG%40jcnode
+hysteria2://50a8888d-b94a-40be-93f1-c96bcae3d8d4@129.153.25.59:35000?sni=www.lamer.com.hk#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E9%98%BF%E4%BB%80%E6%9C%AC%20%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF-hy2%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok1ERmpOak00TjJRdFlUWTROUzAwTUE9PQ==@dafeizhu.whtjdasha.com:19527#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20013%20TG%40jcnode
 ```
 
 ---
