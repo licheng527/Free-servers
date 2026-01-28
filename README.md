@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-28 16:35:28 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-28 17:36:11 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://e32f9c43-b141-3d58-b879-15c6a402e119@193.142.59.180:443?type=tcp&sni=u730537u0236s148.okgfw.top&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20%5B%2ACIDR%5D%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@57.129.137.70:8443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2015%20TG%40jcnode
-hysteria2://123qwe!@#QWE@129.146.131.57:29805?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%AB%AF29805-85%20TG%40jcnode
+vless://69798f4c-8dd2-deac-8d80-3892dd6ce320@121.145.153.217:50001?type=ws&sni=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-29%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@103.21.244.16:8443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20B01%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.16.33.161:2096?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20B15%20TG%40jcnode
 ```
 
 ---
