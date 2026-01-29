@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-29 13:45:44 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-29 14:51:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-
+vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@144.31.130.36:8443?type=tcp&sni=swe.speedload.online&security=tls&flow=xtls-rprx-vision&security=reality&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20%5B%2ACIDR%5D-4%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NlNzOVZYNkNNdUFESUQxYnI1Slk4dFNPelRNRmxwSUZRZkJOaEpOYUd4TT0=@47.79.95.67:26676#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2016%20WARP%20SS-2022-2%20TG%40jcnode
+vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@104.18.88.67:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8--443-WS-TLS-3%20TG%40jcnode
 ```
 
 ---
