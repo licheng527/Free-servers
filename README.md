@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 02:51:13 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 03:31:17 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://17fef4b5-9068-459c-beeb-995a97a89f91@afrcloud2.mmv.kr:443?type=ws&sni=afrcloud2.mmv.kr&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%2C%20Freising%20%5BBL%5D%20TG%40jcnode
-vless://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@162.159.49.177:443?type=ws&sni=snip.subs.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2054.52MB/s%20TG%40jcnode
-vless://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@104.16.149.41:443?type=ws&sni=snip.ere.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20UN-3%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.19.50.123:443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-11%20TG%40jcnode
+hysteria2://123qwe!@#QWE@129.146.131.57:29321?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2029321-36%20TG%40jcnode
+hysteria2://4dd859b3-c9f6-477e-95f5-283abb3129e5@mosike.zuomomo.top:16667?sni=mosike.zuomomo.top#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20RU%204%20%E2%AC%87%201.5MB/s%20TG%40jcnode
 ```
 
 ---
