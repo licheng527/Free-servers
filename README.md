@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-29 22:38:30 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-29 23:37:26 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@sub.danfeng.eu.org:443#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20TW-ss%20TG%40jcnode
 ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.008500.xyz:443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK-ss%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@store.ubi.com:443#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20ss-1%20TG%40jcnode
 ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.877774.xyz:443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK-ss-1%20TG%40jcnode
 ```
 
