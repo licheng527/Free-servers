@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-29 15:40:46 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-29 16:42:04 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@xiaofeizhu.idsduf.com:40023#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2004-IPv6%20TG%40jcnode
-vless://81802152-7cc8-414b-85f8-0fd013969c4f@vpsracknerd6g.tianmind.com:18611?type=ws&sni=vpsracknerd6g.tianmind.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20VLESS%20WS%20TLS%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@162.19.247.5:2053?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2067%20TG%40jcnode
+hysteria2://123qwe!@#QWE@129.146.131.57:29548?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2029548-60%20TG%40jcnode
+hysteria2://123qwe!@#QWE@129.146.131.57:28900?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2028900-02%20TG%40jcnode
+vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.234.59.172:443?type=tcp&sni=hls-svod.itunes.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20RU-2%20TG%40jcnode
 ```
 
 ---
