@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 04:33:12 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 05:29:22 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://123qwe!@#QWE@140.245.68.95:29021?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029021-10%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.24.87.193:8443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20A06%20TG%40jcnode
-hysteria2://123456@cloudzy.jiav.vip:443?sni=cloudzy.jiav.vip#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20hy2-172%20TG%40jcnode
+vless://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@104.26.14.176:443?type=ws&sni=snip.ere.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20UN-1%20TG%40jcnode
+vless://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@172.64.53.148:443?type=ws&sni=snip.subs.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2070.58MB/s%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29906?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029906-92%20TG%40jcnode
 ```
 
 ---
