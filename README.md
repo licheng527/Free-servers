@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-29 18:38:47 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-29 19:32:36 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.090227.xyz:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG-ss%20TG%40jcnode
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cdns.doon.eu.org:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP-ss-1%20TG%40jcnode
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.zhetengsha.eu.org:443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK-ss-2%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@sub.danfeng.eu.org:443#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20TW-ss%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@mfa.gov.ua:443#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20ss%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@store.ubi.com:443#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20ss-1%20TG%40jcnode
 ```
 
 ---
