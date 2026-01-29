@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 03:31:17 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 04:33:12 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.19.50.123:443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-11%20TG%40jcnode
-hysteria2://123qwe!@#QWE@129.146.131.57:29321?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2029321-36%20TG%40jcnode
-hysteria2://4dd859b3-c9f6-477e-95f5-283abb3129e5@mosike.zuomomo.top:16667?sni=mosike.zuomomo.top#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20RU%204%20%E2%AC%87%201.5MB/s%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29021?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029021-10%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.24.87.193:8443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20A06%20TG%40jcnode
+hysteria2://123456@cloudzy.jiav.vip:443?sni=cloudzy.jiav.vip#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20hy2-172%20TG%40jcnode
 ```
 
 ---
