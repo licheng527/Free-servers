@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 01:38:55 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 02:51:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a0aa7a54-38eb-4f0d-80d5-e3fbe124d915@38.207.170.88:14243?type=ws&sni=sg.alice.cloudns.pro&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG3-CN2%20TG%40jcnode
-vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@104.18.131.214:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-SJC-443-WS-TLS%20TG%40jcnode
-vless://697b4b58-6bab-ee92-fd38-cb36d0aab672@211.228.64.93:18110?type=ws&sni=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-28%20TG%40jcnode
+vless://17fef4b5-9068-459c-beeb-995a97a89f91@afrcloud2.mmv.kr:443?type=ws&sni=afrcloud2.mmv.kr&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%2C%20Freising%20%5BBL%5D%20TG%40jcnode
+vless://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@162.159.49.177:443?type=ws&sni=snip.subs.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2054.52MB/s%20TG%40jcnode
+vless://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@104.16.149.41:443?type=ws&sni=snip.ere.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20UN-3%20TG%40jcnode
 ```
 
 ---
