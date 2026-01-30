@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-31 04:32:31 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-31 05:29:41 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TmpWaE1XRTJZbVZtTnpnNE1UY3dNQT09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@dafeizhu.whtjdasha.com:45690#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%2003-%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%20AI%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@107.173.34.130:8443?type=ws&sni=snippet.fgfw.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%204%20TG%40jcnode
-vless://b4a3c330-f8f5-49a4-95a8-f08af211dcf1@176.109.109.58:51101?type=tcp&sni=m.vk.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9%20%5B%2ACIDR%5D-1%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIFtdIFt2bS1uby13c10gWzI2MDEzMC0xMTA5MTguOTI3XSBUR0BqY25vZGUiLCAiYWRkIjogIjE1NC44My4yLjE1NiIsICJwb3J0IjogIjIwODYiLCAiaWQiOiAiOTIzNzNlZDEtNzhhOC00Y2JlLWFhMDYtNTRhZjFlZGQwNDcxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ2MjA1LjE5NzQwODIyLnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.138.24:544?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%202%20TG%40jcnode
+hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@azcus1.jueduibupao.top:20101?sni=azcus1.jueduibupao.top#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%BA%BD%E7%BA%A6-hy2%20TG%40jcnode
 ```
 
 ---
