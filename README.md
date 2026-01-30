@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 07:28:32 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 10:09:42 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://b14c2923-3299-40e7-a48e-ab9350c79c02@103.197.71.103:20000?sni=www.bing.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%E4%B8%93%E7%BA%BF5-0.1%E5%80%8D%E7%8E%87%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIFZQUzUgLSAxNCBXQVJQIFZNZXNzIFRHQGpjbm9kZSIsICJhZGQiOiAiMTA3LjE3NC4xOTYuMjM1IiwgInBvcnQiOiAiMjA3NzkiLCAiaWQiOiAiZTIxMjk4NmMtNjVkMi00ZWEyLTg0ODktZmM1MDRmNzFhYjFiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm0iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-vless://697b4b58-6bab-ee92-fd38-cb36d0aab672@nekocloud.tencentapp.cn:443?type=ws&sni=af27a118-0d37-451a-a2c9-8a59211605a9.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@57.129.137.70:8443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%203%20TG%40jcnode
+vless://316ddca7-03dd-4d22-8d18-0205c6115cad@45.143.131.35:41576?type=tcp&sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=OSiHPEOhOSi-UchL4HM7Vxu5LiMXlEjOXuh_cnfGjAU&sid=87c5784f08874d41#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2010%20WARP%20VLESS%20Reality%20TG%40jcnode
+trojan://316ddca7-03dd-4d22-8d18-0205c6115cad@45.143.131.35:34911?sni=www.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2012%20WARP%20Trojan%20TG%40jcnode
 ```
 
 ---
