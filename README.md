@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 12:41:27 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 13:49:22 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@162.19.243.46:2053?type=ws&sni=snippet.fgfw.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2020%20TG%40jcnode
-vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@104.17.119.91:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-SJC-443-WS-TLS%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29652?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029652-72%20TG%40jcnode
+vless://29ff2954-dfea-4d20-8089-059cfa861453@104.19.38.167:443?type=ws&sni=edge.ssdxz.cn&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20UN-25%20TG%40jcnode
+vless://15235ce9-4cd2-4483-b6b6-7fc4a3f44735@104.16.149.41:443?type=ws&sni=snip.ere.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20UN-8%20TG%40jcnode
+hysteria2://123qwe!@#QWE@129.146.131.57:29175?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2029175-22%20TG%40jcnode
 ```
 
 ---
