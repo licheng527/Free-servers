@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 20:59:43 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 22:00:00 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@dafeizhu.whtjdasha.com:39301#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2005-%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%20TG%40jcnode
-vless://2b76609f-2132-42ac-a8fd-89635f73c85a@pol.fasti.win:443?type=tcp&sni=pl.fasti.win&security=tls&flow=xtls-rprx-vision&security=reality&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20%2C%20Warsaw%20%5BBL%5D-3%20TG%40jcnode
-vless://1e4649f5-f5d6-4896-9be0-4c6725d4106e@87.239.106.153:8443?type=raw&sni=m.vk.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99%20%5B%5D%20%5Bvl-re-ra%5D%20%5B260130-105915.866%5D%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIFx1NWJiNlx1NWJiZCAyNiBUR0BqY25vZGUiLCAiYWRkIjogImFjYjc2MTVmLXQ5c2Y0MC10aHZjM3AtMW80a3YuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiODdiMzFhMDItMTcyZS0xMWVlLWExMWYtZjIzYzkxM2M4ZDJiIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+ss://YWVzLTI1Ni1nY206MTd2d2I2TnptYzJHWGZINTVLSTdNTXdHNEs5enl5WGw=@47.79.95.67:26960#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2008%20SS%20Original-2%20TG%40jcnode
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.98:443?type=tcp&sni=ficdn4.suio.me&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20%5B%2ACIDR%5D-5%20TG%40jcnode
 ```
 
 ---
