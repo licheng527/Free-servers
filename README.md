@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-31 02:45:09 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-31 03:33:27 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://1y4HweESOT@sss.ikun6.dpdns.org:27995?sni=azure.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%20UDP%206.00TB%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwQ0ZcdTRmMThcdTkwMDkgVU4tNDQgVEdAamNub2RlIiwgImFkZCI6ICIxNjIuMTU5LjE1Mi40IiwgInBvcnQiOiAiMjA4MyIsICJpZCI6ICIzYTliYjFmZS1hZGIzLTQ2ZjMtYjE2Yy02YWY1ZmRkZTUzMjYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImtrMS5nYW1pbmctY2VudGVyLmlyIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJrazEuZ2FtaW5nLWNlbnRlci5pciJ9
-vless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.133.61:8443?type=tcp&sni=www.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%20CY%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIFZNZXNzIFdTIFRMUyBUR0BqY25vZGUiLCAiYWRkIjogInZwc3JhY2tuZXJkNmcudGlhbm1pbmQuY29tIiwgInBvcnQiOiAiMTQwMDEiLCAiaWQiOiAiODE4MDIxNTItN2NjOC00MTRiLTg1ZjgtMGZkMDEzOTY5YzRmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ2cHNyYWNrbmVyZDZnLnRpYW5taW5kLmNvbSIsICJwYXRoIjogIi9xamJvIiwgInRscyI6ICJ0bHMiLCAic25pIjogInZwc3JhY2tuZXJkNmcudGlhbm1pbmQuY29tIn0=
+hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@hk2.jueduibupao.top:49841?sni=hk2.jueduibupao.top#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%202-hy2%20TG%40jcnode
+vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@162.159.40.172:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-SIN-443-WS-TLS%20TG%40jcnode
 ```
 
 ---
