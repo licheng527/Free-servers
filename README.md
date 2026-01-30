@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 19:29:58 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 20:59:43 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://0f4dacd7-8f8f-4326-a849-1b1593e8e711@ip.ali.lat:2083?type=ws&sni=temp3.ali.lat&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%5B%5D%20%5Bvl-tl-ws%5D%20%5B260130-012821.197%5D%20TG%40jcnode
-hysteria2://123qwe!@#QWE@129.146.131.57:29316?sni=129.146.131.57#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2029316-35%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@194.247.187.244:443?type=ws&sni=snippet.fgfw.cc.cd&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20vless-DE%2052ms%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@dafeizhu.whtjdasha.com:39301#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2005-%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%20TG%40jcnode
+vless://2b76609f-2132-42ac-a8fd-89635f73c85a@pol.fasti.win:443?type=tcp&sni=pl.fasti.win&security=tls&flow=xtls-rprx-vision&security=reality&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20%2C%20Warsaw%20%5BBL%5D-3%20TG%40jcnode
+vless://1e4649f5-f5d6-4896-9be0-4c6725d4106e@87.239.106.153:8443?type=raw&sni=m.vk.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99%20%5B%5D%20%5Bvl-re-ra%5D%20%5B260130-105915.866%5D%20TG%40jcnode
 ```
 
 ---
