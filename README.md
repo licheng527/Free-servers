@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 10:09:42 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-30 12:41:27 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@57.129.137.70:8443?type=ws&sni=snippet.gfw.nn.kg&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%203%20TG%40jcnode
-vless://316ddca7-03dd-4d22-8d18-0205c6115cad@45.143.131.35:41576?type=tcp&sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=OSiHPEOhOSi-UchL4HM7Vxu5LiMXlEjOXuh_cnfGjAU&sid=87c5784f08874d41#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2010%20WARP%20VLESS%20Reality%20TG%40jcnode
-trojan://316ddca7-03dd-4d22-8d18-0205c6115cad@45.143.131.35:34911?sni=www.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2012%20WARP%20Trojan%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@162.19.243.46:2053?type=ws&sni=snippet.fgfw.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2020%20TG%40jcnode
+vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@104.17.119.91:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-SJC-443-WS-TLS%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29652?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029652-72%20TG%40jcnode
 ```
 
 ---
