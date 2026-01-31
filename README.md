@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-31 14:41:48 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-31 15:29:56 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTEyOC1nY206WjhPcHdvVENyQmRxdzU4YlNoMUdmY0toVDhPb3dwckRyTU8zd3E5alA4T3pIQm9ld3FNMk5oN0RvMWdS@nat.qq.pw:21942#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E5%A4%8F%E5%A8%81%E5%A4%B7US-vl136txkn%20TG%40jcnode
-vless://697d89f8-a1f0-67e4-266f-c1dfb5a6ca37@nekocloud.tencentapp.cn:443?type=ws&sni=dc8f5714-19a6-4359-a269-9be2aa86e3d4.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%20TG%40jcnode
-vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@104.19.164.191:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-SJC-443-WS-TLS-1%20TG%40jcnode
+vless://6b1c3308-9bb4-45bc-8387-25c969a8c8f9@185.247.184.44:443?type=raw&sni=wikiportal.su&security=tls&flow=xtls-rprx-vision&security=reality&pbk=rdUs-4bbwNyZ6kxkqZ7J9HfeaA1hGVROZqLgtBdrRl4&sid=6bce68ada2c8d581#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9%20%5B%5D%20%5Bvl-re-ra%5D%20%5B260131-064627.037%5D%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NlNzOVZYNkNNdUFESUQxYnI1Slk4dFNPelRNRmxwSUZRZkJOaEpOYUd4TT0=@47.79.95.67:26676#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2016%20WARP%20SS-2022-2%20TG%40jcnode
+vless://fbf28ef0-3981-4ac6-ab33-95e599afdd99@sg3.miyazono-kaori.com:443?type=tcp&sni=autopatchhk.yuanshen.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=jmEj5Y0Hlt-myjjuK-d_WDVDM6RP3_TQUrobBqhy1iA&sid=cc8fd4e5c233b915#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2003%20Amazon%20-590%20TG%40jcnode
 ```
 
 ---
