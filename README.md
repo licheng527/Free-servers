@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-31 15:29:56 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-31 16:33:11 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6b1c3308-9bb4-45bc-8387-25c969a8c8f9@185.247.184.44:443?type=raw&sni=wikiportal.su&security=tls&flow=xtls-rprx-vision&security=reality&pbk=rdUs-4bbwNyZ6kxkqZ7J9HfeaA1hGVROZqLgtBdrRl4&sid=6bce68ada2c8d581#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9%20%5B%5D%20%5Bvl-re-ra%5D%20%5B260131-064627.037%5D%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NlNzOVZYNkNNdUFESUQxYnI1Slk4dFNPelRNRmxwSUZRZkJOaEpOYUd4TT0=@47.79.95.67:26676#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2016%20WARP%20SS-2022-2%20TG%40jcnode
-vless://fbf28ef0-3981-4ac6-ab33-95e599afdd99@sg3.miyazono-kaori.com:443?type=tcp&sni=autopatchhk.yuanshen.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=jmEj5Y0Hlt-myjjuK-d_WDVDM6RP3_TQUrobBqhy1iA&sid=cc8fd4e5c233b915#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2003%20Amazon%20-590%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@158.180.49.11:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2036%20TG%40jcnode
+vless://e127f737-bd10-475a-9461-e68904180eab@130.193.59.133:443?type=tcp&sni=yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=f32140952ba18e18#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20VLESS-5%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.18.44.177:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SIN-1%20TG%40jcnode
 ```
 
 ---
