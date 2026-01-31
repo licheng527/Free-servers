@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-31 16:33:11 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-01-31 17:29:48 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@158.180.49.11:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2036%20TG%40jcnode
-vless://e127f737-bd10-475a-9461-e68904180eab@130.193.59.133:443?type=tcp&sni=yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=f32140952ba18e18#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20VLESS-5%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.18.44.177:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SIN-1%20TG%40jcnode
+vless://203d9487-1656-4824-bb09-99c73ecd36c6@104.18.32.252:443?type=ws&sni=lsm.zfrgy.eu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2062.54MB/s%20TG%40jcnode
 ```
 
 ---
