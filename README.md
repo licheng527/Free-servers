@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-02 01:26:40 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-02 02:37:19 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@162.159.20.57:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-SIN-443-WS-TLS%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29181?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029181-28%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.46:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%203%20TG%40jcnode
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@plcdn3.suio.me:443?sni=plcdn3.suio.me&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%204%20TG%40jcnode
+vless://3fe71cdc-8b94-4c75-bc67-e86670660ab0@35.88.24.153:23414?type=tcp&sni=amazon.com&security=tls&security=reality&pbk=Ld4LS3PTtKQzJ4rv8u9F2DYZxNiyx-uuK6DMW40rcV8&sid=f6#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20us1T%20TG%40jcnode
 ```
 
 ---
