@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-02 06:27:16 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-02 07:27:01 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@store.ubi.com:443?sni=_acme-challenge.sb.cloudns.biz#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20snippets-trojan%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@203.234.238.140:58143#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20Gwanak-gu%20-%20Telecom%20-%202%20TG%40jcnode
-ss://YWVzLTEyOC1nY206OWI2MGIzZjgtZjk2Ny00N2E1LThiZDUtMGIxZmZkYjhlNGJj@cpathhk01.cloud-links.org:651#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2001%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29974?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029974-98%20TG%40jcnode
+hysteria2://123456@cloudzy.jiav.vip:443?sni=cloudzy.jiav.vip#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20hy2-172%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@docs.cloudflare.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Cloudflare%20Docs%20TG%40jcnode
 ```
 
 ---
