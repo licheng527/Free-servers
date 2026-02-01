@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-01 21:44:36 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-01 22:27:45 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@saas.sin.fan:443?sni=_acme-challenge.sb.cloudns.biz#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK-snip%20-trojan%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29907?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029907-93%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29150?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029150-25%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29817?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029817-87%20TG%40jcnode
+vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@103.82.21.247:443?type=ws&sni=5465765525.ccfly.tech&security=tls#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20VN-2%20TG%40jcnode
 ```
 
 ---
