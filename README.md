@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-01 16:35:16 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-01 17:33:02 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@88.198.82.150:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2031%20TG%40jcnode
-vless://4f8fac46-5472-4c47-bc56-20b377c54452@72.18.214.169:24537?type=tcp#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20z0oj1mcb-vless%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:28957?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2028957-05%20TG%40jcnode
+vless://316ddca7-03dd-4d22-8d18-0205c6115cad@45.143.131.35:28482?type=tcp&sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=OSiHPEOhOSi-UchL4HM7Vxu5LiMXlEjOXuh_cnfGjAU&sid=87c5784f08874d41#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2001%20VLESS%20Reality%20TG%40jcnode
+hysteria2://wfRq9c1iziyrcca9SWq65FEf1ELl/Y5psKl8L6UCOys=@45.143.131.35:26181?sni=www.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2006%20OBFS%20TG%40jcnode
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn15.suio.me:443?type=tcp&sni=ficdn15.suio.me&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20FI%20TG%40jcnode
 ```
 
 ---
