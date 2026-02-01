@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-02 00:32:46 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-02 01:26:40 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://123qwe!@#QWE@140.245.68.95:29166?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029166-26%20TG%40jcnode
-vless://a0aa7a54-38eb-4f0d-80d5-e3fbe124d915@104.194.70.32:13915?type=ws&sni=us.alice.cloudns.pro&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US2-CN2%20TG%40jcnode
-vless://a0aa7a54-38eb-4f0d-80d5-e3fbe124d915@two.cloudflare-ddns.sakuraikaede.com:443?type=ws&sni=us.alice.cloudns.pro&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20US7-CF%20TG%40jcnode
+vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@162.159.20.57:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-SIN-443-WS-TLS%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29181?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029181-28%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.46:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%203%20TG%40jcnode
 ```
 
 ---
