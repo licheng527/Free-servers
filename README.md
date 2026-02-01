@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-01 17:33:02 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-01 18:28:05 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://316ddca7-03dd-4d22-8d18-0205c6115cad@45.143.131.35:28482?type=tcp&sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=OSiHPEOhOSi-UchL4HM7Vxu5LiMXlEjOXuh_cnfGjAU&sid=87c5784f08874d41#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2001%20VLESS%20Reality%20TG%40jcnode
-hysteria2://wfRq9c1iziyrcca9SWq65FEf1ELl/Y5psKl8L6UCOys=@45.143.131.35:26181?sni=www.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2006%20OBFS%20TG%40jcnode
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn15.suio.me:443?type=tcp&sni=ficdn15.suio.me&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20FI%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@94.23.147.223:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%206%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@sub.danfeng.eu.org:443#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20TW-ss%20TG%40jcnode
+hysteria2://1y4HweESOT@sss.ikun6.dpdns.org:27995?sni=azure.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%20UDP%206.00TB%20TG%40jcnode
 ```
 
 ---
