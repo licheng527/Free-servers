@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-02 05:25:57 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-02 06:27:16 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTEyOC1nY206OWI2MGIzZjgtZjk2Ny00N2E1LThiZDUtMGIxZmZkYjhlNGJj@chkconneter-05.cloud-links.org:1023#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2010-1%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29008?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029008-09%20TG%40jcnode
-trojan://48053259-2cda-4e5b-93e9-0fda5df4a814@xiaozhu1.kkieo555.cn:41274?sni=xiaozhu1.kkieo555.cn#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%2018%20TG%40jcnode
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@store.ubi.com:443?sni=_acme-challenge.sb.cloudns.biz#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20snippets-trojan%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@203.234.238.140:58143#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20Gwanak-gu%20-%20Telecom%20-%202%20TG%40jcnode
+ss://YWVzLTEyOC1nY206OWI2MGIzZjgtZjk2Ny00N2E1LThiZDUtMGIxZmZkYjhlNGJj@cpathhk01.cloud-links.org:651#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2001%20TG%40jcnode
 ```
 
 ---
