@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-01 23:27:11 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-02 00:32:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTEyOC1nY206OWI2MGIzZjgtZjk2Ny00N2E1LThiZDUtMGIxZmZkYjhlNGJj@siuaisa-01.orbit7net.com:815#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20B%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2XHU1MmEwXHU2MmZmXHU1OTI3IFx1N2VmY1x1NTQwOFx1N2ViZlx1OGRlZjFUQiBUR0BqY25vZGUiLCAiYWRkIjogImMzNnM1LnBvcnRhYmxlc3VibWFyaW5lcy5jb20iLCAicG9ydCI6ICI2OTAwIiwgImlkIjogIjNmMTI0MGU2LTdlZjYtNGVjMS1hZjZiLWFiZWIzMGVhNTBlOCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@162.159.44.1:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-NRT-443-WS-TLS%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29166?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029166-26%20TG%40jcnode
+vless://a0aa7a54-38eb-4f0d-80d5-e3fbe124d915@104.194.70.32:13915?type=ws&sni=us.alice.cloudns.pro&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US2-CN2%20TG%40jcnode
+vless://a0aa7a54-38eb-4f0d-80d5-e3fbe124d915@two.cloudflare-ddns.sakuraikaede.com:443?type=ws&sni=us.alice.cloudns.pro&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20US7-CF%20TG%40jcnode
 ```
 
 ---
