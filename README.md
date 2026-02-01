@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-01 10:34:29 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-01 13:01:58 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.shopify.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Shopify-1%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@cf-cname.xingpingcn.top:443?type=ws&sni=snippet.fgfw.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E6%98%86%E4%BB%91%C2%B7%E5%90%AF%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29008?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029008-09%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TmpWaE1XRTJZbVZtTnpnNE1UY3dNQT09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@xiaofeizhu.idsduf.com:40017#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%2002-%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%20AI%20TG%40jcnode
+vless://3c28c3cf-85ef-4a8a-a475-3a8585d563fe@159.223.205.136:42356?type=tcp&sni=dash.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=nY642oPT9bs-EddohAqLcif8a7qaxAUwxeDD85eXNjw&sid=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20017%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29906?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029906-92%20TG%40jcnode
 ```
 
 ---
