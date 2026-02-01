@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-01 14:52:28 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-01 15:38:08 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@51.38.48.27:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2066%20TG%40jcnode
-vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@198.41.223.176:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-SIN-443-WS-TLS%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@138.2.12.103:14453?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%204%20TG%40jcnode
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn15.suio.me:443?type=tcp&sni=ficdn15.suio.me&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20FI%20TG%40jcnode
+vless://5fc41f2c-8e78-4c7d-a572-cae85cb9b063@ipv4-all-2.beraghsa1.sbs:1325?type=tcp#%F0%9F%87%AE%F0%9F%87%B7%E4%BC%8A%E6%9C%97%204JADI-6442%20TG%40jcnode
+vless://7b1ed886-948f-f061-d2b2-bb1fa4f2d5b7@nd4.subsvdragontoo.online:8443?type=ws&sni=nd4.subsvdragontoo.online&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20The%20%2C%20Amsterdam%20%5BBL%5D-8%20TG%40jcnode
 ```
 
 ---
