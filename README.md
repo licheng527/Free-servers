@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-02 02:37:19 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-02 03:26:16 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@plcdn3.suio.me:443?sni=plcdn3.suio.me&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%204%20TG%40jcnode
-vless://3fe71cdc-8b94-4c75-bc67-e86670660ab0@35.88.24.153:23414?type=tcp&sni=amazon.com&security=tls&security=reality&pbk=Ld4LS3PTtKQzJ4rv8u9F2DYZxNiyx-uuK6DMW40rcV8&sid=f6#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20us1T%20TG%40jcnode
+vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?type=tcp#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20FI-187%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29958?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029958-97%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29021?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029021-10%20TG%40jcnode
 ```
 
 ---
