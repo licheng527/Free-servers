@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-02 14:09:22 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-02 15:51:19 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@www.aapanel.com:2053?type=ws&sni=snippet.danfeng21.ndjp.net&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%202%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@222.112.15.141:57312#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR-1%20TG%40jcnode
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@104.19.55.73:443?type=ws&sni=snip.zrfme.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-3%20TG%40jcnode
+trojan://9b6419f8-8120-442e-a48c-6bf52aef0abf@dus3.hdcloud.link:1443?sni=dus3.hdcloud.link#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2068%20TG%40jcnode
+vless://d3a1a0b9-5901-4853-af26-257b14d010bc@47.79.95.67:36037?type=tcp&sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=5NkJGUfLYepOhEtDM5XD6OepifcHNB6tTqiE9p58yiE&sid=25baf66faa00d630#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2010%20WARP%20VLESS%20Reality-2%20TG%40jcnode
+vless://ecfa0c61-adb0-4ed1-b6f4-3ee3f20276e8@147.45.179.104:8443?type=tcp&sni=ir.ozone.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&sid=39a1eb3ec417cd66#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%20TG%40jcnode
 ```
 
 ---
