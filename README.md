@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 01:39:10 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 02:48:02 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@221.139.87.28:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR%203%20TG%40jcnode
-vless://c1ae47ba-5c2e-47b4-8682-e9fc14019278@23.142.204.109:19184?type=tcp&sni=aws.amazon.com&security=tls&security=reality&pbk=N3clayeXTnRuNoNf71LVSo_tzTVsQf10JeBsZgMa2lE&sid=47#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20b3at43il%20TG%40jcnode
-vless://6ef1b079-e936-4c37-b4b4-8e59baf31eb8@45.79.73.59:443?type=ws&sni=yxk.longlivecpc.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E5%9C%A3%E4%BD%95%E5%A1%9E%207.95mb/s%20TG%40jcnode
+vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@125.228.236.138:443?type=ws&sni=5465765525.ccfly.tech&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20TW-2%20TG%40jcnode
+trojan://e212986c-65d2-4ea2-8489-fc504f71ab1b@107.174.196.235:33295?sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20VPS5%20-%2012%20WARP%20Trojan%20TG%40jcnode
 ```
 
 ---
