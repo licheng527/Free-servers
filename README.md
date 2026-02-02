@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 00:42:53 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 01:39:10 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a0aa7a54-38eb-4f0d-80d5-e3fbe124d915@8.215.57.14:443?type=ws&sni=us.alice.cloudns.pro&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US3-CN2%20TG%40jcnode
-vless://ef9502d8-2c61-5946-3a3c-b5d23b83190d@95.163.212.14:8443?type=ws&sni=ndded1.subsvdragontoo.online&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20The%20%5B%2ACIDR%5D%20VK-4%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@221.139.87.28:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR%203%20TG%40jcnode
+vless://c1ae47ba-5c2e-47b4-8682-e9fc14019278@23.142.204.109:19184?type=tcp&sni=aws.amazon.com&security=tls&security=reality&pbk=N3clayeXTnRuNoNf71LVSo_tzTVsQf10JeBsZgMa2lE&sid=47#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20b3at43il%20TG%40jcnode
+vless://6ef1b079-e936-4c37-b4b4-8e59baf31eb8@45.79.73.59:443?type=ws&sni=yxk.longlivecpc.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E5%9C%A3%E4%BD%95%E5%A1%9E%207.95mb/s%20TG%40jcnode
 ```
 
 ---
