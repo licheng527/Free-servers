@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 07:30:22 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 10:23:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://2980ab89-2ad8-4a55-83f2-b674013bc6be@51.250.70.211:43000?type=tcp&sni=max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=EfRoto-dgeY_GOnJCWvNSfHX4sWYWneZHXKMywIwc24&sid=a1b2c3d4#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%5B%2ACIDR%5D%20YA%20TG%40jcnode
-vless://6ef1b079-e936-4c37-b4b4-8e59baf31eb8@cloudflare-dl.byoip.top:443?type=ws&sni=yxk.longlivecpc.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%89-5%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@158.180.49.11:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2041%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@57.129.5.82:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2016%20TG%40jcnode
+vless://1e4649f5-f5d6-4896-9be0-4c6725d4106e@158.160.223.36:443?type=tcp&sni=yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99%20%5B%2ACIDR%5D%20YA%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29150?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029150-25%20TG%40jcnode
 ```
 
 ---
