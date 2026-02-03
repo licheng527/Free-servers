@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 03:48:50 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 04:39:04 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@hkt2.jueduibupao.top:47305?sni=hkt1.jueduibupao.top#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HKT2-hy2%20TG%40jcnode
-ss://YWVzLTI1Ni1nY206MTd2d2I2TnptYzJHWGZINTVLSTdNTXdHNEs5enl5WGw=@47.79.95.67:41706#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2017%20WARP%20SS-2%20TG%40jcnode
-vless://6981c91f-6dd7-26ce-b25e-adc709e5d7b6@60.248.139.106:10428?type=ws&sni=9765eeeb.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%208-2%20TG%40jcnode
+hysteria2://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@134.195.101.191:443?sni=134.195.101.191#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20443%20TG%40jcnode
+vless://efea752c-8c40-482b-81c9-0c580d3ff365@ru.kotvpn.net:443?type=tcp&sni=eh.vk.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=7dfC38K8cK_wyfE3s7lZS8y-KkHpPeO9C1CAVy2rnVg&sid=b722814156350b39#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20The%20%5B%2ACIDR%5D%20VK-12%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.126:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20VN-1%20TG%40jcnode
 ```
 
 ---
