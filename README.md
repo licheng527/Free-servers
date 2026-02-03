@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 16:39:29 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 17:43:57 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://87d1bfd4-574e-4c96-ad42-0426f27461ff@sub.danfeng.eu.org:443?type=ws&sni=_acme-challenge.sb.cloudns.biz&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20TW-snippets-vless%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29442?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029442-57%20TG%40jcnode
-hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@linjp1.jueduibupao.top:44148?sni=linjp1.jueduibupao.top#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%201-hy2%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29035?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029035-11%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29135?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029135-24%20TG%40jcnode
 ```
 
 ---
