@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 01:54:04 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 02:58:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6ef1b079-e936-4c37-b4b4-8e59baf31eb8@cloudflare-dl.byoip.top:443?type=ws&sni=yxk.longlivecpc.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%89-5%20TG%40jcnode
-vless://6ef1b079-e936-4c37-b4b4-8e59baf31eb8@104.26.15.65:443?type=ws&sni=yxk.longlivecpc.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2061072082%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIDE0LTEgVEdAamNub2RlIiwgImFkZCI6ICI4YTBkZDRkMC10OXh6NDAtdGRoOXc3LWFoc2IuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMmU0MmMxZWUtYWFhYS0xMWVjLWJiNzQtZjIzYzkxNjRjYTVkIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@141.94.207.218:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2067%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29892?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029892-91%20TG%40jcnode
 ```
 
 ---
