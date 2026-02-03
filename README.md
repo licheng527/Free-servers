@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 17:43:57 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 18:41:54 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://123qwe!@#QWE@140.245.68.95:29035?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029035-11%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29135?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029135-24%20TG%40jcnode
+vless://698128d0-50e3-5fea-fa27-9e1ff85efbfe@57.129.137.89:443?type=ws&sni=95bc9257.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-55%20TG%40jcnode
+vless://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.130519.xyz:443?type=ws&sni=_acme-challenge.sb.cloudns.biz&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR-snippets-vless%20TG%40jcnode
+vless://a0aa7a54-38eb-4f0d-80d5-e3fbe124d915@104.194.71.150:55854?type=ws&sni=us.alice.cloudns.pro&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US5-CN2%20TG%40jcnode
 ```
 
 ---
