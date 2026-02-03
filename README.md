@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 10:23:51 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 12:47:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@57.129.5.82:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2016%20TG%40jcnode
-vless://1e4649f5-f5d6-4896-9be0-4c6725d4106e@158.160.223.36:443?type=tcp&sni=yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99%20%5B%2ACIDR%5D%20YA%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29150?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029150-25%20TG%40jcnode
+vless://b5920b52-504c-4835-978c-fbc4110d5840@72.61.161.219:443?type=ws&sni=france-paris.hostinger.kcartik-vps.com&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20%2C%20Paris%20%5BBL%5D-3%20TG%40jcnode
+ss://YWVzLTI1Ni1nY206YWZhZGNhOTMtMDljMC0zZGRmLTk5YjgtYWUxZGZhNTEzZmNk@zlaq0-g04.jp02-ae5.entry.v50708.dev:485#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2011-1%20TG%40jcnode
 ```
 
 ---
