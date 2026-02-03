@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 13:51:59 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-03 14:54:33 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a4fac7ad-e2c1-4ef7-a4eb-bf34f96a189f@afrcloud5.c01.kr:443?type=ws&sni=afrcloud5.c01.kr&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%2C%20Freising%20%5BBL%5D%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwQ0ZcdTRmMThcdTkwMDkgW10gdm1lc3MtMiBUR0BqY25vZGUiLCAiYWRkIjogImRpZ2l0YWxvY2Vhbi5jb20iLCAicG9ydCI6ICI4MDgwIiwgImlkIjogIm5hc25ldCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAibmFzbmV0LTU3MTI5OTY2Ny5yYWhhdmFyZDM2NS5jbyIsICJwYXRoIjogIi9OQVNORVQvY2RuP2VkPTI1NjAiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-vless://6ef1b079-e936-4c37-b4b4-8e59baf31eb8@192.155.87.135:443?type=ws&sni=yxk.longlivecpc.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E5%9C%A3%E4%BD%95%E5%A1%9E%206.07mb/s%20TG%40jcnode
+vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.113.47:443?type=tcp&sni=apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%2017dc8f35%20TG%40jcnode
+vless://efea752c-8c40-482b-81c9-0c580d3ff365@83.166.248.160:443?type=tcp&sni=eh.vk.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=7dfC38K8cK_wyfE3s7lZS8y-KkHpPeO9C1CAVy2rnVg&sid=b722814156350b39#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20The%20%5B%2ACIDR%5D%20VK-9%20TG%40jcnode
 ```
 
 ---
