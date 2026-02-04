@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 18:40:17 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 19:34:10 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjIEpQIC0gVm1lc3MgVEdAamNub2RlIiwgImFkZCI6ICIzMS41OC4yMjMuMTM0IiwgInBvcnQiOiAiODQ0MyIsICJpZCI6ICI3OGNkYzZiNy04YjE0LTQ3ZDYtYmYwOS0zMTY3YmM1MTI0ZmIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.198.138:2096?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-10%20TG%40jcnode
+vless://e212986c-65d2-4ea2-8489-fc504f71ab1b@107.174.196.235:16650?type=tcp&sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=4AU5AXbmVINcQrL_KfDJQR1S5QRl-p39uJJl7YDG2iI&sid=cde6e82e075e8a01#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20VPS5%20-%2010%20WARP%20VLESS%20Reality%20TG%40jcnode
 ```
 
 ---
