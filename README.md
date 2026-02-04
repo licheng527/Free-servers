@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 12:41:07 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 13:50:34 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIDEyIFRHQGpjbm9kZSIsICJhZGQiOiAiZjMyNDI5YjEtdDlzZjQwLXRhMDByZC0xbzhhay5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAicG9ydCI6ICI4MCIsICJpZCI6ICI4YmI2OGQwNC02OTczLTExZWUtYjUxOC1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@ns.cloudflare.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Cloudflare%20ns%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@172.64.82.53:2087?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20A14%20TG%40jcnode
 ```
 
 ---
