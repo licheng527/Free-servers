@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 14:55:34 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 15:45:48 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.008500.xyz:443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK-ss%20TG%40jcnode
-vless://a0aa7a54-38eb-4f0d-80d5-e3fbe124d915@three.cloudflare-ddns.sakuraikaede.com:443?type=ws&sni=us.alice.cloudns.pro&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20US8-CF%20TG%40jcnode
+
 ```
 
 ---
