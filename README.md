@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 15:45:48 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 16:44:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-
+vless://e9624aba-0a99-43b5-80ba-0b0877b678a6@154.31.114.125:443?type=tcp&sni=navi.bankrate.com&security=tls&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2003%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@ns.cloudflare.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Cloudflare%20ns%20TG%40jcnode
 ```
 
 ---
