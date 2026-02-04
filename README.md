@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 19:34:10 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-04 21:03:36 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.198.138:2096?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-10%20TG%40jcnode
-vless://e212986c-65d2-4ea2-8489-fc504f71ab1b@107.174.196.235:16650?type=tcp&sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=4AU5AXbmVINcQrL_KfDJQR1S5QRl-p39uJJl7YDG2iI&sid=cde6e82e075e8a01#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20VPS5%20-%2010%20WARP%20VLESS%20Reality%20TG%40jcnode
+vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@162.159.42.81:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-LAX-443-WS-TLS-2%20TG%40jcnode
 ```
 
 ---
