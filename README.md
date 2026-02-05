@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-05 18:42:13 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-05 19:36:26 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@mfa.gov.ua:443#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20ss%20TG%40jcnode
-vless://9ac5f436-b2d0-4131-bfe7-ca060f9f3803@fr.fasti.win:443?type=tcp&sni=fr.fasti.win&security=tls&flow=xtls-rprx-vision&security=reality&pbk=CuLjZaOWwaC_didE-f8CZoUK0mGH75iq-0u1St_wjUU&sid=67f8515f3fa23d2f#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20%2C%20Paris%20%5BBL%5D-1%20TG%40jcnode
-vless://e43dd231-7c75-4606-80ec-50fbb8335ce7@132.226.85.167:443?type=tcp&sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=3ik9ws7ATJ5dKDY2Fofv9y7_vpFYsTqgOJRxiQKwA3A&sid=7b233a973c94ca0a#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Oracle-Phoenix-Reality%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29433?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029433-56%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TmpWaE1XRTJZbVZtTnpnNE1UY3dNQT09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@xiaofeizhu.idsduf.com:20116#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%E5%AE%B6%E5%AE%BD04-%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%20AI%20TG%40jcnode
+vless://7529c887-420c-4a80-8c2d-2cd07f56a7e4@access-fl26.agveit.pro:443?type=tcp&sni=access-fl26.agveit.pro&security=tls&flow=xtls-rprx-vision&security=reality&pbk=KirNNYcecynNjQyb6gQFlHUcpbgijjcxjWgvAFJwmSs&sid=a934cacc5e43cf60#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20%2C%20Helsinki%20%5BBL%5D-3%20TG%40jcnode
 ```
 
 ---
