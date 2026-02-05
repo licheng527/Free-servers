@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-06 04:35:42 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-06 05:31:30 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@dafeizhu.whtjdasha.com:39987#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%2001%20TG%40jcnode
-hysteria2://123qwe!@#QWE@140.245.68.95:29383?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029383-52%20TG%40jcnode
-hysteria2://mtQ0/+u8NyO926C+AH0mUZEOdZ6e/G+geXZHmo8ERw4=@107.174.196.235:13055?sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20VPS5%20-%2013%20WARP%20TG%40jcnode
+vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@199.193.125.229:44000?type=ws&sni=5465765525.ccfly.tech&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-20%20TG%40jcnode
+vless://d811ecf9-4029-4794-a43e-3611c3575b9e@34.254.224.37:48056?type=grpc&sni=34.254.224.37&security=tls#%F0%9F%87%AE%F0%9F%87%AA%E7%88%B1%E5%B0%94%E5%85%B0%20%2C%20Dublin%20%5BBL%5D%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29746?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029746-80%20TG%40jcnode
 ```
 
 ---
