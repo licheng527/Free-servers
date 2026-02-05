@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-05 10:11:59 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-05 12:48:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.temu.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Temu%20TG%40jcnode
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@uscdn3.suio.me:443?type=tcp&sni=uscdn3.suio.me&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-16%20TG%40jcnode
-hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@kr2.jueduibupao.top:30000?sni=kr2.jueduibupao.top#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20hy2%20TG%40jcnode
+hysteria2://123qwe!@#QWE@140.245.68.95:29892?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029892-91%20TG%40jcnode
+vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@162.159.26.128:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-SIN-443-WS-TLS-2%20TG%40jcnode
+vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@202.91.35.242:36464?type=ws&sni=5465765525.ccfly.tech&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-21%20TG%40jcnode
 ```
 
 ---
