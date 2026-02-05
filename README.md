@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-05 22:44:15 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-05 23:42:16 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@51.15.47.222:3443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL-29%20TG%40jcnode
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@cf.877774.xyz:443?type=ws&sni=saa-e1b.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-86%20TG%40jcnode
-hysteria2://WWaArWdRoLeMggOTm4SosJXZuDDNNNH2nYb3Q1b8byE=@47.79.95.67:34939?sni=www.microsoft.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2015%20WARP%20Hy2%20OBFS-2%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NlNzOVZYNkNNdUFESUQxYnI1Slk4dFNPelRNRmxwSUZRZkJOaEpOYUd4TT0=@47.79.95.67:26676#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2016%20WARP%20SS-2022-2%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@162.19.66.26:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2085%20TG%40jcnode
+vless://c33275fd-a4fa-470d-90e4-55da39d849a8@fuck1.tawanaproxy.online:80?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E6%9C%AA%E7%9F%A5%2031%20TG%40jcnode
 ```
 
 ---
