@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-06 02:52:27 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-06 03:37:48 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://10204890-4bc5-404e-abb8-8161dd77d3d1@de.jp3.ir:6079?type=tcp&sni=www.pcmag.com&security=tls&security=reality&pbk=Ak3gZa-Tu1UK7RFZiOddKd5vbYPwZMf3jmZ9aq5Wo04&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20VLESS-5%20TG%40jcnode
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@ns.cloudflare.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Cloudflare%20ns%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@dafeizhu.whtjdasha.com:19529#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2001-2%20TG%40jcnode
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443?sni=_acme-challenge.sb.cloudns.biz#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20trojan%20TG%40jcnode
+vless://fcfc091d-81a4-40b7-cbdc-8eb7683617a4@2.kr.2.cdn-bilibili.cn:443?type=tcp&sni=www.icloud.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=9rr6yA8sLejb_9JIjScFzbBaXvEKaqKHwsUggtlVw1w&sid=#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2011%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@38.22.237.187:39738?type=ws&sni=snippet.fgfw.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20USTG%40-3%20TG%40jcnode
 ```
 
 ---
