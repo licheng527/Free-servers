@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-05 07:30:19 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-05 10:11:59 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@162.159.153.188:443?type=ws&sni=saa-e1b.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-4%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.temu.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Temu%20TG%40jcnode
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@uscdn3.suio.me:443?type=tcp&sni=uscdn3.suio.me&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-16%20TG%40jcnode
+hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@kr2.jueduibupao.top:30000?sni=kr2.jueduibupao.top#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20hy2%20TG%40jcnode
 ```
 
 ---
