@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-05 12:48:55 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-05 13:56:32 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://123qwe!@#QWE@140.245.68.95:29892?sni=140.245.68.95#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%2029892-91%20TG%40jcnode
-vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@162.159.26.128:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-SIN-443-WS-TLS-2%20TG%40jcnode
-vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@202.91.35.242:36464?type=ws&sni=5465765525.ccfly.tech&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-21%20TG%40jcnode
+vless://203d9487-1656-4824-bb09-99c73ecd36c6@104.19.43.112:443?type=ws&sni=saa-e1b.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-6%20TG%40jcnode
+hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@hk1.jueduibupao.top:50001?sni=hk1.jueduibupao.top#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%201-hy2%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfdHI=@tr-1.stunnel.cc:8444#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20TR%E3%80%90%EF%BC%9A%20TG%40jcnode
 ```
 
 ---
