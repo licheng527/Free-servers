@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-06 23:41:43 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-07 00:49:16 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@103.15.90.134:49678?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20VN-3%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@141.94.204.68:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2095%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIFVTLTI5IFRHQGpjbm9kZSIsICJhZGQiOiAidjI5LmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODI5IiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@51.195.42.173:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2053%20TG%40jcnode
+vless://203d9487-1656-4824-bb09-99c73ecd36c6@198.41.223.167:443?type=ws&sni=saa-e1b.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-1%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.17.71.206:2053?type=ws&sni=snippet.sheilabelinda.ndjp.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2014%20TG%40jcnode
 ```
 
 ---
