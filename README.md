@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-06 13:55:08 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-06 14:57:34 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://809cb344-def3-4e17-a019-0a6f3c81eba3@sakura.388898.xyz:31797?sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20%E6%A8%B1%E8%8A%B1sakurahy2%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.16.74.221:2096?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20A02%20TG%40jcnode
-ss://YWVzLTI1Ni1nY206MDVmNDhmNjMtYTVlOS00MjU4LWJhNDEtZTJiZDI0NmIyNThl@cdn-p1-sg.x.douyinstatic.art:11508#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%206%2014.9MB/s%2036%25%20GPT%E2%81%BA%20GM%20YT-CN%20D%2B%20X%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?type=ws#%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%20Csgo%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@91.107.157.253:26484?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%204%20TG%40jcnode
+vless://00c01f55-e31a-41cd-872b-938cda90afc3@84.23.52.70:8443?type=tcp&sni=m.vk.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#%F0%9F%87%AD%F0%9F%87%BA%E5%8C%88%E7%89%99%E5%88%A9%20%5B%2ACIDR%5D%20VK-1%20TG%40jcnode
 ```
 
 ---
