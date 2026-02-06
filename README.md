@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-06 17:45:01 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-06 18:41:26 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@103.21.244.212:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20A01%20TG%40jcnode
-vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@89.208.230.173:443?type=tcp&sni=ads.x5.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20%5B%2ACIDR%5D%20VK%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@45.153.187.209:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8%20SE%202%20TG%40jcnode
+trojan://96223d40-0fe8-4eda-9aaa-25daba4aecd4@a9f42d6cdd75c3fbfbb8083235472834.lh.gtm.cac.cab:49940?sni=tcus1.bilibili.com#%F0%9F%87%A7%F0%9F%87%A9%E5%AD%9F%E5%8A%A0%E6%8B%89%20Relay%20BD-US%20293%2013.12Mb%20TG%40jcnode
+hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@lvs.jueduibupao.top:50001?sni=lvs.jueduibupao.top#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF-hy2%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@51.195.119.77:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2064%20TG%40jcnode
 ```
 
 ---
