@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-07 00:49:16 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-07 01:42:08 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@51.195.42.173:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2053%20TG%40jcnode
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@198.41.223.167:443?type=ws&sni=saa-e1b.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-1%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.17.71.206:2053?type=ws&sni=snippet.sheilabelinda.ndjp.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2014%20TG%40jcnode
+vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@54.46.72.234:8003?type=ws&sni=5465765525.ccfly.tech&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK-6%20TG%40jcnode
+vless://00c01f55-e31a-41cd-872b-938cda90afc3@84.23.52.70:8443?type=tcp&sni=m.vk.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#%F0%9F%87%AD%F0%9F%87%BA%E5%8C%88%E7%89%99%E5%88%A9%20%5B%2ACIDR%5D%20VK-1%20TG%40jcnode
+vless://809cb344-def3-4e17-a019-0a6f3c81eba3@loshome-166.388898.xyz:50007?type=tcp&sni=www.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=RbTPkbw9gh6Lw2g_wLu_GVNMym9d1JTroaKgqtm2EHE&sid=f452b8ff8109b773#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E6%B4%9B%E6%9D%89%E7%9F%B6vless%20TG%40jcnode
 ```
 
 ---
