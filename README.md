@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 03:25:46 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 04:29:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://895f94cb-5567-4731-bc2c-2f89a54bafe4@87.239.111.227:443?type=grpc&sni=m.vk.ru&security=tls&security=reality&pbk=kz54nOxv8IOst-C_GQO5cf6106be0UakNbCEXiDuhHA&sid=3863adb3#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20VLESS-6%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@69.84.182.238:2096?type=ws&sni=sni.jpmj.dev&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-36%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@152.228.135.132:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2012-2%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.20.209.70:443?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BF%20%2C%20Nova%20Iguau%20%28Recreio%20Pao%20da%20Marambaia%29%20%5BBL%5D-1%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@57.128.179.10:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2073-1%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@57.129.16.72:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2015%20TG%40jcnode
 ```
 
 ---
