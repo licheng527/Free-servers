@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-07 13:43:08 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-07 14:45:00 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@162.159.39.41:443?type=ws&sni=saa-e1b.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%204%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@51.91.103.130:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2075-1%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.238.225.185:2053?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL-24%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.195.119.195:2053?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR-15%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@141.94.204.206:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2091%20TG%40jcnode
+vless://893f8067-2e45-457d-99c6-4672ed4b7e76@51.250.32.69:443?type=tcp&sni=www.yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=MS65bqOY_SgSw67G9gj5a_5v6GzaVRlC1EDSdYEy1lg&sid=f7c0a11edbdb07f2#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%5B%2ACIDR%5D%20YA-10%20TG%40jcnode
 ```
 
 ---
