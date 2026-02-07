@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-07 18:28:10 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-07 19:23:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://91691968-cf8b-4cb4-b487-862a4f33baf5@aws-linkhy3.liangxin1.xyz:443?sni=iosapps.itunes.apple.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%E4%B8%93%E7%BA%BF03%20BGP%20%E6%B5%81%E5%AA%92%E4%BD%93%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@51.195.100.92:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2016%20TG%40jcnode
-ss://YWVzLTI1Ni1nY206NGY1MGFmMzgtNDJjNi0zZGQ4LWFkYjYtZGJiMGI2YTExZGUx@d.p.x.k.s.y.q.9.6.jp03-ae5.entry.v51124-3.qpon:489#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20Y03%20IEPL%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.246.138:2096?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE-11%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@www.shopify.com:8443?type=ws&sni=snippet.fgfw.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%99%BD%E8%99%8E%C2%B7%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@135.125.190.99:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2031-1%20TG%40jcnode
 ```
 
 ---
