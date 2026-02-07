@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 00:32:30 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 01:27:10 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.205.0.238:2096?type=ws&sni=sni.jpmj.dev&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-46%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@152.228.135.132:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2012-2%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@135.125.232.253:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2017%20TG%40jcnode
+vless://6416708c-eaa5-4ec5-b652-a2db2feab875@195.3.223.143:443?type=tcp&sni=pl.jojack.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=af8564cc476ebf07#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20%2C%20Warsaw%20%5BBL%5D%20TG%40jcnode
+vless://69866ea0-ee04-3e5f-cf86-da72d07ff4f0@192.0.54.31:8443?type=ws&sni=31241964.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-48%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@51.38.50.52:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2086%20TG%40jcnode
 ```
 
 ---
