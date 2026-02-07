@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-07 10:08:31 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-07 12:39:02 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1nY206NGY1MGFmMzgtNDJjNi0zZGQ4LWFkYjYtZGJiMGI2YTExZGUx@c.s.m.e.x.y.g.9.6.ca01-ae5.entry.v51124-3.qpon:20056#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20Y01%20TG%40jcnode
-vless://df176b95-8e71-4e5b-a24a-9715d284e24d@156.238.228.167:61777?type=tcp&sni=www.ebay.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=89P7XLJ_E9kPUuWQjndIMz8qgq6xK03dqr0U7IS3WWg&sid=#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20233boy-reality%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@162.19.242.215:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2063%20TG%40jcnode
+vless://69866ea0-ee04-3e5f-cf86-da72d07ff4f0@60.248.139.106:32770?type=ws&sni=31241964.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-27%20TG%40jcnode
+vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@192.9.135.182:7800?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%207%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.253.188.151:443?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2C%20Toronto%20%5BBL%5D-13%20TG%40jcnode
 ```
 
 ---
