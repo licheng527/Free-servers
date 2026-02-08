@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 19:24:29 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 20:54:25 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@vip1.kaixincloud.top:443?type=ws&sni=DiprOX.pages.DEV&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2024%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@165.1.65.220:55200?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2016-1%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.128.207.194:443?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%2C%20Chicago%20%5BBL%5D-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@195.135.253.47:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B1%F0%9F%87%BB%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A%20LV%205%20TG%40jcnode
+trojan://bca7cc76-2ccd-4de0-a6e8-e5568d54caae@green2.cdntencentmusic.com:31102?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20TW-43%20TG%40jcnode
+vless://203d9487-1656-4824-bb09-99c73ecd36c6@104.18.33.209:443?type=ws&sni=saa-e1b.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2065.09MB/s%20TG%40jcnode
 ```
 
 ---
