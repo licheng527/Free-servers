@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 22:29:31 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 23:28:47 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://e8accc46-c511-42fb-919b-9283799a88a1@79.137.175.56:8443?type=tcp&sni=m.vk.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=8f222b3475800821#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20%5B%2ACIDR%5D%20VK-5%20TG%40jcnode
-hysteria2://91691968-cf8b-4cb4-b487-862a4f33baf5@aws-linkhy3.liangxin1.xyz:443?sni=iosapps.itunes.apple.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%E4%B8%93%E7%BA%BF03%20BGP%20%E6%B5%81%E5%AA%92%E4%BD%93%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.227.107.9:8443?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL-17%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.34:443?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%20163%20%E2%AC%87%205.0MB/s%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@91.239.148.53:42053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20PL-1%20TG%40jcnode
+vless://203d9487-1656-4824-bb09-99c73ecd36c6@162.159.32.128:443?type=ws&sni=saa-e1b.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%204-6%20TG%40jcnode
 ```
 
 ---
