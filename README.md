@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 07:31:45 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 10:41:09 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@162.159.44.31:443?type=ws&sni=saa-e1b.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2060.13MB/s%20TG%40jcnode
-vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@51.38.51.190:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2031%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.61:8443?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB-15%20TG%40jcnode
+trojan://humanity@www.multiplydose.com:443?sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20%5B%5D%20%5Btr-tl-ws%5D%20%5B260208-012408.275%5D%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.147.149.54:443?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2C%20Toronto%20%5BBL%5D-4%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@dafeizhu.whtjdasha.com:39301#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2005-%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%20TG%40jcnode
 ```
 
 ---
