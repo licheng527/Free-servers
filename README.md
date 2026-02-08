@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 10:41:09 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 13:04:41 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://humanity@www.multiplydose.com:443?sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20%5B%5D%20%5Btr-tl-ws%5D%20%5B260208-012408.275%5D%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.147.149.54:443?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2C%20Toronto%20%5BBL%5D-4%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@dafeizhu.whtjdasha.com:39301#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2005-%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%20TG%40jcnode
+trojan://humanity@104.18.7.147:443?sni=www.creationlong.org#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20443%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@109.120.155.135:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8%20SE%202-1%20TG%40jcnode
+vless://6987bfae-ac87-e1a3-3902-c2b45b13e497@156.243.244.109:8443?type=ws&sni=2b16b614.ifree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-16%20TG%40jcnode
 ```
 
 ---
