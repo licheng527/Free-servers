@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 15:39:18 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-08 16:35:34 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://b99a0551-c00f-4508-86a8-67388a0710c0@hkt1.jueduibupao.top:44891?sni=hkt1.jueduibupao.top#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK%2010%20%E2%AC%87%202.0MB/s%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.191.138:2096?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2004-1%20TG%40jcnode
-vless://e59083aa-d933-4952-8cf0-eec74f718705@fr.locations-service.com:3032?type=tcp&sni=refersion.com&security=tls&security=reality&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&sid=#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%2006%20TG%40jcnode
+hysteria2://2132290b-d811-4ac5-83bf-fe718c5e1403@linjp1.jueduibupao.top:46037?sni=linjp1.jueduibupao.top#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%2026%20%E2%AC%87%201.7MB/s%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@51.91.254.111:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2024%20TG%40jcnode
 ```
 
 ---
