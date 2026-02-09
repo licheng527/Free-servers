@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-09 07:33:03 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-09 10:27:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.156.19.138:2096?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB-6%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@xiaofeizhu.idsduf.com:40022#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%E7%BA%BD%E7%BA%A602%20TG%40jcnode
-vless://f8159636-4476-4e46-f303-a9c5abc6e7ff@sss.ikun6.dpdns.org:20664?type=tcp&sni=addons.mozilla.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=DHfbDzp8n6DqI5aGd6SLZjENaueaiWwayVDlkpWULVU&sid=35c2cb29#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%20TCP%20Brutal%206.00TB%20TG%40jcnode
+vless://69891136-68c5-c8cf-f5a8-406cb761b88f@153.121.45.101:443?type=ws&sni=da915781.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-19%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.12.95.66:8443?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-314%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@141.95.161.241:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2023%20TG%40jcnode
 ```
 
 ---
