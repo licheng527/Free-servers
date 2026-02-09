@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-09 21:13:18 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-09 22:53:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@130.185.164.212:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2024%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20UN-16%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.138:2096?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%F0%9F%87%B2%F0%9F%87%BA%20MU-3%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.40.117.130:443?type=ws&sni=sni.111000.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE-25%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.144.238:2096?type=ws&sni=sni.jpmj.dev&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-254%20TG%40jcnode
+vless://e88e5f91-db2f-4e20-892b-081a4f0f5cf7@bouquetberlin.org:8443?type=ws&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20DYNAMIC-13782%20TG%40jcnode
 ```
 
 ---
