@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-11 02:03:50 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-11 04:00:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@51.91.248.99:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%203%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@162.19.226.175:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2026%20TG%40jcnode
+vless://698a636b-a839-1a96-2ee5-cb99da633045@58.153.155.98:12345?type=ws&sni=b47f747c.sfree.cn.mt&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%AE%98%E6%96%B9HKG%EF%BC%9A-2%20TG%40jcnode
+vless://c9246b70-3eca-4825-84b0-16c32e3124a7@158.160.105.121:51102?type=tcp&sni=yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20%5B%2ACIDR%5D%20YA-1%20TG%40jcnode
 ```
 
 ---
