@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-11 06:41:26 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-11 07:39:20 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@57.129.131.163:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2022%20TG%40jcnode
-vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@20251127.ldvsmms.dpdns.org:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%8E%9F%E7%94%9F%E5%9C%B0%E5%9D%80-443-WS-TLS%20TG%40jcnode
-vless://5566ef21-b44d-4f2f-9356-6664a7c611ee@192.0.54.31:8443?type=ws&sni=mc2-1rw.pages.dev&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20Relay%20-GB%20337%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@139.162.133.162:11285?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2025%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@88.210.11.164:22284?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2017%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@8.209.220.50:21273?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%2012%20TG%40jcnode
 ```
 
 ---
