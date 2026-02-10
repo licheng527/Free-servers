@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-10 10:35:13 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-10 13:05:19 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@51.75.24.135:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2071%20TG%40jcnode
-vless://309fa273-6579-4cb2-9143-7cad50401eba@135.181.155.97:443?type=tcp&sni=www.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20FI-1%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@162.19.78.179:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2011%20TG%40jcnode
+vless://8c7961bd-2a58-4a02-8f8f-a37d2122eeaf@158.160.105.121:8443?type=raw&sni=yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20%5B%5D%20%5Bvl-re-ra%5D%20%5B260209-232845.398%5D%20TG%40jcnode
+hysteria2://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50019?sni=do-vnyear.9966663.xyz#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20UDP%E8%AF%AD%E9%9F%B304-%E9%99%90%E9%80%9F10M%20TG%40jcnode
+hysteria2://91691968-cf8b-4cb4-b487-862a4f33baf5@aws-linkhy17.liangxin1.xyz:443?sni=bilibili-jp3.biliimg.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20%E4%B8%93%E7%BA%BF03%20BGP%20%E6%B5%81%E5%AA%92%E4%BD%93%20TG%40jcnode
 ```
 
 ---
