@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-11 18:53:26 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-11 19:46:57 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://80d277e5-d30a-49c6-8987-cb4d2cc79ee5@89.169.128.105:8443?type=tcp&sni=yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#%F0%9F%87%AD%F0%9F%87%BA%E5%8C%88%E7%89%99%E5%88%A9%20%5B%2ACIDR%5D%20YA%20TG%40jcnode
-vless://698bb538-8a0d-4682-057a-8795b64fd2ff@114.32.9.249:51443?type=ws&sni=0c10a6a7.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-34%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@104.26.1.251:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-6%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlXHU5YTZjXHU2NzY1XHU4OTdmXHU0ZTlhIE1ZXHU0ZTI4MSBUR0BqY25vZGUiLCAiYWRkIjogImQ4eGs1cTN2LmdhYnVpdC5jb20iLCAicG9ydCI6ICI0ODYxOSIsICJpZCI6ICJGOUIxOEM2Qy1BMkEyLTQyMTUtODM1Qy0zQkI0MDE5ODM4OEUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+vless://1a5b443d-42f3-4e8e-b980-2ebf9e74a45d@89.169.162.214:8443?type=tcp&sni=yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20%5B%2ACIDR%5D%20YA%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNGI5NTZiYy0xYmYxLTQxYzYtYmEzNi01NDRjZmVkOGQxY2E=@hd117-rb-jd.huidu51.com:46618#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2010%20TG%40jcnode
 ```
 
 ---
