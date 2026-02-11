@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-11 21:14:51 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-11 22:54:56 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNGI5NTZiYy0xYmYxLTQxYzYtYmEzNi01NDRjZmVkOGQxY2E=@hd117-tw-jd.huidu51.com:46628#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%209%20TG%40jcnode
-hysteria2://d6709f7f-b5ec-4aa1-952d-d487afc7f594@hk2.jueduibupao.top:46995?sni=hk2.jueduibupao.top#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%202-hy2-1%20TG%40jcnode
-trojan://91cec748-2bd4-4608-89a3-09220e1599f9@green2.cdntencentmusic.com:31102?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20HK11%EF%BD%9C%E5%8E%9F%E7%94%9F/%E7%96%91%E4%BC%BC%E5%AE%B6%E5%AE%BD%EF%BD%9C%E9%9D%9E%E5%B8%B8%E5%AE%89%E5%85%A8%20TG%40jcnode
+vless://5566ef21-b44d-4f2f-9356-6664a7c611ee@112.167.200.35:12119?type=ws&sni=mc2-1rw.pages.dev&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20disney%20KR%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.118:443?type=ws&sni=sni.111000.dynv6.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%200054%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.83:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2023%20TG%40jcnode
 ```
 
 ---
