@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-11 22:54:56 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-12 00:03:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://5566ef21-b44d-4f2f-9356-6664a7c611ee@112.167.200.35:12119?type=ws&sni=mc2-1rw.pages.dev&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20disney%20KR%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.118:443?type=ws&sni=sni.111000.dynv6.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%200054%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.83:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2023%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@142.171.78.24:443?type=ws&sni=sni.111000.dynv6.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-13%20TG%40jcnode
+vless://e1042324-ac7a-474f-94f0-f97370f02e72@vip1.kaixincloud.top:443?type=ws&sni=do-lon1.025713.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E4%B8%AD%E6%96%87%E5%AE%98%E7%BD%91%EF%BC%9A%5B%E5%8D%B7%E7%8E%8B.cc%5D%20%E6%B5%B7%E5%A4%96%20-0x-02%20TG%40jcnode
+hysteria2://9d7d1318-09f5-49ea-92a4-e7f4274f4c8b@kjp.sanmaojichang.com:21256?sni=kjp.sanmaojichang.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20disney%20JP-4%20TG%40jcnode
 ```
 
 ---
