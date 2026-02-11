@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-12 06:30:47 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-12 07:34:16 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.131:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%203%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.72:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2022%20TG%40jcnode
-ss://YWVzLTI1Ni1nY206RjlCMThDNkMtQTJBMi00MjE1LTgzNUMtM0JCNDAxOTgzODhF@d8xk5q3v.gabuit.com:48609#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%E4%B8%A81%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@44.223.62.57:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2016%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.229.97.221:8443?type=ws&sni=sni.111000.dynv6.net&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%206%201.5MB/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNGI5NTZiYy0xYmYxLTQxYzYtYmEzNi01NDRjZmVkOGQxY2E=@hd117-xjp-jd.huidu51.com:46610#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%208%20TG%40jcnode
 ```
 
 ---
