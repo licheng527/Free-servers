@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-13 03:04:47 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-13 04:37:45 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://c61fd003-1ad7-44fb-9bfc-da6382c6f4d3@entrainmentworld.de:2083?type=ws&sni=entrainmentworld.de&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-111%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.108.216.48:8442?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%2C%20Dreieich%20%5BBL%5D-7%20TG%40jcnode
-vless://702a6913-59eb-44b1-a63d-49ebceb0b446@45.145.40.62:7443?type=tcp&sni=speed.overload.ovh&security=tls&flow=xtls-rprx-vision&security=reality&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%2C%20Frankfurt%20am%20Main%20%5BBL%5D%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@152.53.14.140:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2019%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@51.159.6.227:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2049%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@152.70.101.24:16043?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%2012%20TG%40jcnode
 ```
 
 ---
