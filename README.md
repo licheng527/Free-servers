@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-12 10:26:59 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-12 12:59:30 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://698d064c-5552-9887-94b9-81f30095a61d@34.81.253.0:443?type=ws&sni=d5e1de86.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-29%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@91.149.240.217:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2016%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@45.89.110.69:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%20CY%20TG%40jcnode
+vless://e18a8a3d-8cff-412b-af35-4f6b0497c695@msk.ru.srv.rucdn.link:8443?type=tcp&sni=ign.dev&security=tls&flow=xtls-rprx-vision&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%5B%2ACIDR%5D-10%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIDIwIFx1NGUxM1x1N2ViZiAyMFx1NTAwZFx1NmQ0MVx1OTFjZiBUR0BqY25vZGUiLCAiYWRkIjogIjE0LjIxNS4zOS4xOSIsICJwb3J0IjogIjEwMDAwIiwgImlkIjogImNjNmU2NzlhLWY0Y2MtNDU1MS1iNDhhLTI5MDIwMThjMDQ0NyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+vless://26524cce-d514-4014-a426-365fb266a14d@104.19.37.113:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-10%20TG%40jcnode
 ```
 
 ---
