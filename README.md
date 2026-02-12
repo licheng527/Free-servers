@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-12 14:10:01 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-12 15:53:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@144.34.230.39:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%205%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@198.41.208.203:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-96%20TG%40jcnode
-ss://YWVzLTEyOC1nY206Nkg5MDV1UjNQbTBMdjdI@b.cdn-bilibili.cn:38024#%F0%9F%87%B2%F0%9F%87%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20MY-2%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@89.58.15.243:2007?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2044-1%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.125.100.153:443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20The%20%2C%20Amsterdam%20%5BBL%5D-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@172.67.69.96:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-4%20TG%40jcnode
 ```
 
 ---
