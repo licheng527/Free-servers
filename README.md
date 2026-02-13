@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-13 22:41:24 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-13 23:43:20 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.217:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2025%20TG%40jcnode
-vless://4ccc70a3-e918-429b-a910-736cb401f57f@84.201.172.104:8443?type=tcp&sni=tele2.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=0a3d38cwnQfUM7EqjEinf1XUZyKdzgiuRMayO3LcYl0&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%5B%2ACIDR%5D%20YA-5%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@162.19.66.26:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2054%20TG%40jcnode
+ss://cmM0LW1kNTpiMTNjNGMwMjFjZWMyYzBi@154.90.55.15:11201#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%E9%98%BF%E6%8B%89%E4%BC%AF%E8%81%94%E5%90%88%E9%85%8B%E9%95%BF%E5%9B%BD%20-%20%E8%BF%AA%E6%8B%9C%20-%20Kaopu%20Cloud%20HK%20Limited%20-%201%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@89.58.15.243:2007?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2052%20TG%40jcnode
+vless://2b4e6322-b411-42f4-b45d-0ddd5944975c@195.3.223.15:443?type=tcp&sni=pl.scroogethebest.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20%5B%2ACIDR%5D%20TG%40jcnode
 ```
 
 ---
