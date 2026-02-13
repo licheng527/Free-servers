@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-13 23:43:20 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-14 00:51:02 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://cmM0LW1kNTpiMTNjNGMwMjFjZWMyYzBi@154.90.55.15:11201#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%E9%98%BF%E6%8B%89%E4%BC%AF%E8%81%94%E5%90%88%E9%85%8B%E9%95%BF%E5%9B%BD%20-%20%E8%BF%AA%E6%8B%9C%20-%20Kaopu%20Cloud%20HK%20Limited%20-%201%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@89.58.15.243:2007?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2052%20TG%40jcnode
-vless://2b4e6322-b411-42f4-b45d-0ddd5944975c@195.3.223.15:443?type=tcp&sni=pl.scroogethebest.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20%5B%2ACIDR%5D%20TG%40jcnode
+vless://1cf63b4c-120e-482e-b097-47c79c3c63ae@dl.i-farm.ir:80?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20DYNAMIC-14087%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@185.231.206.61:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20RU%203%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@185.236.233.102:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B2%F0%9F%87%A9%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6%20MD%202%20TG%40jcnode
 ```
 
 ---
