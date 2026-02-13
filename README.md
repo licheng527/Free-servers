@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-13 10:28:27 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-13 12:54:16 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@213.183.59.27:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2023%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@152.228.134.60:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2049%20TG%40jcnode
-vless://698e5863-55e8-5126-0ac2-6156f6008a2d@nekocloud.tencentapp.cn:443?type=ws&sni=f310a3c6.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%20TG%40jcnode
+vless://698e5863-55e8-5126-0ac2-6156f6008a2d@192.9.139.160:443?type=ws&sni=f310a3c6.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-51%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@8.210.96.197:12902?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK%206%20TG%40jcnode
+vless://698e5863-55e8-5126-0ac2-6156f6008a2d@23.94.43.51:443?type=ws&sni=f310a3c6.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-54%20TG%40jcnode
 ```
 
 ---
