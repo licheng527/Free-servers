@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-14 20:53:07 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-14 21:45:56 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@51.38.49.187:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%206-1%20TG%40jcnode
-vless://698fa9e4-35a3-ce4c-06f1-42b92068aa75@209.141.33.79:2053?type=ws&sni=a926adb5.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-51%20TG%40jcnode
+vless://c73b5c37-0c2b-4d78-8a48-d32bba7432b4@188.212.125.121:443?type=tcp&sni=nl.kickvpn.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=kEwGhfvGuVsFGuK_udvrytSKGb081PL3Z_hBDAgDzS0&sid=9c2378562188c3cb#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20The%20%2C%20Dronten%20%5BBL%5D%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@65.109.214.233:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20FI%203%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@45.90.58.58:81?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%AB%20CH-1%20TG%40jcnode
 ```
 
 ---
