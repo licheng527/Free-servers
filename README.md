@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-14 23:28:18 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-15 00:32:30 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@88.198.82.157:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2033-1%20TG%40jcnode
-vless://698fa9e4-35a3-ce4c-06f1-42b92068aa75@114.32.9.249:16443?type=ws&sni=a926adb5.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-35%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@162.19.246.53:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2039-1%20TG%40jcnode
+vless://8fc089ef-0bb1-4983-bd45-4c70283a470b@174.136.205.68:443?type=tcp&sni=navi.bankrate.com&security=tls&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US--2J%20-83%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@217.60.37.144:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2038-1%20TG%40jcnode
 ```
 
 ---
