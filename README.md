@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-14 10:09:45 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-14 12:42:24 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@dafeizhu.whtjdasha.com:39505#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2003-1%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjXHU1M2YwXHU2ZTdlIFJlbGF5IFRXLUhLIDYyOCAyLjE4TWIgVEdAamNub2RlIiwgImFkZCI6ICJhZmx6enVsLm1laXF1YW5rb25namlhbi5jb20iLCAicG9ydCI6ICI1MjUxMSIsICJpZCI6ICIzNDJiYWNmZC0yYjhmLTNmNDktYTE2ZS00MzlkYjViMGI5ZDUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi81NjRkZmEyMC8iLCAidGxzIjogIiIsICJzbmkiOiAiYWZsenp1bC5tZWlxdWFua29uZ2ppYW4uY29tIn0=
-vless://457c367f-ac78-4641-9846-dd880332f7cf@185.130.115.55:443?type=tcp&sni=web.max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%5B%2ACIDR%5D%20VK-1%20TG%40jcnode
+vless://698fa9e4-35a3-ce4c-06f1-42b92068aa75@38.207.130.231:8443?type=ws&sni=a926adb5.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-21%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@162.19.255.251:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2046-1%20TG%40jcnode
+ss://YWVzLTEyOC1nY206Nkg5MDV1UjNQbTBMdjdI@b.cdn-bilibili.cn:38074#%F0%9F%87%B3%F0%9F%87%AC%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%20NGA%202%20TG%40jcnode
 ```
 
 ---
