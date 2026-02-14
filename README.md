@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-14 21:45:56 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-14 22:29:06 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://c73b5c37-0c2b-4d78-8a48-d32bba7432b4@188.212.125.121:443?type=tcp&sni=nl.kickvpn.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=kEwGhfvGuVsFGuK_udvrytSKGb081PL3Z_hBDAgDzS0&sid=9c2378562188c3cb#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20The%20%2C%20Dronten%20%5BBL%5D%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@65.109.214.233:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20FI%203%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@45.90.58.58:81?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%AB%20CH-1%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIDQyLTEgVEdAamNub2RlIiwgImFkZCI6ICJwdWIuYXAyMDI1MTIxMi5jb20iLCAicG9ydCI6ICI2NDAxNCIsICJpZCI6ICI4OGNiYzgzMC1kMTZkLTM5MmYtYTBkMy1mMmUxMzRkYmIxYzAiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAidXMwMS53ZWNoYXQtY2RuLXVzMDEub25lIn0=
+vless://26524cce-d514-4014-a426-365fb266a14d@51.91.250.218:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%208-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@93.183.70.189:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2044-1%20TG%40jcnode
 ```
 
 ---
