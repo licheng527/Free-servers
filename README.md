@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-15 17:34:02 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-15 18:28:29 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@57.128.176.147:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2072%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@51.195.43.174:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2034%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.51:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2016%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@135.125.191.64:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2049%20TG%40jcnode
+vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hkt.xn--9kqp42aims.top:20519?type=tcp&sni=buylite.music.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%5B%5D%20vless-HK%20TG%40jcnode
 ```
 
 ---
