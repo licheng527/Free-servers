@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-15 07:26:48 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-15 10:28:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://c3cb51a2-9f85-40f4-848f-fde89920bb90@braskivo.ru:8443?type=raw&sni=ozon.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=72b11c6ddbcfecf1#%F0%9F%87%B1%F0%9F%87%BB%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A%20%5B%5D%20%5Bvl-re-ra%5D%20%5B260214-225031.306%5D%20TG%40jcnode
-vless://6990f4db-5a20-a4d7-d1e0-7ca6c61f5d97@cf.cloudflare.182682.xyz:443?type=ws&sni=a926adb5.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%AE%98%E6%96%B9%E7%94%B5%E4%BF%A1%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@130.61.235.213:4070?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2039%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?type=ws#%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%20Csgo%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@91.90.193.138:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%AB%20CH%203%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjXHU2NWIwXHU1MmEwXHU1NzYxIDIwIFRHQGpjbm9kZSIsICJhZGQiOiAiZ3RtMS5rdG13YW4ubmV0IiwgInBvcnQiOiAiMTI5MDEiLCAiaWQiOiAiN2E1NjM3MzAtMTVlNi00ZGI5LWFjYjEtMWMzZWVlNGQ1YjI2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJiYWlkdS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiJ9
 ```
 
 ---
