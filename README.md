@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-16 03:27:11 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-16 04:29:36 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@51.210.151.193:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2068%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@91.107.142.237:8080?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2043%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@xiaofeizhu.idsduf.com:44014#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2004-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@141.94.221.78:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2070%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOakU1T1dReU5EWXhaak0xTWpBME9UZz06TlRobU1HTTBOemN0WWpRM01TMDBPRGd4TFdKbU1Ua3RNbUUyWWpZeU5ETT0=@xiaofeizhu.idsduf.com:40020#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2004-2%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@162.19.254.52:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2046%20TG%40jcnode
 ```
 
 ---
