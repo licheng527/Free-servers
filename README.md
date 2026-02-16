@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-16 10:25:07 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-16 13:00:23 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@54.36.99.234:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2012%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@51.38.50.211:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2067%20TG%40jcnode
-vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@51.250.23.190:443?type=tcp&sni=stats.vk-portal.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI&sid=d49d578f280fd83a#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%5B%5D%20vless-RU-1%20TG%40jcnode
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@spb.scroogethebest.com:443?type=tcp&sni=spb.scroogethebest.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%2C%20St%20Petersburg%20%5BBL%5D%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@51.158.204.247:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2011-1%20TG%40jcnode
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s2.daneshvardost.com:26480?type=tcp#%F0%9F%87%AE%F0%9F%87%B7%E4%BC%8A%E6%9C%97%2026480%20TG%40jcnode
 ```
 
 ---
