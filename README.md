@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-17 02:46:50 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-17 03:33:06 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69924691-c81b-e3df-7d8c-0b1313560372@116.44.53.251:10801?type=ws&sni=39ee7d96.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-31%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@51.91.254.97:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2041%20TG%40jcnode
-ss://YWVzLTEyOC1nY206Nkg5MDV1UjNQbTBMdjdI@b.cdn-bilibili.cn:38025#%F0%9F%87%B0%F0%9F%87%AD%E6%9F%AC%E5%9F%94%E5%AF%A8%20KHM%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@51.195.119.2:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%205-1%20TG%40jcnode
+hysteria2://91691968-cf8b-4cb4-b487-862a4f33baf5@aws-linkhy27.liangxin1.xyz:443?sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2002%20%E6%B5%81%E5%AA%92%E4%BD%93%200.1%E5%80%8D%20TG%40jcnode
+vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet2.gzcloud.shop:20519?type=tcp&sni=buylite.music.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%2001%20TG%40jcnode
 ```
 
 ---
