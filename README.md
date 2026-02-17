@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-17 21:07:24 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-17 22:48:19 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@tw2.jueduibupao.top:30078?sni=tw2.jueduibupao.top#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%201-%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%20AI-hy2%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@146.235.209.40:58869?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%209%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@188.165.1.138:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2033%20TG%40jcnode
+hysteria2://91691968-cf8b-4cb4-b487-862a4f33baf5@aws-linkhy27.liangxin1.xyz:443?sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2002%20%E6%B5%81%E5%AA%92%E4%BD%93%200.1%E5%80%8D%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@docs.cloudflare.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Cloudflare%20Docs%20TG%40jcnode
+vless://64a3a23c-363a-4bee-9401-f5c42eea5a27@109.120.191.46:443?type=tcp&sni=m.vk.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%5B%2ACIDR%5D%20VK-2%20TG%40jcnode
 ```
 
 ---
