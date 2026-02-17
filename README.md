@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-17 19:40:30 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-17 21:07:24 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@77.221.152.183:443?type=tcp&sni=b12a6eea4807ca4e.1323.world&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%203%20%E2%AC%87%203.0MB/s%20TG%40jcnode
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@95.182.97.115:443?type=tcp&sni=fr.cdn.stun.su&security=tls&flow=xtls-rprx-vision&security=reality&pbk=8LWgKu6h8cXgOAixKaKPdGponKkAeQaq-IszDEQ4ojM&sid=3bdec72a5a0ffd84#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR-1%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@158.180.49.11:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2017%20TG%40jcnode
+hysteria2://58f0c477-b471-4881-bf19-2a6b62437794@tw2.jueduibupao.top:30078?sni=tw2.jueduibupao.top#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%201-%E6%B5%81%E5%AA%92%E4%BD%93%E8%A7%A3%E9%94%81%20AI-hy2%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@146.235.209.40:58869?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%209%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@188.165.1.138:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2033%20TG%40jcnode
 ```
 
 ---
