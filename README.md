@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-17 23:54:32 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-18 00:59:08 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3XHU2Y2Q1XHU1NmZkIDAzIFRHQGpjbm9kZSIsICJhZGQiOiAiMTQ0LjQ4LjE4Ni4xMDQiLCAicG9ydCI6ICIzMDgzNSIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.12:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20VN%203%20%E2%AC%87%201.0MB/s%20TG%40jcnode
-vless://64a3a23c-363a-4bee-9401-f5c42eea5a27@185.130.115.55:443?type=tcp&sni=web.max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=a76ea384b29a4f79#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%5B%2ACIDR%5D%20VK-3%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOakU1T1dReU5EWXhaak0xTWpBME9UZz06TlRobU1HTTBOemN0WWpRM01TMDBPRGd4TFdKbU1Ua3RNbUUyWWpZeU5ETT0=@dafeizhu.whtjdasha.com:49207#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2003-2%20TG%40jcnode
+vless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@112.120.103.41:20418?type=tcp&sni=buylite.music.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2012%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@xiaofeizhu.idsduf.com:40023#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2004-IPv6%20TG%40jcnode
 ```
 
 ---
