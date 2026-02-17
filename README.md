@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-17 13:58:33 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-17 15:10:42 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://fcfc091d-81a4-40b7-cbdc-8eb7683617a4@2.hk.2.cdn-bilibili.cn:443?type=tcp&sni=www.icloud.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=4cfuj5otn8-uhPUe23OhB6KY8I42AxxJNt4lWIpg_AU&sid=#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2012%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@141.94.206.218:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2094%20TG%40jcnode
-hysteria2://1y4HweESOT@sss.ikun6.dpdns.org:27995?sni=azure.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%20UDP%206.00TB%20TG%40jcnode
+vless://b39aca97-e9f2-4a94-b87f-8748299846cd@fr.denditop.site:443?type=tcp&sni=fr.denditop.site&security=tls&flow=xtls-rprx-vision&security=reality&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Anycast-IP%20FR%2C%20US%20%5BBL%5D%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3XHU5N2U5XHU1NmZkIDYgVEdAamNub2RlIiwgImFkZCI6ICJvbmVjYXQta3Iua3VubHVuMDNkbnMuY29tIiwgInBvcnQiOiAiMjUwMjgiLCAiaWQiOiAiZWMzYjNhMGUtZmQ4Mi0zM2Y5LTkxNTMtODk2NzQzOGFlOThkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+vless://26524cce-d514-4014-a426-365fb266a14d@51.195.118.15:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2079%20TG%40jcnode
 ```
 
 ---
