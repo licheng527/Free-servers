@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-18 06:33:40 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-18 07:31:10 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://DC83iRUEla@104.250.139.178:10964?sni=b.6sc.co#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20ooo--0%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.236:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20VN%2010%20%E2%AC%87%201.5MB/s%20TG%40jcnode
-hysteria2://1y4HweESOT@sss.ikun6.dpdns.org:27995?sni=azure.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%20UDP%206.00TB%20TG%40jcnode
+ss://YWVzLTEyOC1nY206Nkg5MDV1UjNQbTBMdjdI@b.cdn-bilibili.cn:38042#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9%202%20TG%40jcnode
+hysteria2://91691968-cf8b-4cb4-b487-862a4f33baf5@aws-linkhy10.liangxin1.xyz:60000?sni=iosapps.itunes.apple.com#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E4%B8%93%E7%BA%BF02%20BGP%20%E6%B5%81%E5%AA%92%E4%BD%93%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@141.94.204.212:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2020%20TG%40jcnode
 ```
 
 ---
