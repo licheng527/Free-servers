@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-18 05:38:00 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-18 06:33:40 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://699398b4-f0ac-0808-90b3-5782208a3251@49.238.236.14:19999?type=ws&sni=98b91092.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-34%20TG%40jcnode
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@144.31.128.129:443?sni=ae.cdn.stun.su&security=tls&flow=xtls-rprx-vision&security=reality&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=41a0b29e95aaea87#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-13%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@51.38.44.17:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2091%20TG%40jcnode
+hysteria2://DC83iRUEla@104.250.139.178:10964?sni=b.6sc.co#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20ooo--0%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.236:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20VN%2010%20%E2%AC%87%201.5MB/s%20TG%40jcnode
+hysteria2://1y4HweESOT@sss.ikun6.dpdns.org:27995?sni=azure.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%20UDP%206.00TB%20TG%40jcnode
 ```
 
 ---
