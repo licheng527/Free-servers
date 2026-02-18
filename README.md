@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-18 16:49:45 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-18 17:51:27 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNDlkMzU0YS0yY2YxLTQ5NTYtYjZkOC1kMDRhYTQ5NjliNjQ=@assets-cfnode67.cloudflarecdn-edge.rfsconfig.com:20005#%F0%9F%87%A7%F0%9F%87%AC%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%205%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@193.70.0.78:2053?type=ws&sni=o9ep7jzg1ljs.chinav.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2048%20TG%40jcnode
-vless://cdeedd27-4b50-4f5b-b0c4-1967cc972f93@109.176.229.97:8443?type=tcp&sni=tgju.org&security=tls&security=reality&pbk=LHlFdzprRH3N8OxZK5WrGSu5vtr0_fu6iLzHAFNt9AM&sid=3543d68a#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%2003%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGR5Zl9uRHNKS3d1cHVzc1JWbFBB@5.129.219.251:54630#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20The%20%2C%20Amsterdam%20%5BBL%5D%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@146.59.156.154:2053?type=ws&sni=o9ep7jzg1ljs.chinav.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2050%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@80.76.34.204:443?type=ws&sni=o9ep7jzg1ljs.chinav.indevs.in&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2020-1%20TG%40jcnode
 ```
 
 ---
