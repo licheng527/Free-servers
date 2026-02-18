@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-18 12:54:54 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-18 14:02:16 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNDlkMzU0YS0yY2YxLTQ5NTYtYjZkOC1kMDRhYTQ5NjliNjQ=@assets-cfnode81.rfsconfig.com:21402#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2043-1%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@ldu.izenny.com:10589#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-12%20TG%40jcnode
-vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@31.13.208.89:443?type=grpc&sni=ads.x5.ru&security=tls&security=reality&pbk=OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI&sid=d49d578f280fd83a#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20%5B%5D%20vless-FI-1%20TG%40jcnode
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t6.qifei.app:58853?sni=t6.qifei.app#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%204-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@94.23.167.32:8443?type=ws&sni=o9ep7jzg1ljs.chinav.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2031%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.128.181.82:8443?type=ws&sni=o9ep7jzg1ljs.chinav.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2030%20TG%40jcnode
 ```
 
 ---
