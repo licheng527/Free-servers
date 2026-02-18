@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-19 02:57:54 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-19 03:51:33 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@183.232.137.2:34061#%F0%9F%87%A8%F0%9F%87%B3%E5%A4%A7%E9%99%86%20CN-2%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20%5B%5D%20ss-GB%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.50:8443?type=ws&sni=o9ep7jzg1ljs.chinav.indevs.in&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2014%20TG%40jcnode
+vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.20.1.252:2052?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2012720%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZTY5NzUxNy02OTNmLTQwMTktYmU0NS0zYzQ4NjFiMWIwYjg=@d.naiun.cac.cab:30301#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20SS%20D01%20IPLC%20x3%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ01JNld6enViY293bzBadml3NjFB@89.169.45.184:36219#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%2C%20Moscow%20Anycast-IP%20%5BB%5D%20%5BBL%5D-1%20TG%40jcnode
 ```
 
 ---
