@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-19 04:41:23 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-19 05:36:24 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIDUtMiBUR0BqY25vZGUiLCAiYWRkIjogImNnMWMwNi53YWltYW9qZC5jb20iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMDYzMmJmYTktYjE1Yy00MjU3LThjNzUtMzJmN2MwYzUzYjI3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJjZzFjMDYud2FpbWFvamQuY29tIiwgInBhdGgiOiAiL2FwaS92MS9ncmFwaHFsIiwgInRscyI6ICJ0bHMiLCAic25pIjogImNnMWMwNi53YWltYW9qZC5jb20ifQ==
-vless://26524cce-d514-4014-a426-365fb266a14d@51.89.1.231:8443?type=ws&sni=o9ep7jzg1ljs.chinav.indevs.in&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2025%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@xiaofeizhu.idsduf.com:44014#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2004-1%20TG%40jcnode
+trojan://9e697517-693f-4019-be45-3c4861b1b0b8@a6618b737a3ec1f93bfd6fa02c895b14.node.tro.cac.cab:46317?sni=us.01.naiun.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20TJ%20C01%20NF%E8%A7%A3%E9%94%81%20TG%40jcnode
+vless://6994e9cb-2fef-7a44-b12c-709e5031f3c5@104.155.219.144:443?type=ws&sni=84d601f3.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-27%20TG%40jcnode
 ```
 
 ---
