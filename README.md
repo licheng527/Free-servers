@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-18 14:02:16 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-18 15:51:04 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t6.qifei.app:58853?sni=t6.qifei.app#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%204-1%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@94.23.167.32:8443?type=ws&sni=o9ep7jzg1ljs.chinav.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2031%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@57.128.181.82:8443?type=ws&sni=o9ep7jzg1ljs.chinav.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2030%20TG%40jcnode
+vless://44bb30a9-d89e-4b92-c78f-b68e4eedc99c@46.38.138.221:2020?type=tcp#%F0%9F%87%AE%F0%9F%87%B7%E4%BC%8A%E6%9C%97%20FORCERUNVP-M44N-GMBH%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjIDI0IFRHQGpjbm9kZSIsICJhZGQiOiAidjYuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MDYiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
 ```
 
 ---
