@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 01:51:31 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 02:53:36 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhXHU2ZmIzXHU1OTI3XHU1MjI5XHU0ZTlhIDUtMSBUR0BqY25vZGUiLCAiYWRkIjogInB1Yi5hcDIwMjUxMjEyLmNvbSIsICJwb3J0IjogIjY0MDAzIiwgImlkIjogImJjMGNiY2MyLTI2MjUtMzJmMy04NTY4LWYzZTkxN2Q2NTQxYyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICJhdTAxLXJpY2gudGVuY2VudC5iZXN0In0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ01JNld6enViY293bzBadml3NjFB@89.169.45.184:36219#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%2C%20Moscow%20Anycast-IP%20%5BB%5D%20%5BBL%5D-1%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@192.9.135.182:7800?type=ws&sni=o9ep7jzg1ljs.chinav.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%207%20TG%40jcnode
+vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s503.okgg.top:443?type=tcp&sni=u708330u2550s503.okgg.top&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20%E6%9C%AA%E7%9F%A5%20VLESS-161%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@183.232.137.2:34061#%F0%9F%87%A8%F0%9F%87%B3%E5%A4%A7%E9%99%86%20CN-2%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjIDQ2IFRHQGpjbm9kZSIsICJhZGQiOiAib25lY2F0LWpwLmt1bmx1bjAzZG5zLmNvbSIsICJwb3J0IjogIjI1MDA3IiwgImlkIjogImVjM2IzYTBlLWZkODItMzNmOS05MTUzLTg5Njc0MzhhZTk4ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
 ```
 
 ---
