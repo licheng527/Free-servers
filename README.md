@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-19 19:39:06 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-19 21:09:59 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6994e9cb-2fef-7a44-b12c-709e5031f3c5@saas.sin.fan:443?type=ws&sni=84d601f3.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%20TG%40jcnode
-vless://6994e9cb-2fef-7a44-b12c-709e5031f3c5@43.161.230.217:587?type=ws&sni=84d601f3.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%AE%98%E6%96%B9HKG%EF%BC%9A-1%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNDlkMzU0YS0yY2YxLTQ5NTYtYjZkOC1kMDRhYTQ5NjliNjQ=@assets-cfnode67.cloudflarecdn-edge.rfsconfig.com:17395#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2057-2%20TG%40jcnode
+trojan://984c7793-1447-4af5-9200-d514ad6fe329@kr01.jsylianjie6.com:48705?sni=jsygouer.weixin-baidu-qq.com#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%209%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@dafeizhu.whtjdasha.com:19527#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2003-IPv6%20TG%40jcnode
+trojan://b6554741-bbc9-4707-90be-8e80c585c981@freevipc3.freecatnodles.com:18229?sni=g.alicdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2033-1%20TG%40jcnode
 ```
 
 ---
