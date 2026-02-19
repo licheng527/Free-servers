@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 04:35:36 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 05:35:05 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@ldu.izenny.com:43076#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK-4%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGI3OGY1ZC1mNGVjLTRlYWUtOGY4My05ZTRlZDllMTYzMjY=@hd117-xjp-jd.huidu51.com:46614#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2020-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.128.181.125:8443?type=ws&sni=o9ep7jzg1ljs.chinav.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2061%20TG%40jcnode
+trojan://9e697517-693f-4019-be45-3c4861b1b0b8@90d4c35e0d9664979ae2292998fc76c0.node.tro.cac.cab:49593?sni=hk.01.naiun.bilibili.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20TJ%20C01%20NF%E8%A7%A3%E9%94%81%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@54.37.64.98:2053?type=ws&sni=o9ep7jzg1ljs.chinav.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2052%20TG%40jcnode
 ```
 
 ---
