@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-19 10:24:11 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-19 12:53:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNDlkMzU0YS0yY2YxLTQ5NTYtYjZkOC1kMDRhYTQ5NjliNjQ=@assets-cfnode67.cloudflarecdn-edge.rfsconfig.com:22351#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2024-1%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOakU1T1dReU5EWXhaak0xTWpBME9UZz06TlRobU1HTTBOemN0WWpRM01TMDBPRGd4TFdKbU1Ua3RNbUUyWWpZeU5ETT0=@xiaofeizhu.idsduf.com:40020#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2004-2%20TG%40jcnode
-vless://f0b15f64-db59-438c-b1b6-f1b83db52240@217.154.194.55:443?type=raw&sni=azure.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%5B%5D%20%5Bvl-re-ra%5D%20%5B260217-232420.793%5D%20TG%40jcnode
+vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443?type=raw&sni=apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&sid=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%5B%5D%20%5Bvl-re-ra%5D%20%5B260217-231239.891%5D%20TG%40jcnode
+vless://3b58ed24-9cef-4a20-ac99-44882238afad@82.39.86.21:34620?type=tcp&sni=addons.mozilla.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=F87hNyr1Ew2_gkNG3PNpOErl5ss8iT_J1M-b6ZfIrV4&sid=#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%20xtls-reality%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5UaG1NR00wTnpjdFlqUTNNUzAwT0E9PQ==@xiaofeizhu.idsduf.com:39981#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%2002%20TG%40jcnode
 ```
 
 ---
