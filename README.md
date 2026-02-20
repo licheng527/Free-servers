@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 14:59:02 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 15:52:23 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?type=tcp&sni=images.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20FI%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@192.210.196.158:36414?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2014%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@210.6.207.42:18622?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK%2011%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@93.113.171.31:443?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2012%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@103.102.228.113:443?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2020%20TG%40jcnode
+vless://36316bec-8976-4b1f-8042-b87db88faa25@89.169.128.105:443?type=tcp&sni=yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=8ba12e75110b7a9c#%F0%9F%87%AD%F0%9F%87%BA%E5%8C%88%E7%89%99%E5%88%A9%20%5BIPv4%5D%20%5B%2ACIDR%5D%20YA-2%20TG%40jcnode
 ```
 
 ---
