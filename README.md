@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 19:33:46 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 21:02:26 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@31.133.0.122:2053?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20PL%207%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@144.34.163.149:58431?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2019%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIDY4IFRHQGpjbm9kZSIsICJhZGQiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJwb3J0IjogIjIwNTMiLCAiaWQiOiAiNGI4MGFhODYtNDM1NC00MGJiLWQyYTMtNDcxMjZjZmYwYmVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ1c2FhcHAxLmppc3V5dW4udG9wIiwgInBhdGgiOiAiL3VzYXZtIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9
+trojan://b6554741-bbc9-4707-90be-8e80c585c981@freevipf6.freecatnodles.com:46677?sni=g.alicdn.com#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%2011%20TG%40jcnode
+vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.196.134:8443?type=raw&sni=retn.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8%20%5B%5D%20%5Bvl-re-ra%5D%20%5B260219-231148.332%5D%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@158.101.146.3:54516?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%2013%20TG%40jcnode
 ```
 
 ---
