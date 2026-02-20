@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 10:12:43 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 12:47:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@178.33.161.196:2053?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99%20ES-2%20TG%40jcnode
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@45.145.40.26:443?type=tcp&sni=de.cdn.stun.su&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=4daa022e84f8edf2#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%2C%20Frankfurt%20am%20Main%20%5BIPv6%5D%20%5BBL%5D%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.106:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20VN%20668%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2RmNWZlYi03NTZlLTQ2MjctYmNlZS00OTdmM2M4MWJhYjQ=@xgrr.sdnlv0.cn:24868#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%2005%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3XHU4MmYxXHU1NmZkIEdCLTMgVEdAamNub2RlIiwgImFkZCI6ICJ4ZzFhNy53YWltYW9ob3RzLmNvbSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI4MzVkZWE3Mi1kY2VkLTQyMjQtYjVkZS1mYWIzNGE0NjBjZWMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInhnMWE3LndhaW1hb2hvdHMuY29tIiwgInBhdGgiOiAiL2FwaS92MS9ncmFwaHFsIiwgInRscyI6ICJ0bHMiLCAic25pIjogInhnMWE3LndhaW1hb2hvdHMuY29tIn0=
 ```
 
 ---
