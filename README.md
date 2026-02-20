@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-21 01:38:46 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-21 02:51:42 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@95.163.203.38:2052?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2052%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@172.235.49.135:17973?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2043-1%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGI3OGY1ZC1mNGVjLTRlYWUtOGY4My05ZTRlZDllMTYzMjY=@hd117-mg-jd.huidu51.com:46623#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2046-1%20TG%40jcnode
+vless://6dfbef3b-f718-4053-806f-c9657e2fd943@bgfree.jljd.xyz:11220?sni=python.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=nRUFKXfldeXh6hIoO6hAeBC3NtUHhaHyNkOeNGyjsjk&sid=fcc5f0e9#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20Free%202%20TG%40jcnode
+trojan://b6554741-bbc9-4707-90be-8e80c585c981@freevipc3.freecatnodles.com:34589?sni=g.alicdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2021%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYxXHU0ZWU1XHU4MjcyXHU1MjE3IElMLTEgVEdAamNub2RlIiwgImFkZCI6ICIxNDkuODguOTUuOTQiLCAicG9ydCI6ICI0MDc0MSIsICJpZCI6ICIxYjhhNzUxYi00OTA5LTRmZWMtZjAxOS05MDdkOTJlNmM0N2YiLCAiYWlkIjogIjAiLCAibmV0IjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
 ```
 
 ---
