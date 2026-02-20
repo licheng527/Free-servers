@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 23:38:23 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-21 00:41:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69978d46-9a9c-4ebe-e47a-bac7a98e822a@nekocloud.tencentapp.cn:443?type=ws&sni=0fe7be25.soos.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@94.23.153.167:8443?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2013%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2RmNWZlYi03NTZlLTQ2MjctYmNlZS00OTdmM2M4MWJhYjQ=@f.sdnlv0.cn:31032#%F0%9F%87%A8%F0%9F%87%BF%E6%8D%B7%E5%85%8B%20Czechia%2C%20Prague%20%5BIPv4%5D%20%5BBL%5D%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@47.74.254.191:8900?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%2021%20TG%40jcnode
+vless://69978d46-9a9c-4ebe-e47a-bac7a98e822a@27.50.48.210:2096?type=ws&sni=0fe7be25.soos.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-12%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwQ0ZcdTRmMThcdTkwMDkgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOS0yIFRHQGpjbm9kZSIsICJhZGQiOiAiMTcyLjY0LjE0OS4xODIiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogIm5hc25ldCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAibmFzbmV0LTU3MTI5NjQxMDIuc2hhcmdoZGFpbHkuY28iLCAicGF0aCI6ICIvbmFzbmV0L2Nkbj9lZD0yNTYwIiwgInRscyI6ICIiLCAic25pIjogIiJ9
 ```
 
 ---
