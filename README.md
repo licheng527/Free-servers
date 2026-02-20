@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 18:39:22 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 19:33:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://d7d3b0dd-121e-4b7f-995a-05ee16d1f7a6@185.130.113.29:443?type=tcp&sni=io.ozone.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=jyfiBUYiL1e88ru9_K3hrieKZVwiI6CkU5mhnH36qm8&sid=afee1a48fd42a87b#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20Anycast-IP%20%5BIPv4%5D%20%5B%2ACIDR%5D%20VK-2%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@23.95.18.12:18443?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2041-1%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhXHU0ZmM0XHU3ZjU3XHU2NWFmIDQgVEdAamNub2RlIiwgImFkZCI6ICJ4ZzFjNS53YWltYW9ob3RzLmNvbSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI4MzVkZWE3Mi1kY2VkLTQyMjQtYjVkZS1mYWIzNGE0NjBjZWMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInhnMWM1LndhaW1hb2hvdHMuY29tIiwgInBhdGgiOiAiL2FwaS92MS9ncmFwaHFsIiwgInRscyI6ICJ0bHMiLCAic25pIjogInhnMWM1LndhaW1hb2hvdHMuY29tIn0=
+vless://26524cce-d514-4014-a426-365fb266a14d@31.133.0.122:2053?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20PL%207%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@144.34.163.149:58431?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2019%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIDY4IFRHQGpjbm9kZSIsICJhZGQiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJwb3J0IjogIjIwNTMiLCAiaWQiOiAiNGI4MGFhODYtNDM1NC00MGJiLWQyYTMtNDcxMjZjZmYwYmVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ1c2FhcHAxLmppc3V5dW4udG9wIiwgInBhdGgiOiAiL3VzYXZtIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9
 ```
 
 ---
