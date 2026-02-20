@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 16:42:31 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-20 17:42:42 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://18722b2a-1b55-44a3-a538-66a8cb97093d@176.108.245.2:443?sni=get.strelkavpn.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=53vT1T6WCz5OyN5S2tNE7tfHZnZDzwg506aOmdLpwC4&sid=c5e15338#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%207%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIDEwLTEgVEdAamNub2RlIiwgImFkZCI6ICJ4ZzFjMi53YWltYW9ob3RzLmNvbSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI4MzVkZWE3Mi1kY2VkLTQyMjQtYjVkZS1mYWIzNGE0NjBjZWMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInhnMWMyLndhaW1hb2hvdHMuY29tIiwgInBhdGgiOiAiL2FwaS92MS9ncmFwaHFsIiwgInRscyI6ICJ0bHMiLCAic25pIjogInhnMWMyLndhaW1hb2hvdHMuY29tIn0=
-vless://26524cce-d514-4014-a426-365fb266a14d@94.23.164.46:2053?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2028%20TG%40jcnode
+vless://d7d3b0dd-121e-4b7f-995a-05ee16d1f7a6@217.16.17.251:7443?type=tcp&sni=io.ozone.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=4hEoG3Na36lO7kgjvWKPVKO0ndIeuAnNLzbiExsjbxk&sid=afee1a48fd42a87b#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20Anycast-IP%20%5BF%5D%20%5BIPv4%5D%20%5B%2ACIDR%5D%20VK%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@91.218.212.223:443?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0%20UA-1%20TG%40jcnode
+vless://4ed6948d-0beb-f7ca-18e8-b4259eeb0dbb@ir.grbr.private-link.lornanet.ir:3130?type=tcp&sni=rEfErSion.Com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw&sid=e99768d076c05ab2#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%AB%20%3A%20TG%40jcnode
 ```
 
 ---
