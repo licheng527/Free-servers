@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-21 03:37:24 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-21 04:34:48 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@192.9.138.69:21009?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2016%20TG%40jcnode
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@27.50.48.6:443?type=ws&sni=snip.cfn.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-9%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@95.164.89.124:2053?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%A7%F0%9F%87%AC%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%20BG-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@45.85.93.83:443?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%AB%20CH-3%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@23.105.199.91:21626?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2017%20TG%40jcnode
+hysteria2://DC83iRUEla@104.250.139.178:10964?sni=b.6sc.co#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20ooo--0%20TG%40jcnode
 ```
 
 ---
