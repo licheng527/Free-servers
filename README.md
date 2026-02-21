@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-21 12:27:12 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-21 13:42:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@23.94.43.51:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2013-1%20TG%40jcnode
-vless://182a355e-8ffc-4735-84b6-afbd83c98ff2@89.169.128.105:8443?type=raw&sni=yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#%F0%9F%87%AD%F0%9F%87%BA%E5%8C%88%E7%89%99%E5%88%A9%20%5B%5D%20%5Bvl-re-ra%5D%20%5B260220-230037.374%5D%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@172.64.152.112:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-29%20TG%40jcnode
+trojan://6f038cee-6ba1-4941-bce5-de1969f37405@220.130.58.136:35502?sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%5B%5D%20trojan-US%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@188.132.192.194:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20TR-1%20TG%40jcnode
+vless://203d9487-1656-4824-bb09-99c73ecd36c6@104.19.49.255:443?type=ws&sni=snip.cfsub.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8%20TG%40jcnode
 ```
 
 ---
