@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-22 02:37:34 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-22 03:25:54 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@blog.811520.xyz:443?type=ws&sni=snip.cfsub.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-42%20TG%40jcnode
-vless://b67f0dc0-42ee-4067-a16f-f5018547aebd@ru2.sky-vault.top:443?type=tcp&sni=ru2.sky-vault.top&security=tls&flow=xtls-rprx-vision&security=reality&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&sid=ae64c9b46bff174a#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%2C%20Moscow%20%28Vostochnyy%20administrativnyy%20okrug%29%20%5BBL%5D%20TG%40jcnode
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@152.53.46.3:443?type=tcp&sni=au1.scroogethebest.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb#%F0%9F%87%A6%F0%9F%87%B9%E5%A5%A5%E5%9C%B0%E5%88%A9%20%5B%5D%20vless-AT%20TG%40jcnode
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?sni=t11.qifei.app#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%207%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@37.187.98.185:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2026%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCU2hjZWs1eWRJV2JYRW5oSTJ2SXlt@62.113.114.116:42320#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%2C%20Moscow%20%5BBL%5D%20TG%40jcnode
 ```
 
 ---
