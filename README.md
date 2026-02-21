@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-21 17:31:46 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-21 18:28:24 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@95.164.89.124:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A7%F0%9F%87%AC%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%20BG%202%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@51.38.226.4:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%208%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@104.168.176.241:24264?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2018%20TG%40jcnode
+trojan://MgumnQM3uUGlmFEc@zhe01.webflarex.top:38340?sni=yazhou10.dynu.net#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2044%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@91.107.166.26:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2020%20TG%40jcnode
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@05.tokyometropolis.kiev.ua:2053?sni=45.32.28.232#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2020%20TG%40jcnode
 ```
 
 ---
