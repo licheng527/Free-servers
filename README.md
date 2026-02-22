@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-22 16:35:29 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-22 17:33:17 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@84.246.85.214:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B2%F0%9F%87%A9%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6%20MD%20TG%40jcnode
-vless://cb332abe-d9d8-4823-b214-87b7bf2dbf10@cd.digitalvortex.ir:8080?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%5B%5D%20%5Bvl-no-ws%5D%20%5B260221-225220.326%5D%20TG%40jcnode
-vless://66ba4206-7093-4035-8b29-9ed1c827361f@ru.elementvpn.ru:443?type=tcp&sni=ru.elementvpn.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=Ifsl6y457q4EC2W86ADqp-sZ5Vjpv9nvVL44iehNzEs&sid=28145942957e913e#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20RU%202%202.3MB/s%20TG%40jcnode
+vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443?type=raw&sni=apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&sid=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%5B%5D%20%5Bvl-re-ra%5D%20%5B260221-224334.161%5D%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@31.133.0.55:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0%20PL-1%20TG%40jcnode
 ```
 
 ---
