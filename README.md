@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 05:26:59 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 06:26:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.72:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2028%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.68.166.23:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2018%20TG%40jcnode
+vless://699a3134-8d6e-bb09-f7ac-8c925f68d984@104.225.153.70:443?type=ws&sni=29be02b0.soos.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-44%20TG%40jcnode
+vless://203d9487-1656-4824-bb09-99c73ecd36c6@104.26.13.141:443?type=ws&sni=snip.ere.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@54.38.159.25:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2021%20TG%40jcnode
 ```
 
 ---
