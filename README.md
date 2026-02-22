@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 02:38:00 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 03:26:11 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@57.129.63.145:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2020%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.80:8388#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20Pool%20324%2040.80Mb%20TG%40jcnode
-vless://699a3134-8d6e-bb09-f7ac-8c925f68d984@bestcf.030101.xyz:443?type=ws&sni=29be02b0.soos.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%AE%98%E6%96%B9%E4%B8%89%E7%BD%91%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-1%20TG%40jcnode
+vless://jina@135.220.73.1:443?type=tcp&sni=jina-135220731-direct.yektanet.co&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20South%20%2C%20Cheonan-si%20%5BBL%5D%20TG%40jcnode
+vless://a4f4c55a-5102-4c00-b212-682209219070@cf.zhetengsha.eu.org:80?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2080-WS-5%20TG%40jcnode
+vless://18722b2a-1b55-44a3-a538-66a8cb97093d@176.108.245.2:443?sni=get.strelkavpn.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=53vT1T6WCz5OyN5S2tNE7tfHZnZDzwg506aOmdLpwC4&sid=c5e15338#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%201%20TG%40jcnode
 ```
 
 ---
