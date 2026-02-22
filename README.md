@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 00:32:30 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 01:26:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://ea8eaf21-76f8-4ef2-8397-aa1d693487a3@77.110.125.83:443?type=raw&sni=web.max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ytMHU3SjhXFJPj8bZh4kIV12PPELb9NdfrNIrUsnIX0&sid=9c3cfaba3eb6c929#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%5B%5D%20%5Bvl-re-ra%5D%20%5B260221-225418.116%5D%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@84.246.85.214:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B2%F0%9F%87%A9%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6%20MD%20TG%40jcnode
-vless://699a3134-8d6e-bb09-f7ac-8c925f68d984@118.223.252.190:50000?type=ws&sni=29be02b0.soos.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-39%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.140:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%202-1%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%203%20TG%40jcnode
+vless://9571ab21-7a77-426e-bb72-1beef9573040@vpn.lumanetwork.cloud:20004?type=tcp#%F0%9F%87%AE%F0%9F%87%B7%E4%BC%8A%E6%9C%97%20IR%E3%80%90%EF%BC%9A-5%20TG%40jcnode
 ```
 
 ---
