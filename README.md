@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 03:26:11 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 04:29:04 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://jina@135.220.73.1:443?type=tcp&sni=jina-135220731-direct.yektanet.co&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20South%20%2C%20Cheonan-si%20%5BBL%5D%20TG%40jcnode
-vless://a4f4c55a-5102-4c00-b212-682209219070@cf.zhetengsha.eu.org:80?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2080-WS-5%20TG%40jcnode
-vless://18722b2a-1b55-44a3-a538-66a8cb97093d@176.108.245.2:443?sni=get.strelkavpn.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=53vT1T6WCz5OyN5S2tNE7tfHZnZDzwg506aOmdLpwC4&sid=c5e15338#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%201%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIFtdIFt2bS1uby1yYV0gWzI2MDIyMS0yMjU5NTMuNjYzXSBUR0BqY25vZGUiLCAiYWRkIjogImZyZWVkb20udmlwZ3NtdGVhbS5pbmZvIiwgInBvcnQiOiAiMTczNTYiLCAiaWQiOiAiZjk1Y2I1YWUtMWIwNi00YTU3LWFiYTAtMzBhZmUxMmQyM2VkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJyYXciLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+vless://b9dd4a4f-040c-4df2-9231-66d6bf0d3c64@143.47.237.215:443?type=tcp&sni=iosapps.itunes.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=qkP2pqQ3NHNBkyzqsC2W9wChp3OfeXdVjOhUv8vQW0o&sid=aac4df9d05a5ba8f#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20%2C%20Slough%20%5BBL%5D%20TG%40jcnode
 ```
 
 ---
