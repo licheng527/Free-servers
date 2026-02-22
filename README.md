@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 01:26:51 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 02:38:00 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.140:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%202-1%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%203%20TG%40jcnode
-vless://9571ab21-7a77-426e-bb72-1beef9573040@vpn.lumanetwork.cloud:20004?type=tcp#%F0%9F%87%AE%F0%9F%87%B7%E4%BC%8A%E6%9C%97%20IR%E3%80%90%EF%BC%9A-5%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.129.63.145:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2020%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.80:8388#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20Pool%20324%2040.80Mb%20TG%40jcnode
+vless://699a3134-8d6e-bb09-f7ac-8c925f68d984@bestcf.030101.xyz:443?type=ws&sni=29be02b0.soos.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%AE%98%E6%96%B9%E4%B8%89%E7%BD%91%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-1%20TG%40jcnode
 ```
 
 ---
