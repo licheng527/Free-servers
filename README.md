@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 04:29:04 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 05:26:59 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIFtdIFt2bS1uby1yYV0gWzI2MDIyMS0yMjU5NTMuNjYzXSBUR0BqY25vZGUiLCAiYWRkIjogImZyZWVkb20udmlwZ3NtdGVhbS5pbmZvIiwgInBvcnQiOiAiMTczNTYiLCAiaWQiOiAiZjk1Y2I1YWUtMWIwNi00YTU3LWFiYTAtMzBhZmUxMmQyM2VkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJyYXciLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
-vless://b9dd4a4f-040c-4df2-9231-66d6bf0d3c64@143.47.237.215:443?type=tcp&sni=iosapps.itunes.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=qkP2pqQ3NHNBkyzqsC2W9wChp3OfeXdVjOhUv8vQW0o&sid=aac4df9d05a5ba8f#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20%2C%20Slough%20%5BBL%5D%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.72:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2028%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.68.166.23:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2018%20TG%40jcnode
 ```
 
 ---
