@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 21:08:52 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 22:49:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RFdrekY=@fbxt0765gh0pielsss.ftisthebest.com:56038#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20%5BSS%5D%20-08%20TG%40jcnode
-trojan://94d6e592-bbec-3c95-8b91-4dd38e02e335@fbxt0765gh0pielsss.ftisthebest.com:56265?sni=fbxt0765gh0pielsss.ftisthebest.com#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20UK-05%20TG%40jcnode
-vless://jina@20.79.162.37:443?type=tcp&sni=jina-207916237-direct.yektanet.co&security=tls&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20007%203.8MB/s%20GPT%E2%81%BA%20NF%20D%2B%205%25%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RFdrekY=@fbxt0765gh0pielsss.ftisthebest.com:56006#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%5BSS%5D%20-06%20TG%40jcnode
+vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@104.16.159.168:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-SJC-443-WS-TLS-4%20TG%40jcnode
+trojan://94d6e592-bbec-3c95-8b91-4dd38e02e335@fbxt0765gh0pielsss.ftisthebest.com:56256?sni=fbxt0765gh0pielsss.ftisthebest.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2006-1%20TG%40jcnode
 ```
 
 ---
