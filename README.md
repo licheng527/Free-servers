@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-24 04:54:19 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-24 05:48:47 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://94d6e592-bbec-3c95-8b91-4dd38e02e335@fbxt0765gh0pielsss.ftisthebest.com:56234?sni=fbxt0765gh0pielsss.ftisthebest.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2004-4%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZDQzY2E4ZC0xZTE1LTQ4MTgtYmVjNC0yNzJiMGI5YTUwOTQ=@nb115-y-c.51nb88.com:58326#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2022%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@80.240.23.230:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2023%20TG%40jcnode
+vless://48ddd7e3-5d31-46ab-9153-16c0e4d92adc@139.59.3.70:24725?type=tcp&sni=dash.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=PAAYOscWvc6-DIWjJ8cHWpgX-xkMUVmu8Nz24itmo34&sid=#%F0%9F%87%AE%F0%9F%87%B3%E5%8D%B0%E5%BA%A6%20233boy-reality%20TG%40jcnode
+vless://10c3ee03-20ed-44cc-ad7b-d3ffdf44bc40@51.250.75.178:443?type=raw&sni=max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=iobA_bK3A-Mj4IF65agM5VbKQdbI1FDtq4WaOPkRwU4&sid=1bbbfaf553e63d8c#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%5B%5D%20%5Bvl-re-ra%5D%20%5B260223-012838.098%5D%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@103.251.164.245:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2014-1%20TG%40jcnode
 ```
 
 ---
