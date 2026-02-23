@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 19:41:54 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-23 21:08:52 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://699b9b35-e66c-bb73-97bd-3d747f5ba97e@203.69.248.40:10443?type=ws&sni=9455f17c.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-31%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTE1Y2QyOC04MGZhLTQxN2UtOWVhMy0zOGFlOTMzMTVkOGY=@mm.interesting202603.com:19822#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%2022%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RFdrekY=@fbxt0765gh0pielsss.ftisthebest.com:56038#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20%5BSS%5D%20-08%20TG%40jcnode
+trojan://94d6e592-bbec-3c95-8b91-4dd38e02e335@fbxt0765gh0pielsss.ftisthebest.com:56265?sni=fbxt0765gh0pielsss.ftisthebest.com#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20UK-05%20TG%40jcnode
+vless://jina@20.79.162.37:443?type=tcp&sni=jina-207916237-direct.yektanet.co&security=tls&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20007%203.8MB/s%20GPT%E2%81%BA%20NF%20D%2B%205%25%20TG%40jcnode
 ```
 
 ---
