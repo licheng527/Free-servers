@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-24 17:54:21 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-24 18:51:48 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t14.qifei.app:52992?sni=t14.qifei.app#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%205%20TG%40jcnode
-vless://699cd436-c96a-f475-8c68-5586df4c83e7@38.49.45.81:50050?type=ws&sni=0f62acc9.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-50%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@211.219.241.28:31337?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR%2017%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.255.121:8443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20disney%20FR-9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@104.26.9.128:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-6%20TG%40jcnode
+trojan://94d6e592-bbec-3c95-8b91-4dd38e02e335@fbxt0765gh0pielsss.ftisthebest.com:56264?sni=fbxt0765gh0pielsss.ftisthebest.com#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20UK-04%20TG%40jcnode
 ```
 
 ---
