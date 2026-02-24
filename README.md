@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-24 12:53:23 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-24 14:00:17 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -16,8 +16,8 @@
 
 ```
 vless://26524cce-d514-4014-a426-365fb266a14d@49.13.220.86:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2034%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTE1Y2QyOC04MGZhLTQxN2UtOWVhMy0zOGFlOTMzMTVkOGY=@mm.interesting202603.com:19812#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2018%20TG%40jcnode
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@cf.877774.xyz:443?type=ws&sni=snip.cfn.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-27%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@198.41.223.104:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-8%20TG%40jcnode
+trojan://94d6e592-bbec-3c95-8b91-4dd38e02e335@fbxt0765gh0pielsss.ftisthebest.com:56206?sni=fbxt0765gh0pielsss.ftisthebest.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2006-1%20TG%40jcnode
 ```
 
 ---
