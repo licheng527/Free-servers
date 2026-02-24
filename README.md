@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-24 07:35:18 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-24 10:22:03 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@199.247.18.60:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%209%20TG%40jcnode
-trojan://94d6e592-bbec-3c95-8b91-4dd38e02e335@fbxt0765gh0pielsss.ftisthebest.com:56229?sni=fbxt0765gh0pielsss.ftisthebest.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%2009%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RFdrekY=@fbxt0765gh0pielsss.ftisthebest.com:56063#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20%5BSS%5D%20UK-03%20TG%40jcnode
+vless://699cd436-c96a-f475-8c68-5586df4c83e7@203.69.248.40:10443?type=ws&sni=0f62acc9.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-29%20TG%40jcnode
+vless://203d9487-1656-4824-bb09-99c73ecd36c6@staticdelivery.nexusmods.com:443?type=ws&sni=snip.cfn.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20NexusMods%20TG%40jcnode
+vless://a4f4c55a-5102-4c00-b212-682209219070@cdn.2020111.xyz:80?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2080-WS-9%20TG%40jcnode
 ```
 
 ---
