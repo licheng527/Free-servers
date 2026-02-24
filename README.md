@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-25 05:37:03 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-25 06:35:53 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@37.187.98.185:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2059%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.196:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2034%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@152.53.107.138:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2016%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.255.121:8443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20disney%20FR-9%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.178.79:8443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20disney%20GB%20182.29Mb%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@ldu.izenny.com:34061#%F0%9F%87%A8%F0%9F%87%B3%E5%A4%A7%E9%99%86%20%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%BA%91%E6%B5%AE%E5%B8%82%20%E7%A7%BB%E5%8A%A8-2%20TG%40jcnode
 ```
 
 ---
