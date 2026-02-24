@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-24 21:10:18 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-24 22:52:04 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@57.129.47.78:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2015%20TG%40jcnode
-trojan://984c7793-1447-4af5-9200-d514ad6fe329@us02.jsyjiedian8.com:40393?sni=jsygouer.weixin-baidu-qq.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%208%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.6:443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20disney%20GB%20261.10Mb%20TG%40jcnode
+vless://203d9487-1656-4824-bb09-99c73ecd36c6@162.159.45.65:443?type=ws&sni=snip.cfn.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2076.43MB/s%20TG%40jcnode
+vless://699cd436-c96a-f475-8c68-5586df4c83e7@38.47.105.38:2053?type=ws&sni=0f62acc9.lfree.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-22%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RFdrekY=@fbxt0765gh0pielsss.ftisthebest.com:56031#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20%5BSS%5D%20-01%20TG%40jcnode
 ```
 
 ---
