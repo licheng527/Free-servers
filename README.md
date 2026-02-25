@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-25 21:09:15 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-25 22:51:17 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a4f4c55a-5102-4c00-b212-682209219070@104.16.156.161:443?type=ws&sni=us1.opp.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8--443-WS-TLS%203%20TG%40jcnode
-vless://2927fb45-b6b5-4877-ba5e-5e63d46b8fdb@gogpe.dhh114514.casa:42029?type=tcp&sni=jimeng.jianying.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=5j0D5VRr76mvmXNzT-tMk3IVQQr_6uhbL_ykvZdU2kc&sid=f5739ee2#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20IEPL1%201%EF%BD%9Cx2%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTE1Y2QyOC04MGZhLTQxN2UtOWVhMy0zOGFlOTMzMTVkOGY=@mm.interesting202603.com:19831#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2033%20TG%40jcnode
+vless://203d9487-1656-4824-bb09-99c73ecd36c6@162.159.33.64:443?type=ws&sni=zrf-czr.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@162.19.158.37:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2038%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@91.199.32.45:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2022%20TG%40jcnode
 ```
 
 ---
