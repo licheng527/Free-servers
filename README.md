@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-25 10:23:01 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-25 12:53:56 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@104.19.63.173:443?type=ws&sni=zrf-czr.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-1%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkIDU2IFRHQGpjbm9kZSIsICJhZGQiOiAiY2cxYzAyLndhaW1hb2pkLmNvbSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIwNjMyYmZhOS1iMTVjLTQyNTctOGM3NS0zMmY3YzBjNTNiMjciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImNnMWMwMi53YWltYW9qZC5jb20iLCAicGF0aCI6ICIvYXBpL3YxL2dyYXBocWwiLCAidGxzIjogInRscyIsICJzbmkiOiAiY2cxYzAyLndhaW1hb2pkLmNvbSJ9
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@104.16.244.217:443?type=ws&sni=zrf-czr.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SJC-1%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIFMwOSBJRVBMIFRHQGpjbm9kZSIsICJhZGQiOiAiNy42LjAuNy5kLjcucy5kLjEuaGswOS12bTUuZW50cnkudjUxMTI0LTYucXBvbiIsICJwb3J0IjogIjE1MjY5IiwgImlkIjogImUzNTRmODk0LWE0YmMtM2IyNS05MTZjLTE2YmQ4MmI5NzAwNCIsICJhaWQiOiAiMSIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+hysteria2://78E276B1-40A9-4930-9D73-2A6B67266AC7@us7.dexlos.com:21259?sni=us7.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US7-HY2-3%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@168.138.198.7:27560?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%2016%20TG%40jcnode
 ```
 
 ---
