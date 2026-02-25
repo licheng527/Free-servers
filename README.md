@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-25 16:52:35 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-25 17:56:26 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@108.162.198.122:443?type=ws&sni=zrf-czr.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2071.56MB/s%20TG%40jcnode
-vless://a4f4c55a-5102-4c00-b212-682209219070@162.159.0.10:80?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-SIN-80-WS%20TG%40jcnode
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t19.qifei.app:60489?sni=t19.qifei.app#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-12%20TG%40jcnode
+hysteria2://78E276B1-40A9-4930-9D73-2A6B67266AC7@us6.dexlos.com:21028?sni=us6.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US6-HY2-3%20TG%40jcnode
+vless://ad3b1a22-3678-43a4-a0c2-ddd5b7da5b5a@20251127.ldvsmms.dpdns.org:443?type=ws&sni=20251127.ldvsmms.dpdns.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E5%8E%9F%E7%94%9F%E5%9C%B0%E5%9D%80-443-WS-TLS%20TG%40jcnode
+vless://699e2573-cd66-0cdb-4bc1-8825687aa2ea@138.3.211.22:8443?type=ws&sni=52cf3f57.soos.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-19%20TG%40jcnode
 ```
 
 ---
