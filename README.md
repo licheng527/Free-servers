@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 00:05:08 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 01:58:42 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@27.50.48.6:443?type=ws&sni=zrf-czr.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@144.24.84.212:49888?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR%2019%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@188.241.241.32:2053?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B7%F0%9F%87%B4%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20RO%202%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@152.70.101.24:16001?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%2012%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@146.56.99.255:56789?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR%2018%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@150.230.204.21:10243?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%2018%20TG%40jcnode
 ```
 
 ---
