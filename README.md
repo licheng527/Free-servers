@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 17:52:47 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 18:49:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://f204c673-c224-44a7-f86b-528f0ad67682@38.60.89.98:443?type=tcp&sni=downloadmirror.intel.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=frPuqu8Q35SuYtSezY0zkkMlMqnL9ZElfnWZS1UzP1s&sid=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20LA-VLESS%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@57.129.63.64:8443?type=ws&sni=cyuxj212pnq.chinat.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%206%20TG%40jcnode
-vless://a4f4c55a-5102-4c00-b212-682209219070@104.17.2.56:80?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-SJC-80-WS%204%20TG%40jcnode
+hysteria2://kOBLfeljn9TgUArD@38.224.132.101:29810?sni=videos.apple.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK-12%20TG%40jcnode
+trojan://984c7793-1447-4af5-9200-d514ad6fe329@jp04.jsyjiedian8.com:30204?sni=jsygouer.weixin-baidu-qq.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2013%20TG%40jcnode
+vless://699f7506-d8df-6c70-0d81-10dc39c00dee@27.50.48.255:8443?type=ws&sni=8e92865f.lfree.cn.mt&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%202-1%20TG%40jcnode
 ```
 
 ---
