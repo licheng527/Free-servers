@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-27 03:43:20 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-27 04:40:10 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a4f4c55a-5102-4c00-b212-682209219070@104.20.54.178:80?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8--80-WS%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TURoaE1UZGpaREkwTWpJMlpXUmxOZz09Ok5XWTVaREEyWkRZdFptTTVNUzAwWXc9PQ==@36.141.116.62:40013#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%20LEASEWEB%2015%20%E9%8E%B6%E6%92%B3%E5%BD%87%E9%91%BA%E5%82%9C%E5%81%A3%20TG%40jcnode
 vless://a4f4c55a-5102-4c00-b212-682209219070@cf.877771.xyz:443?type=ws&sni=us1.opp.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20443-WS-TLS-4%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMFp5MThuSG1qY1Vmb21lMWZZUGhB@147.45.135.39:4205#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%204%202.1MB/s%20TG%40jcnode
+vless://ed9a0afe-1f54-40af-8821-0995cef0225a@51.250.14.123:443?type=tcp&sni=ads.x5.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20The%20%5B%2ACIDR%5D%20YA-4%20TG%40jcnode
 ```
 
 ---
