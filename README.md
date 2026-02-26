@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 10:11:54 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 12:51:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99%20ES%203%20%E2%AC%87%202.2MB/s%20TG%40jcnode
-vless://b62840b9-08d5-4039-beac-d52631204f4f@152.42.237.96:50479?type=tcp&sni=www.bing.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=D-lry9h3VhRF45oObwCdfDZlMmHYDMELb5y1RE56lFM&sid=e5596900#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG-10%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@ldu.izenny.com:43076#%F0%9F%87%A8%F0%9F%87%B3%E5%A4%A7%E9%99%86%20CN-9%20TG%40jcnode
+vless://a4f4c55a-5102-4c00-b212-682209219070@104.17.2.56:80?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-SJC-80-WS%204%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@104.18.98.68:443?type=ws&sni=cyuxj212pnq.chinat.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SJC-8%20TG%40jcnode
 ```
 
 ---
