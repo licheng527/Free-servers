@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 12:51:51 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 13:59:02 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@ldu.izenny.com:43076#%F0%9F%87%A8%F0%9F%87%B3%E5%A4%A7%E9%99%86%20CN-9%20TG%40jcnode
-vless://a4f4c55a-5102-4c00-b212-682209219070@104.17.2.56:80?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-SJC-80-WS%204%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@104.18.98.68:443?type=ws&sni=cyuxj212pnq.chinat.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SJC-8%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGI3OGY1ZC1mNGVjLTRlYWUtOGY4My05ZTRlZDllMTYzMjY=@hd117-mg-jd.huidu51.com:46623#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2053-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@104.19.56.164:443?type=ws&sni=cyuxj212pnq.chinat.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8-2%20TG%40jcnode
 ```
 
 ---
