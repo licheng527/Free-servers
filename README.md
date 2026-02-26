@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 19:40:58 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 21:10:16 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
+vless://26524cce-d514-4014-a426-365fb266a14d@104.17.154.56:443?type=ws&sni=cyuxj212pnq.chinat.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SJC-2%20TG%40jcnode
+trojan://MgumnQM3uUGlmFEc@zhe01.webflarex.top:38340?sni=yazhou10.dynu.net#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2020%20TG%40jcnode
 vless://4baf0f70-833a-427b-9292-2f76fc1f31d3@137.220.202.78:16479?type=tcp&sni=ads.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=-khaxF4c5ZK2sJizry6oWdP3OH5jV84CRi3LOI3zaD0&sid=eda90a60#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20%E4%B8%9C%E4%BA%AC-2%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGI3OGY1ZC1mNGVjLTRlYWUtOGY4My05ZTRlZDllMTYzMjY=@hd117-xg-jd.huidu51.com:46602#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2035%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.243:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20VN%2016%20%E2%AC%87%201.0MB/s%20TG%40jcnode
 ```
 
 ---
