@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 18:49:51 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 19:40:58 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://kOBLfeljn9TgUArD@38.224.132.101:29810?sni=videos.apple.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK-12%20TG%40jcnode
-trojan://984c7793-1447-4af5-9200-d514ad6fe329@jp04.jsyjiedian8.com:30204?sni=jsygouer.weixin-baidu-qq.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%2013%20TG%40jcnode
-vless://699f7506-d8df-6c70-0d81-10dc39c00dee@27.50.48.255:8443?type=ws&sni=8e92865f.lfree.cn.mt&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91%202-1%20TG%40jcnode
+vless://4baf0f70-833a-427b-9292-2f76fc1f31d3@137.220.202.78:16479?type=tcp&sni=ads.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=-khaxF4c5ZK2sJizry6oWdP3OH5jV84CRi3LOI3zaD0&sid=eda90a60#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20%E4%B8%9C%E4%BA%AC-2%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGI3OGY1ZC1mNGVjLTRlYWUtOGY4My05ZTRlZDllMTYzMjY=@hd117-xg-jd.huidu51.com:46602#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2035%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.243:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20VN%2016%20%E2%AC%87%201.0MB/s%20TG%40jcnode
 ```
 
 ---
