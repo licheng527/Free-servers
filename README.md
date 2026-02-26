@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 16:52:01 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-26 17:52:47 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@162.159.152.79:8443?type=ws&sni=cyuxj212pnq.chinat.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20A11%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.24:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20VN%203%20%E2%AC%87%202.0MB/s%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@104.17.8.199:443?type=ws&sni=cyuxj212pnq.chinat.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SJC-1%20TG%40jcnode
+vless://f204c673-c224-44a7-f86b-528f0ad67682@38.60.89.98:443?type=tcp&sni=downloadmirror.intel.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=frPuqu8Q35SuYtSezY0zkkMlMqnL9ZElfnWZS1UzP1s&sid=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20LA-VLESS%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.129.63.64:8443?type=ws&sni=cyuxj212pnq.chinat.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%206%20TG%40jcnode
+vless://a4f4c55a-5102-4c00-b212-682209219070@104.17.2.56:80?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-SJC-80-WS%204%20TG%40jcnode
 ```
 
 ---
