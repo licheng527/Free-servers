@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每8小时自动更新，更新时间：2026-02-27 20:34:21 (北京时间)</p>
+<p style="text-align: center;">节点每8小时自动更新，更新时间：2026-02-27 23:30:08 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@217.142.250.195:587?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%2017%20TG%40jcnode
-vless://144dc62b-21d6-4991-a3f5-8cf5a1792cb3@qauuf1.legendperm.ir:8585?type=tcp&sni=www.stackoverflow.com&security=tls&security=reality&pbk=28waJp0Tu79rpAeyEkJXiNyQ805qUChpNczSKxK1oG4&sid=71c86bb4279bdec6#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20%2C%20Istanbul%20%5BIPv4%2B6%5D%20%5BBL%5D%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@138.3.222.124:46209?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%2015%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@51.77.140.254:443?type=ws&sni=cyuxj212pnq.chinat.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20Relay%20-DE%2064%20TG%40jcnode
+vless://080556c0-0117-0bb8-b1d9-3708fa8ab8c4@109.120.189.142:443?type=tcp&sni=max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20%5BIPv4%2B6%5D%20%5B%2ACIDR%5D%20VK%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.128.183.248:443?type=ws&sni=cyuxj212pnq.chinat.indevs.in&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20disney%20GB-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@185.66.165.51:443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2012%20TG%40jcnode
+vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@109.120.188.156:443?type=tcp&sni=max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20%5BIPv4%2B6%5D%20%5B%2ACIDR%5D%20VK-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@178.32.42.230:8443?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%205%20TG%40jcnode
 ```
 
 ---
