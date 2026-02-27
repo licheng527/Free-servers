@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */8 * * *'  # 每8小时运行
+    - cron: '0 */3 * * *'  # 每3小时运行
   workflow_dispatch:  # 允许手动触发
 
 permissions:
