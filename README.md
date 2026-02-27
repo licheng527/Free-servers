@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-27 18:39:51 (北京时间)</p>
+<p style="text-align: center;">节点每8小时自动更新，更新时间：2026-02-27 20:34:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhXHU2ZmIzXHU1OTI3XHU1MjI5XHU0ZTlhIDQgVEdAamNub2RlIiwgImFkZCI6ICJndG0xLmt0bXdhbi5uZXQiLCAicG9ydCI6ICIxMjg4OSIsICJpZCI6ICI5MWZlYTMxMy1mOGY5LTQ2YWUtYjllYS1lZWI1OTk5NjJlMmIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJhaWR1LmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-vless://203d9487-1656-4824-bb09-99c73ecd36c6@104.26.5.203:443?type=ws&sni=zrf-czr.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@217.142.250.195:587?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%2017%20TG%40jcnode
+vless://144dc62b-21d6-4991-a3f5-8cf5a1792cb3@qauuf1.legendperm.ir:8585?type=tcp&sni=www.stackoverflow.com&security=tls&security=reality&pbk=28waJp0Tu79rpAeyEkJXiNyQ805qUChpNczSKxK1oG4&sid=71c86bb4279bdec6#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%20%2C%20Istanbul%20%5BIPv4%2B6%5D%20%5BBL%5D%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@138.3.222.124:46209?type=ws&sni=_acme-challenge.443888.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%2015%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@51.77.140.254:443?type=ws&sni=cyuxj212pnq.chinat.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20Relay%20-DE%2064%20TG%40jcnode
 ```
 
 ---
