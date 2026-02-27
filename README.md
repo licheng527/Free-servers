@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-27 12:46:11 (北京时间)</p>
+<p style="text-align: center;">节点每小时自动更新，更新时间：2026-02-27 13:53:33 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTM5YTViNC00M2ZlLTQzOTItYTJhNC03YmM0YTRiNWJhYzU=@zx.youtu1.top:30014#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2011%20TG%40jcnode
-vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@109.120.189.145:443?type=tcp&sni=max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%5B%2ACIDR%5D%20VK%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTM5YTViNC00M2ZlLTQzOTItYTJhNC03YmM0YTRiNWJhYzU=@zx.youtu1.top:30007#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2010-1%20TG%40jcnode
+vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.87.167:443?type=tcp&sni=ads.x5.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20Anycast-IP%20%5BIPv4%2B6%5D%20%5B%2ACIDR%5D%20YA-4%20TG%40jcnode
 ```
 
 ---
