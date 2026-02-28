@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每8小时自动更新，更新时间：2026-02-28 09:02:34 (北京时间)</p>
+<p style="text-align: center;">节点每8小时自动更新，更新时间：2026-02-28 12:11:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNTFlYjhiMS0yYjA1LTQwYmQtYWU5Mi1kMjhiMjZiODVkOTM=@au.fastcokeasdasd.com:18071#%F0%9F%87%A6%F0%9F%87%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20AU.%E6%BE%B3%E6%B4%B2.A%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@57.128.183.13:8443?type=ws&sni=d1turjz14jo.chinam.eu.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2016%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@57.128.178.183:443?type=ws&sni=d1turjz14jo.chinam.eu.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2055%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@152.228.135.72:8443?type=ws&sni=d1turjz14jo.chinam.eu.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2040%20TG%40jcnode
-vless://e258977b-e413-4718-a3af-02d75492c349@172.64.154.248:2087?type=ws&sni=jp.aniua.qzz.io&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20UN-10%20TG%40jcnode
+trojan://581418a7-c32b-444f-a69f-22c4641c6265@5bc51c73e3c86434522ada1046828035.v1.cac.cac.cab:44076?sni=ch.cacnord.bilibili.com#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%AB%20V1%20TG%40jcnode
+trojan://581418a7-c32b-444f-a69f-22c4641c6265@0e89e4945157c0ae8d06de6e41e352e9.v1.cac.cac.cab:43335?sni=cy.cacnord.bilibili.com#%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%20V1%20TG%40jcnode
+vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s678.ccgfw.top:443?type=grpc&sni=u708330u6ad7s678.ccgfw.top&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20%E6%9C%AA%E7%9F%A5%20VLESS-131%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.128.176.87:443?type=ws&sni=d1turjz14jo.chinam.eu.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2066%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@ldu.izenny.com:12589#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%205%20TG%40jcnode
 ```
 
 ---
