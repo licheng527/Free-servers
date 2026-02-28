@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每8小时自动更新，更新时间：2026-02-28 14:24:59 (北京时间)</p>
+<p style="text-align: center;">节点每8小时自动更新，更新时间：2026-02-28 17:16:31 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://cc9c4288-29eb-47b4-963b-46a3d17ea505@wqjnd.wqtd.mom:23520?sni=wqjnd.wqtd.mom#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20CA-10%20TG%40jcnode
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@185.171.202.55:443?type=tcp&sni=fran.scroogethebest.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%2001%20TG%40jcnode
-trojan://581418a7-c32b-444f-a69f-22c4641c6265@e47d9969aafbff5868e4d1d20dc3aa8d.v1.cac.cac.cab:40090?sni=kz.cacnord.bilibili.com#%F0%9F%87%B0%F0%9F%87%BF%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%20V1%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@57.128.180.133:443?type=ws&sni=d1turjz14jo.chinam.eu.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2059%20TG%40jcnode
-vless://e258977b-e413-4718-a3af-02d75492c349@www.wto.org:443?type=ws&sni=jp.aniua.qzz.io&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20UN-21%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNTFlYjhiMS0yYjA1LTQwYmQtYWU5Mi1kMjhiMjZiODVkOTM=@jpus.fastcokeasdasd.com:43292#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP..B%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.128.180.59:443?type=ws&sni=d1turjz14jo.chinam.eu.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2023%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@ldu.izenny.com:34061#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%206%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.59:8443?type=ws&sni=d1turjz14jo.chinam.eu.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2016%20TG%40jcnode
 ```
 
 ---
