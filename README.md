@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-01 20:26:09 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-01 23:13:39 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://45293831-ab97-4784-ad13-3f1dfa8a651a@23.144.4.77:8549?type=tcp&sni=www.ebay.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=Cb2QHdflCI0Wevjld7K6rR8YaDNfmY_4hbNHaB9fSws&sid=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20yo%E6%B4%9B%E6%9D%89%E7%9F%B6%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@104.17.153.221:443?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SJC%20TG%40jcnode
-vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443?type=ws&sni=bank.alaska-tigr.info&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%2002%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@78.129.149.27:443?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2033%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@54.36.98.76:2053?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2050%20TG%40jcnode
+vless://9684357D-8B15-42BF-97CA-21F2B09DB68E@155.117.87.197:10041?type=grpc&sni=www.microsoft.com&security=tls&security=reality&pbk=4ubRpOGo1d0kaRjvob_x0t271IL1P6al2gM5slqf_Fc&sid=686c0ef0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-1-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.210:443?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2037%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.234:443?type=ws&sni=bt5hpm5jf6.chinam.eu.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2025%20TG%40jcnode
 ```
 
 ---
