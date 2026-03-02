@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-02 12:43:03 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-02 14:43:40 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@57.128.178.232:8443?type=ws&sni=lirpeuijr.chinav.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2017%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@20.255.49.160:443?type=ws&sni=lirpeuijr.chinav.indevs.in&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK%2010%20TG%40jcnode
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:443?type=ws&sni=vip.yaml7.ggff.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-443-WS-TLS-4%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@188.245.161.141:443?type=ws&sni=lirpeuijr.chinav.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2018%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIFBDQ1cgSU1TIExpbWl0ZWQgLSA3MyBUR0BqY25vZGUiLCAiYWRkIjogIjlkODEyOGIzLXQ3MGY0MC10N2MyNTEtbngzYi5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAicG9ydCI6ICI4MCIsICJpZCI6ICIzMjMxNTMyNC1jZjZiLTExZWQtOTc5Yi1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20ifQ==
+vless://26524cce-d514-4014-a426-365fb266a14d@46.62.139.251:443?type=ws&sni=lirpeuijr.chinav.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20FI%203%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Cloudflare%20DNS%20TG%40jcnode
+vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443?type=ws&sni=bank.alaska-tigr.info&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20443%20TG%40jcnode
 ```
 
 ---
