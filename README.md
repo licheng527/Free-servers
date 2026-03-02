@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-02 17:37:32 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-02 20:33:54 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@152.228.135.111:2053?type=ws&sni=lirpeuijr.chinav.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2032%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99%20ES%205%20%E2%AC%87%201.9MB/s%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@152.228.191.232:443?type=ws&sni=lirpeuijr.chinav.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2047%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@162.159.32.86:443?type=ws&sni=lirpeuijr.chinav.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SIN-1%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIFBDQ1cgSU1TIExpbWl0ZWQgLSA4OSBUR0BqY25vZGUiLCAiYWRkIjogImQ5MGQ3MmNkLXQ2cjVzMC10OTVuY3ItMXNsb3AuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiNTIwYjkxMjYtOTg3MC0xMWVmLTgxYjAtZjIzYzkxNjRjYTVkIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIn0=
+vless://421a5536-c3c8-45ab-aa36-2ff032c6d44e@vpn.nnet.online:80?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20DYNAMIC-16163%20TG%40jcnode
+hysteria2://78E276B1-40A9-4930-9D73-2A6B67266AC7@us2.dexlos.com:20365?sni=us2.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US2-HY2-3%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.25:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20%E6%9C%AA%E7%9F%A5%20ZZ%20169%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIFBDQ1cgSU1TIExpbWl0ZWQgLSAxMiBUR0BqY25vZGUiLCAiYWRkIjogIjkwOGE3NGUyLXQ4cGo0MC10OXNvNDctMXByMzUuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiNmI3YzEyNzgtZmY5ZC0xMWVlLTg0Y2EtZjIzYzkxM2M4ZDJiIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIn0=
 ```
 
 ---
