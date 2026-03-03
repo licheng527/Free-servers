@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-03 20:33:38 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-03 23:38:29 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://47702dbb-6607-4d76-80e9-cd75327be3e7@172.64.144.12:443?type=ws&sni=4eb6e355.zrf-623.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%204-7%20TG%40jcnode
-vless://5ac6e21d-be89-2f3b-6f88-c7f89ea12ec1@27.50.48.50:2053?type=ws&sni=123.org.edukg.dpdns.org&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR%204%20%E2%AC%87%205.0MB/s%20TG%40jcnode
-trojan://aZsk43TyWBpjt@A@vpn.qinfen180.cn:443?sni=vpn.qinfen180.cn#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20Relay%20SG-SG%20538%203.25Mb%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@45.153.230.220:443?type=ws&sni=lirpeuijr.chinav.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2030%20TG%40jcnode
+vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@47.251.88.90:443?type=ws&sni=c0.ttlive4.dns-dynamic.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-25%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TmpJek1XTXdOMlEwWlRBNVl6RmtNdz09OlpUZGhOVEE1TVRFdFpEZzRNaTAwWWc9PQ==@cc1.l8inn.com:11031#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2002-2%20TG%40jcnode
+vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@173.245.59.68:443?type=ws&sni=c0.ttlive4.dns-dynamic.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-37%20TG%40jcnode
+vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@59.27.133.60:11000?type=ws&sni=c0.ttlive4.dns-dynamic.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-28%20TG%40jcnode
 ```
 
 ---
