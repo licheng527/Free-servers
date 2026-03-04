@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-04 12:24:46 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-04 17:30:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@38.180.205.71:443?type=ws&sni=k7ryegiaeu.chinam.eu.org&security=tls#%F0%9F%87%B7%F0%9F%87%B4%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20RO-2%20TG%40jcnode
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@173.245.58.55:443?type=ws&sni=c0.ttlive4.dns-dynamic.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-42%20TG%40jcnode
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@1.221.122.2:50000?type=ws&sni=c0.ttlive4.dns-dynamic.net&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR-13%20TG%40jcnode
-vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@104.16.253.24:443?type=ws&sni=c0.ttlive4.dns-dynamic.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%A7%BB%E5%8A%A8%E4%BC%98%E9%80%89-36%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@91.149.239.62:443?type=ws&sni=lirpeuijr.chinav.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%2010%20TG%40jcnode
+vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@154.29.155.110:443?type=ws&sni=c0.ttlive4.dns-dynamic.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-81%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@23.88.97.94:8443?type=ws&sni=k7ryegiaeu.chinam.eu.org&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2044%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@51.89.23.69:2053?type=ws&sni=lirpeuijr.chinav.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%208%20TG%40jcnode
+vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@173.245.58.190:443?type=ws&sni=c0.ttlive4.dns-dynamic.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E7%94%B5%E4%BF%A1-37%20TG%40jcnode
+vless://055e3bd2-10f8-4d9c-8f7d-70b9f659e476@162.159.3.90:443?type=ws&sni=c0.ttlive4.dns-dynamic.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-8%20TG%40jcnode
 ```
 
 ---
