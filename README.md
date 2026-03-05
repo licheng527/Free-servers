@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-05 20:36:29 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-05 23:40:42 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@104.24.29.223:2096?type=ws&sni=lirpeuijr.chinav.indevs.in&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20A06%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@16.16.45.85:2053?type=ws&sni=k7ryegiaeu.chinam.eu.org&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%2099%20%E2%AC%87%201.4MB/s%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@91.199.32.86:2053?type=ws&sni=fqrf5tlc.chinav.eu.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2031%20TG%40jcnode
-vless://3dfd98df-0b86-4dad-985f-5fed51084bd5@104.20.61.142:443?type=ws&sni=vz-4vx.pages.dev&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2003%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@192.144.39.33:443?type=ws&sni=lirpeuijr.chinav.indevs.in&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%20111%20%E2%AC%87%203.4MB/s%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@57.129.137.226:8443?type=ws&sni=lirpeuijr.chinav.indevs.in&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB%2026%20TG%40jcnode
+vless://4292f5ab-8963-01f4-8052-3615895ce4f1@morgentop.ru:443?type=tcp&sni=max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK-1%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@194.58.46.104:443?type=ws&sni=k7ryegiaeu.chinam.eu.org&security=tls#%F0%9F%87%A8%F0%9F%87%BF%E6%8D%B7%E5%85%8B%20CZ%203%20TG%40jcnode
+vless://4292f5ab-8963-07d0-8052-3615895ce4f1@5.188.140.39:52006?type=tcp&sni=max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%5B%2ACIDR%5D%20VK-7%20TG%40jcnode
 ```
 
 ---
