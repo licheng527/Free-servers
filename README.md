@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-06 14:34:46 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-06 17:28:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@140.83.57.114:25965?type=ws&sni=snippet.sh21.eu.org&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%2013%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@179.43.176.216:443?type=ws&sni=snippet.sh21.eu.org&security=tls#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%AB%20CH%203%20TG%40jcnode
-vless://8ae7cac7-36f7-d208-367d-2322dcb73973@162.159.34.231:443?type=ws&sni=w5xo.gc7.snl.cc.cd&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E6%9C%AA%E7%9F%A5%207%20TG%40jcnode
-vless://69a6c1d3-9637-2e38-8f5c-4e75cd624317@220.128.110.108:43?type=ws&sni=6f221d78.mfree.ccwu.cc&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%20TW%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@36.50.90.241:47790?type=ws&sni=sni.111000.dynv6.net&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%E6%9C%AA%E7%9F%A5%202%20TG%40jcnode
+hysteria2://78f60a9f-ea03-4f5f-b287-7261b0cbabc8@hk.xn--ehqa22b.site:21539?sni=hk.xn--ehqa22b.site#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%2005%20%E2%8C%88%E2%8C%8B%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@147.45.217.172:443?type=ws&sni=snippet.sh21.eu.org&security=tls#%F0%9F%87%B1%F0%9F%87%B9%E7%AB%8B%E9%99%B6%E5%AE%9B%20LT%20TG%40jcnode
+vless://e3713ba4-a8fc-44ec-b401-3b736e67718d@5.226.49.164:443?type=ws&sni=002.ljk-clouflare.dns.army&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP-7%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@2.59.183.26:443?type=ws&sni=snippet.sh21.eu.org&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2037%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@94.131.9.65:443?type=ws&sni=snippet.sh21.eu.org&security=tls#%F0%9F%87%B2%F0%9F%87%A9%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6%20MD%202%20TG%40jcnode
 ```
 
 ---
