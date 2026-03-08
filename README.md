@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-08 05:12:14 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-08 09:10:54 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@175.196.171.78:10088?type=ws&sni=snippet.fgfw.ye.gs&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR-21%200.3m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@218.37.77.68:33316?type=ws&sni=snippet.fgfw.ye.gs&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR-20%200.3m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@172.64.157.251:8443?type=ws&sni=snippet.fgfw.ye.gs&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20A04%200.3m/s%20TG%40jcnode
-hysteria2://bfebea8b-c7ad-4825-8c67-b0041243ed6a@tr.xn--ehqa22b.site:21390?sni=tr.xn--ehqa22b.site#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6%2008%20%E2%8C%88%E2%8C%8B%200.0m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@162.159.24.135:443?type=ws&sni=snippet.fgfw.ye.gs&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20LAX-3%200.6m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@172.67.69.132:443?type=ws&sni=snippet.fgfw.ye.gs&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E8%81%94%E9%80%9A-4%200.4m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@212.192.215.7:443?type=ws&sni=snippet.fgfw.ye.gs&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2025-1%200.4m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@104.168.167.197:27213?type=ws&sni=snippet.fgfw.ye.gs&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%208-2%200.0m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@154.29.150.2:8080?type=ws&sni=snippet.fgfw.ye.gs&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%208-1%200.4m/s%20TG%40jcnode
 ```
 
 ---
