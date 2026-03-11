@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-11 14:39:06 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-11 17:32:44 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@167.99.140.246:8443?type=ws&sni=snippet.fgfw.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20disney%20netflix%20DE-3%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.57.155.115:443?type=ws&sni=snippet.fgfw.de5.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-276%200.7m/s%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphbnRpZ29uZTQyMjQ=@fbxt0765gh0pielsss.ftisthebest.com:56020#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%5BSS%5D%20-20%204.2m/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@140.238.51.35:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20%E5%BD%B1%E6%A2%AD-KZOL%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@172.64.78.127:2053?type=ws&sni=snippet.fgfw.cc.cd&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20A04%200.8m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@135.181.151.136:2053?type=ws&sni=snippet.fgfw.cc.cd&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20FI%208%200.1m/s%20TG%40jcnode
+vless://69b09907-eaec-9621-9e8c-8a9ff930e268@147.78.247.110:50009?type=ws&sni=1242758a.soos.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-25%201.2m/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZWJmZDQ3OS0zYzFmLTQ2ZDUtYjgzZC0zY2NiM2YwN2JmOWE=@hd117-tw-jd.huidu51.com:46628#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%208%202.3m/s%20TG%40jcnode
+vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@fi.fasti.win:443?type=tcp&sni=fi.fasti.win&security=tls&flow=xtls-rprx-vision&security=reality&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20%2C%20Helsinki%20%5BBL%5D-1%200.3m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@38.244.5.245:39738?type=ws&sni=snippet.fgfw.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-225%200.4m/s%20TG%40jcnode
 ```
 
 ---
