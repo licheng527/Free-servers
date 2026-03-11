@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-11 17:32:44 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-11 20:35:42 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@135.181.151.136:2053?type=ws&sni=snippet.fgfw.cc.cd&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20FI%208%200.1m/s%20TG%40jcnode
-vless://69b09907-eaec-9621-9e8c-8a9ff930e268@147.78.247.110:50009?type=ws&sni=1242758a.soos.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-25%201.2m/s%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZWJmZDQ3OS0zYzFmLTQ2ZDUtYjgzZC0zY2NiM2YwN2JmOWE=@hd117-tw-jd.huidu51.com:46628#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%208%202.3m/s%20TG%40jcnode
-vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@fi.fasti.win:443?type=tcp&sni=fi.fasti.win&security=tls&flow=xtls-rprx-vision&security=reality&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20%2C%20Helsinki%20%5BBL%5D-1%200.3m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@38.244.5.245:39738?type=ws&sni=snippet.fgfw.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-225%200.4m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@104.17.154.145:443?type=ws&sni=snippet.fgfw.cc.cd&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20SJC-6%200.4m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.52:443?type=ws&sni=snippet.fgfw.de5.net&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB-47%200.1m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@13.48.175.183:2053?type=ws&sni=snippet.fgfw.cc.cd&security=tls#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8%20SE%202%200.0m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@154.92.9.171:2096?type=ws&sni=snippet.fgfw.de5.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-269%200.1m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@154.92.9.166:443?type=ws&sni=snippet.danfeng21.ndjp.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-358%200.1m/s%20TG%40jcnode
 ```
 
 ---
