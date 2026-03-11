@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-11 09:06:09 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-11 12:26:56 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@www.investec.com:443?type=ws&sni=sd1lznov9.chinam.indevs.in&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%2096%200.4m/s%20TG%40jcnode
-vless://3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15@172.64.53.33:443?type=ws&sni=snip.zrf.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%209%201.4m/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@103.241.62.245:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E5%BD%B1%E6%A2%AD-NKFB%200.2m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@143.20.41.195:314?type=ws&sni=snippet.fgfw.indevs.in&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%20182%200.0m/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@34.143.159.175:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E5%BD%B1%E6%A2%AD-VGXI%200.7m/s%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.69:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%20VN-4%200.0m/s%20TG%40jcnode
+trojan://36639485-60a0-4853-856c-40ac05f4b00d@104.16.250.22:443?sni=null.us1234567891.xyz#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2016138%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@45.85.93.59:443?type=ws&sni=snippet.fgfw.cc.cd&security=tls#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%AB%20CH%203%200.5m/s%20TG%40jcnode
+trojan://BxceQaOe@58.152.25.253:443?sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK%20cd19c%200015%201.4m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@5.255.118.176:443?type=ws&sni=snippet.fgfw.cc.cd&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20NL%2040%200.2m/s%20TG%40jcnode
 ```
 
 ---
