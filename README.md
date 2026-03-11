@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-11 05:21:14 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-11 09:06:09 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://69afc1a2-b9b0-636d-a0a4-9951380f5dec@47.79.145.241:4439?type=ws&sni=1242758a.soos.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20%E3%80%90%E8%AF%B7%E5%8B%BF%E6%B5%8B%E9%80%9F%E3%80%91-24%200.1m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@35.212.188.55:8005?type=ws&sni=snippet.fgfw.ndjp.net&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%20146%200.0m/s%20TG%40jcnode
-vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@estonia.scroogethebest.com:443?sni=estonia.scroogethebest.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%AB%20CH%20f291a%200002%200.3m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@121.146.206.172:35342?type=ws&sni=snippet.fgfw.ndjp.net&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%2056%200.6m/s%20TG%40jcnode
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095?type=ws#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20Cloudflare%20Developers%200.5m/s%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@www.investec.com:443?type=ws&sni=sd1lznov9.chinam.indevs.in&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%2096%200.4m/s%20TG%40jcnode
+vless://3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15@172.64.53.33:443?type=ws&sni=snip.zrf.bbroot.com&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%209%201.4m/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@103.241.62.245:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E5%BD%B1%E6%A2%AD-NKFB%200.2m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@143.20.41.195:314?type=ws&sni=snippet.fgfw.indevs.in&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%20182%200.0m/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@34.143.159.175:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E5%BD%B1%E6%A2%AD-VGXI%200.7m/s%20TG%40jcnode
 ```
 
 ---
