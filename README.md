@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-12 17:33:23 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-12 20:35:06 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://742d2dcb-ab26-4b10-b0a3-2efed2c154fa@cache-08.datapull.cc:25443?type=tcp&sni=www.mozilla.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=vlr8yVb-r0LM0zYDU8Ye3WWVRURoW_LEDyrrstNHYXw&sid=8d4c1f7a3e6b2950#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%2C%20Kansas%20City%20%5BBL%5D%207.4m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@14.54.78.164:18790?type=ws&sni=snippet.danfeng.let.gs&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR-93%203.6m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@222.113.18.207:16993?type=ws&sni=snippet.fgfw.de5.net&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR%2014%203.1m/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMjBjNTUyMy03ZmJmLTQxMzAtOTUwOS04ZjIyODE1MDU4Mzc=@bbb.whtjdasha.com:42794#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-51%201.5m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@173.245.58.138:443?type=ws&sni=snippet.fgfw.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CT-SIN-4%203.1m/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjIEpQLTExIDIuOW0vcyBUR0BqY25vZGUiLCAiYWRkIjogInNkNzhzZjJrZHB4NXMuZTdtYnFoeC5jb20iLCAicG9ydCI6ICI1OTk1OSIsICJpZCI6ICI0NjhhZGZmYi0zMDFiLTNkZjUtOGExMi02OWRiYjRlYzc1MGUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
