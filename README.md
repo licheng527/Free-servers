@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-14 02:28:06 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-14 05:23:41 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@57.129.16.72:2053?type=ws&sni=snippet.danfeng.site&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2016%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@49.13.58.80:8080?type=ws&sni=snippet.danfeng.site&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%2013-1%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06QUF2bytCc2dwdnZSNWxKc2RRVTMydnJNWEw3WkFiWkpaZkVUQjdiZGRoUT0=@toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:12523#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG-37%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3XHU1NzFmXHU4MDMzXHU1MTc2IFtdIFt2bS1uby1yYV0tMyBUR0BqY25vZGUiLCAiYWRkIjogIjIxMi44Ny4xOTguMTAxIiwgInBvcnQiOiAiNTEzODQiLCAiaWQiOiAiN2UxZWJiMGQtNjhjMC00ZDI2LTk0ZmQtMDRkMTRjYTU1MzUxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@136.0.7.139:27015?type=ws&sni=snippet.danfeng.loc.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20EWR-3%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@107.172.196.231:70?type=ws&sni=snippet.danfeng.indevs.in&security=tls#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7%20CA-51%20TG%40jcnode
+vless://3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15@cloudflare.182682.xyz:443?type=ws&sni=snip.zrfs.nn.kg&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20182682%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@64.186.225.83:60000?type=ws&sni=snippet.danfeng.loc.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-239%205.5m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@154.218.15.45:443?type=ws&sni=snippet.danfeng.gv.uy&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-226%200.3m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@154.92.9.197:2083?type=ws&sni=snippet.danfeng.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-219%200.4m/s%20TG%40jcnode
 ```
 
 ---
