@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-13 17:30:18 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-13 20:34:29 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@175.212.45.195:12053?type=ws&sni=ylnhh.cc.cd&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20029%201015KB/s%20YT-KR%20NF%20D%2B%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@120.50.87.7:27937?type=ws&sni=snippet.danfeng.indevs.in&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR-100%200.5m/s%20TG%40jcnode
-vless://0b792f43-fcfb-4a75-815d-9b8008f232e2@90.156.213.194:443?type=tcp&sni=m.vk.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=8enkIyqhTifgff9NZ7JmsL0-aC6EWdOTiqOKxzjdlVY&sid=aabbccdd#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0%20%5B%2ACIDR%5D%20VK%20TG%40jcnode
-hysteria2://1f3a8f7a-ce7d-4005-81ba-44e03a0022aa@de.xn--ehqa22b.site:21846?sni=de.xn--ehqa22b.site#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE%20247%202.1m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@59.31.107.42:13720?type=ws&sni=snippet.danfeng.eu.org&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR-116%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YjE4YzU5Zi1iMjQ5LTRkNzgtOTViYy1mYzU2MGE0MWFhYjc=@cy1-hbcuko.cy2511.world:28606#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%207-1%206.4m/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZiXHVkODNjXHVkZGYzXHU4ZDhhXHU1MzU3IGRpc25leSBWTiBUR0BqY25vZGUiLCAiYWRkIjogImd0bTEua3Rtd2FuLm5ldCIsICJwb3J0IjogIjEyODkxIiwgImlkIjogImJiZDc4NWRlLTk3OTMtNDQ1My1iZTQwLTZhM2ZkYzQxODIwMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICJiYWlkdS5jb20ifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZWJmZDQ3OS0zYzFmLTQ2ZDUtYjgzZC0zY2NiM2YwN2JmOWE=@hd117-tw-jd.huidu51.com:46628#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BE%2013%200.3m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@194.87.245.135:2053?type=ws&sni=snippet.danfeng.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%AA%E7%88%B1%E5%B0%94%E5%85%B0%20DUB%20TG%40jcnode
+trojan://4b18c59f-b249-4d78-95bc-fc560a41aab7@sakura.cylink.bond:40528?sni=sakura.cylink.bond#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20JP%2010%203.2m/s%20TG%40jcnode
 ```
 
 ---
