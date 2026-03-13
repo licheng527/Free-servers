@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-13 05:23:21 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-13 09:08:52 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjIEpQLTExIDIuOW0vcyBUR0BqY25vZGUiLCAiYWRkIjogInNkNzhzZjJrZHB4NXMuZTdtYnFoeC5jb20iLCAicG9ydCI6ICI1OTk1OSIsICJpZCI6ICI0NjhhZGZmYi0zMDFiLTNkZjUtOGExMi02OWRiYjRlYzc1MGUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@59.2.63.17:10088?type=ws&sni=snippet.danfeng.site&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20KR-70%201.4m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@104.16.140.28:2087?type=ws&sni=snippet.fgfw.ccwu.cc&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20A02%201.7m/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjIEpQLTExIDIuOW0vcyBUR0BqY25vZGUiLCAiYWRkIjogInNkNzhzZjJrZHB4NXMuZTdtYnFoeC5jb20iLCAicG9ydCI6ICI1OTk1OSIsICJpZCI6ICI0NjhhZGZmYi0zMDFiLTNkZjUtOGExMi02OWRiYjRlYzc1MGUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
