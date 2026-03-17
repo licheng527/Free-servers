@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-17 20:44:25 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-17 23:54:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@188.166.210.243:443?type=ws&sni=snippet.chinav.eu.cc&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG-162%203.1m/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@198.41.209.74:443?type=ws&sni=snip.zrfme.ndjp.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-80%205.5m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@51.91.248.38:8443?type=ws&sni=snippet.danfeng.gv.uy&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2012%202.2m/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@198.41.208.224:443?type=ws&sni=snip.zrfsub.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20VLESS-79%205.5m/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmIEhLLSAwNCAzLjdtL3MgVEdAamNub2RlIiwgImFkZCI6ICJnZ29xMmNkMXMyZTUuamtoa2dqLnh5eiIsICJwb3J0IjogIjgwIiwgImlkIjogIjBmODY4MDAyLTUyMzAtNDVmYi1iZTIzLTBmZDBlZDliYmRjNCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidG1zLmRpbmd0YWxrLmNvbSIsICJwYXRoIjogIi9tYXJrZXQvaGsxP2VkPTUxMiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.124:443?type=ws&sni=snippet.chinat.eu.cc&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB-31%205.5m/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@89.110.113.198:443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20SS%20002%20-1380%203.1m/s%20TG%40jcnode
+trojan://800880b6-3883-4f0d-a061-ff9a5edfe232@fz-O-7p8cxjfe.pjdqjdf.cn:59009?sni=v1-dy.ixigua.com#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%2057%200.2m/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.zhetengsha.eu.org:443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK-ss-2%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.254.158.31:443?type=ws&sni=snippet.danfeng.gv.uy&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2024-1%203.1m/s%20TG%40jcnode
 ```
 
 ---
