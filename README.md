@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-17 14:51:50 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-17 17:44:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@162.159.44.53:443?type=ws&sni=snippet.danfeng.gv.uy&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20CT-NRT%2015.4m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@104.24.47.174:2087?type=ws&sni=snippet.danfeng.gv.uy&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20A06%205.0m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@51.91.254.177:8443?type=ws&sni=snippet.danfeng.eu.org&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR%2027%20-773%201.2m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@209.38.221.2:443?type=ws&sni=snippet.danfeng.ee.cd&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20DE-194%20-929%204.9m/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@172.67.64.108:443?type=ws&sni=snip.addd.pp.ua&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2074%204.3m/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@213.108.198.56:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20SS%20049%20-1365%203.1m/s%20TG%40jcnode
+vless://05e81b2a-d0ee-45da-8b31-48adcc8f81cc@174.136.205.68:443?type=tcp&sni=navi.bankrate.com&security=tls&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%207-2%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@45.32.183.106:80?type=ws&sni=snippet.chinav.eu.cc&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB-70%200.2m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@204.197.163.166:8500?type=ws&sni=snippet.chinav.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US-166%205.5m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@134.209.184.129:443?type=ws&sni=snippet.danfeng.eu.org&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%20201%204.9m/s%20TG%40jcnode
 ```
 
 ---
