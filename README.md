@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-17 23:54:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-18 02:46:49 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.124:443?type=ws&sni=snippet.chinat.eu.cc&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB-31%205.5m/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@89.110.113.198:443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20SS%20002%20-1380%203.1m/s%20TG%40jcnode
-trojan://800880b6-3883-4f0d-a061-ff9a5edfe232@fz-O-7p8cxjfe.pjdqjdf.cn:59009?sni=v1-dy.ixigua.com#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97%2057%200.2m/s%20TG%40jcnode
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.zhetengsha.eu.org:443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20HK-ss-2%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.254.158.31:443?type=ws&sni=snippet.danfeng.gv.uy&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%2024-1%203.1m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@212.193.2.213:443?type=ws&sni=snippet.danfeng.gv.uy&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%20FR-16%203.7m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@138.68.178.185:8443?type=ws&sni=snippet.chinav.eu.cc&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%20GB-72%204.4m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@158.101.89.113:50443?type=ws&sni=snippet.danfeng.ee.cd&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%20SG%2050%202.5m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@104.16.84.198:2087?type=ws&sni=snippet.danfeng.gv.uy&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%20A15%205.6m/s%20TG%40jcnode
+trojan://800880b6-3883-4f0d-a061-ff9a5edfe232@fz-O-7p8cxjfe.pjdqjdf.cn:16783?sni=v1-dy.ixigua.com#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF%20%E8%8E%AB%E6%96%AF%E7%A7%91%20-60%20TG%40jcnode
 ```
 
 ---
