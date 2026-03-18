@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-18 09:15:24 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-18 12:50:34 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://ccd85f23-9105-37fd-96b9-9dcbc89ff3eb@s133.ayxj.top:443?type=tcp&sni=u710948u19efs133.ayxj.top&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BD%20VLESS-139%20TG%40jcnode
-vless://7478ff88-1354-4143-96ce-6c8059273ef0@45.86.74.10:8443?type=tcp&sni=pimg.mycdn.me&security=tls&flow=xtls-rprx-vision&security=reality&pbk=evD8WalRSfQZ19cuSjbszCdh6IhaHX1_a_GZqJ51GAs&sid=#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20The%20%2C%20Amsterdam%20%5BBL%5D%203.1m/s%20TG%40jcnode
-vless://bea7a5db-bb02-4bcd-bece-62832eb1bc94@37.139.32.58:1488?type=tcp&sni=max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK-10%202.5m/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.131:443?type=ws&sni=snippet.danfeng.kozow.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2031%20-435%20-549%205.8m/s%20TG%40jcnode
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@211.48.77.114:11265?type=ws&sni=ylnhh.cc.cd&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD%20%EF%BC%9A%2005%20-1442%20-1262%201.1m/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.188:443?type=ws&sni=snippet.danfeng.kozow.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20US%206bd57%200026%204.3m/s%20TG%40jcnode
+vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@104.17.28.89:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%8C%90CF%E4%BC%98%E9%80%89%2016670%205.5m/s%20TG%40jcnode
+vless://599daf71-2898-4049-9ce7-e272348a34a9@174.136.205.68:443?type=tcp&sni=navi.bankrate.com&security=tls&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%2061%20%E2%8C%88%E2%8C%8B%20TG%40jcnode
+vless://82a16f4e-562f-42bf-8328-5083852e86ff@51.250.111.159:7445?type=tcp&sni=ads.x5.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=1nX2U0-rg8Lw6Bz0i16x1YItJUs8X9CsvzQjCk-DOhA&sid=#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0%20The%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA-1%202.5m/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@45.8.157.80:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20SS%20041%20-1262%20-1715%203.7m/s%20TG%40jcnode
 ```
 
 ---
