@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-21 02:33:31 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-21 05:21:24 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a283467d-4787-4db8-834c-1bee3fe2bed6@162.159.44.198:443?type=ws&sni=t1.999894.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20095%2012.3MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@61.85.171.204:25374?type=ws&sni=snippet.chinav.indevs.in&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20023%200.7MB/s%20TG%40jcnode
-vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@104.19.58.74:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20003%200.4MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@cf1.danfeng.eu.org:443?type=ws&sni=snippet.fgfw.ndjp.net&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20057%209.4MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@147.78.242.181:39738?type=ws&sni=snippet.fgfw.ndjp.net&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20077%201.2MB/s%20TG%40jcnode
+vless://a283467d-4787-4db8-834c-1bee3fe2bed6@172.64.53.96:8443?type=ws&sni=t1.999894.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20113%2013.5MB/s%20TG%40jcnode
+vless://a283467d-4787-4db8-834c-1bee3fe2bed6@104.18.38.250:8443?type=ws&sni=t1.999894.xyz&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20065%208.0MB/s%20TG%40jcnode
+vless://a283467d-4787-4db8-834c-1bee3fe2bed6@www.visa.com:443?type=ws&sni=t1.999894.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20111%200.6MB/s%20TG%40jcnode
+vless://a283467d-4787-4db8-834c-1bee3fe2bed6@162.159.36.117:2087?type=ws&sni=t1.999894.xyz&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20093%209.0MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@store.ubi.com:443?type=ws&sni=snip.asss.pp.ua&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20014%20TG%40jcnode
 ```
 
 ---
