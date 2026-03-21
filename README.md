@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-21 05:21:24 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-21 09:06:14 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a283467d-4787-4db8-834c-1bee3fe2bed6@172.64.53.96:8443?type=ws&sni=t1.999894.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20113%2013.5MB/s%20TG%40jcnode
-vless://a283467d-4787-4db8-834c-1bee3fe2bed6@104.18.38.250:8443?type=ws&sni=t1.999894.xyz&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20065%208.0MB/s%20TG%40jcnode
-vless://a283467d-4787-4db8-834c-1bee3fe2bed6@www.visa.com:443?type=ws&sni=t1.999894.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20111%200.6MB/s%20TG%40jcnode
-vless://a283467d-4787-4db8-834c-1bee3fe2bed6@162.159.36.117:2087?type=ws&sni=t1.999894.xyz&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20093%209.0MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@store.ubi.com:443?type=ws&sni=snip.asss.pp.ua&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20014%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDQwIDQuOE1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJkb21pbmlvbjk0NzMuc2FrZmhrZ3cuY29tIiwgInBvcnQiOiAiMTIwMjMiLCAiaWQiOiAiYWIzZDM1MWYtZjJjMS0zNTQ0LThiZDQtYjA4MWJhZDRhYjIxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOTE2ZDc1Yi1iYTNiLTQ1MmItODVhOS0yY2QxMTU5MzE0NGI=@efzhuzhu01.whtjdasha.com:29987#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20021%204.3MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjSlAgMDE1IDguME1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJ0YWN0ZnVsNTU5M2ouc2FrZmhrZ3cuY29tIiwgInBvcnQiOiAiMTE0MDEiLCAiaWQiOiAiYWIzZDM1MWYtZjJjMS0zNTQ0LThiZDQtYjA4MWJhZDRhYjIxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+vless://a283467d-4787-4db8-834c-1bee3fe2bed6@162.159.33.118:443?type=ws&sni=t1.999894.xyz&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20106%209.2MB/s%20TG%40jcnode
 ```
 
 ---
