@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-22 05:15:20 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-22 09:14:36 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@162.159.39.236:443?type=ws&sni=snip.drd.pp.ua&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20024%2013.0MB/s%20TG%40jcnode
-trojan://3ac6a6ca99f74941b1eaf892818e2ddb@220.130.75.219:443?sni=220.130.75.219#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20001%200.7MB/s%20TG%40jcnode
-vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@104.19.85.38:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20042%200.4MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@cloudflare.182682.xyz:443?type=ws&sni=snip1.aizrf.de5.net&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20017%2016.0MB/s%20TG%40jcnode
-vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@alist.sm.uy:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20048%2011.1MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@198.41.223.247:443?type=ws&sni=snip.syt.pp.ua&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20024%209.2MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@172.64.151.78:443?type=ws&sni=snip.zrfme.ndjp.net&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20058%209.0MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@104.18.92.83:443?type=ws&sni=snip.zrf.gv.uy&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20086%206.1MB/s%20TG%40jcnode
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@89.221.225.71:443?sni=89.221.225.71#%F0%9F%87%B2%F0%9F%87%A9%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6MD%20009%203.7MB/s%20TG%40jcnode
 ```
 
 ---
