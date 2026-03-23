@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-23 17:53:36 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-23 20:41:01 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@198.41.223.179:443?type=ws&sni=snip.zrfme.site&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20070%209.2MB/s%20TG%40jcnode
-trojan://32530_t3b7d6608@sgpt1.ttddd.xyz:443?sni=sgpt1.cnedu2.com#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20001%200.6MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@172.64.151.78:443?type=ws&sni=snip.zrfme.ndjp.net&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20060%209.8MB/s%20TG%40jcnode
-trojan://trojan@152.53.200.167:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20009%203.7MB/s%20TG%40jcnode
-vless://a597b708-0325-4e95-9a46-068d27bd5ff6@lt08.tcpdoor.net:7443?type=grpc&sni=www.vk.com&security=tls&security=reality&pbk=-aYYOZ3t8L1J5B7qSR45-IjwNTQq6RuE5yzv-rQbOhM&sid=8db0feb9#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20006%201.0MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjXHU2NWIwXHU1MmEwXHU1NzYxU0cgMDc0IDE3LjZNQi9zIFRHQGpjbm9kZSIsICJhZGQiOiAibS5jbm1qaW4ubmV0IiwgInBvcnQiOiAiMTY2MTgiLCAiaWQiOiAiNDkwN2E4ZTktNzljNi00NjkwLWE2OGItMmRmYjk3MTg2MWY0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIjkwYTE1ZDQxOGQxODExMWViZGM4MDE5NmNhMGNkNzJkLm1vYmdzbGIudGJjYWNoZS5jb20ifQ==
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06QUF2bytCc2dwdnZSNWxKc2RRVTMydnJNWEw3WkFiWkpaZkVUQjdiZGRoUT0=@toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:12407#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20010%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@154.211.8.18:443?type=ws&sni=snip.drr.pp.ua&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20047%205.6MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@www.visa.cn:443?type=ws&sni=snip.cfsub.de5.net&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20017%204.3MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@162.159.45.66:443?type=ws&sni=snip.drd.pp.ua&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20081%2015.4MB/s%20TG%40jcnode
 ```
 
 ---
