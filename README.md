@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-23 23:51:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-24 02:39:08 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@104.19.85.38:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20071%205.5MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@104.19.54.187:443?type=ws&sni=snip.zrfs.nn.kg&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20026%206.1MB/s%20TG%40jcnode
-trojan://trojan@152.53.45.251:8888?sni=jflsjlaf.pages.dev#%F0%9F%87%A6%F0%9F%87%B9%E5%A5%A5%E5%9C%B0%E5%88%A9AT%20002%200.6MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@162.159.39.239:443?type=ws&sni=snip1.zrfme.site&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20088%2011.1MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@staticdelivery.nexusmods.com:443?type=ws&sni=snip.vurl.dpdns.org&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20033%209.6MB/s%20TG%40jcnode
+trojan://47854_tf65772e3@los18.ttddd.xyz:443?sni=los18.cnedu2.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20001%205.5MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@198.41.223.179:443?type=ws&sni=snip.zrfme.site&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20027%208.0MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@www.visa.cn:443?type=ws&sni=snip.cfsub.de5.net&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20017%204.3MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3XHU2Y2Q1XHU1NmZkRlIgMDA2IDMuN01CL3MgVEdAamNub2RlIiwgImFkZCI6ICJtLmNubWppbi5uZXQiLCAicG9ydCI6ICIxNjY0NCIsICJpZCI6ICI0OTA3YThlOS03OWM2LTQ2OTAtYTY4Yi0yZGZiOTcxODYxZjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiOTBhMTVkNDE4ZDE4MTExZWJkYzgwMTk2Y2EwY2Q3MmQubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@zrf666.cf.090227.xyz:443?type=ws&sni=snip.qqq.hidns.vip&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20032%208.4MB/s%20TG%40jcnode
 ```
 
 ---
