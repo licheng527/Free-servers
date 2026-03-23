@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-23 05:17:08 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-23 09:15:15 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://36639485-60a0-4853-856c-40ac05f4b00d@123.dnscloudcloud.top:443?sni=null.us1234567891.xyz#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20005%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@8.39.125.203:443?type=ws&sni=snip1.xcf.de5.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20072%208.6MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@registry.cyou:443?type=ws&sni=snip.zrfs.bbroot.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20093%204.9MB/s%20TG%40jcnode
-vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@162.159.7.2:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20057%209.2MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@store.ubi.com:443?type=ws&sni=snip.zrfsub.pp.ua&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20015%209.8MB/s%20TG%40jcnode
+vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@104.18.40.56:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20080%209.8MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@104.17.187.150:443?type=ws&sni=snip.addd.pp.ua&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20043%205.7MB/s%20TG%40jcnode
+vless://00000000-0000-4000-8000-000000000000@220.72.226.205:30025?type=ws&sni=sub.mot.ip-ddns.com&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20002%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMgMDc2IDAuMk1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJzdG9yZS51YmkuY29tIiwgInBvcnQiOiAiODg4MCIsICJpZCI6ICIzYjZkNzE1ZC1kODE3LTRlMTMtYjU5MC1jMGIzOGNlODY3MzQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdhbWUuZmxleS5ldS5jYyIsICJwYXRoIjogIi9teWtpbmdtdXNpYyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
 ```
 
 ---
