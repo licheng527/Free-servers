@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-25 02:48:01 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-25 05:28:23 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@172.64.52.210:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20083%2014.1MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@www.visa.cn:443?type=ws&sni=snip.snip.bbroot.com&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20034%204.3MB/s%20TG%40jcnode
-vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@104.17.28.89:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20074%205.6MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@104.26.11.130:443?type=ws&sni=snip.ees.pp.ua&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20038%204.3MB/s%20TG%40jcnode
-vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@162.159.44.142:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20073%2012.3MB/s%20TG%40jcnode
+vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@172.64.229.165:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20139%206.3MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjXHU2NWIwXHU1MmEwXHU1NzYxU0cgMDI3IFRHQGpjbm9kZSIsICJhZGQiOiAidjQ1LmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODQ1IiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@172.64.52.81:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20017%2016.5MB/s%20TG%40jcnode
+trojan://trojan@152.53.200.98:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20013%205.6MB/s%20TG%40jcnode
 ```
 
 ---
