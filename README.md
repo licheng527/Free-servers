@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-26 02:42:26 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-26 05:28:33 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://trojan@152.53.60.198:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20009%205.4MB/s%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNTliZmZhNy1jZDY1LTRjZDEtOWNlZS1iMzllODg0ZDlkY2E=@bgp01.inbound.rfsconfig.com:2568#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20024%206.1MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@172.64.53.191:443?type=ws&sni=snip.zrf.bbroot.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20013%2016.0MB/s%20TG%40jcnode
-hysteria2://9cfd3d46-6d4c-48c8-8a60-046a9e615abb@yiselie.iptk123.com:443?sni=yiselie.iptk123.com#%F0%9F%87%AE%F0%9F%87%B1%E4%BB%A5%E8%89%B2%E5%88%97IL%20005%202.5MB/s%20TG%40jcnode
-trojan://MsfEIoidVUKP35Uj4c@au-1.tr202510.com:443?sni=au-1.tr202510.com#%F0%9F%87%A6%F0%9F%87%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9AAU%20013%205.6MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@104.18.240.4:443?type=ws&sni=snip.zrfme.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20076%206.8MB/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNTliZmZhNy1jZDY1LTRjZDEtOWNlZS1iMzllODg0ZDlkY2E=@bgp01.inbound.rfsconfig.com:2684#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20024%201.8MB/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNTliZmZhNy1jZDY1LTRjZDEtOWNlZS1iMzllODg0ZDlkY2E=@bgp01.inbound.rfsconfig.com:2552#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20076%2016.6MB/s%20TG%40jcnode
+trojan://trojan@59.20.121.139:29999?sni=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20001%20TG%40jcnode
 ```
 
 ---
