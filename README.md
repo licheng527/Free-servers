@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-25 12:48:23 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-25 14:51:20 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://trojan@152.53.200.167:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20014%203.7MB/s%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.12:8388#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20004%200.4MB/s%20TG%40jcnode
-trojan://JY8gATPrZvG5QU2O31@os-1.tr202513.com:443?sni=os-1.tr202513.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20026%2018.4MB/s%20TG%40jcnode
-vless://2995c61c-30a2-4b84-8150-ce379a306cd1@video.livecut.cc:443?type=ws&sni=video.livecut.cc&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20012%203.1MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@162.159.38.154:443?type=ws&sni=snip.qqq.hidns.vip&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20018%2015.4MB/s%20TG%40jcnode
+trojan://MsfEIoidVUKP35Uj4c@de-3.tr202510.com:443?sni=de-3.tr202510.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20017%204.3MB/s%20TG%40jcnode
+trojan://k2ECgOZKI5KKO9F9Jn@au-1.tr202505.com:443?sni=au-1.tr202505.com#%F0%9F%87%A6%F0%9F%87%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9AAU%20008%204.3MB/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNTliZmZhNy1jZDY1LTRjZDEtOWNlZS1iMzllODg0ZDlkY2E=@bgp01.inbound.rfsconfig.com:2684#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20024%201.8MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@blog.811520.xyz:443?type=ws&sni=snip.zrfs.pp.ua&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20007%208.2MB/s%20TG%40jcnode
 ```
 
 ---
