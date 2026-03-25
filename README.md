@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-25 05:28:23 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-25 09:13:38 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@172.64.229.165:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20139%206.3MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjXHU2NWIwXHU1MmEwXHU1NzYxU0cgMDI3IFRHQGpjbm9kZSIsICJhZGQiOiAidjQ1LmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODQ1IiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-vless://9e4f36da-8f61-44f8-a9a7-0fd3a8d81234@172.64.52.81:443?type=ws&sni=r.icy.de5.net&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20017%2016.5MB/s%20TG%40jcnode
-trojan://trojan@152.53.200.98:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20013%205.6MB/s%20TG%40jcnode
+trojan://k2ECgOZKI5KKO9F9Jn@au-3.tr202505.com:443?sni=au-3.tr202505.com#%F0%9F%87%A6%F0%9F%87%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9AAU%20009%205.7MB/s%20TG%40jcnode
+trojan://MsfEIoidVUKP35Uj4c@ty-1.tr202510.com:443?sni=ty-1.tr202510.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20047%2010.3MB/s%20TG%40jcnode
+vless://a1afced8-420b-430d-b25a-08db1c3332da@144.31.238.232:443?sni=www.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=2IOXPZdkxdHts0gzVYWjAWTjuM1-OuPFGgHeFMVvNwY&sid=3aee9bf2757b2d1f#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20001%204.9MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@104.19.54.187:443?type=ws&sni=snip.zrfs.nn.kg&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20017%205.5MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@27.50.48.8:443?type=ws&sni=snip.zrfme.dedyn.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20060%205.9MB/s%20TG%40jcnode
 ```
 
 ---
