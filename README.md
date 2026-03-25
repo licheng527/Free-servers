@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-25 14:51:20 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-25 17:42:33 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://MsfEIoidVUKP35Uj4c@de-3.tr202510.com:443?sni=de-3.tr202510.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20017%204.3MB/s%20TG%40jcnode
-trojan://k2ECgOZKI5KKO9F9Jn@au-1.tr202505.com:443?sni=au-1.tr202505.com#%F0%9F%87%A6%F0%9F%87%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9AAU%20008%204.3MB/s%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNTliZmZhNy1jZDY1LTRjZDEtOWNlZS1iMzllODg0ZDlkY2E=@bgp01.inbound.rfsconfig.com:2684#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20024%201.8MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@blog.811520.xyz:443?type=ws&sni=snip.zrfs.pp.ua&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20007%208.2MB/s%20TG%40jcnode
+trojan://Z9b8ZOzCbmyCwI6Gbz@nl-2.tr202512.com:443?sni=nl-2.tr202512.com#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20006%204.6MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMgMDEzIFRHQGpjbm9kZSIsICJhZGQiOiAidjI5LmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODI5IiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+trojan://JY8gATPrZvG5QU2O31@au-1.tr202513.com:443?sni=au-1.tr202513.com#%F0%9F%87%A6%F0%9F%87%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9AAU%20001%20TG%40jcnode
+trojan://MsfEIoidVUKP35Uj4c@au-3.tr202510.com:443?sni=au-3.tr202510.com#%F0%9F%87%A6%F0%9F%87%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9AAU%20015%203.7MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@50.62.90.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20069%206.1MB/s%20TG%40jcnode
 ```
 
 ---
