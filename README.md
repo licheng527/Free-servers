@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-27 00:02:28 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-27 02:51:45 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@172.67.64.76:443?type=ws&sni=snip.drr.pp.ua&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20010%200.6MB/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNDY2NWQyMy1jMGEyLTQ1NGUtYmE2Mi1jMjc2ZWQxODlhNzA=@hkp8.network-cdn-gw-yd.net:48818#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20025%200.5MB/s%20TG%40jcnode
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNDY2NWQyMy1jMGEyLTQ1NGUtYmE2Mi1jMjc2ZWQxODlhNzA=@hkp11.network-cdn-gw-yd.net:48820#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20027%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@27.50.48.8:443?type=ws&sni=snip.zrfme.pp.ua&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20044%206.0MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@104.18.46.103:443?type=ws&sni=snip.wrr.pp.ua&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20042%209.8MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@172.64.151.78:443?type=ws&sni=snip.zrfme.ndjp.net&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20052%2010.0MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@198.41.223.193:443?type=ws&sni=snip.zrr.pp.ua&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20019%209.2MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@cloudflare.182682.xyz:443?type=ws&sni=snip.aww.pp.ua&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20004%2011.1MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@172.64.53.191:443?type=ws&sni=snip.zrf.bbroot.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20063%2016.4MB/s%20TG%40jcnode
 ```
 
 ---
