@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-27 13:00:57 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-27 14:56:27 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@162.159.38.154:443?type=ws&sni=snip.qqq.hidns.vip&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20054%2015.3MB/s%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjM1Njk2ZC03ODczLTRiMTUtOWIyMi03ZGFlM2EwYjY3NDc=@hkp5.network-cdn-gw-yd.net:49905#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20014%207.9MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@198.41.208.231:443?type=ws&sni=snip.zrf.ndjp.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20025%205.5MB/s%20TG%40jcnode
-vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@104.19.54.187:443?type=ws&sni=snip.zrfs.nn.kg&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20068%205.5MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@27.50.48.8:443?type=ws&sni=snip.subs.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20018%205.6MB/s%20TG%40jcnode
+vless://4d6fa520-b8c1-4811-93f6-a91fd6f87b59@27.50.48.8:443?type=ws&sni=snip.subs.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20071%205.7MB/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjM1Njk2ZC03ODczLTRiMTUtOWIyMi03ZGFlM2EwYjY3NDc=@sgp4.network-cdn-gw-yd.net:45509#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20043%2014.1MB/s%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20104%205.0MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.59.225.19:8443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR%20016%206.1MB/s%20TG%40jcnode
 ```
 
 ---
