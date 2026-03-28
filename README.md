@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-28 09:12:54 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-28 12:47:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3XHU2Y2Q1XHU1NmZkRlIgMDA4IDQuM01CL3MgVEdAamNub2RlIiwgImFkZCI6ICJ0LmNubWpjbi5jeW91IiwgInBvcnQiOiAiMTY2NDUiLCAiaWQiOiAiMDgwODk3YTEtZDc5ZC00MDkwLTlhZmQtOWYxNzA5Zjc3MzFlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJiZDBjN2NmMWI0NGJhYzhmZjU2ZGM1ZTc4Yzg0MzY0Mi5tb2Jnc2xiLnRiY2FjaGUuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-trojan://yyACp4syprMnJaB3bn@fw-ef15-au1.tr202507.com:5042?sni=fw-ef15-au1.tr202507.com#%F0%9F%87%A6%F0%9F%87%BA%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9AAU%20002%202.5MB/s%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.43:443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20001%206.1MB/s%20TG%40jcnode
-hysteria2://9cfd3d46-6d4c-48c8-8a60-046a9e615abb@yiselie.iptk123.com:443?sni=yiselie.iptk123.com#%F0%9F%87%AE%F0%9F%87%B1%E4%BB%A5%E8%89%B2%E5%88%97IL%20002%202.8MB/s%20TG%40jcnode
-trojan://trojan@152.53.200.167:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20016%202.5MB/s%20TG%40jcnode
+trojan://11f478ab-88a2-4992-85e1-90b8665b9118@qa-feishu.indsfhqq.cn.pol8686.com:53133?sni=m.ctrip.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20024%204.3MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.29:2053?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20015%204.9MB/s%20TG%40jcnode
+trojan://11f478ab-88a2-4992-85e1-90b8665b9118@qa-feishu.indsfhqq.cn.pol8686.com:53155?sni=m.ctrip.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20007%207.9MB/s%20TG%40jcnode
+vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@27.50.48.8:443?type=ws&sni=bab1c79b.soos.bbroot.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20010%206.1MB/s%20TG%40jcnode
+trojan://yyACp4syprMnJaB3bn@sg-1.tr202507.com:443?sni=sg-1.tr202507.com#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20007%200.3MB/s%20TG%40jcnode
 ```
 
 ---
