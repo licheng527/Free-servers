@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-28 14:45:16 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-28 17:27:06 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@104.238.70.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20045%205.8MB/s%20TG%40jcnode
-hysteria2://9cfd3d46-6d4c-48c8-8a60-046a9e615abb@yiselie.iptk123.com:443?sni=yiselie.iptk123.com#%F0%9F%87%AE%F0%9F%87%B1%E4%BB%A5%E8%89%B2%E5%88%97IL%20002%202.8MB/s%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@82.117.245.58:2053?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20003%204.3MB/s%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg004767yf3.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20035%209.1MB/s%20TG%40jcnode
+trojan://yyACp4syprMnJaB3bn@uk-1.tr202507.com:443?sni=uk-1.tr202507.com#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB%20007%201.2MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.87:8443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB%20001%201.2MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDIwIDYuOE1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJ0LmNubWpjbi5jeW91IiwgInBvcnQiOiAiMTY2MjIiLCAiaWQiOiAiMDgwODk3YTEtZDc5ZC00MDkwLTlhZmQtOWYxNzA5Zjc3MzFlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJiZDBjN2NmMWI0NGJhYzhmZjU2ZGM1ZTc4Yzg0MzY0Mi5tb2Jnc2xiLnRiY2FjaGUuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+trojan://trojan@152.53.60.198:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20006%201.8MB/s%20TG%40jcnode
 ```
 
 ---
