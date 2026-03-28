@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-28 17:27:06 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-28 20:31:12 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://yyACp4syprMnJaB3bn@uk-1.tr202507.com:443?sni=uk-1.tr202507.com#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB%20007%201.2MB/s%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.87:8443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB%20001%201.2MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDIwIDYuOE1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJ0LmNubWpjbi5jeW91IiwgInBvcnQiOiAiMTY2MjIiLCAiaWQiOiAiMDgwODk3YTEtZDc5ZC00MDkwLTlhZmQtOWYxNzA5Zjc3MzFlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJiZDBjN2NmMWI0NGJhYzhmZjU2ZGM1ZTc4Yzg0MzY0Mi5tb2Jnc2xiLnRiY2FjaGUuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-trojan://trojan@152.53.60.198:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20006%201.8MB/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNDlmZmJhYS0yNzI5LTRmZDMtOTU0NS03OTU5ZDYxNjNlMjI=@any.cast.123gogogo.top:44501#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20017%208.1MB/s%20TG%40jcnode
+vless://00000000-0000-4000-8000-000000000000@138.226.240.199:4433?type=ws&sni=sub.mot.ip-ddns.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20010%200.6MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3XHU5N2U5XHU1NmZkS1IgMDA1IDIuNU1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJzdGF0aWMudWJlamlhc3UudG9wIiwgInBvcnQiOiAiMzE1MjciLCAiaWQiOiAiOTU3ZDEyZDgtMDQ4ZC00YjU3LWIwOWMtZjE5ZDAyNzQ4NGEwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ3d3cuYmFpZHUuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNDlmZmJhYS0yNzI5LTRmZDMtOTU0NS03OTU5ZDYxNjNlMjI=@any.cast.123gogogo.top:44502#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20009%207.3MB/s%20TG%40jcnode
 ```
 
 ---
