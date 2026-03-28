@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-28 20:31:12 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-28 23:21:31 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNDlmZmJhYS0yNzI5LTRmZDMtOTU0NS03OTU5ZDYxNjNlMjI=@any.cast.123gogogo.top:44501#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20017%208.1MB/s%20TG%40jcnode
-vless://00000000-0000-4000-8000-000000000000@138.226.240.199:4433?type=ws&sni=sub.mot.ip-ddns.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20010%200.6MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3XHU5N2U5XHU1NmZkS1IgMDA1IDIuNU1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJzdGF0aWMudWJlamlhc3UudG9wIiwgInBvcnQiOiAiMzE1MjciLCAiaWQiOiAiOTU3ZDEyZDgtMDQ4ZC00YjU3LWIwOWMtZjE5ZDAyNzQ4NGEwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ3d3cuYmFpZHUuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNDlmZmJhYS0yNzI5LTRmZDMtOTU0NS03OTU5ZDYxNjNlMjI=@any.cast.123gogogo.top:44502#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20009%207.3MB/s%20TG%40jcnode
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@150.241.83.152:10121?sni=apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=4DdA8dBVn5zB_UTbgBY45YqM0HU8zrjXYdzg3-wz5Rg&sid=9c2a7d4e5f18b6a3#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20009%204.9MB/s%20TG%40jcnode
+vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@95.40.61.115:443?type=ws&sni=bab1c79b.soos.bbroot.com&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20006%208.0MB/s%20TG%40jcnode
+vless://8192b5fc-7b0e-469a-9aa5-a917112e1b97@video.livecuts.de:443?type=ws&sni=video.livecuts.de&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20015%201.8MB/s%20TG%40jcnode
+trojan://11f478ab-88a2-4992-85e1-90b8665b9118@qa-feishu.indsfhqq.cn.pol8686.com:53152?sni=m.ctrip.com#%F0%9F%87%B3%F0%9F%87%B4%E6%8C%AA%E5%A8%81NO%20001%201.3MB/s%20TG%40jcnode
+vless://69c70236-6d7f-a785-2d3a-5332b1c91e99@8.34.146.143:8443?type=ws&sni=bab1c79b.soos.bbroot.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20013%206.1MB/s%20TG%40jcnode
 ```
 
 ---
