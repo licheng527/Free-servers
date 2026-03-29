@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-29 17:27:27 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-29 20:31:47 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.76:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN%20014%200.6MB/s%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.93.164.119:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20018%201.2MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@152.32.172.205:443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20003%201.0MB/s%20TG%40jcnode
-vless://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@104.19.58.118:443?type=ws&sni=us1-us1.aiopen.sbs&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20025%206.4MB/s%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.226:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN%20003%200.9MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.58.32.115:12001?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20002%202.8MB/s%20TG%40jcnode
+trojan://strong-secret-pass-777@94.131.105.125:4443?sni=94.131.105.125#%F0%9F%87%B2%F0%9F%87%A9%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6MD%20007%205.4MB/s%20TG%40jcnode
+vless://385984fe-bc40-40ba-a340-cf74cdf8d161@buzzserver.online:8443?type=tcp&sni=www.intel.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=V4mJnTuahm72g8CBwSYZ6l4eSjB0soHyhgRCQumWXAE&sid=6c133aac14a10e8d#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB%20002%203.1MB/s%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.32:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN%20006%200.7MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@50.62.90.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20021%206.1MB/s%20TG%40jcnode
 ```
 
 ---
