@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-29 09:22:03 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-29 13:04:04 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.17:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN%20020%200.2MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@69.84.182.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20023%206.1MB/s%20TG%40jcnode
-vless://dc6a6c45-b13c-4f1d-8729-19b4d8bba4aa@69.84.182.13:443?type=ws&sni=jp1-jp1.aiopen.sbs&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20008%203.7MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjXHU2NWIwXHU1MmEwXHU1NzYxU0cgMDAxIDAuNE1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJ2MTIuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MTIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.149:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN%20018%200.7MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.99.60.34:2053?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20020%204.3MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@82.117.245.58:2053?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20004%200.2MB/s%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20027%205.5MB/s%20TG%40jcnode
+trojan://trojan@38.180.48.182:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20008%204.0MB/s%20TG%40jcnode
 ```
 
 ---
