@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-29 20:31:47 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-29 23:21:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.58.32.115:12001?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20002%202.8MB/s%20TG%40jcnode
-trojan://strong-secret-pass-777@94.131.105.125:4443?sni=94.131.105.125#%F0%9F%87%B2%F0%9F%87%A9%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6MD%20007%205.4MB/s%20TG%40jcnode
-vless://385984fe-bc40-40ba-a340-cf74cdf8d161@buzzserver.online:8443?type=tcp&sni=www.intel.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=V4mJnTuahm72g8CBwSYZ6l4eSjB0soHyhgRCQumWXAE&sid=6c133aac14a10e8d#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB%20002%203.1MB/s%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.32:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN%20006%200.7MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@50.62.90.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20021%206.1MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@134.209.246.179:443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20019%205.1MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMgMDE3IDAuM01CL3MgVEdAamNub2RlIiwgImFkZCI6ICJ2NDYuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4NDYiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogInY0Ni5oZGFjZC5jb20ifQ==
+hysteria2://2e6e6164-ba26-45f8-a831-9365e0f58a0a@yiselie.iptk123.com:443?sni=yiselie.iptk123.com#%F0%9F%87%AE%F0%9F%87%B1%E4%BB%A5%E8%89%B2%E5%88%97IL%20003%202.5MB/s%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.17:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN%20020%200.2MB/s%20TG%40jcnode
 ```
 
 ---
