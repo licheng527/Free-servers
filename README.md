@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-30 13:15:52 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-30 15:14:58 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@31.133.0.55:2053?type=ws&sni=snippet.danfeng.eu.org&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL%20002%201.7MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@104.238.170.163:8443?type=ws&sni=snippet.danfeng.eu.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB%20004%201.2MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@104.19.41.237:443?type=ws&sni=snippet.danfeng.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20032%203.1MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@62.60.216.36:443?type=ws&sni=snippet.danfeng.eu.org&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20058%200.4MB/s%20TG%40jcnode
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@74.48.50.18:54696?type=ws&sni=snippet.danfeng.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20040%204.9MB/s%20TG%40jcnode
+trojan://trojan@38.180.48.182:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20005%203.9MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@138.2.235.230:22731?type=ws&sni=snippet.danfeng.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20039%202.7MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@212.227.144.37:8443?type=ws&sni=snippet.danfeng.eu.org&security=tls#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99ES%20001%203.5MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@38.244.5.15:39738?type=ws&sni=snippet.danfeng.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20068%204.3MB/s%20TG%40jcnode
 ```
 
 ---
