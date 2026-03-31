@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-03-31 23:58:31 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-01 02:45:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@188.253.26.205:443?type=ws&sni=snippet.danfeng.gleeze.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20022%204.8MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@139.162.136.130:2086?type=ws&sni=snippet.danfeng.dedyn.io&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20020%204.9MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@104.19.40.152:443?type=ws&sni=snippet.danfeng.ccwu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20139%205.5MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@104.16.112.23:2096?type=ws&sni=snippet.danfeng.ccwu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20127%204.9MB/s%20TG%40jcnode
-trojan://bb4dc949-39bb-4d45-9343-8bd6a334c310@hk3.lanhaiconnect.com:21103?sni=bing-baidu.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20003%2016.0MB/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YWE2NTJkMi1hZjI2LTRiN2QtOWRkNy04NGEyYTI2NTJjZjg=@vn01.qixing1688.com:45008#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20083%206.1MB/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1YWE2NTJkMi1hZjI2LTRiN2QtOWRkNy04NGEyYTI2NTJjZjg=@tw11.qixing1688.com:42011#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20029%2016.3MB/s%20TG%40jcnode
+trojan://trojan@152.53.200.167:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20001%203.6MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@134.209.205.250:8443?type=ws&sni=snippet.danfeng.ccwu.cc&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20063%203.1MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@64.227.64.52:20202?type=ws&sni=snippet.danfeng.ccwu.cc&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20069%203.1MB/s%20TG%40jcnode
 ```
 
 ---
