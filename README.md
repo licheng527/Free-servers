@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-02 00:01:19 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-02 02:44:58 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://80fcb790-ea38-4500-a995-a9b73f0526fa@h-tr.csyx.xyz:8080?sni=s0.awsstatic.com#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6TR%20001%201.8MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMgMTMzIDMuN01CL3MgVEdAamNub2RlIiwgImFkZCI6ICIyMTYuMzYuMTExLjE1MCIsICJwb3J0IjogIjIyMjAwIiwgImlkIjogIjBiYTZhZDJjLTQyMDMtNDMyMy1jZjM2LTI2Njc1YTA3NzI5MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-vless://30dc00c9-16c5-4573-b5b2-532940febfd6@89.35.73.250:443?sni=www.refersion.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=8VOdGYUHBgp6ICiOIRo0pjCiCbqO7c6e3MQlXprzjjY&sid=57b127e1#%F0%9F%87%A6%F0%9F%87%AA%E9%98%BF%E8%81%94%E9%85%8BAE%20001%203.7MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.18:443?type=ws&sni=snippet.danfeng.loc.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20063%202.1MB/s%20TG%40jcnode
+hysteria2://06bb0c42-9c60-4a2a-bc40-3e950d4c458b@tw3.jueduibupao.top:48406?sni=tw3.jueduibupao.top#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20007%200.6MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.194:443?type=ws&sni=snippet.danfeng.loc.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20023%205.1MB/s%20TG%40jcnode
+vless://73829173-bb56-442b-a8d4-ec732c020945@188.114.98.0:2086?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20005%200.5MB/s%20TG%40jcnode
 ```
 
 ---
