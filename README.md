@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-01 05:28:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-01 09:26:49 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@50.62.90.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20115%205.9MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@27.133.128.207:2083?type=ws&sni=snippet.danfeng.ccwu.cc&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20057%209.8MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@162.19.243.20:8443?type=ws&sni=snippet.danfeng.ccwu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20066%205.5MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.255:443?type=ws&sni=snippet.danfeng.ccwu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20161%205.5MB/s%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ODg4ODczZS1jOWE5LTQxMjgtYjlhNi03YWZhMmI5YjYzN2Y=@ii3a01.78787878.top:34001#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20013%209.8MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@38.244.5.86:39738?type=ws&sni=snippet.danfeng.dedyn.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20107%201.2MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@74.211.111.3:27015?type=ws&sni=snippet.danfeng.dedyn.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20101%202.5MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@65.21.16.186:443?type=ws&sni=snippet.danfeng.ccwu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20081%205.5MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.91:443?type=ws&sni=snippet.danfeng.gleeze.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20095%206.1MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@57.128.176.147:443?type=ws&sni=snippet.danfeng.ccwu.cc&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB%20023%206.1MB/s%20TG%40jcnode
 ```
 
 ---
