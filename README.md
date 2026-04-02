@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-02 09:17:02 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-02 12:56:28 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@docs.cloudflare.com:2095?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20101%204.9MB/s%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@cloudflare.seeck.cn:2053?type=ws&sni=p3lydb507umi.chinav.eu.org&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20018%2013.5MB/s%20TG%40jcnode
-hysteria2://dongtaiwang.com@62.210.25.116:40022?sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR%20001%201.8MB/s%20TG%40jcnode
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.21:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20025%204.9MB/s%20TG%40jcnode
+trojan://trojan@152.53.60.198:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20002%201.0MB/s%20TG%40jcnode
 ```
 
 ---
