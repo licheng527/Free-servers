@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-02 20:47:03 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-02 23:50:59 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://ee740b72-87f6-45e4-a680-85d8d1cc3df1@194.36.39.201:8443?type=tcp&sni=rbc.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20001%200.6MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMgMTExIDMuN01CL3MgVEdAamNub2RlIiwgImFkZCI6ICI2NC4xMTguMTU1LjEyOCIsICJwb3J0IjogIjMyMTMzIiwgImlkIjogImRhYjJhZWQxLTE4MmItNGMwZC04MDg4LTZjNDkyN2RmOGQ5YiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-vless://ee248e40-9468-4ef6-81b7-707a1e47c54a@192.200.160.20:443?type=ws&sni=639073677243557970.camry-perma.info&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB%20001%203.7MB/s%20TG%40jcnode
+trojan://trojan@152.53.200.98:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20013%203.8MB/s%20TG%40jcnode
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.60:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20019%200.6MB/s%20TG%40jcnode
 ```
 
 ---
