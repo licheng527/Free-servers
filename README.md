@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-03 20:38:54 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-03 23:32:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://00000000-0000-4000-8000-000000000000@138.226.240.199:4433?type=ws&sni=sub.mot.ip-ddns.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20008%204.9MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@211.48.77.114:24095#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20008%203.7MB/s%20TG%40jcnode
+trojan://6625d5fb-e546-37d9-8e2c-273e7db5f200@jmcuabgaa.m2k8x9q3.top:65207?sni=dl.jscuusan2.cc.tjcct.xyz#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20013%205.5MB/s%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdnjs.com:2095?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20038%204.3MB/s%20TG%40jcnode
+trojan://6625d5fb-e546-37d9-8e2c-273e7db5f200@smas-aka5.m2k8x9q3.top:65110?sni=dl.bgp8.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20029%2024.6MB/s%20TG%40jcnode
 ```
 
 ---
