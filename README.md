@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-03 05:27:08 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-03 09:19:49 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.35:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20004%204.9MB/s%20TG%40jcnode
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@docs.cloudflare.com:2095?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20101%204.9MB/s%20TG%40jcnode
+hysteria2://06bb0c42-9c60-4a2a-bc40-3e950d4c458b@hk3.jueduibupao.top:44072?sni=hk3.jueduibupao.top#%F0%9F%87%B8%F0%9F%87%A8SCSC%20001%201.9MB/s%20TG%40jcnode
+trojan://6625d5fb-e546-37d9-8e2c-273e7db5f200@jmcuabgaa.m2k8x9q3.top:65364?sni=dl.jscujpntt5.cc.tjcct.xyz#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20023%2011.5MB/s%20TG%40jcnode
+trojan://6625d5fb-e546-37d9-8e2c-273e7db5f200@jugms1.m2k8x9q3.top:65320?sni=dl.scusgs2.speedtest.cn#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20002%206.1MB/s%20TG%40jcnode
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.6:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20005%204.3MB/s%20TG%40jcnode
 ```
 
 ---
