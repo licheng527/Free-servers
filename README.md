@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-04 02:33:07 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-04 05:23:53 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -16,7 +16,8 @@
 
 ```
 ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.130519.xyz:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20039%2013.5MB/s%20TG%40jcnode
-trojan://6625d5fb-e546-37d9-8e2c-273e7db5f200@jmcuabgaa.m2k8x9q3.top:65367?sni=dl.jscutwhinet.cc.tjcct.xyz#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20011%207.9MB/s%20TG%40jcnode
+hysteria2://fGIvSUXOYn7WYPNAc2PmjYuIKbw@38.165.21.126:29794?sni=bing.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20059%204.9MB/s%20TG%40jcnode
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.47:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20027%204.9MB/s%20TG%40jcnode
 ```
 
 ---
