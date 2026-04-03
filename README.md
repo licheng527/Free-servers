@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-03 14:56:54 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-03 17:44:07 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://6625d5fb-e546-37d9-8e2c-273e7db5f200@smas-aka5.m2k8x9q3.top:65301?sni=dl.bgp3.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20026%2041.1MB/s%20TG%40jcnode
-trojan://6625d5fb-e546-37d9-8e2c-273e7db5f200@jugms1.m2k8x9q3.top:65350?sni=dl.shctjpntt3.cc.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20002%2012.5MB/s%20TG%40jcnode
-trojan://6625d5fb-e546-37d9-8e2c-273e7db5f200@gau-cat7.m2k8x9q3.top:65206?sni=dl.ghzbgp3.douyinvod.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20039%2026.9MB/s%20TG%40jcnode
+hysteria2://520b9126-9870-11ef-81b0-f23c9164ca5d@71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com:443?sni=71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20049%200.3MB/s%20TG%40jcnode
+trojan://6625d5fb-e546-37d9-8e2c-273e7db5f200@gugliksng57.m2k8x9q3.top:65301?sni=gzcmhkntt.cc.douyinvod.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20037%2017.2MB/s%20TG%40jcnode
+trojan://6625d5fb-e546-37d9-8e2c-273e7db5f200@jmcuabgaa.m2k8x9q3.top:65227?sni=dl.jscujpbgp.cc.tjcct.xyz#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20019%2016.0MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.008500.xyz:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20040%2015.4MB/s%20TG%40jcnode
 ```
 
 ---
