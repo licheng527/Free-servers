@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-05 02:26:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-05 05:21:23 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@211.48.77.114:24095#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20002%202.3MB/s%20TG%40jcnode
-trojan://strong-secret-pass-777@94.131.105.125:4443?sni=94.131.105.125#%F0%9F%87%B2%F0%9F%87%A9%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6MD%20001%200.3MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@31.58.226.196:8443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20013%200.6MB/s%20TG%40jcnode
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.23:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20004%204.9MB/s%20TG%40jcnode
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.14:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20007%204.9MB/s%20TG%40jcnode
+trojan://trojan@59.20.121.139:29999?sni=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20005%200.5MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@45.40.147.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20038%205.5MB/s%20TG%40jcnode
+hysteria2://dongtaiwang.com@62.210.25.116:40022?sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR%20003%204.3MB/s%20TG%40jcnode
 ```
 
 ---
