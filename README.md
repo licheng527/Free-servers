@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-04 14:46:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-04 17:27:57 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://trojan@59.20.121.139:29999?sni=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20005%200.5MB/s%20TG%40jcnode
+vless://40600c8a-730a-411c-b72b-c3bca115dcf7@217.16.27.128:443?type=grpc&sni=eh.vk.com&security=tls&security=reality&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20005%201.2MB/s%20TG%40jcnode
+vless://5a36817c-83c0-4032-a4e8-caf1f91a44ab@37.139.32.29:443?type=grpc&sni=eh.vk.com&security=tls&security=reality&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20007%201.1MB/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@52f3ce1.h4.gladns.com:2377#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20032%205.5MB/s%20TG%40jcnode
 ```
 
 ---
