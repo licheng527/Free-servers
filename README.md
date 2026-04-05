@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-05 05:21:23 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-05 09:23:09 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.23:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20004%204.9MB/s%20TG%40jcnode
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.14:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20007%204.9MB/s%20TG%40jcnode
-trojan://trojan@59.20.121.139:29999?sni=jflsjlaf.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20005%200.5MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@45.40.147.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20038%205.5MB/s%20TG%40jcnode
-hysteria2://dongtaiwang.com@62.210.25.116:40022?sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR%20003%204.3MB/s%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@46.137.38.144:443#%F0%9F%87%AE%F0%9F%87%AA%E7%88%B1%E5%B0%94%E5%85%B0IE%20001%201.8MB/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007147vhp.cybervena.com:50099#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20005%206.5MB/s%20TG%40jcnode
+vless://8837c4ca-6bcc-458e-a399-f2ea35dc4964@104.18.44.88:443?type=ws&sni=fyuxk.686616.xyz&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20010%201.8MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlXHU5YTZjXHU2NzY1XHU4OTdmXHU0ZTlhTVkgMDAzIDMuNk1CL3MgVEdAamNub2RlIiwgImFkZCI6ICI0Ny4yNTAuMTk2LjIwMCIsICJwb3J0IjogIjQzNzA5IiwgImlkIjogImZmZTAzOWVkLWQ2OTEtNDVjYy05MWVjLTQyOWI1MTkxZTZiMCIsICJhaWQiOiAiMCIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
