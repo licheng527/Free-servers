@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-06 02:28:33 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-06 05:21:36 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@46.137.38.144:443#%F0%9F%87%AE%F0%9F%87%AA%E7%88%B1%E5%B0%94%E5%85%B0IE%20001%201.8MB/s%20TG%40jcnode
-vless://73829173-bb56-442b-a8d4-ec732c020945@188.114.98.0:2086?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20016%204.3MB/s%20TG%40jcnode
-vless://8837c4ca-6bcc-458e-a399-f2ea35dc4964@104.17.161.16:443?type=ws&sni=fyuxk.686616.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20032%205.5MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.63.134:443?type=ws&sni=snippet.danfeng.kozow.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20083%205.6MB/s%20TG%40jcnode
+vless://ee6817f6-50fe-4114-b7ff-ce853b144282@185.147.27.73:17008?type=tcp&sni=max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=91Qr_nBNyV9dSPl2x1ikJwligd24qDqyBaZZO3o-gEc&sid=#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL%20001%200.6MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@164.52.2.98:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20006%206.1MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDI2IDAuMk1CL3MgVEdAamNub2RlIiwgImFkZCI6ICI0MmUwOTE5OC10OHBqNDAtdGRhZGN2LTFoZDd2LmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJwb3J0IjogIjgwIiwgImlkIjogImY3M2M2NGJjLTllOGMtMTFlYy1iZDdjLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiNDJlMDkxOTgtdDhwajQwLXRkYWRjdi0xaGQ3di5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+trojan://strong-secret-pass-777@94.131.105.125:4443?sni=94.131.105.125#%F0%9F%87%B2%F0%9F%87%A9%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6MD%20002%200.2MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@160.153.137.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20064%205.5MB/s%20TG%40jcnode
 ```
 
 ---
