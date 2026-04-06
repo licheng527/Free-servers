@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-06 17:59:41 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-06 20:45:29 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://ba69baa6-67e5-4ec5-93b2-d111ff2f732f@nl-tx.sbrf-cdn342.ru:443?type=tcp&sni=sub.sbrf-cdn342.ru&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20005%203.7MB/s%20TG%40jcnode
-vless://e11ca047-3e50-469b-aa1a-beb9be0256b2@217.16.31.137:7443?type=grpc&sni=ads.x5.ru&security=tls&security=reality&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20019%202.5MB/s%20TG%40jcnode
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.23:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20009%203.8MB/s%20TG%40jcnode
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.14:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20012%204.8MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@121.154.249.1:16010?type=ws&sni=snippet.danfeng.dedyn.io&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20016%200.6MB/s%20TG%40jcnode
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@144.34.191.46:17777?type=ws&sni=snippet.danfeng.dedyn.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20059%200.3MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjSlAgMDE1IDguME1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJ2amtrdy1nMDQuanAwNy1zaC12bTAuZW50cnkuZnIwNTI4LmFydCIsICJwb3J0IjogIjI4Nzg2IiwgImlkIjogImUwYmU2OGFmLThmOGEtMzQzNC05NmVjLTNlOTgyMjEzYTZjNSIsICJhaWQiOiAiMSIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@67.230.176.136:443?type=ws&sni=snippet.danfeng.dedyn.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20077%204.1MB/s%20TG%40jcnode
 ```
 
 ---
