@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-06 23:37:04 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-07 02:42:03 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@111.92.240.122:8443?type=ws&sni=snippet.chinav.eu.cc&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20016%202.7MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@154.17.234.82:443?type=ws&sni=snippet.danfeng.dedyn.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20098%206.1MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@167.235.224.25:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20006%200.3MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@38.71.118.2:8443?type=ws&sni=snippet.chinav.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20066%200.7MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@183.105.194.189:18852?type=ws&sni=snippet.danfeng.dedyn.io&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20015%201.9MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@8.223.63.150:443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20004%201.0MB/s%20TG%40jcnode
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing1.zqjsqapi.com:443?type=ws&sni=dongjing1.zqjsqapi.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20023%200.3MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMgMDUwIDMuMk1CL3MgVEdAamNub2RlIiwgImFkZCI6ICIxNTQuNjQuMjM4LjEwNiIsICJwb3J0IjogIjUzMzk1IiwgImlkIjogImNmNDA5Y2JjLTJiYTctNDc4NC1iNGEwLWI4ZDBhNDM4ZTNjZCIsICJhaWQiOiAiMCIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@153.121.45.101:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20005%203.7MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.130519.xyz:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20013%202.5MB/s%20TG%40jcnode
 ```
 
 ---
