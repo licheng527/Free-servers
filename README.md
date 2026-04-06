@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-06 09:23:07 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-06 13:15:06 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
+vless://40600c8a-730a-411c-b72b-c3bca115dcf7@95.163.208.243:7443?type=grpc&sni=ads.x5.ru&security=tls&security=reality&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20007%200.2MB/s%20TG%40jcnode
 vless://00000000-0000-4000-8000-000000000000@138.226.240.199:4433?type=ws&sni=sub.mot.ip-ddns.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20012%201.1MB/s%20TG%40jcnode
-vless://f04c0548-d934-4361-8d04-b98292a78bf4@178.215.239.183:443?type=tcp&sni=pl-1.techprovide.online&security=tls&flow=xtls-rprx-vision&security=reality&pbk=KvXGx5NqnYnUxveJ3DSzQ2Zx_FlB6i-narUvQR-igX8&sid=e0f4c8a56b14f29b#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL%20002%200.5MB/s%20TG%40jcnode
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@lv89.mechvpn.online:443?type=tcp&sni=lv89.mechvpn.online&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%BB%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9ALV%20002%200.2MB/s%20TG%40jcnode
-vless://e11ca047-3e50-469b-aa1a-beb9be0256b2@217.16.31.137:7443?type=grpc&sni=ads.x5.ru&security=tls&security=reality&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20019%202.5MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@202.61.200.220:8080?type=ws&sni=snippet.danfeng.kozow.com&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20019%200.5MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@198.12.144.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20085%205.7MB/s%20TG%40jcnode
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.26:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20034%204.9MB/s%20TG%40jcnode
 ```
 
 ---
