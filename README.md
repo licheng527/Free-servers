@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-08 02:47:14 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-08 05:34:22 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.155:443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20038%201.9MB/s%20TG%40jcnode
-hysteria2://ed71fd80-ce6c-445d-8fdc-4443e7a77357@hk1.ktmhyld.com:18385?sni=hk1.ktmhyld.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20008%2010.4MB/s%20TG%40jcnode
-vless://db230947-ac07-462a-adeb-b0c7ec994cf5@217.16.29.155:8443?type=grpc&sni=sso.passport.yandex.ru&security=tls&security=reality&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20012%200.8MB/s%20TG%40jcnode
-vless://413fdb10-a596-4e7c-b081-54243d252894@hkg05.rtx.al:30036?type=tcp&sni=www.amazon.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=FdSHRbcFq4VSmtTcvUo-1ezVgX-o-J3t7ED12EvEZTk&sid=#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20012%205.5MB/s%20TG%40jcnode
+hysteria2://ed71fd80-ce6c-445d-8fdc-4443e7a77357@kr1.ktmhyld.com:18385?sni=kr1.ktmhyld.com#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20004%203.8MB/s%20TG%40jcnode
+vless://db230947-ac07-462a-adeb-b0c7ec994cf5@217.16.30.158:8443?type=grpc&sni=sso.passport.yandex.ru&security=tls&security=reality&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20024%200.5MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDIwIDEuME1CL3MgVEdAamNub2RlIiwgImFkZCI6ICIxMDMuMjMzLjI1My4yNDMiLCAicG9ydCI6ICI1MzU3OCIsICJpZCI6ICIzMTYzZjExZS05ZjM3LTQwNDctZjk1Ni00OTEyOGUyZmNiYmUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@206.190.235.108:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20002%204.2MB/s%20TG%40jcnode
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20064%204.3MB/s%20TG%40jcnode
 ```
 
 ---
