@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-07 09:20:38 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-07 13:02:32 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@192.0.54.188:443?type=ws&sni=snippet.danfeng.kozow.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20009%200.7MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@64.64.234.51:443?type=ws&sni=snippet.chinav.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20083%205.5MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@154.26.190.104:443?type=ws&sni=snippet.danfeng.dedyn.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20087%206.1MB/s%20TG%40jcnode
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@131.143.243.119:443?type=ws&sni=snippet.danfeng.dedyn.io&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20010%206.1MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjSlAgMDI0IDcuNU1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJndG0xLmt0bXdhbi5uZXQiLCAicG9ydCI6ICIxMjg4MyIsICJpZCI6ICJlZDcxZmQ4MC1jZTZjLTQ0NWQtOGZkYy00NDQzZTdhNzczNTciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJhaWR1LmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@cf.008500.xyz:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20004%2016.0MB/s%20TG%40jcnode
+vless://2c5584e1-6546-4db2-811d-356d0c7b2028@n20.948905.xyz:15891?type=tcp&sni=www.python.org&security=tls&security=reality&pbk=XX4FqSGIg5SsFouxBjPFHSG1SU1rPP5ek6D944aPjWc&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20023%204.9MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzXHU1MzcwXHU1ZWE2SU4gMDAxIDIuN01CL3MgVEdAamNub2RlIiwgImFkZCI6ICJndG0xLmt0bXdhbi5uZXQiLCAicG9ydCI6ICIxMjg4NyIsICJpZCI6ICJlZDcxZmQ4MC1jZTZjLTQ0NWQtOGZkYy00NDQzZTdhNzczNTciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJhaWR1LmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+hysteria2://b688ce0f-9201-4e8e-a67a-f3be2c6aa201@sg.mjhy2.com:1443?sni=sg.mjhy2.com#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20025%209.8MB/s%20TG%40jcnode
 ```
 
 ---
