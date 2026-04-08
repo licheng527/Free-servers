@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-08 15:05:49 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-08 17:58:50 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjXHU2NWIwXHU1MmEwXHU1NzYxU0cgMDM3IDcuNk1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJhLmNkbi1iaWxpYmlsaS5jbiIsICJwb3J0IjogIjU1NTY3IiwgImlkIjogImU0MmU3NWJiLWUzMjAtNGE5OS04MGM3LTgwMTUwZTkyMzM4MCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-vless://a6dbc0de-18ee-4cef-b510-df8488500c71@zfa03.communet.io:42392?sni=bby.communet.io&security=tls&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7CA%20001%200.8MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@cdns.doon.eu.org:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20018%209.8MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDM5IDEwLjVNQi9zIFRHQGpjbm9kZSIsICJhZGQiOiAidC5jbm1qY24uY3lvdSIsICJwb3J0IjogIjE2NjIyIiwgImlkIjogImI2ODhjZTBmLTkyMDEtNGU4ZS1hNjdhLWYzYmUyYzZhYTIwMSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiN2EyOTc5NjRhMmIzMWRhZmQzNTI5ZWY0ZDE0NTc0YjkubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@154.194.0.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20040%205.5MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.255.121:8443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR%20009%205.5MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.206:8443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB%20008%205.5MB/s%20TG%40jcnode
+trojan://trojan@152.53.200.98:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20001%203.1MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@46.246.96.59:8443#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE%20008%200.5MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.209.231:8443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%B1%F0%9F%87%B9%E7%AB%8B%E9%99%B6%E5%AE%9BLT%20001%200.2MB/s%20TG%40jcnode
 ```
 
 ---
