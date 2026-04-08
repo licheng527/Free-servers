@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-08 05:34:22 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-08 09:21:38 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://ed71fd80-ce6c-445d-8fdc-4443e7a77357@kr1.ktmhyld.com:18385?sni=kr1.ktmhyld.com#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20004%203.8MB/s%20TG%40jcnode
-vless://db230947-ac07-462a-adeb-b0c7ec994cf5@217.16.30.158:8443?type=grpc&sni=sso.passport.yandex.ru&security=tls&security=reality&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20024%200.5MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDIwIDEuME1CL3MgVEdAamNub2RlIiwgImFkZCI6ICIxMDMuMjMzLjI1My4yNDMiLCAicG9ydCI6ICI1MzU3OCIsICJpZCI6ICIzMTYzZjExZS05ZjM3LTQwNDctZjk1Ni00OTEyOGUyZmNiYmUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@206.190.235.108:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20002%204.2MB/s%20TG%40jcnode
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20064%204.3MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.19:443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20090%206.1MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@cf.008500.xyz:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20042%2014.8MB/s%20TG%40jcnode
+vless://5ca37755-ee04-431b-8b9a-9740d396b29b@172.64.52.232:443?type=ws&sni=snip.zrfs.nn.kg&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20032%2016.0MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@46.246.96.59:8443#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE%20009%203.1MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@83.147.253.18:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20038%203.1MB/s%20TG%40jcnode
 ```
 
 ---
