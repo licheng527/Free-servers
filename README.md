@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-08 09:21:38 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-08 13:04:34 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.19:443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20090%206.1MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@cf.008500.xyz:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20042%2014.8MB/s%20TG%40jcnode
-vless://5ca37755-ee04-431b-8b9a-9740d396b29b@172.64.52.232:443?type=ws&sni=snip.zrfs.nn.kg&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20032%2016.0MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@46.246.96.59:8443#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE%20009%203.1MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@83.147.253.18:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20038%203.1MB/s%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@172.66.44.230:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20045%205.7MB/s%20TG%40jcnode
+hysteria2://4766d3d3-94c9-448b-bef4-0fa2fbc02703@pq.us7.globals-download.com:443?sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20021%206.7MB/s%20TG%40jcnode
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.35:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20018%204.9MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@mfa.gov.ua:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20041%209.8MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDI1IDAuMk1CL3MgVEdAamNub2RlIiwgImFkZCI6ICIxNjhlYzhiOS10NzBmNDAtdGlxc2NlLXQ2ZnYuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiYWY3ZGRiYjItMzU2Ny0xMWVjLWJkN2MtZjIzYzkxM2M4ZDJiIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIxNjhlYzhiOS10NzBmNDAtdGlxc2NlLXQ2ZnYuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
 ```
 
 ---
