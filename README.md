@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-09 00:07:59 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-09 03:01:29 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@135.125.191.9:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20010%201.6MB/s%20TG%40jcnode
-vless://d19c562c-61ff-44a3-861c-273add2e14f8@217.16.28.63:7443?type=grpc&sni=ads.x5.ru&security=tls&security=reality&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20030%202.5MB/s%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@82.117.245.125:2053?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20020%201.8MB/s%20TG%40jcnode
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.4:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20001%203.7MB/s%20TG%40jcnode
-hysteria2://ed71fd80-ce6c-445d-8fdc-4443e7a77357@hk1.ktmhyld.com:18385?sni=hk1.ktmhyld.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20032%207.6MB/s%20TG%40jcnode
+vless://9b691795-7bbd-45a8-bca1-10684c064e60@217.16.31.243:7443?type=grpc&sni=ads.x5.ru&security=tls&security=reality&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20006%201.2MB/s%20TG%40jcnode
+vless://40600c8a-730a-411c-b72b-c3bca115dcf7@217.16.28.27:8443?type=grpc&sni=sso.passport.yandex.ru&security=tls&security=reality&pbk=oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI&sid=77cf23bd7f73c97a#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20014%201.8MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@198.12.144.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20069%205.5MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@134.209.246.179:443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20018%204.9MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@199.181.197.38:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20076%206.0MB/s%20TG%40jcnode
 ```
 
 ---
