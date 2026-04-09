@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-09 05:33:45 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-09 09:12:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://35f63db1-a653-3ee6-87f6-11f864659158@64.186.231.24:12345?type=tcp&sni=animal.iocty.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=dmPv7eW1cTHuYBdOPli8IJ26j2cMiAVy44D56i2tATs&sid=00c83879d64549e8#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20101%201.9MB/s%20TG%40jcnode
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.zhetengsha.eu.org:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20014%2011.7MB/s%20TG%40jcnode
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.10:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20015%204.3MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@188.241.241.3:2053#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20006%204.9MB/s%20TG%40jcnode
-trojan://trojan@152.53.200.98:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20002%201.0MB/s%20TG%40jcnode
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.6:7443?type=ws&sni=2026.hhhhh.eu.org&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT%20012%204.9MB/s%20TG%40jcnode
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.165.166.82:443?type=ws&sni=dongjing2.zqjsqapi.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20009%203.1MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@139.162.141.75:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20030%204.9MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@cf.008500.xyz:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20015%2014.1MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDg2IDAuM01CL3MgVEdAamNub2RlIiwgImFkZCI6ICJlYTliZDQ4Ni10OW12NDAtdGEwMHJkLTFvOGFrLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJwb3J0IjogIjgwIiwgImlkIjogIjhiYjY4ZDA0LTY5NzMtMTFlZS1iNTE4LWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiJ9
 ```
 
 ---
