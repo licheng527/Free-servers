@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-09 18:02:53 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-09 20:58:25 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://trojan@152.53.60.198:8444?sni=jflsjlaf.pages.dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20012%200.6MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@198.12.144.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20061%206.0MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMTUwIDAuN01CL3MgVEdAamNub2RlIiwgImFkZCI6ICIyY2RmYmE3YS10NzBmNDAtdDlsYzNuLXo5M3EuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiNDA2Mzk3MzAtZTAyNy0xMWVhLTg3YWQtZjIzYzkxM2M4ZDJiIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@158.51.109.218:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20003%200.3MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDA2IDEuMk1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJkOWJhNjU2ZC10NjZzZzAtdDdtemVjLXlqcTAuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMjViMjY5OWEtZTE4ZS0xMWVjLThlNjktZjIzYzkxY2ZiYmM5IiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJkOWJhNjU2ZC10NjZzZzAtdDdtemVjLXlqcTAuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSJ9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.155:443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20036%205.8MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMTE1IDAuOE1CL3MgVEdAamNub2RlIiwgImFkZCI6ICIyODU5YWY0MC10NzBmNDAtdGRoOXc3LWFoc2IuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMmU0MmMxZWUtYWFhYS0xMWVjLWJiNzQtZjIzYzkxNjRjYTVkIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@store.ubi.com:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20004%209.8MB/s%20TG%40jcnode
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-024.fastervpn.world:443?sni=vpn-us-024.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20054%203.1MB/s%20TG%40jcnode
+vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@217.149.30.221:4320?type=tcp&sni=files.moscownews24.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH%20001%200.2MB/s%20TG%40jcnode
 ```
 
 ---
