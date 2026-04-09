@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-10 00:12:02 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-10 02:48:42 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@143.20.160.38:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20028%204.9MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMgMDIyIDEuMU1CL3MgVEdAamNub2RlIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInd3dy5uaW50ZW5kb2dhbWVzLm5ldCIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.130.207.92:8443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR%20003%201.2MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@45.40.154.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20064%205.5MB/s%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.43:443?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20031%205.9MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@203.69.248.40:10443#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20001%205.4MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDQzIDEuNk1CL3MgVEdAamNub2RlIiwgImFkZCI6ICIyOGM0ZTU3MS10NzBmNDAtdDc2eDJpLXdqNnYuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiODQ3YzAzYjItMGE5ZC0xMWViLWE4YmYtZjIzYzkxY2ZiYmM5IiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIyOGM0ZTU3MS10NzBmNDAtdDc2eDJpLXdqNnYuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@158.51.109.218:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20002%200.4MB/s%20TG%40jcnode
+vless://698bc4fc-2966-4dbf-bc4f-a0f1df66eab5@cdn20.api-rutube.ru:443?type=tcp&sni=cdn.trahodrom.fun&security=tls&flow=xtls-rprx-vision&security=reality&pbk=_4cv7OXJFuVt8PGPNwk8isFFgrRR5tKojjpLWGTN8RI&sid=#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20008%204.3MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@211.48.77.114:12312#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20012%202.0MB/s%20TG%40jcnode
 ```
 
 ---
