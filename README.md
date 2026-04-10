@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-10 20:44:29 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-10 23:40:29 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@116.44.53.251:12126#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20004%202.9MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDYxIDguMU1CL3MgVEdAamNub2RlIiwgImFkZCI6ICIyNTZhNTNiMi10OHBqNDAtdG0zZHgwLTFyOWR0LmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJwb3J0IjogIjgwIiwgImlkIjogImRlMDAzYzcyLTAxNTctMTFlZi04NmRhLWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiJ9
-hysteria2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443?sni=hy5.hy2yydsapi.top#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20002%201.8MB/s%20TG%40jcnode
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@107.172.137.69:2053#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20200%203.7MB/s%20TG%40jcnode
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@162.159.39.7:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20033%2016.0MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@195.123.210.147:443#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL%20001%200.3MB/s%20TG%40jcnode
+vless://df8d55f9-fb51-442d-902a-bf8160dc051b@yx1.xn--11x.org:2086?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20031%201.1MB/s%20TG%40jcnode
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-023.fastervpn.world:443?sni=vpn-us-023.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20107%204.1MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.243.112.61:2053?type=ws&sni=sni.111000.v6.navy&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20001%200.6MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@142.171.220.62:16000#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20176%205.2MB/s%20TG%40jcnode
 ```
 
 ---
