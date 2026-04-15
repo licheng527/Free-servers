@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-15 13:15:03 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-15 15:17:42 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://trojan@152.53.45.251:8888?sni=jflsjlaf.pages.dev#%F0%9F%87%A6%F0%9F%87%B9%E5%A5%A5%E5%9C%B0%E5%88%A9AT%20001%200.6MB/s%20TG%40jcnode
-vless://148cf088-5fa8-48a2-afbb-7003696c5cc1@bot2.jetstoreapp.ru:8443?type=tcp&sni=bot2.jetstoreapp.ru&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20011%204.3MB/s%20TG%40jcnode
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@185.103.252.54:2053#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20049%203.1MB/s%20TG%40jcnode
-vless://2ab65b66-9e0c-414f-f7cd-15d2fdd62fd0@172.245.45.137:22641?type=tcp&sni=www.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&sid=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20001%205.7MB/s%20TG%40jcnode
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@44.217.235.114:8443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20081%201.1MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.245.182.112:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20152%200.6MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@8.223.63.150:443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20013%202.5MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@91.199.32.86:2053#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB%20018%203.9MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@173.245.59.145:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20052%2010.5MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@162.159.39.223:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20047%2012.5MB/s%20TG%40jcnode
 ```
 
 ---
