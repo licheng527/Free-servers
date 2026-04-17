@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-17 09:26:13 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-17 13:20:09 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWQ2ZTY4Ny01OGE5LTQ4MzYtYmE2Mi03ZDgxODRjOTRkZjQ=@hk3.network-cdn-gw-yd.net:32058#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20043%205.0MB/s%20TG%40jcnode
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.242.112.250:443?type=tcp&sni=dsum-sec.casalemedia.com&security=tls&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20042%202.2MB/s%20TG%40jcnode
-vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:42044?type=tcp&sni=cn-gddg-ct-01-16.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%BB%F0%9F%87%AA%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89VE%20001%204.3MB/s%20TG%40jcnode
-vless://edb07ac6-49c4-4479-ad93-959db0f3227b@77.238.235.193:8443?type=tcp&sni=rbc.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=331a8c3fe668c1ee#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20011%204.4MB/s%20TG%40jcnode
-vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:42023?type=tcp&sni=cn-gdgz-gd-01-03.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%BF%E6%8D%B7%E5%85%8BCZ%20001%201.9MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDA0IDguME1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJtLmNubWppbi5uZXQiLCAicG9ydCI6ICIxNjYyMiIsICJpZCI6ICJiNDlhZjhjOS0wY2YxLTQyMTItOGVkOC0zNWI3MGQ5ZjJjZjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjM0MTZjYmU1N2I3YzUyNzMzNzIxODU5ZDRlMjNiZTM5Lm1vYmdzbGIudGJjYWNoZS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWQ2ZTY4Ny01OGE5LTQ4MzYtYmE2Mi03ZDgxODRjOTRkZjQ=@hk2.network-cdn-gw-yd.net:32063#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20016%200.4MB/s%20TG%40jcnode
+vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:42015?type=tcp&sni=d1--cn-gotcha308.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0UA%20001%200.6MB/s%20TG%40jcnode
 ```
 
 ---
