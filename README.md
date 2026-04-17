@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-17 18:04:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-17 20:54:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?type=ws&sni=d2241b25w3zftf.cloudfront.net&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20002%201.4MB/s%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDEzIDE1LjRNQi9zIFRHQGpjbm9kZSIsICJhZGQiOiAidm01MTU0NDU0Mi5kbnM4NjU2ODE1LmNvbSIsICJwb3J0IjogIjc3NTQiLCAiaWQiOiAiN2NkOTZkYmUtZWNlYy00OTM3LTllMDUtODdhYjcwYWYyZjMwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.242.112.250:443?type=tcp&sni=dsum-sec.casalemedia.com&security=tls&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20042%202.2MB/s%20TG%40jcnode
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.218.97.17:443?type=tcp&sni=dsum-sec.casalemedia.com&security=tls&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20037%201.1MB/s%20TG%40jcnode
-vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:42044?type=tcp&sni=cn-gddg-ct-01-16.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%BB%F0%9F%87%AA%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89VE%20001%204.3MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@104.19.60.89:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20050%201.8MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@185.193.159.12:8443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20010%200.9MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@162.159.39.7:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20024%2014.7MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@104.16.1.160:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20058%200.6MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@199.119.137.77:2053#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20028%203.1MB/s%20TG%40jcnode
 ```
 
 ---
