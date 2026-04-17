@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-17 13:20:09 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-17 15:18:30 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWQ2ZTY4Ny01OGE5LTQ4MzYtYmE2Mi03ZDgxODRjOTRkZjQ=@hk3.network-cdn-gw-yd.net:32058#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20043%205.0MB/s%20TG%40jcnode
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.242.112.250:443?type=tcp&sni=dsum-sec.casalemedia.com&security=tls&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20042%202.2MB/s%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWQ2ZTY4Ny01OGE5LTQ4MzYtYmE2Mi03ZDgxODRjOTRkZjQ=@hk2.network-cdn-gw-yd.net:32063#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20016%200.4MB/s%20TG%40jcnode
-vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:42015?type=tcp&sni=d1--cn-gotcha308.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0UA%20001%200.6MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEsgMDE4IDE0LjdNQi9zIFRHQGpjbm9kZSIsICJhZGQiOiAiZWZhbi5kbnNlZmFuMDQ4ODEuY29tIiwgInBvcnQiOiAiNzc1NCIsICJpZCI6ICIwMDllNTU4ZC0zY2Y0LTQ5ZDgtYjVlNC04MmM5ZTE0ZmUxYTQiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+vless://e65b6a31-3230-5f17-d3f5-1aab31ea3c47@212.193.152.120:443?type=ws&sni=s24531.cdn.ngenix.net&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20007%202.3MB/s%20TG%40jcnode
+vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:41202?type=tcp&sni=jssz-live-studio-ws.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20008%2012.4MB/s%20TG%40jcnode
+vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:42032?type=tcp&sni=cn-gdgz-gd-live-03.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR%20002%201.2MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzXHU1MzcwXHU1ZWE2SU4gMDAxIDEuMU1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJwbGFuYi5tb2pjbi5jb20iLCAicG9ydCI6ICIxNjYyNiIsICJpZCI6ICJiNDlhZjhjOS0wY2YxLTQyMTItOGVkOC0zNWI3MGQ5ZjJjZjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjM0MTZjYmU1N2I3YzUyNzMzNzIxODU5ZDRlMjNiZTM5Lm1vYmdzbGIudGJjYWNoZS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiJ9
 ```
 
 ---
