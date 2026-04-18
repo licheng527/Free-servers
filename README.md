@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-18 13:00:14 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-18 14:55:49 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@162.159.39.193:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20070%2015.1MB/s%20TG%40jcnode
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@107.174.204.129:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20151%205.5MB/s%20TG%40jcnode
-vless://91bbe282-f2ba-46a6-8752-36ae55279169@85.192.48.109:443?type=tcp&sni=fin.normbot.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=abc5168218c8749c#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI%20003%203.1MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@8.39.125.88:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20055%2012.9MB/s%20TG%40jcnode
-hysteria2://rstnnl:7ltZBmta4ahLenTIoywBy3R1Z1PV7ZGf@nrealistic.nn-foto.ru:8932?sni=nrealistic.nn-foto.ru#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20022%201.8MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@211.48.77.114:19655#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20018%202.6MB/s%20TG%40jcnode
+vless://a6dbc0de-18ee-4cef-b510-df8488500c71@zfa06.communet.io:40385?sni=bby.communet.io&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20003%205.5MB/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZWQ2ZTY4Ny01OGE5LTQ4MzYtYmE2Mi03ZDgxODRjOTRkZjQ=@hk3.network-cdn-gw-yd.net:32058#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20009%207.0MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@153.121.45.101:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20062%204.9MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@172.104.143.156:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20022%203.7MB/s%20TG%40jcnode
 ```
 
 ---
