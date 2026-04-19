@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-19 23:29:08 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-20 02:33:41 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@45.88.77.143:8443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20073%204.9MB/s%20TG%40jcnode
-hysteria2://rstnnl:7ltZBmta4ahLenTIoywBy3R1Z1PV7ZGf@nrealistic.nn-foto.ru:8932?sni=nrealistic.nn-foto.ru#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20064%203.1MB/s%20TG%40jcnode
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@198.41.223.199:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20043%2012.9MB/s%20TG%40jcnode
-ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@172.67.78.191:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20136%204.3MB/s%20TG%40jcnode
+ss://bm9uZTo3OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTg=@89.23.105.115:443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20076%205.5MB/s%20TG%40jcnode
+vless://b960ed61-d7b0-03ef-a39f-484726e2ad66@81.163.20.9:443?type=tcp&sni=eu.bridge.raw-srv.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=HsKBZVsE7puWHs8AzpHhf5eEwj0imv51at6GRRmLs0A&sid=54150a1d4a31894b#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20023%202.5MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@146.0.73.211:443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20057%204.9MB/s%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRVG1MVmlVNFZFbXV3Yk94VXc0SVhk@107.172.250.161:59556#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20212%202.9MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@57.128.180.238:8443#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB%20046%205.5MB/s%20TG%40jcnode
 ```
 
 ---
