@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-25 15:01:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-25 17:41:34 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://1234567890@222.119.19.248:32770?sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20044%204.4MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@152.70.113.150:52125#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20220%205.5MB/s%20TG%40jcnode
-trojan://1234567890@89.169.9.177:2053?sni=kfm-bn0.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20061%205.5MB/s%20TG%40jcnode
-trojan://1234567890@220.122.42.198:10995?sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20074%202.9MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@107.175.245.116:2053#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20208%200.6MB/s%20TG%40jcnode
+trojan://1234567890@138.2.115.214:587?sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20075%205.5MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@185.133.175.70:443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20005%204.4MB/s%20TG%40jcnode
+vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:42005?type=tcp&sni=d1--cn-gotcha308.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN%20002%204.2MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@199.181.197.38:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20069%206.1MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@130.185.164.218:8443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20189%204.3MB/s%20TG%40jcnode
 ```
 
 ---
