@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-27 13:44:23 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-27 16:03:54 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@104.26.7.226:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20175%204.3MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@45.40.154.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20050%205.7MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@104.18.42.254:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20092%2012.3MB/s%20TG%40jcnode
-vless://75807638-6f19-07d0-ae08-38492ee85c88@188.246.226.142:52006?type=tcp&sni=cluster-russia-1.firstvideocdn.ru&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20008%201.2MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@91.239.157.93:8443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20163%203.3MB/s%20TG%40jcnode
+vless://b504bb7d-8b8c-4a3a-91fe-863ed1fca259@nl1.nfnpx.online:443?type=tcp&sni=nl1.nfnpx.online&security=tls&flow=xtls-rprx-vision&security=reality&pbk=dWUKzsWndrLpQtQo70Nm55KblSYTC2GEYWFYGPFn60I&sid=76fcb5564b425e62#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20019%203.1MB/s%20TG%40jcnode
+vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:41801?type=tcp&sni=vxcode-hive-trace-v2.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20117%204.7MB/s%20TG%40jcnode
+trojan://1234567890@220.78.7.17:18001?sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20034%202.9MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@194.87.0.156:443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20026%202.3MB/s%20TG%40jcnode
+vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:42003?type=tcp&sni=d1--cn-gotcha308.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%A9%E5%8D%B0%E5%B0%BCID%20001%203.1MB/s%20TG%40jcnode
 ```
 
 ---
