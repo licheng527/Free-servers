@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-27 16:03:54 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-27 18:52:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://b504bb7d-8b8c-4a3a-91fe-863ed1fca259@nl1.nfnpx.online:443?type=tcp&sni=nl1.nfnpx.online&security=tls&flow=xtls-rprx-vision&security=reality&pbk=dWUKzsWndrLpQtQo70Nm55KblSYTC2GEYWFYGPFn60I&sid=76fcb5564b425e62#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20019%203.1MB/s%20TG%40jcnode
-vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:41801?type=tcp&sni=vxcode-hive-trace-v2.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20117%204.7MB/s%20TG%40jcnode
-trojan://1234567890@220.78.7.17:18001?sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20034%202.9MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@194.87.0.156:443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20026%202.3MB/s%20TG%40jcnode
-vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:42003?type=tcp&sni=d1--cn-gotcha308.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%A9%E5%8D%B0%E5%B0%BCID%20001%203.1MB/s%20TG%40jcnode
+trojan://1234567890@14.52.17.66:14534?sni=kfm-bn0.pages.dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20017%203.0MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@125.227.233.197:2083#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20021%203.8MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@103.133.1.38:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20061%205.6MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@45.43.88.13:2053#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20022%203.1MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@162.159.153.73:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20118%204.9MB/s%20TG%40jcnode
 ```
 
 ---
