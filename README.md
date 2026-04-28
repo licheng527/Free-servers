@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-28 13:49:24 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-28 16:05:43 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://f6ddddaf-dfd6-4134-9dae-03b93b03d146@125.227.219.98:6235?type=ws&sni=baidu.com&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20001%201.9MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@103.15.90.134:49678#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20030%201.6MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@104.19.42.23:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20128%205.8MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@216.146.25.224:2053#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20228%200.6MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@185.195.69.200:8443#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH%20003%204.9MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@104.26.7.226:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20175%204.3MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@104.19.32.240:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20216%205.7MB/s%20TG%40jcnode
+vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:42025?type=tcp&sni=cn-gdgz-gd-01-03.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B2%F0%9F%87%B0MKMK%20001%203.9MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@83.147.253.18:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20014%201.9MB/s%20TG%40jcnode
 ```
 
 ---
