@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-29 09:57:36 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-29 13:44:41 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@91.132.58.156:443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20102%204.3MB/s%20TG%40jcnode
-vless://75807638-6f19-07d0-ae08-38492ee85c88@5.188.158.225:52006?type=tcp&sni=cluster-russia-1.firstvideocdn.ru&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20015%200.6MB/s%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@175.197.237.36:10912?type=ws&sni=s3vz.user-service.chinav.indevs.in&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20059%204.6MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@51.159.6.227:2053#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR%20020%205.5MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@172.64.147.234:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20051%209.2MB/s%20TG%40jcnode
+vless://caa3af29-3b04-4099-9772-c64a1b7cca34@195.66.27.165:7443?type=tcp&sni=chat.deepseek.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20001%200.4MB/s%20TG%40jcnode
+vless://d608e843-a06d-4613-b73a-ee7bfc6cfa22@213.176.67.230:2083?type=tcp&sni=id.vk.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20014%203.1MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@141.147.159.250:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20061%204.3MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@95.181.173.131:8443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20229%200.6MB/s%20TG%40jcnode
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-016.fastervpn.world:443?sni=vpn-us-016.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20077%200.2MB/s%20TG%40jcnode
 ```
 
 ---
