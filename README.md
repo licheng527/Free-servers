@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-01 00:12:48 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-01 03:04:54 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@139.162.174.148:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20109%204.9MB/s%20TG%40jcnode
-vless://0020742b-ad78-458a-a47b-1382db29e50f@fae49480e092.bangchenou.top:41203?type=tcp&sni=jssz-live-studio-ws.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20024%205.6MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@113.30.188.2:8443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20090%204.3MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@mfa.gov.ua:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20028%2011.7MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@185.193.159.18:8443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20067%203.1MB/s%20TG%40jcnode
+vless://2983c1d0-2c98-4e16-a92a-a64351ec2b30@144.31.24.92:443?type=tcp&sni=nl.o4ka-internet.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&sid=5629431325884ff0#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20018%200.2MB/s%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@204.168.173.148:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20174%205.4MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@194.59.5.16:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20037%206.0MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@173.245.58.213:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20055%2011.7MB/s%20TG%40jcnode
 ```
 
 ---
