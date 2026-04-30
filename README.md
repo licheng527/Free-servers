@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-30 13:48:54 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-04-30 16:02:29 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@104.16.149.226:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20157%205.5MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@104.168.146.122:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20172%201.8MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@104.18.32.9:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20044%201.8MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@45.95.232.18:8443#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH%20004%204.9MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@192.99.169.176:443#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7CA%20002%203.7MB/s%20TG%40jcnode
+vless://bba65652-b714-4832-ba62-cbf861ea2dbe@132.226.147.10:443?type=tcp&sni=musicstatus.tv.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=OEZ3C-1OCSYBikqcWudtPP3PpQq2RAI7rFPxWoTCDSc&sid=bffe9292#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20027%204.9MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@45.88.67.87:443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20127%202.1MB/s%20TG%40jcnode
+vless://fe517777-f835-4e97-9efa-784e2ecf2200@uk.great-server-list.co.uk:443?type=tcp&sni=uk.great-server-list.co.uk&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB%20001%204.9MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@162.159.152.41:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20177%204.4MB/s%20TG%40jcnode
 ```
 
 ---
