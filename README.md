@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-01 23:44:40 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-02 02:56:08 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://f6ddddaf-dfd6-4134-9dae-03b93b03d150@125.227.219.98:6235?type=ws&sni=baidu.com&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20002%202.7MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@138.124.30.222:443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20084%203.7MB/s%20TG%40jcnode
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443?sni=vpn-sg-002.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20014%207.4MB/s%20TG%40jcnode
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@188.126.77.155:8443#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE%20013%204.9MB/s%20TG%40jcnode
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.45:52006?type=tcp&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU%20005%205.5MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@95.164.34.32:443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20134%204.3MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@82.115.5.157:443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20027%204.9MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjSlAgMDAyIDUuM01CL3MgVEdAamNub2RlIiwgImFkZCI6ICJwbGFuYi5tb2pjbi5jb20iLCAicG9ydCI6ICIxNjYxNyIsICJpZCI6ICIwOGJlODU5Yy1kMzhlLTRiZmItYjdjNy0zYjU2NzFlZGVkYzgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiZmRmMDJlNGMwZThkMTQxYzczNzUzMzdiNTFmMGVmYzQubW9iZ3NsYi50YmNhY2hlLmNvbSJ9
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@162.159.2.110:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20056%209.9MB/s%20TG%40jcnode
 ```
 
 ---
