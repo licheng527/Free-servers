@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-01 20:53:59 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-01 23:44:40 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://d608e843-a06d-4613-b73a-ee7bfc6cfa22@138.124.89.112:2083?type=tcp&sni=id.vk.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20008%203.1MB/s%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@8.6.112.0:2096?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20182%205.2MB/s%20TG%40jcnode
-ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@140.238.50.134:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP%20012%200.6MB/s%20TG%40jcnode
-vless://716be916-bb64-404d-bc48-ae96283ef4e2@205.237.107.184:443?type=tcp&sni=to-do.digital&security=tls&flow=xtls-rprx-vision&security=reality&pbk=yAIZa8Fp4M4KR2WgH4fObtHF-JMTCxDNKNib5yIZVmU&sid=#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR%20014%203.1MB/s%20TG%40jcnode
+vless://f6ddddaf-dfd6-4134-9dae-03b93b03d150@125.227.219.98:6235?type=ws&sni=baidu.com&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20002%202.7MB/s%20TG%40jcnode
+ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI=@138.124.30.222:443#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20084%203.7MB/s%20TG%40jcnode
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-002.fastervpn.world:443?sni=vpn-sg-002.fastervpn.world#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20014%207.4MB/s%20TG%40jcnode
+ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU=@188.126.77.155:8443#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE%20013%204.9MB/s%20TG%40jcnode
 ```
 
 ---
