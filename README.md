@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-02 23:37:13 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-03 02:41:54 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.36.130.55:25829?type=ws&sni=sni.111000.dns.army&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20025%200.6MB/s%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.36.130.71:51528?type=ws&sni=sni.111000.dns.army&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20019%200.6MB/s%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.33.153.228:443?type=ws&sni=sni.111000.dns.army&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20020%204.0MB/s%20TG%40jcnode
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.81:443?type=grpc&sni=fileroute.cc&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI%20003%200.1MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjSlAgMDMxIDguME1CL3MgVEdAamNub2RlIiwgImFkZCI6ICI5NG5iOWRqLWcwNi5qcDAzLWo3LXZtMC5lbnRyeS5mcjA1MjguYXJ0IiwgInBvcnQiOiAiMjE1ODYiLCAiaWQiOiAiMDYyOGY1MjQtYzM0ZC0zYWIyLWIzNjEtMDE2ZWQ2ZWI1YjY2IiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9
+hysteria2://67c92700-c51e-4264-8a49-1f9df68762ed@fhc.niaot.com:44001?sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20191%203.7MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@149.104.25.239:38650?type=ws&sni=sni.111000.dns.army&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20039%201.0MB/s%20TG%40jcnode
 ```
 
 ---
