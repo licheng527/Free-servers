@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-02 20:43:52 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-02 23:37:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTEyOC1nY206NGQzMzBmNTMtZmYxMy00N2Y0LTk3MDQtNzg5OTEzZDhmNDVm@mn.qwer-cn.org:10913#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR%20026%204.9MB/s%20TG%40jcnode
-trojan://8434bf9f-e712-4206-9054-ed88460a2ca6@v12026.lalakw.com:50056?sni=v12026.lalakw.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20130%200.2MB/s%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.181:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN%20054%203.0MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.36.130.55:25829?type=ws&sni=sni.111000.dns.army&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20025%200.6MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.36.130.71:51528?type=ws&sni=sni.111000.dns.army&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20019%200.6MB/s%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.33.153.228:443?type=ws&sni=sni.111000.dns.army&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20020%204.0MB/s%20TG%40jcnode
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@89.208.231.81:443?type=grpc&sni=fileroute.cc&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI%20003%200.1MB/s%20TG%40jcnode
 ```
 
 ---
