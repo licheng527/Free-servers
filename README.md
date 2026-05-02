@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-03 02:41:54 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-03 05:30:30 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjSlAgMDMxIDguME1CL3MgVEdAamNub2RlIiwgImFkZCI6ICI5NG5iOWRqLWcwNi5qcDAzLWo3LXZtMC5lbnRyeS5mcjA1MjguYXJ0IiwgInBvcnQiOiAiMjE1ODYiLCAiaWQiOiAiMDYyOGY1MjQtYzM0ZC0zYWIyLWIzNjEtMDE2ZWQ2ZWI1YjY2IiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9
-hysteria2://67c92700-c51e-4264-8a49-1f9df68762ed@fhc.niaot.com:44001?sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20191%203.7MB/s%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@149.104.25.239:38650?type=ws&sni=sni.111000.dns.army&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20039%201.0MB/s%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.131:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN%20057%200.9MB/s%20TG%40jcnode
 ```
 
 ---
