@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-03 05:30:30 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-03 09:50:28 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.131:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN%20057%200.9MB/s%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@185.207.198.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20186%203.1MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMgMDM4IDAuM01CL3MgVEdAamNub2RlIiwgImFkZCI6ICI4Mi4xOTguMjQ2LjIzMyIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+vless://f9d8aa07-589f-4da0-9cb0-fd8f2f0e4fa8@144.31.4.166:443?type=tcp&sni=www.deepl.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=0123456789abcdef#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL%20009%204.9MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMgMDc3IDAuMk1CL3MgVEdAamNub2RlIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIkFaRVJCLk5FVCIsICJwYXRoIjogIi8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxP2VkPTI1NjAiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
