@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-04 02:42:09 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-04 05:32:06 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://f6808c62-cfe0-438c-aae6-44fe6ef51e47@46.228.205.210:8082?type=grpc&sni=id.vk.com&security=tls&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE028%205.5MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-vless://421cf851-ccfa-4450-b4e7-aa226b3d6fb2@fae49480e092.bangchenou.top:41105?type=tcp&sni=cn-gddg-dx-bcache-18.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%A9%E5%8D%B0%E5%B0%BCID002%2036.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://421cf851-ccfa-4450-b4e7-aa226b3d6fb2@fae49480e092.bangchenou.top:42037?type=tcp&sni=cn-gdgz-gd-live-03.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%B8%E5%86%B0%E5%B2%9BIS001%204.9MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMjAgNC4zTUIvc1x1NTM3MVx1OTY2OSBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuOSIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.243:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN040%201.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.160.207.175:443?type=ws&sni=sni.111000.dns.army&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG003%201.2MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.106:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN029%201.0MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://421cf851-ccfa-4450-b4e7-aa226b3d6fb2@fae49480e092.bangchenou.top:41101?type=tcp&sni=upos-tf-all-tx.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK066%2041.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+trojan://8434bf9f-e712-4206-9054-ed88460a2ca6@v12026.lalakw.com:50026?sni=v12026.lalakw.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW008%201.3MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.124.254.99:2053?type=ws&sni=sni.111000.dns.army&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL001%201.0MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
 ```
 
 ---
