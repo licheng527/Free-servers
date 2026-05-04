@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-04 16:15:32 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-04 18:54:58 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@150.230.204.21:10243?type=ws&sni=akrip7.beta-edge.fgfw.indevs.in&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP040%204.9MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-vless://421cf851-ccfa-4450-b4e7-aa226b3d6fb2@fae49480e092.bangchenou.top:41601?type=tcp&sni=vxcode-hive-trace-v2.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR017%200.3MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@211.48.77.114:12312?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR011%202.7MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@64.186.232.110:9443?type=ws&sni=uiz9vbq.mirror-edge.sh21.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS146%205.1MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@188.226.162.161:2087?type=ws&sni=e9x.mirror-node.chinav.indevs.in&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL054%204.4MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@146.56.113.221:7778?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR004%202.9MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@64.186.234.59:443?type=ws&sni=n63n17.mail.sh21.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS194%205.4MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@138.68.131.25:2087?type=ws&sni=wzvh.panel-api.gfw.hidns.co&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB024%204.9MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@107.174.107.197:8443?type=ws&sni=xw0d9r.cdn-edge-sg.chinam.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS190%204.3MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@138.2.32.76:15821?type=ws&sni=r6tv.cdn-img.chinat.indevs.in&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP043%204.3MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
 ```
 
 ---
