@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-05 03:12:44 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-05 05:52:10 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@154.26.185.113:443?type=ws&sni=uiz9vbq.mirror-edge.sh21.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS145%205.9MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.139.77.52:443?type=ws&sni=sni.111000.v6.army&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE001%201.8MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://421cf851-ccfa-4450-b4e7-aa226b3d6fb2@fae49480e092.bangchenou.top:42000?type=tcp&sni=d1--cn-gotcha308.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BDTH001%203.7MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
 vless://a0e4e8b6-0518-4f19-803e-eece71583392@50.117.3.183:443?type=tcp&sni=apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS023%203.1MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-vless://421cf851-ccfa-4450-b4e7-aa226b3d6fb2@fae49480e092.bangchenou.top:41601?type=tcp&sni=vxcode-hive-trace-v2.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR017%200.3MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@104.248.167.119:443?type=ws&sni=yvl5fy.data-cache.chinam.indevs.in&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB031%204.9MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.31:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN045%201.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@58.151.107.230:14534?type=ws&sni=xjv.node-proxy.chinam.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS217%202.5MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
 ```
 
 ---
