@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-04 13:54:17 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-04 16:15:32 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://8f59feef-aab9-4e0b-924c-2a31bb8f446f@138.124.6.159:30086?type=grpc#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH001%204.3MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@173.199.123.37:443?type=ws&sni=acyq7kj.api-node-eu.chinat.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS181%203.0MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-vless://421cf851-ccfa-4450-b4e7-aa226b3d6fb2@fae49480e092.bangchenou.top:42029?type=tcp&sni=cn-gdgz-gd-live-03.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%B9%E5%A5%A5%E5%9C%B0%E5%88%A9AT001%202.4MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@23.105.197.36:443?type=ws&sni=ykhog58r.data-api-01.chinat.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS232%204.9MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@150.230.204.21:10243?type=ws&sni=akrip7.beta-edge.fgfw.indevs.in&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP040%204.9MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://421cf851-ccfa-4450-b4e7-aa226b3d6fb2@fae49480e092.bangchenou.top:41601?type=tcp&sni=vxcode-hive-trace-v2.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR017%200.3MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@211.48.77.114:12312?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR011%202.7MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@64.186.232.110:9443?type=ws&sni=uiz9vbq.mirror-edge.sh21.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS146%205.1MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@188.226.162.161:2087?type=ws&sni=e9x.mirror-node.chinav.indevs.in&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL054%204.4MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
 ```
 
 ---
