@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-04 21:20:24 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-05 00:25:14 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://f6808c62-cfe0-438c-aae6-44fe6ef51e47@89.163.221.23:8082?type=grpc&sni=id.vk.com&security=tls&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE015%206.8MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@45.76.66.145:443?type=ws&sni=ynwta9.api-edge.fgfw.qzz.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS010%203.7MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.27:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN017%200.7MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@185.31.200.5:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL026%203.7MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@185.198.26.178:443?type=ws&sni=acyq7kj.api-node-eu.chinat.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS178%205.5MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@74.48.89.211:443?type=ws&sni=xjv.node-proxy.chinam.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS252%203.1MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@175.201.34.127:18786?type=ws&sni=wzvh.panel-api.gfw.hidns.co&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR045%203.2MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@181.36.229.212:443?type=ws&sni=m165kavw.cdn-01.chinam.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%B4DODO001%202.5MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
 ```
 
 ---
