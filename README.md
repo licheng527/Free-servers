@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-04 05:32:06 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-04 09:51:27 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.160.207.175:443?type=ws&sni=sni.111000.dns.army&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG003%201.2MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.106:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN029%201.0MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://421cf851-ccfa-4450-b4e7-aa226b3d6fb2@fae49480e092.bangchenou.top:41101?type=tcp&sni=upos-tf-all-tx.bilivideo.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK066%2041.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://8434bf9f-e712-4206-9054-ed88460a2ca6@v12026.lalakw.com:50026?sni=v12026.lalakw.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW008%201.3MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.124.254.99:2053?type=ws&sni=sni.111000.dns.army&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL001%201.0MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@142.248.137.32:443?type=ws&sni=acyq7kj.api-node-eu.chinat.indevs.in&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP028%2010.3MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@159.223.12.59:443?type=ws&sni=acyq7kj.api-node-eu.chinat.indevs.in&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL040%203.7MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS137%204.9MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+hysteria2://github.com/Alvin9999-newpac/fanqiang@178.18.147.66:29900?sni=www.microsoft.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE003%204.3MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@23.94.56.111:20338?type=ws&sni=svb13.cdn-edge-jp.fgfw.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS246%200.4MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
 ```
 
 ---
