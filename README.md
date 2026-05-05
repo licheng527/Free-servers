@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-05 18:27:15 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-05 21:10:04 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@222.106.183.207:12300?type=ws&sni=ynwta9.api-edge.fgfw.qzz.io&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR004%204.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://dongtaiwang.com@163.172.113.118:41947?sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR015%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@104.17.107.186:443?type=ws&sni=x.2.q.9.a.v.3.m.8.c.t.y.1.k.f.z.7.b.h.6.w.b.1.j.danfeng.com.cfd&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS399%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@64.81.113.62:21040?type=ws&sni=py7k82mu.api-node-02.gfw.hidns.co&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP072%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@67.230.168.204:80?type=ws&sni=iuh1.auth-proxy.chinat.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS121%202.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@77.239.100.49:443?type=ws&sni=n63n17.mail.sh21.eu.org&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE037%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@188.166.60.219:2083?type=ws&sni=e9x.mirror-node.chinav.indevs.in&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL099%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
