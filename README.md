@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-05 13:33:28 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-05 15:52:45 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@188.226.162.161:443?type=ws&sni=yvl5fy.data-cache.chinam.indevs.in&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL058%204.9MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@185.36.192.177:9443?type=ws&sni=pl4oj.mirror.fgfw.indevs.in&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG040%2012.7MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@107.174.107.197:8443?type=ws&sni=xw0d9r.cdn-edge-sg.chinam.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS134%205.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.50:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN066%201.3MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@154.17.12.91:443?type=ws&sni=xw0d9r.cdn-edge-sg.chinam.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS123%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@20.80.83.253:443?type=ws&sni=py7k82mu.api-node-02.gfw.hidns.co&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS342%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://cf5a8e10-758c-4564-87a4-a2eeecbd5ed4@rhciuib.synccut.de:443?type=ws&sni=rhciuib.synccut.de&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK002%200.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@46.183.25.15:443?type=ws&sni=e9x.mirror-node.chinav.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS138%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
