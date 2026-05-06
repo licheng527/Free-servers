@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-06 13:47:53 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-06 16:05:59 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@154.7.183.107:38487?type=ws&sni=iuh1.auth-proxy.chinat.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS295%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@107.175.245.68:50242?type=ws&sni=b.8.q.1.z.7.c.5.y.k.2.v.x.0.a.m.6.n.d.h.3.h.u.9.danfeng.rr.kg&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS171%200.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://YWVzLTEyOC1nY206NGQzMzBmNTMtZmYxMy00N2Y0LTk3MDQtNzg5OTEzZDhmNDVm@mn.qwer-cn.org:10934#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG017%2019.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@47.245.134.84:443?type=ws&sni=akrip7.beta-edge.fgfw.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE015%202.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@104.168.14.25:443?type=ws&sni=m16itazc.api-core.chinat.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS329%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@183.100.75.69:12000?type=ws&sni=m16itazc.api-core.chinat.indevs.in&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR095%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@221.168.164.179:32771?type=ws&sni=xfxl35a.node-edge.gfw.hidns.co&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR004%204.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwNTAgNC45TUIvc1x1NTM3MVx1OTY2OSBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMzciLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiODIuMTk4LjI0Ni4zNyIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+vless://26524cce-d514-4014-a426-365fb266a14d@38.60.91.95:4433?type=ws&sni=mcbeaamn.relay-api.fgfw.qzz.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS155%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
