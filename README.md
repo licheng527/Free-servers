@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-06 16:05:59 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-06 18:55:25 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@183.100.75.69:12000?type=ws&sni=m16itazc.api-core.chinat.indevs.in&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR095%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@221.168.164.179:32771?type=ws&sni=xfxl35a.node-edge.gfw.hidns.co&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR004%204.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwNTAgNC45TUIvc1x1NTM3MVx1OTY2OSBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMzciLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiODIuMTk4LjI0Ni4zNyIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-vless://26524cce-d514-4014-a426-365fb266a14d@38.60.91.95:4433?type=ws&sni=mcbeaamn.relay-api.fgfw.qzz.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS155%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@180.93.128.92:443?sni=vpn-vn-001.fastervpn.world#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN001%201.9MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@38.22.237.113:39738?type=ws&sni=xjv.node-proxy.chinam.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS315%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@112.72.253.34:11310?type=ws&sni=py7k82mu.api-node-02.gfw.hidns.co&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR104%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.147.33.251:443?type=ws&sni=sni.111000.v6.army&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL064%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@85.121.122.66:443?type=ws&sni=pl4oj.mirror.fgfw.indevs.in&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP023%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
