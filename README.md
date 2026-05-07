@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-07 09:54:57 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-07 13:51:39 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@151.244.132.32:7443?type=ws&sni=gyi7hi.app-node.fgfw.indevs.in&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR032%203.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@193.233.130.13:9443?type=ws&sni=gyi7hi.app-node.fgfw.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS223%200.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&sni=fuck.rkn&security=tls&flow=xtls-rprx-vision&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR%20001%203.8MB/s%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@92.118.10.173:443?type=ws&sni=x.2.q.9.a.v.3.m.8.c.t.y.1.k.f.z.7.b.h.6.w.b.1.j.danfeng.com.cfd&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS097%203.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@150.136.254.79:443?type=ws&sni=k.3.x.8.p.0.q.m.2.z.a.7.c.v.y.1.b.h.e.5.q.e.1.z.9.gfw.qzz.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS110%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.216:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN036%200.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@132.145.77.22:8000?type=ws&sni=k.3.x.8.p.0.q.m.2.z.a.7.c.v.y.1.b.h.e.5.q.e.1.z.9.gfw.qzz.io&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB002%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@164.92.181.46:8443?type=ws&sni=xox.cdn-cache-01.chinat.indevs.in&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE076%204.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@5.83.147.224:7443?type=ws&sni=d8euiih.monitor.sh21.eu.org&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE058%204.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@146.185.131.217:443?type=ws&sni=rom.media-cdn-01.chinav.eu.org&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL055%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
