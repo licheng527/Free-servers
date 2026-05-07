@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-07 16:13:42 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-07 18:59:49 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@103.169.90.158:10005?type=ws&sni=hms7df.monitor.fgfw.qzz.io&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG038%204.3MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@13.229.181.115:18246?type=ws&sni=rom.media-cdn-01.chinav.eu.org&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG041%2014.7MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@64.186.240.48:443?type=ws&sni=hms7df.monitor.fgfw.qzz.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS226%206.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@77.110.109.246:443?type=ws&sni=xox.cdn-cache-01.chinat.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS169%200.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@121.137.41.206:10162?type=ws&sni=pimelef.cdn-edge.fgfw.qzz.io&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR006%204.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@31.59.136.223:443?type=ws&sni=xox.cdn-cache-01.chinat.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS172%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@64.176.81.163:1443?type=ws&sni=gyi7hi.app-node.fgfw.indevs.in&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG037%207.4MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@23.94.122.243:29500?type=ws&sni=b.8.q.1.z.7.c.5.y.k.2.v.x.0.a.m.6.n.d.h.3.h.u.9.danfeng.rr.kg&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS079%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@43.163.86.187:443?type=ws&sni=xox.cdn-cache-01.chinat.indevs.in&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG042%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@114.33.57.170:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW007%207.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
