@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-08 03:24:33 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-08 05:44:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMxMTIgNC45TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogImNnMWMwMy53YWltYW9qZC5jb20iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiYTYwZjM5MDAtYmZjNi00ZTk5LWEyMjEtMjM5Zjk2OTJkNTllIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJjZzFjMDMud2FpbWFvamQuY29tIiwgInBhdGgiOiAiL2FwaS92MS9ncmFwaHFsIiwgInRscyI6ICJ0bHMiLCAic25pIjogImNnMWMwMy53YWltYW9qZC5jb20ifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3XHU4MmYxXHU1NmZkR0IwMDQgMC42TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogInhnMWE3LndhaW1hb2Z1d3VqZC5jYyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJmMDAzOTBlYS0wODIwLTQ5YjktOWViNy01NjllMDNiMDBmYjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInhnMWE3LndhaW1hb2Z1d3VqZC5jYyIsICJwYXRoIjogIi9hcGkvdjEvZ3JhcGhxbCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ4ZzFhNy53YWltYW9mdXd1amQuY2MifQ==
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.18:52006?type=tcp&sni=cl-ru-1.edgeflux.ru&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU006%205.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@138.68.9.159:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS085%200.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@157.245.178.181:2083?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS017%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@77.221.157.251:2087?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE015%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@165.227.60.231:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS089%203.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@154.211.8.132:8443?type=ws&sni=nfhv9rz.relay-api.chinat.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS076%204.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
