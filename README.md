@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-08 15:14:35 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-08 18:16:03 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@134.122.69.115:443?type=ws&sni=sni.latonyamadeline.ndjp.net&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE006%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@178.128.70.6:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS146%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@211.48.77.114:12312?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR018%203.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@cf4.danfeng.eu.org:8443?type=ws&sni=rom.media-cdn-01.chinav.eu.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS196%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-003.fastervpn.world:443?sni=vpn-jp-003.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP008%2016.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwNTkgMC4yTUIvc1x1NTM3MVx1OTY2OSBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuOSIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+trojan://8r<[9'l6hAO#8ZQi@167.99.96.149:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS141%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@77.221.157.251:2083?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE037%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@104.17.208.96:443?type=ws&sni=k.3.x.8.p.0.q.m.2.z.a.7.c.v.y.1.b.h.e.5.q.e.1.z.9.gfw.qzz.io&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS187%205.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@45.40.148.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS106%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
