@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-09 03:02:37 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-09 05:49:15 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.28:52006?type=tcp&sni=cl-ru-2.edgeflux.ru&security=tls&flow=xtls-rprx-vision-udp443#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU011%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@144.31.192.220:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE033%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@142.252.220.13:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS051%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://faebdef9-5c25-4e53-825c-2f57afdf87db@tokyo1.ap221.com:443?type=tcp&sni=tokyo.ap221.com&security=tls&flow=xtls-rprx-vision-udp443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP005%202.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0da53d40-3e61-4459-8014-bd0f22bef196@hk1.ap221.com:443?type=tcp&sni=hk.ap221.com&security=tls&flow=xtls-rprx-vision-udp443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK009%2012.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMTIgMC4yTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMjE0IiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjgyLjE5OC4yNDYuMjE0IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+trojan://8r<[9'l6hAO#8ZQi@85.192.60.22:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE017%200.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@123.142.67.164:32770?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR038%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.12:52006?type=tcp&sni=cl-ru-1.edgeflux.ru&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU004%201.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0da53d40-3e61-4459-8014-bd0f22bef196@tokyo1.ap221.com:443?type=tcp&sni=tokyo.ap221.com&security=tls&flow=xtls-rprx-vision-udp443-udp443-udp443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP002%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
