@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-08 05:44:55 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-08 10:00:48 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://8r<[9'l6hAO#8ZQi@138.68.9.159:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS085%200.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@157.245.178.181:2083?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS017%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@77.221.157.251:2087?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE015%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@165.227.60.231:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS089%203.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://26524cce-d514-4014-a426-365fb266a14d@154.211.8.132:8443?type=ws&sni=nfhv9rz.relay-api.chinat.indevs.in&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS076%204.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://b69bba5e-5253-4424-ac55-68cc0da831ac@152.67.211.233:8899?type=tcp&sni=www.lovelive-anime.jp&security=tls&flow=xtls-rprx-vision&security=reality&pbk=B7eELUOn0QM6fKSrr5v_AE4JPHQIxvb9-xX3WLqnLAk&sid=11d27eb4#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR010%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@160.153.0.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS145%206.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@38.180.35.88:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B7%F0%9F%87%B4%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9ARO004%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@176.125.240.147:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE009%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@18.143.76.130:443?type=ws&sni=1-aym.pages.dev&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG012%200.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
