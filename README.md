@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-09 05:49:15 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-09 09:54:20 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMTIgMC4yTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMjE0IiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjgyLjE5OC4yNDYuMjE0IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-trojan://8r<[9'l6hAO#8ZQi@85.192.60.22:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE017%200.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@123.142.67.164:32770?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR038%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.12:52006?type=tcp&sni=cl-ru-1.edgeflux.ru&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU004%201.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0da53d40-3e61-4459-8014-bd0f22bef196@tokyo1.ap221.com:443?type=tcp&sni=tokyo.ap221.com&security=tls&flow=xtls-rprx-vision-udp443-udp443-udp443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP002%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL028%200.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://0431fb27-cb95-4bc1-9638-33ef0c02dc3f@51.79.176.33:8262?sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG002%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@149.104.31.39:64445?type=ws&sni=sni.111000.dns.army&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK033%2011.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.14:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN029%201.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@221.147.196.150:18810#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR017%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
