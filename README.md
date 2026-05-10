@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-10 05:33:39 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-10 09:53:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@168.138.165.174:443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20001%200.7MB/s%20TG%40jcnode
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?type=tcp&sni=r1.mizulina.top&security=tls&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS021%201.6MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@211.48.77.114:24095#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR056%203.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://b9319c4d-a325-4ecb-aa64-cf8b893b8897@hk1.ap221.com:443?type=tcp&sni=hk.ap221.com&security=tls&flow=xtls-rprx-vision-udp443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK024%200.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://rstnnl:7ltZBmta4ahLenTIoywBy3R1Z1PV7ZGf@nrealistic.nn-foto.ru:8932?sni=nrealistic.nn-foto.ru#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL015%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@149.104.110.97:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE029%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.60.149.222:8443?type=ws&sni=sni.latonyamadeline.ndjp.net&security=tls#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE002%203.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.96:52006?type=tcp&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU019%206.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@5.34.176.71:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG010%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@138.124.111.115:443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK002%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
