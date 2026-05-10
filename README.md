@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-10 18:04:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-10 20:53:19 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.56.7.90:443?type=ws&sni=sni.latonyamadeline.ndjp.net&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB004%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@104.152.49.249:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE002%201.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0da53d40-3e61-4459-8014-bd0f22bef196@hk1.ap221.com:443?type=tcp&sni=hk.ap221.com&security=tls&flow=xtls-rprx-vision-udp443-udp443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK064%200.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@157.230.140.153:2096?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS084%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@176.97.70.51:8443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP027%207.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@8.219.155.125:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP025%209.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.21.43.212:443?type=ws&sni=sni.111000.v6.army&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS188%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@207.148.125.245:8443#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG025%2015.4MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwNDMgMS4xTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuOTciLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaGsubmJlZS5wcC51YSIsICJwYXRoIjogIi9hYSIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
 ```
 
 ---
