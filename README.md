@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-10 09:53:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-10 13:54:34 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://8r<[9'l6hAO#8ZQi@149.104.110.97:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE029%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.60.149.222:8443?type=ws&sni=sni.latonyamadeline.ndjp.net&security=tls#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE002%203.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.96:52006?type=tcp&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU019%206.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@5.34.176.71:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG010%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@138.124.111.115:443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK002%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMDcgNS41TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMjMzIiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInQubWUlMkZyaXBhb2ppZWRpYW4iLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+vless://79b78774-0ccd-4792-aa2d-189887dd987f@hk1.ap221.com:443?type=tcp&sni=hk.ap221.com&security=tls&flow=xtls-rprx-vision-udp443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK029%203.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMzAgMC4zTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuOTciLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGlhbmppdS5wYWdlcy5kZXYiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+trojan://8r<[9'l6hAO#8ZQi@77.221.143.56:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE024%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@51.20.89.202:443#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE008%203.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
