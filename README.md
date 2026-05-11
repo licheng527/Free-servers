@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-11 10:03:27 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-11 14:27:28 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.60.149.222:8443?type=ws&sni=sni.latonyamadeline.ndjp.net&security=tls#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE004%202.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://dbc8a309-f85a-492b-a044-fc8aa374fac4@hk1.ap221.com:443?type=tcp&sni=hk.ap221.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK072%200.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@222.106.183.207:12300#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR045%204.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@104.238.170.163:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB011%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.234:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN003%201.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@45.113.224.169:8443#%F0%9F%87%AE%F0%9F%87%B3%E5%8D%B0%E5%BA%A6IN003%208.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://46eadc95-b3ff-4060-8504-98d3d4032110@138.2.94.44:8899?type=tcp&sni=www.lovelive-anime.jp&security=tls&flow=xtls-rprx-vision&security=reality&pbk=-kGaCYGM_MImDMVkOsFp4yvv4dLy3FXe9gqAtf4eYF8&sid=905ae32a#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG%20031%209.8MB/s%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMxNzcgMy4xTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogInhnMWIyLndhaW1hb2Z1d3VqZC5jYyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJmMDAzOTBlYS0wODIwLTQ5YjktOWViNy01NjllMDNiMDBmYjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInhnMWIyLndhaW1hb2Z1d3VqZC5jYyIsICJwYXRoIjogIi9hcGkvdjEvZ3JhcGhxbCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ4ZzFiMi53YWltYW9mdXd1amQuY2MifQ==
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.20:52006?type=tcp&sni=cl-ru-1.edgeflux.ru&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU013%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@221.147.196.150:18810#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR048%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
