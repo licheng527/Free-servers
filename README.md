@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-12 01:18:02 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-12 03:26:25 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://e9888b9b-658b-4f51-94f3-b8ba80e4ef91@buda-meow.nethcloud.top:443?type=tcp&sni=wikihow.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4#%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AFCY001%200.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0dcd0d55-8a1c-4a8b-91c5-6967720a8444@hk1.ap221.com:443?type=tcp&sni=hk.ap221.com&security=tls&flow=xtls-rprx-vision-udp443-udp443-udp443-udp443-udp443-udp443-udp443-udp443-udp443-udp443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK036%200.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?type=ws&sni=sni.latonyamadeline.ndjp.net&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE007%204.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@64.112.127.151:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE015%206.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@121.149.124.119:37020#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR083%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.23.105.115:443?type=ws&sni=sni.latonyamadeline.ndjp.net&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL061%204.3MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.16.38:8443?type=ws&sni=sni.111000.v6.army&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL001%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
