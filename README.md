@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-11 22:35:58 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-12 01:18:02 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://71c50681-d533-446f-84f2-2b34da180d38@hk1.ap221.com:443?type=tcp&sni=hk.ap221.com&security=tls&flow=xtls-rprx-vision-udp443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK033%201.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://03491a57-f071-4c0c-84f2-f4ec9062ede1@hk1.ap221.com:443?type=tcp&sni=hk.ap221.com&security=tls&flow=xtls-rprx-vision-udp443-udp443-udp443-udp443-udp443-udp443-udp443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK045%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.14.252:443?type=ws&sni=sni.latonyamadeline.ndjp.net&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK089%205.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://43b0a450-d0fb-4c8f-b809-4dde6e3c167a@tokyo1.ap221.com:443?type=tcp&sni=tokyo.ap221.com&security=tls&flow=xtls-rprx-vision-udp443-udp443-udp443-udp443-udp443-udp443-udp443-udp443-udp443-udp443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP013%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://e9888b9b-658b-4f51-94f3-b8ba80e4ef91@buda-meow.nethcloud.top:443?type=tcp&sni=wikihow.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4#%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AFCY001%200.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0dcd0d55-8a1c-4a8b-91c5-6967720a8444@hk1.ap221.com:443?type=tcp&sni=hk.ap221.com&security=tls&flow=xtls-rprx-vision-udp443-udp443-udp443-udp443-udp443-udp443-udp443-udp443-udp443-udp443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK036%200.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
