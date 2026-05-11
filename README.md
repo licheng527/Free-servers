@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-12 03:26:25 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-12 05:56:57 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.32.78:443?type=ws&sni=sni.latonyamadeline.ndjp.net&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE007%204.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@64.112.127.151:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE015%206.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@121.149.124.119:37020#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR083%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.23.105.115:443?type=ws&sni=sni.latonyamadeline.ndjp.net&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL061%204.3MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.16.38:8443?type=ws&sni=sni.111000.v6.army&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL001%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0da53d40-3e61-4459-8014-bd0f22bef196@hk1.ap221.com:443?type=tcp&sni=hk.ap221.com&security=tls&flow=xtls-rprx-vision-udp443-udp443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK064%200.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMxNDYgNC4xTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogInhnMWE4LndhaW1hb2Z1d3VqZC5jYyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJmMDAzOTBlYS0wODIwLTQ5YjktOWViNy01NjllMDNiMDBmYjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInhnMWE4LndhaW1hb2Z1d3VqZC5jYyIsICJwYXRoIjogIi9hcGkvdjEvZ3JhcGhxbCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ4ZzFhOC53YWltYW9mdXd1amQuY2MifQ==
+vless://b9319c4d-a325-4ecb-aa64-cf8b893b8897@hk1.ap221.com:443?type=tcp&sni=hk.ap221.com&security=tls&flow=xtls-rprx-vision-udp443-udp443-udp443-udp443-udp443-udp443-udp443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK067%204.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@87.239.250.244:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI003%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.126.200:443?type=ws&sni=sni.latonyamadeline.ndjp.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS231%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
