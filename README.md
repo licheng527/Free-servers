@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-11 05:37:57 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-11 10:03:27 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://8r<[9'l6hAO#8ZQi@152.70.143.65:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS174%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGU4U0NTQzAwMSAxLjRNQi9zXHU3ZWFmXHU1MWMwIFRHQGpjbm9kZSIsICJhZGQiOiAiMTU2LjIyNS4yNC4yMDUiLCAicG9ydCI6ICIzNzM3OCIsICJpZCI6ICIxNDY2NjJkNC1hYTA2LTQzNGUtYTkzOC03ZDUyNmFmYmU0ZDkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-trojan://8r<[9'l6hAO#8ZQi@165.227.26.242:2096?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS137%200.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@151.242.69.214:2053?type=ws&sni=sni.111000.v6.army&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL016%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.60.149.222:8443?type=ws&sni=sni.latonyamadeline.ndjp.net&security=tls#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE004%202.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://dbc8a309-f85a-492b-a044-fc8aa374fac4@hk1.ap221.com:443?type=tcp&sni=hk.ap221.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK072%200.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@222.106.183.207:12300#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR045%204.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@104.238.170.163:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB011%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.234:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN003%201.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
