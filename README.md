@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-12 13:56:57 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-12 16:31:53 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://2bd9c075-e47a-46d8-a777-93baa759d8aa@tokyo1.ap221.com:443?type=tcp&sni=tokyo.ap221.com&security=tls&flow=xtls-rprx-vision-udp443-udp443-udp443-udp443-udp443-udp443-udp443-udp443-udp443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP012%201.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.247:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN005%201.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@81.85.77.14:2083?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS086%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@20.249.24.202:443?type=ws&sni=gogo.onetap.qzz.io&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR088%208.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://ae8ddd8e-00af-48e5-bd57-05074a1bbffb@144.31.235.62:443?type=tcp&sni=www.deepl.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE002%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwNDMgNS42TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMzciLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@218.158.249.174:10002#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR062%203.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@59.18.192.132:18000#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR037%204.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@38.180.194.222:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE009%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
