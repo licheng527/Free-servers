@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-12 19:11:13 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-12 21:51:57 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@59.18.192.132:18000#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS004%202.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@221.147.196.150:18810#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR041%204.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@162.159.152.119:443?type=ws&sni=pagescm.freen36.cc.cd&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS183%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@129.226.163.56:8388#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK005%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@167.160.190.137:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7CA002%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@211.197.58.203:19071?type=ws&sni=pagescm.freen18.cc.cd&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR072%201.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@59.24.62.82:20002#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR019%201.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@221.148.219.205:20201#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR024%201.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@103.21.244.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS076%205.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@77.37.96.247:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%B0%E4%B8%B9%E9%BA%A6DK001%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
