@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-15 00:55:04 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-15 03:26:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://8r<[9'l6hAO#8ZQi@77.221.157.251:2087?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE046%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://162534@217.60.248.94:8443?sni=cchh2.pages.dev#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK012%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.218:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN007%200.9MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@38.55.124.82:54046?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK005%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@88.218.78.20:2096?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE051%205.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-tw.fastaichat.ru:52006?type=tcp&sni=cl-ru-tw.fastaichat.ru&security=tls&flow=xtls-rprx-vision-udp443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS107%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@45.87.154.147:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL010%205.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?type=tcp&sni=r1.mizulina.top&security=tls&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS082%206.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@92.119.90.67:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE052%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMTAgMC4yTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMjMzIiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIkhMLUZSRUVET00tMS5VTkRFRi5ORVRXT1JLIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
 ```
 
 ---
