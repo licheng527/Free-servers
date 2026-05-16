@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-16 15:48:20 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-16 18:06:48 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@121.180.225.222:16000#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR031%202.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?type=tcp&sni=r1.mizulina.top&security=tls&flow=xtls-rprx-vision-udp443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS087%207.4MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@59.31.102.62:25565#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR044%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@176.125.240.147:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE005%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-tw.fastaichat.ru:52006?type=tcp&sni=cl-ru-tw.fastaichat.ru&security=tls&flow=xtls-rprx-vision-udp443-udp443#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU003%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@176.98.181.71:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK013%204.3MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
 ```
 
 ---
