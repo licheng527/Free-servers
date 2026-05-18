@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-18 10:11:56 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-18 14:43:37 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://8r<[9'l6hAO#8ZQi@64.227.62.172:2096?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS171%206.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMgMDM3IDUuNU1CL3MgVEdAamNub2RlIiwgImFkZCI6ICI4Mi4xOTguMjQ2LjI1MCIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICI4Mi4xOTguMjQ2LjI1MCIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-vless://75807638-6f19-07d0-ae08-38492ee85c88@ru2.corpmail59.ru:52006?type=tcp&sni=ru2.corpmail59.ru&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU003%206.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@121.178.83.161:10909#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR044%201.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@172.66.42.200:8443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS055%206.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@time.is:443?type=ws&sni=https.kmj.qzz.io&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20001%203.7MB/s%20TG%40jcnode
+ss://YWVzLTI1Ni1nY206NTBiNDQ1NmItYWQ4Ny0zMWFlLTk4NTktNWRhOWE4ZmRiMDJl@f.3.j.t.j.5.p.3.b.hk04-ae5.entry.v51124-1.qpon:804#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK014%200.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@38.180.143.51:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE028%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@176.98.181.71:443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK003%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
