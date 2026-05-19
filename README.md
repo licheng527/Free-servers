@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-20 01:32:25 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-20 03:42:10 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://8r<[9'l6hAO#8ZQi@141.193.27.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS238%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://bm9uZTpodHRwczovL3QubWUvV2FuZ0NhaTLwn4eo8J+Hsw==@121.158.138.217:12000#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR070%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@45.138.102.92:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE022%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@58.151.107.230:14000#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR060%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@116.44.53.251:12126?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK015%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@66.103.204.102:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS130%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@193.109.84.103:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE016%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@77.221.158.36:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE086%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://53d74aab-6471-4c1b-ace7-fac837d1bfbd@2a14:7584:d097::a:11330?type=xhttp&sni=toarumajutsunoindex.fandom.com&security=tls&flow=None&security=reality&pbk=3HaD5Ztk3X4gi3aJLVesV6KSJTW2YGG-hvGD3ZumJkE&sid=fa789b2f5ff56959#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20104%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@222.113.136.246:36876?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR078%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
