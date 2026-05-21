@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-21 06:18:46 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-21 10:09:52 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://8r<[9'l6hAO#8ZQi@80.209.242.70:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS079%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@222.113.18.214:11310#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR062%200.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://jOIItw1h4D@138.124.182.202:8443?sni=latviyaotpusk1.home.kg#%F0%9F%87%B1%F0%9F%87%BB%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9ALV%20001%200.5MB/s%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@81.85.77.14:2083?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS081%205.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@63.141.128.30:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS089%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@211.251.25.145:13720?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR085%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@23.173.104.221:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7CA010%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@217.60.63.232:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR008%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@95.182.96.42:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR043%201.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@88.218.78.20:2096?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE074%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
