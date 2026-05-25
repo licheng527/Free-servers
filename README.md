@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-25 10:28:01 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-25 15:01:31 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://26524cce-d514-4014-a426-365fb266a14d@220.94.34.138:18852?type=ws&sni=qznql.node-proxy.chinat.indevs.in&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR036%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@31.58.76.27:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR038%201.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@31.57.63.63:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS105%203.0MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-ss://YWVzLTI1Ni1nY206YjNmZjE5ODEtZmIwMy0zNzM4LTg5ZTktMzE3YTVlMWQ3ZWIz@4.r.x.b.h.q.w.9.6.jp01-ae5.entry.v51124-3a.qpon:474#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP017%202.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@218.150.34.228:10912#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR057%204.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://:U]2hAN7Y[Ka0Eb_@104.17.148.22:8443?sni=TEst-63W.PaGEs.deV#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS253%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@31.58.50.110:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS238%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@138.124.229.141:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE068%204.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3XHU4MmYxXHU1NmZkR0IgMDAxIDQuNE1CL3MgVEdAamNub2RlIiwgImFkZCI6ICI4Mi4xOTguMjQ2LjI1MCIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
