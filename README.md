@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-25 05:44:25 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-25 10:28:01 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://8r<[9'l6hAO#8ZQi@152.53.200.210:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL019%208.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@31.56.228.250:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR002%200.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@46.243.1.89:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE045%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@194.67.204.158:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE048%205.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://26524cce-d514-4014-a426-365fb266a14d@220.94.34.138:18852?type=ws&sni=qznql.node-proxy.chinat.indevs.in&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR036%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@31.58.76.27:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR038%201.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@31.57.63.63:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS105%203.0MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
+ss://YWVzLTI1Ni1nY206YjNmZjE5ODEtZmIwMy0zNzM4LTg5ZTktMzE3YTVlMWQ3ZWIz@4.r.x.b.h.q.w.9.6.jp01-ae5.entry.v51124-3a.qpon:474#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP017%202.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
