@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-26 14:36:41 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-26 22:39:15 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://e43deddf-361f-33b3-8ea7-dfa53ed122ab@mellow7642.d33tqmk.cc:12544?sni=xk7q-fuli234.ckpfef.top#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK049%201.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@185.105.118.126:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI008%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OlkySmhaVFUzT0RZdFpqZzNNQzAwTkE9PQ==@23.80.80.22:80#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS002%204.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@220.79.9.247:26027#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR050%201.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@104.31.16.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS145%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@45.89.66.185:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE016%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS142%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@31.59.136.223:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS153%203.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://e43deddf-361f-33b3-8ea7-dfa53ed122ab@nx4r7v9q.d33tqmk.cc:16008?sni=a7m9xq42.ckpfef.top#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE082%201.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+hysteria2://50b8c74a-e18e-4a61-b64c-f4010464c4dd@aws-linkhy1.liangxin1.xyz:443?sni=iosapps.itunes.apple.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK025%2012.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
