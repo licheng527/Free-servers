@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-26 22:39:15 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-27 01:50:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://8r<[9'l6hAO#8ZQi@45.89.66.185:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE016%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS142%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@31.59.136.223:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS153%203.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://e43deddf-361f-33b3-8ea7-dfa53ed122ab@nx4r7v9q.d33tqmk.cc:16008?sni=a7m9xq42.ckpfef.top#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE082%201.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-hysteria2://50b8c74a-e18e-4a61-b64c-f4010464c4dd@aws-linkhy1.liangxin1.xyz:443?sni=iosapps.itunes.apple.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK025%2012.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@138.124.28.6:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE106%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@221.150.96.18:10162#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR052%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@121.178.83.161:10909#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR037%203.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@69.84.182.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS183%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://616d9920-ca89-46b6-bbae-99fb2d25444e@list.ii5.in:443?type=ws&sni=list.ii5.in&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK021%202.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
