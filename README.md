@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-26 10:07:24 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-26 14:36:41 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@176.98.181.71:443#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK005%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://8r<[9'l6hAO#8ZQi@50.62.91.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS152%205.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://e43deddf-361f-33b3-8ea7-dfa53ed122ab@fg7xl1div.d33tqmk.cc:16100?sni=f132cdn-sg.ckpfef.top#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG028%205.9MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://b5887cb0-c260-3858-bffb-032df030f4b1@jugms1.t4kz6py9.top:65308?sni=dl.shcthusan.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS200%208.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://e43deddf-361f-33b3-8ea7-dfa53ed122ab@mellow7642.d33tqmk.cc:12544?sni=xk7q-fuli234.ckpfef.top#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK049%201.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@185.105.118.126:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI008%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OlkySmhaVFUzT0RZdFpqZzNNQzAwTkE9PQ==@23.80.80.22:80#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS002%204.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@220.79.9.247:26027#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR050%201.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://8r<[9'l6hAO#8ZQi@104.31.16.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS145%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
