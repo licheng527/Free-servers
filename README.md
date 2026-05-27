@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-27 14:53:14 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-27 20:11:10 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://8cc59443-9131-41ef-92dc-80c739febd68@45.207.201.218:443?type=tcp&sni=www.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=Q_69xJG-1OPZFDrNLUHpnCgVFkho6WKP3M-tsS0RlVU&sid=9cbbbcd2#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS036%200.7MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OllUZ3labVpsTVRBdFpHWXdZUzAwWlE9PQ==@www.syfe.com:80#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS004%206.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://64c5b7d0-87aa-45eb-9721-3602325fa106@sg03.459292.xyz:8080?sni=sg03.459292.xyz#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG004%2020.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@us03.459292.xyz:20000?sni=us03.459292.xyz#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS022%200.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://b49df800-061e-3282-a34c-70c864c83e8a@jugms1.x2k8m9q3.top:65305?sni=dl.shctusgs7.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS043%207.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMTcgMC4zTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMjUwIiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImFkcy54NS5ydSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
