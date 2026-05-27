@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-28 03:58:08 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-28 06:24:28 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwNDYgMy43TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogImNmLnNjcG5iLnRvcCIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJkNTM1NzMxOC1jOWI0LTQzNWItYTQyNC1hY2MyMDZkZDgyYzMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi9kNTM1NzMxOC1jOWI0LTQzNWItYTQyNC1hY2MyMDZkZDgyYzMtdm0iLCAidGxzIjogInRscyIsICJzbmkiOiAibGNkLXJhY2hlbC13cmFwcGluZy1jaW5keS50cnljbG91ZGZsYXJlLmNvbSJ9
-trojan://b49df800-061e-3282-a34c-70c864c83e8a@ntnt2.x2k8m9q3.top:65302?sni=cdnjp.douyinvod.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP027%204.9MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.44:38388#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN007%200.3MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-ss://YWVzLTEyOC1nY206NjY2@youxuan.cf.090227.xyz:80#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK005%205.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@jp03.769970.xyz:60000?sni=jp03.769970.xyz#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP009%2011.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://eb3fa357-cea8-321e-bbd5-850e2d874025@t1.hhaakk9922.com:36782?type=grpc&sni=t1.hhaakk9922.com&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK014%203.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://27d38ffc-89d3-4350-9aab-45cc88a35ea8@38.244.24.7:443?type=tcp&sni=www.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=bIrLxLw_6AnvwYP153jsCiNoOjVA2Ce9K84oJ0xL4zc&sid=356c549f#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS045%202.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
