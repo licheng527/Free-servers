@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-28 06:24:28 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-28 09:59:04 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://df1a0967-5b79-41ec-8d12-915e9056c6e2@jp03.769970.xyz:60000?sni=jp03.769970.xyz#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP009%2011.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://eb3fa357-cea8-321e-bbd5-850e2d874025@t1.hhaakk9922.com:36782?type=grpc&sni=t1.hhaakk9922.com&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK014%203.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://27d38ffc-89d3-4350-9aab-45cc88a35ea8@38.244.24.7:443?type=tcp&sni=www.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=bIrLxLw_6AnvwYP153jsCiNoOjVA2Ce9K84oJ0xL4zc&sid=356c549f#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS045%202.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://7625adbb-52f7-4ff4-95f8-677471071a77@132.243.231.122:8443?type=tcp&sni=io.ozone.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3#%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AFCY001%204.9MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEswMDggMC4yTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogInJpcGNvcmQ3NDM0LmNqeHlvdW5nLmNvbSIsICJwb3J0IjogIjEyMjI4IiwgImlkIjogIjcxYjE4N2I1LWEyZmUtMzk0MC05NGQ5LTFlZGI2MjJiZDg4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OllUZ3labVpsTVRBdFpHWXdZUzAwWlE9PQ==@www.syfe.com:80#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20003%206.1MB/s%20TG%40jcnode
 ```
 
 ---
