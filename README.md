@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-30 04:27:25 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-30 06:23:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?sni=vpn-tw-002.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW001%201.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://d78c12c4-6927-40b8-8550-ed9be00334da@217.179.6.84:443?type=tcp&sni=France1cxc.chickenkiller.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=UJSYKOEr3a3V1P_obd9zNBq4Pr3Vbd_a2nHE7-rstRk&sid=6089640857a72237#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB001%201.0MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://f58cd113-a3b1-319d-a993-331481731e82@a.twodnwnpoe.xyz:40017?sni=water.waittomorrow.top#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK009%2011.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEswMTcgNi41TUIvc1x1N2VhZlx1NTFjMCBUR0BqY25vZGUiLCAiYWRkIjogIjY2NTRjNzM0Y2NhYjhmNDQwZmYwODI1ZWI0NDNkYzdmLnFvcy5vbmwiLCAicG9ydCI6ICIxMDA0OSIsICJpZCI6ICI1MmY5Y2JmYi01YmIzLTNkZDMtYjk0Ny03MjVlMzY1YzU5ZjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInYycHI5ZmVvaDB6ODZhbmoyZ3o5b25uamc5dml1ZXYwai5tb2Jnc2xiLnRiY2FjaGUuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+vless://eae7e64e-0dfe-4694-8a1d-f8f656f3e2f1@91.186.216.62:443?type=ws&sni=polsha.ajajajajqj2qedvekq.online&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL003%200.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://a2b81a67-3cd2-42c7-a3f9-fd47ac27d4a1@95.182.97.249:443?type=ws#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR001%200.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMTIgMC40TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMjE0IiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIktvbWEtWVQuUEFHZVMuRGV2IiwgInBhdGgiOiAiL3RyVGVsZWdyYW1cdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjNAV2FuZ0NhaTIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
