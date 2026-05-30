@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-30 21:01:03 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-30 23:58:08 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OlpqUTROekV4TXpVdE1HWXpOeTAwTkE9PQ==@23.80.80.22:80#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS001%204.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0dc3fe97-73e3-4cc2-89a7-331e66540365@cdn-a9027cc2.glomedia-cdn.com:2053?type=grpc&sni=www.apple.com&security=tls&security=reality&pbk=sOTlswV3fg3MBJSiQek_a2fMs824tGNRFNRdQVYu1R8&sid=ef96a8323b38a60e#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE005%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwNDUgMy4yTUIvc1x1N2VhZlx1NTFjMCBUR0BqY25vZGUiLCAiYWRkIjogIjIxNi4xNjcuMy4yMDkiLCAicG9ydCI6ICI1OTc3MyIsICJpZCI6ICJiMzdhMjU0ZS1jMTFhLTRkOGQtYmExMC1iZjdmMGRjMTNmN2EiLCAiYWlkIjogIjAiLCAibmV0IjogImh0dHAiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+trojan://Mitivpn@104.17.121.9:443?sni=my.hitgram.ir#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS023%205.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMjYgNC42TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMzciLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
 ```
 
 ---
