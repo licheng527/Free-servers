@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-30 14:13:33 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-30 18:42:58 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://ee0dceba-05e2-4212-a794-fc955f3a3027@78.17.100.107.blanesik.space:443?type=grpc&sni=78.17.100.107.blanesik.space&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE006%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://8b866022-ce00-47a1-8322-5c04a77436b7@45.43.75.81:443?sni=rebellion.global&security=tls&flow=xtls-rprx-vision&security=reality&pbk=tgA0PBzh7ziFWEOoHw2c14m2p4VzZQt0MlJYnQBwE1U&sid=#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB002%200.4MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwNDQgMC4yTUIvc1x1N2VhZlx1NTFjMCBUR0BqY25vZGUiLCAiYWRkIjogIjM4LjgwLjE4OC42OSIsICJwb3J0IjogIjUwOTk3IiwgImlkIjogIjczNTBkNjE1LWQxYTUtNGE1Yi1hMDA0LTE4YWFmZWU4ZTFkOCIsICJhaWQiOiAiMCIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+vless://8cddd533-9611-4fc4-adda-7d629743b4b2@lu.vles.space:1443?type=tcp&sni=botapi.max.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=Ej_PPr2iomuIl23svqB6FgWf2Sw6FMC6ipavO5w5OXY&sid=099755ac7b731e9e#%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AFCY002%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://efa569c6-c627-39d0-8d4f-6c5d730b5894@t1.feiyue706.com:36793?type=grpc&sni=t1.feiyue706.com&security=tls#%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BDTH002%202.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
