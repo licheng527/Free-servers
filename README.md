@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-30 23:58:08 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-31 02:57:50 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://Mitivpn@104.17.121.9:443?sni=my.hitgram.ir#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS023%205.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMjYgNC42TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMzciLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OlpqUTROekV4TXpVdE1HWXpOeTAwTkE9PQ==@www.syfe.com:80#%F0%9F%87%A6%F0%9F%87%B9%E5%A5%A5%E5%9C%B0%E5%88%A9AT002%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
