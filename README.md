@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-30 10:00:55 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-30 14:13:33 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://efa569c6-c627-39d0-8d4f-6c5d730b5894@t1.feiyue706.com:36792?type=grpc&sni=t1.feiyue706.com&security=tls#%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BDTH001%202.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://980231fb-4372-5c81-b696-20aa34d33af0@148.253.211.237:443?type=tcp&sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=978-Yxgtd3AWTVfiXEQqCstdwrT1qgsgleGPIRGQDl8&sid=bdac121c7debdaba#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE002%200.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjSlAwMDYgNi44TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogImd0bS1zZy1jYzU0cTdkMXEwMS4zNjVjbG91ZDAyODUuY29tIiwgInBvcnQiOiAiNjAwMyIsICJpZCI6ICJhMDMwODQyYS1kMjlhLTRlYTktYTc3Ni0xNGZjNGI5ZTEwMmQiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+vless://ee0dceba-05e2-4212-a794-fc955f3a3027@78.17.100.107.blanesik.space:443?type=grpc&sni=78.17.100.107.blanesik.space&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE006%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://8b866022-ce00-47a1-8322-5c04a77436b7@45.43.75.81:443?sni=rebellion.global&security=tls&flow=xtls-rprx-vision&security=reality&pbk=tgA0PBzh7ziFWEOoHw2c14m2p4VzZQt0MlJYnQBwE1U&sid=#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB002%200.4MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwNDQgMC4yTUIvc1x1N2VhZlx1NTFjMCBUR0BqY25vZGUiLCAiYWRkIjogIjM4LjgwLjE4OC42OSIsICJwb3J0IjogIjUwOTk3IiwgImlkIjogIjczNTBkNjE1LWQxYTUtNGE1Yi1hMDA0LTE4YWFmZWU4ZTFkOCIsICJhaWQiOiAiMCIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
