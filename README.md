@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-31 18:51:09 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-31 21:12:29 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://Vpn_Shield@104.17.121.71:443?type=xhttp&sni=sell.sigikala.site&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20001%203.1MB/s%20TG%40jcnode
-ss://YWVzLTI1Ni1nY206MDE3YjQ1MzYtNWZiYS0zYWY0LWI4ZDktYmE2ZWU4YmJlMmFm@l.y.n.j.c.u.o.e.d.jp02-ae5.entry.v51124-5.qpon:486#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP016%204.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMjYgMC4yTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMjUwIiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImpmbHNqbGFmLnBhZ2VzLmRldiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?sni=r1.mizulina.top&security=tls&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS040%207.4MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMTIgMC4zTUIvc1x1NTM3MVx1OTY2OSBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMjE0IiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjgyLjE5OC4yNDYuMjE0IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TURWbU1EWm1NamN4TUdWaFpUaGxZbVZrWkdFd09UaGlObUpqWVRZek16Yz06WVRsa056STNZMlF0TXpNd1lpMDBaV1JrTFRnNU1URXROMk15TWpSa1pqWT0=@kr-02.jjsdns.com:28412#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR002%200.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OlpqUTROekV4TXpVdE1HWXpOeTAwTkE9PQ==@www.shopify.com:80#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP004%202.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
