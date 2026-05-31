@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-31 10:28:01 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-05-31 14:47:23 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?type=tcp&sni=r1.mizulina.top&security=tls&flow=xtls-rprx-vision-udp443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS042%201.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+hysteria2://32c4b77c-8247-3a7c-86d3-a50c74d44f91@u1.cnjdyun.link:31201?sni=zl-uk1.llzf1.xyz#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB002%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://32c4b77c-8247-3a7c-86d3-a50c74d44f91@u1.cnjdyun.link:34701?sni=hy-us1.llzf1.xyz#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS052%203.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OlpqUTROekV4TXpVdE1HWXpOeTAwTkE9PQ==@172.96.161.152:20092#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS010%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
