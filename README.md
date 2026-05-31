@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-01 03:01:09 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-01 05:47:37 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWmVTVHZwbDJ1b2V5MVIwZnJoUHlK@109.107.182.229:51544#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI002%200.4MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-hysteria2://32c4b77c-8247-3a7c-86d3-a50c74d44f91@u1.cnjdyun.link:33702?sni=hy-jp2.llzf1.xyz#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP014%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://cb12d2f4-d743-47c8-9e23-26f22387a042@94.140.0.188:443?type=xhttp&sni=cdn.amirak.qzz.io&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE014%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@pl.prostosetup.org:443?type=tcp&sni=pl.prostosetup.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ps7eCLLKAqgSGPFRQl1-R1PhzUeO1Z1EwNl02Ac63UA&sid=514d02a2addd6476#%F0%9F%87%B2%F0%9F%87%A9%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6MD002%200.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OllUZ3labVpsTVRBdFpHWXdZUzAwWlE9PQ==@23.80.80.22:80#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20001%202.3MB/s%20TG%40jcnode
+hysteria2://32c4b77c-8247-3a7c-86d3-a50c74d44f91@u1.cnjdyun.link:34703?sni=zl-us3.llzf1.xyz#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS054%206.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://f3368578-8389-458d-9aee-08dc350c5230@mzonede.3cloudhost.com:443?sni=mzone.3cloudhost.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8&sid=#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH002%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
