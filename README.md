@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-01 16:24:03 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-01 22:48:53 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@87.120.93.69:443?type=tcp&sni=www.deepl.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE006%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://bc7c7c10-8f24-332e-b303-fb3c8943c24f@2a0f:85c1:b73:321::a:443?sni=u712927us262.ayxj.top#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE013%203.7MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://HmMS4bod1s4pwVO0nfHsfs1LTSTSmX3fRVIcS886@ojpa.zjf2610.top:29991?sni=ojpa.zjf2610.top#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP010%201.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?type=tcp&sni=r1.mizulina.top&security=tls&flow=xtls-rprx-vision-udp443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS015%206.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#%F0%9F%87%B1%F0%9F%87%BA%E5%8D%A2%E6%A3%AE%E5%A0%A1LU002%200.5MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
 ```
 
 ---
