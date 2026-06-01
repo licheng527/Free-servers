@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-01 05:47:37 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-01 10:37:59 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@pl.prostosetup.org:443?type=tcp&sni=pl.prostosetup.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ps7eCLLKAqgSGPFRQl1-R1PhzUeO1Z1EwNl02Ac63UA&sid=514d02a2addd6476#%F0%9F%87%B2%F0%9F%87%A9%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6MD002%200.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OllUZ3labVpsTVRBdFpHWXdZUzAwWlE9PQ==@23.80.80.22:80#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20001%202.3MB/s%20TG%40jcnode
-hysteria2://32c4b77c-8247-3a7c-86d3-a50c74d44f91@u1.cnjdyun.link:34703?sni=zl-us3.llzf1.xyz#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS054%206.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://f3368578-8389-458d-9aee-08dc350c5230@mzonede.3cloudhost.com:443?sni=mzone.3cloudhost.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=SARDrN_d46PsugT2k5ILoQAJqaA1eCOZhe1BjKMonj8&sid=#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH002%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMzIgMC45TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMzciLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+vless://f85f6c65-1b35-4c56-b766-80c5a4457b3e@95.85.228.212:443?type=tcp&sni=est.hatvpn.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&sid=5a7216aec1371894#%F0%9F%87%AA%F0%9F%87%AA%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9AEE002%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@87.120.93.69:443?type=tcp&sni=www.deepl.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE007%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
