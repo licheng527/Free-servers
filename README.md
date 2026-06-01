@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-01 10:37:59 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-01 16:24:03 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMzIgMC45TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMzciLCAicG9ydCI6ICIxODAiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
-vless://f85f6c65-1b35-4c56-b766-80c5a4457b3e@95.85.228.212:443?type=tcp&sni=est.hatvpn.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&sid=5a7216aec1371894#%F0%9F%87%AA%F0%9F%87%AA%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9AEE002%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@87.120.93.69:443?type=tcp&sni=www.deepl.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE007%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@87.120.93.69:443?type=tcp&sni=www.deepl.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE006%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://bc7c7c10-8f24-332e-b303-fb3c8943c24f@2a0f:85c1:b73:321::a:443?sni=u712927us262.ayxj.top#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE013%203.7MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+trojan://HmMS4bod1s4pwVO0nfHsfs1LTSTSmX3fRVIcS886@ojpa.zjf2610.top:29991?sni=ojpa.zjf2610.top#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP010%201.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
