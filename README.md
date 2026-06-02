@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-02 15:15:34 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-02 20:33:11 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?type=tcp&sni=r1.mizulina.top&security=tls&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS030%201.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://da292191-b895-3264-b41c-200512b8f965@a.twodnwnpoe.xyz:40017?sni=water.waittomorrow.top#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK001%204.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://monacoVPN@172.65.111.43:22?type=http#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH001%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?type=tcp&sni=r1.mizulina.top&security=tls&flow=xtls-rprx-vision-udp443-udp443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS029%208.6MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjSlAwMDkgMC4yTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjJhMDI6NmVhMDpkMzJmOjpmOGZlOjM0OWIiLCAicG9ydCI6ICIyNDIwMiIsICJpZCI6ICJiMjBhNzA0Mi03MGZmLTQzNzYtYTc5Zi1iNjhmOWVkYjc1MTkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OS1uZXdwYWMvZmFucWlhbmciLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
