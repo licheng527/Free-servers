@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-02 06:54:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-02 10:36:27 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://HmMS4bod1s4pwVO0nfHsfs1LTSTSmX3fRVIcS886@ojpa.zjf2610.top:29993?sni=ojpa.zjf2610.top#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP009%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMDIgMC4zTUIvc1x1NTM3MVx1OTY2OSBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMjE0IiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.99.174.90:443#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7CA002%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://f85f6c65-1b35-4c56-b766-80c5a4457b3e@95.85.228.212:443?sni=est.hatvpn.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=0aGTmSxEW21dFVomobDSRjUWnPptI4yT_eL-0PCf-h0&sid=5a7216aec1371894#%F0%9F%87%AA%F0%9F%87%AA%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9AEE001%202.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMzkgMi41TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogInlnNy55Z2tray5kcGRucy5vcmciLCAicG9ydCI6ICI4NDQzIiwgImlkIjogImMxYThkZWUwLWJkYWQtNGI2ZC05OTI2LTVlMTVjM2M4ZWQ3ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAibWFyY28tdmlzaWJpbGl0eS10b3BzLWVzdGltYXRlLnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiL2MxYThkZWUwLWJkYWQtNGI2ZC05OTI2LTVlMTVjM2M4ZWQ3ZC12bSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJtYXJjby12aXNpYmlsaXR5LXRvcHMtZXN0aW1hdGUudHJ5Y2xvdWRmbGFyZS5jb20ifQ==
+vless://15a8fadd-3a43-422f-8e63-a87ea7c13221@188.114.97.6:443?type=ws&sni=blog.webex.com.cyylr.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS004%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
