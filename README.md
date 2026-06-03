@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-03 21:05:02 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-04 02:39:25 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OllUZ3labVpsTVRBdFpHWXdZUzAwWlE9PQ==@www.syfe.com:80#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS013%202.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@80.93.202.40:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS042%205.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://b54d36d1-43c3-4b8f-a5f8-cf6504db0562@144.31.135.162:9443?sni=apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=MbYR2O0XBSeG74gGYpFIofXsILcf5lG2gc36GyURBXQ&sid=0199436dd359351b#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL003%203.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&security=tls&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS001%206.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+hysteria2://205d6869-02ca-3b36-b933-be2465250c7e@2a14:1ec7:1038:76ec::1:443?sni=u716087us1221.csgfw.top#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20007%204.3MB/s%20TG%40jcnode
 ```
 
 ---
