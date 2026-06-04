@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-04 06:57:57 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-04 10:38:25 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMTkgMC4xTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMjE0IiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIktvbWEtWVQuUEFHZVMuRGV2IiwgInBhdGgiOiAiL3RyVGVsZWdyYW1cdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjNAV2FuZ0NhaTIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMjAgMC4yTUIvc1x1NTM3MVx1OTY2OSBUR0BqY25vZGUiLCAiYWRkIjogIjgyLjE5OC4yNDYuMjUwIiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHU1ZmI3XHU1NmZkREUgMDAzIDAuMk1CL3MgVEdAamNub2RlIiwgImFkZCI6ICI4Mi4xOTguMjQ2LjI1MCIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJhZHMueDUucnUiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?sni=r1.mizulina.top&security=tls&flow=xtls-rprx-vision-udp443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS008%204.7MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://af555232-0c87-487b-bcb0-87a378a1a371@185.33.87.62:443?type=xhttp&sni=www.kinopoisk.ru&security=tls&security=reality&pbk=CJ1B3eJWwwIUmz2BGFis0tNpas8fnwXTeri-dkhCclo&sid=aabbccdd#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS051%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
