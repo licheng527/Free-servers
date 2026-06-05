@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-05 06:15:12 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-05 10:13:47 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.30:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS047%204.9MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-trojan://BxceQaOe@95.40.68.192:17801?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS007%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@188.114.98.0:443?type=xhttp&sni=drive.speegy.club&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE001%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://af555232-0c87-487b-bcb0-87a378a1a371@185.33.87.62:443?type=xhttp&sni=www.kinopoisk.ru&security=tls&security=reality&pbk=CJ1B3eJWwwIUmz2BGFis0tNpas8fnwXTeri-dkhCclo&sid=aabbccdd#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS051%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?sni=r1.mizulina.top&security=tls&flow=xtls-rprx-vision-udp443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS028%206.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WVRFMVpXVTRaVEV5WmpjM1ltRXpaQT09OllUZ3labVpsTVRBdFpHWXdZUzAwWlE9PQ==@www.syfe.com:80#%F0%9F%87%A6%F0%9F%87%B9%E5%A5%A5%E5%9C%B0%E5%88%A9AT001%201.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
