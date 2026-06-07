@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-07 10:31:42 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-07 14:57:37 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.235.74:8443?type=tcp&sni=tlv-il.fromblancwithlove.com&security=tls#%F0%9F%87%AE%F0%9F%87%B1%E4%BB%A5%E8%89%B2%E5%88%97IL001%200.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHU1ZmI3XHU1NmZkREUgMDAxIDAuM01CL3MgVEdAamNub2RlIiwgImFkZCI6ICI4Mi4xOTguMjQ2LjI1MCIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICI4Mi4xOTguMjQ2LjI1MCIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@it-xh-02.hpdata.click:443?type=xhttp&sni=it-xh-02.hpdata.click&security=tls#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT001%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://61b8af28-60ec-11f1-8f5c-027630170c1d@cam-msk-3.videomonitor.cloud:2053?type=grpc&sni=cam-msk-3.videomonitor.cloud&security=tls&security=reality&pbk=WOf2IaQzzj3Kx0uIVKMu0njVKXyVJN-KDQ9ZFtOIcis&sid=d6381024c55afb14#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE009%203.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
