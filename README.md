@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-07 21:19:04 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-08 00:05:25 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.97.8.224:443#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7CA004%200.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNTExNTg0NS1jYzIzLTQwODItOTA1ZS04NjlmZTIxMmRmZWY=@account-center.zzdy25.com:38777#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW003%203.7MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
