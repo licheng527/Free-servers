@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-08 20:56:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-09 01:42:24 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://b1f93fc1-b69f-44cd-a952-ed80de1a05c2@172.66.0.243:443?type=xhttp&sni=fzserver.art&security=tls#%F0%9F%87%B3%F0%9F%87%B4%E6%8C%AA%E5%A8%81NO001%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://029a4bc6-4557-4b6b-a5fc-6232e943e43b@5.42.126.157:443?type=tcp&sni=fi.sellflow.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR004%201.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?type=tcp&sni=r1.mizulina.top&security=tls&flow=xtls-rprx-vision-udp443-udp443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS010%201.3MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.162.85.247:666?type=ws&sni=43.162.85.247&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS026%201.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMgMDE1IDEuME1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJ2OC5oZGFjZC5jb20iLCAicG9ydCI6ICIzMDgwOCIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
