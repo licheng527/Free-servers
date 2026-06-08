@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-08 10:36:27 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-08 15:21:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&sni=ru-vk-5.1001notes.ru&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR005%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://d2ce0b49-2b2c-46f6-9b43-4829d0075654@white77.alexanderoff.ru:1210?type=tcp#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR008%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.71.188.235:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE030%202.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@45.86.159.171:7443?type=tcp&sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE005%202.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
