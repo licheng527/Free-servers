@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-10 01:16:56 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-10 03:54:44 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://10e69dfa-6561-4df2-a52e-744e37cf8594@69.84.182.109:443?type=ws&sni=pq-us4.globals-download.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS028%202.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://c2bad7c0-eb2c-42f6-807e-56570e8094c9@172.64.146.222:2096?type=ws&sni=artin-7ra.pages.dev&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS016%205.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@uk-xh-01.hpdata.click:443?type=xhttp&sni=uk-xh-01.hpdata.click&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB001%200.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://834184d0-b7f6-4e2c-9e12-a53a1d2af807@158.160.196.187:443?type=grpc&sni=95.85.246.16.speed-storage.ru&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL006%202.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
