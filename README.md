@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-09 22:22:22 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-10 01:16:56 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?type=tcp&sni=pl1.fromblancwithlove.com&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL007%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@188.225.58.59:443?type=xhttp&sni=es-xh-02.hpdata.click&security=tls#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99ES001%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://b42f1201-2421-499a-804b-805aac71bf47@game.core-multiplayer.com:443?type=tcp&sni=game.core-multiplayer.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL002%201.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://10e69dfa-6561-4df2-a52e-744e37cf8594@69.84.182.109:443?type=ws&sni=pq-us4.globals-download.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS028%202.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c2bad7c0-eb2c-42f6-807e-56570e8094c9@172.64.146.222:2096?type=ws&sni=artin-7ra.pages.dev&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS016%205.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
