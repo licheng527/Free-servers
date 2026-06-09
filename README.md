@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-10 03:54:44 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-10 06:16:54 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@uk-xh-01.hpdata.click:443?type=xhttp&sni=uk-xh-01.hpdata.click&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB001%200.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://834184d0-b7f6-4e2c-9e12-a53a1d2af807@158.160.196.187:443?type=grpc&sni=95.85.246.16.speed-storage.ru&security=tls#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL006%202.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://d2ce0b49-2b2c-46f6-9b43-4829d0075654@white77.alexanderoff.ru:1770?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE011%200.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.60.99.199:443#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7CA002%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@185.22.154.170:30129#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU002%200.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
