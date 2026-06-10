@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-10 10:14:02 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-10 14:57:23 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE008%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://9bc87bd9-0d37-4ba6-9601-408b22902fff@23.158.136.33:443?type=xhttp&sni=5post-gate.x5.ru&security=tls&security=reality&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS012%204.9MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@speedtest.net:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE014%201.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@54.65.58.58:443#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP001%2015.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHU1ZmI3XHU1NmZkREUgMDAxIDAuMk1CL3MgVEdAamNub2RlIiwgImFkZCI6ICI4Mi4xOTguMjQ2LjI1MCIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICI4Mi4xOTguMjQ2LjI1MCIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
