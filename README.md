@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-10 06:16:54 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-10 10:14:02 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://d2ce0b49-2b2c-46f6-9b43-4829d0075654@white77.alexanderoff.ru:1770?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE011%200.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.60.99.199:443#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7CA002%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@185.22.154.170:30129#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU002%200.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE008%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://9bc87bd9-0d37-4ba6-9601-408b22902fff@23.158.136.33:443?type=xhttp&sni=5post-gate.x5.ru&security=tls&security=reality&pbk=akcAXaW7GNwXT6bTrtD6oZIY9rdEzW4TfZvYqDRzsTc&sid=a8f3c1d7e9b4c2f6#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS012%204.9MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
