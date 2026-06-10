@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-11 01:50:10 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-11 04:09:54 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.194.219:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE019%200.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@64.186.235.57:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS017%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://785c7771-8d7f-48ca-bbc2-1a22e360d4d0@132.243.223.219:8443?type=grpc&sni=max.ru&security=tls&security=reality&pbk=TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4&sid=ea1058117be12087#%F0%9F%87%A8%F0%9F%87%BE%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AFCY004%204.3MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://fe783fbf-2380-4a25-a6a5-629ac356ccca@de1.gamelistak.com:443?type=xhttp&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE007%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://95e118b4-4352-4218-8493-f20cc7fc467a@nl08.abvpn.ru:443?type=ws&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL002%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
