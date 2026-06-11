@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-11 10:36:35 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-11 15:21:33 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://008310a2-11c6-4d6b-beda-9751d3b25caf@iiv.edit-sync.com:443?type=ws&sni=iiv.edit-sync.com&security=tls#%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0UA003%204.3MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://d1e0e296-8617-4c86-8ba3-ddb615fb9b72@f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:23004?sni=81.yuanul.com#%F0%9F%87%B9%F0%9F%87%AD%E6%B3%B0%E5%9B%BDTH002%2014.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://fa01895e-7bb9-4414-b405-857900e6e5a5@f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:12208?sni=125.yuanul.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP004%2012.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@saab.gg-linkvault.online:48932?type=xhttp&sni=www.nvidia.com&security=tls&security=reality&pbk=Dl4-nKAkksLHmX2yR0LWAzyFBjIj1W10R4OxHKMX2AI&sid=fedcba9876543210#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI003%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE004%200.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 vless://abf35bb9-c7c8-4a7c-8dbe-b8970d01d13c@7421puqz.edit-sync.com:443?type=ws&sni=7421puqz.edit-sync.com&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK002%205.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+trojan://84d465ea-372a-11f1-9df6-d6e0100d63bb@xgt.985429.xyz:10011?sni=z11.hongkongnode.top#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS018%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.97.8.224:443#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7CA001%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
