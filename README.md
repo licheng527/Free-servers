@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-11 15:21:33 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-11 20:35:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@saab.gg-linkvault.online:48932?type=xhttp&sni=www.nvidia.com&security=tls&security=reality&pbk=Dl4-nKAkksLHmX2yR0LWAzyFBjIj1W10R4OxHKMX2AI&sid=fedcba9876543210#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI003%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@199.232.197.131:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE004%200.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://abf35bb9-c7c8-4a7c-8dbe-b8970d01d13c@7421puqz.edit-sync.com:443?type=ws&sni=7421puqz.edit-sync.com&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK002%205.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://84d465ea-372a-11f1-9df6-d6e0100d63bb@xgt.985429.xyz:10011?sni=z11.hongkongnode.top#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS018%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.97.8.224:443#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7CA001%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://32954d49-1687-457d-9992-e4f233e9ccee@83.243.86.209:443?type=xhttp&sni=max.ru&security=tls&security=reality&pbk=KqIktJ-mJFDrR7bIDz26rn6dDE6d3ehPoTh3wEmDNQY&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE014%204.3MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RnFhT3g1RmtSdlJUL2x3SEtlVmNpY0VLNGs3QVFMdEppOFptRytIUW56VT06OEcwUEhTR0pBUUtiSVA1b1B5dnFtRjJVVDlCSGF3WU1UN3AvWTRtMlorcz0=@xg.365day.xyz:49005#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK011%203.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.130.219:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE009%201.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
