@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-12 10:31:39 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-12 15:11:37 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://10360c23-9847-4508-b50e-7ada85fbb0a7@80.87.200.23:3443?sni=www.microsoft.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=RX-uBAptg_BSN8XKjup6dhca_2A0L6Cx64iR1V8_s20&sid=7a3f9e2b1c8d4f6a#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE007%200.6MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.108.30:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS015%205.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://060cd76b-72e1-478f-b6c9-8e6d2bdc5517@151.101.109.223:443?type=ws&sni=default.ssl.fastly.net&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL001%206.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
