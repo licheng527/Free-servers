@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-14 21:26:19 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-15 00:15:23 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?sni=slopllex.app#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI007%200.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://6daec8ea-4942-4add-92ad-6aadc1e5265c@51.250.24.232:443?type=tcp&sni=cdp.x5.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE005%202.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@84.201.146.104:9443?type=grpc&sni=cdp.x5.ru&security=tls&security=reality&pbk=O94s7biQ2O5Q66OI3jlT4megGOIqwLbRw81-6S5t4Q8&sid=a1b2c3d4#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU004%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEswMDIgMC4xTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjE1NC4zNy4yMjMuMjUiLCAicG9ydCI6ICIxMTY4NSIsICJpZCI6ICJkYjM1ZTA0Ny05YjFkLTRmOGEtYjBjYS0yMTMxODAxOGZlYzIiLCAiYWlkIjogIjAiLCAibmV0IjogImh0dHAiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.71.188.235:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE008%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
