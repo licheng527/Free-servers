@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-15 22:54:13 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-16 02:59:43 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
+hysteria2://ee6ad90b-0a89-3e6b-8b47-f0c345662573@fg7xl1div.d33tqmk.cc:20036?sni=f132cdn-sg.ckpfef.top#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG010%205.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://8d9b3426-b505-427a-974c-59d60999661b@kvmyun9aa.collabcut.de:443?type=ws&sni=kvmyun9aa.collabcut.de&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB001%201.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://F4391700-A342-41B9-9629-AE54FF2A32EA@hk3-r.link-t7.com:10128?type=grpc&sni=s0.awsstatic.com&security=tls&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK009%2010.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 hysteria2://ee6ad90b-0a89-3e6b-8b47-f0c345662573@k8i4gd320.d33tqmk.cc:12005?sni=f132cdn-sg-v2.ckpfef.top#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG014%205.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://0c08af4a-2d79-44c4-addd-14b00f3489d6@sg3.miyazono-kaori.com:443?type=tcp&sni=www.changiairport.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=jpn2pLj_p5lxGwycLht80v2qNeP7jHwh1Gv-nTU8zXY&sid=ddcd71ec09e5893a#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG008%2014.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://ee6ad90b-0a89-3e6b-8b47-f0c345662573@fg7xl1div.d33tqmk.cc:11255?sni=xk7qhk309.ckpfef.top#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK017%204.7MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-hysteria2://4543ebb9-3fa5-438d-8791-cb3d9a9e4137@sg2.xiaoliyu.cyou:1935?sni=sg2.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG001%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
