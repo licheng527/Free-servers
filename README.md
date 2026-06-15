@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-15 10:40:55 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-15 16:46:53 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://ee6ad90b-0a89-3e6b-8b47-f0c345662573@fg7xl1div.d33tqmk.cc:10051?sni=f132cdn-kr.ckpfef.top#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR006%207.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://F4391700-A342-41B9-9629-AE54FF2A32EA@kr1-r.link-t7.com:10046?type=grpc&sni=s0.awsstatic.com&security=tls&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR004%209.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://4543ebb9-3fa5-438d-8791-cb3d9a9e4137@sg3.xiaoliyu.cyou:1935?sni=sg3.xiaoliyu.cyou#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG002%201.9MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://446b69aa-90b4-408b-b853-f70895343834@45.194.71.13:8443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=d2c6d9f6e6e12bfe#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL004%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.121.86.152:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE008%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://ee6ad90b-0a89-3e6b-8b47-f0c345662573@fhggjk.d33tqmk.cc:22350?sni=p4x8rma7.ckpfef.top#%F0%9F%87%AE%F0%9F%87%B3%E5%8D%B0%E5%BA%A6IN001%203.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://ee6ad90b-0a89-3e6b-8b47-f0c345662573@k8i4gd320.d33tqmk.cc:12229?sni=xk7qhk201.ckpfef.top#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK019%206.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@68.209.56.54:443?type=tcp&sni=auto.buycloud.app&security=tls&flow=xtls-rprx-vision&security=reality&pbk=K3v40g4aiQoyyIYu8gJ347qCN7ZLFA61GQP_rRQYbG4&sid=0680ed8189fef83f#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL002%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
