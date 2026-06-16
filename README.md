@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-17 02:50:35 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-17 06:47:04 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://89dd47b1-5677-44e6-85fc-7e52d4a2addc@45.144.52.70:443?sni=fl-modx.webedg.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw&sid=#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI001%205.3MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.170:8443?type=tcp&sni=ams1.fromblancwithlove.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL004%204.3MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://d450d938-a70c-4aa7-8ec0-5b23438614e7@xx.giannaycs.com:12953?type=tcp&sni=xx.giannaycs.com&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG003%202.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://5bf749fa-9321-4da4-bb01-1c8b499eb07d@192.248.146.236:25000?type=tcp&sni=www.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=OIC2BC4UkgxiGfnUR2nbSOB1HCQPXuEpkjTbFANx8QA&sid=#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB005%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://5bf749fa-9321-4da4-bb01-1c8b499eb07d@154.37.155.139:12001?type=tcp&sni=www.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=aZviikDd7uanoZYXxHnBeWTMDhk9lIgjaM9M5Eo-vVE&sid=#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK012%202.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://957ebad1-73e2-4b69-9aa7-0c5070ca11cf@x-els.xueshan168.cc:20201?sni=x-els.xueshan168.cc#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU002%201.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
