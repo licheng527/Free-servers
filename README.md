@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-16 06:54:14 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-16 10:43:25 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://446b69aa-90b4-408b-b853-f70895343834@45.194.71.13:8443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=d2c6d9f6e6e12bfe#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL004%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://fb4b6e56-cb3d-3199-a685-c60f4cf9c2f4@s584.okgfw.top:443?type=tcp&sni=u826156us584.okgfw.top&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG007%2021.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://d98c856e-4aec-4d6c-ac66-fca0e474991d@178.18.147.252:2053?type=tcp&sni=nl-t.vinnypuxtomoon.today&security=tls&flow=xtls-rprx-vision&security=reality&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE004%201.0MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@195.20.115.164:443?type=tcp&sni=hu.buycloud.app&security=tls&flow=xtls-rprx-vision&security=reality&pbk=jwyfUdsuDBGtjuTfWOepIQ80EDSCXCp8Xe3bzXFlsjI&sid=e8f17a19f57552d3#%F0%9F%87%AD%F0%9F%87%BA%E5%8C%88%E7%89%99%E5%88%A9HU005%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://957ebad1-73e2-4b69-9aa7-0c5070ca11cf@x-rb2.xueshan168.cc:20201?sni=x-rb2.xueshan168.cc#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP020%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://d450d938-a70c-4aa7-8ec0-5b23438614e7@62.lwdh.us:12952?type=tcp&sni=62.lwdh.us&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK011%201.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.175:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR005%2012.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://957ebad1-73e2-4b69-9aa7-0c5070ca11cf@x-yn.xueshan168.cc:20201?sni=x-yn.xueshan168.cc#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN001%202.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@103.170.233.139:8443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP006%203.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
