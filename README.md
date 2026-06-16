@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-16 10:43:25 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-16 16:37:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://957ebad1-73e2-4b69-9aa7-0c5070ca11cf@x-rb2.xueshan168.cc:20201?sni=x-rb2.xueshan168.cc#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP020%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://d450d938-a70c-4aa7-8ec0-5b23438614e7@62.lwdh.us:12952?type=tcp&sni=62.lwdh.us&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK011%201.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.175:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR005%2012.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://957ebad1-73e2-4b69-9aa7-0c5070ca11cf@x-yn.xueshan168.cc:20201?sni=x-yn.xueshan168.cc#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN001%202.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@103.170.233.139:8443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP006%203.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@77.93.90.231:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG001%208.7MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
+hysteria2://957ebad1-73e2-4b69-9aa7-0c5070ca11cf@x-xg1.xueshan168.cc:20201?sni=x-xg1.xueshan168.cc#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS037%204.9MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
