@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-18 03:57:37 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-18 06:28:36 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://475e9bb4-0b96-4479-9139-a12cc1a61ccb@f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:23007?sni=87.yuanul.com#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6TR001%201.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://475e9bb4-0b96-4479-9139-a12cc1a61ccb@f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:13208?sni=141.yuanul.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS032%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@35.72.81.216:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP018%2012.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://475e9bb4-0b96-4479-9139-a12cc1a61ccb@f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com:12106?sni=110.yuanul.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW007%2015.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@5.42.105.202:443?type=tcp&sni=se.sellflow.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR001%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@103.53.80.151:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP002%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://2476f991-47c6-4f65-99ba-45146116bd35@pccw.edit-sync.club:443?type=ws&sni=pccw.edit-sync.club&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB001%200.6MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://5b06a1b1-8839-4969-874a-3b501528275b@152.53.19.75:443?type=ws&sni=jcnas.911288.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE006%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
