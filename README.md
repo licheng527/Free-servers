@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-17 10:40:03 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-17 16:21:06 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@67.230.174.48:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS003%206.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l10-1.l-itx.info:7443?type=grpc&sni=colorlib.com&security=tls&security=reality&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH002%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?type=grpc&sni=apple.com&security=tls&security=reality&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU001%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@icook.hk:443?type=ws&sni=lh1.fum.ccwu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS023%205.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@35.72.81.216:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP016%2011.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@13.231.33.243:443?sni=jy.hhllfly.kdns.fr#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP013%200.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
