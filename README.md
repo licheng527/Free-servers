@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-19 01:54:17 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-19 04:09:38 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@213.210.4.19:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW001%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.235:8443?sni=ams1.fromblancwithlove.com&security=tls#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6TR007%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://cfd0c8cc-d7b7-42b5-8b3f-7b07923c1456@6sttaqn50k8io46motirrbyfw.beupisp.com:58387?sni=www.python.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=OJ_yZDM6tzBPEM6BjNfof-CyyX1PlNCMuc67nDXZano&sid=8821102e#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK006%204.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@162.159.33.118:443?type=ws&sni=lh1.fum.ccwu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS070%205.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@162.159.49.17:2087?type=ws&sni=lh1.fum.ccwu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS097%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@162.159.7.2:443?type=ws&sni=lh1.fum.ccwu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS102%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://be7441a663ef465566e3a6e441a16357@188.225.80.130:7443?sni=tw-vds.t1n2.com#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU003%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
