@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-19 06:50:59 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-19 10:53:07 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@162.159.45.232:443?type=ws&sni=lh1.fum.ccwu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS091%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@162.159.44.142:443?type=ws&sni=lh1.fum.ccwu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS086%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.49:8443?type=tcp&sni=ams1.fromblancwithlove.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL001%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@64.186.227.57:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS002%206.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.157:8443?type=tcp&sni=ams1.fromblancwithlove.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL020%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0ec26ec9-de3f-4434-8ac1-a5125abdb2ed@hkbn.collabcut.lol:443?type=ws&sni=hkbn.collabcut.lol&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB001%201.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.231:8443?type=tcp&sni=ams1.fromblancwithlove.com&security=tls#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6TR008%201.2MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
 ```
 
 ---
