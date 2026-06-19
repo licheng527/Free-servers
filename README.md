@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-19 16:24:22 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-19 20:39:25 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@43.169.19.179:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS001%206.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv.yunus.guru:443?type=tcp&sni=rezerv.yunus.guru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=S4WFc-SD_FpmmQdM21Of7O6XmYaLlmwcmlbgO4lZQQg&sid=a7ec6c3316eddb11#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL030%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-tr1.gadmap.online:443?sni=connect-tr1.gadmap.online#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS014%203.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@188.239.21.47:8443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG001%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@43.133.237.158:8443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR002%202.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@64.186.232.37:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS003%200.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
