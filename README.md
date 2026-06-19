@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-20 03:23:57 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-20 05:57:04 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l10-1.l-itx.info:7443?type=grpc&sni=colorlib.com&security=tls&security=reality&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH001%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@27.50.48.142:2083?type=ws&sni=lh1.fum.ccwu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS033%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.64.235.152:443?sni=hhcm.hhxaf.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS009%204.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0ec26ec9-de3f-4434-8ac1-a5125abdb2ed@pccw.edit-sync.club:443?type=ws&sni=pccw.edit-sync.club&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK007%202.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://53d74aab-6471-4c1b-ace7-fac837d1bfbd@2a14:7584:d097::a:11330?type=xhttp&sni=toarumajutsunoindex.fandom.com&security=tls&flow=None&security=reality&pbk=3HaD5Ztk3X4gi3aJLVesV6KSJTW2YGG-hvGD3ZumJkE&sid=fa789b2f5ff56959#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE011%203.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
