@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-21 19:38:28 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-21 21:46:26 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@103.112.1.61:8443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP001%2011.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?type=ws&sni=nbhhh.mrcool.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS023%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@77.93.90.231:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG001%207.4MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@172.238.22.36:8443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP013%205.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@23.141.52.169:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK006%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://27f914c5-bdcc-441a-9459-368daf552606@fh2.freechatup2.com:443?type=tcp&sni=m.media-amazon.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zCeRZCK7gCGFmPlOzBaTWHVkmysMFJlPqgDTPZRjRx0&sid=6ba85179e30d4fc2#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS040%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.225.54:443?sni=hhcm.hhxaf.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS032%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
