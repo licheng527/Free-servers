@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-22 03:13:23 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-22 06:06:57 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@67.230.183.207:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS005%205.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.236:8443?type=tcp&sni=ams1.fromblancwithlove.com&security=tls#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6TR001%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@154.83.92.214:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP011%2011.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?type=ws&sni=nbhhh.mrcool.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS022%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.13:8443?type=tcp&sni=ams1.fromblancwithlove.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL005%204.9MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@67.230.175.91:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS002%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@47.239.4.246:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK004%2032.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://BxceQaOe@18.162.50.252:9149?sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG008%202.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
