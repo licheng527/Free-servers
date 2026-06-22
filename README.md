@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-22 10:42:38 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-22 16:47:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?type=ws&sni=nbhhh.mrcool.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS022%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://b3eed393-e990-40a0-978c-689d40be9da4@77.74.123.132:448?sni=www.samsung.com&security=tls&security=reality&pbk=i3cJbIu8AN7qCD7xQTVfCN7de9RkxVohk_PGQgHqRl8&sid=52a74e01683e9173#%F0%9F%87%B7%F0%9F%87%B4%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9ARO004%201.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.19.67:443?type=ws&sni=nbhhh.mrcool.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS021%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@156.231.113.204:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP004%2012.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@193.123.233.175:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR004%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@23.156.153.57:443?sni=hhcm.hhxaf.cc.cd#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK009%202.8MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
 ```
 
 ---
