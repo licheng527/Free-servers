@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-22 06:06:57 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-22 10:42:38 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -16,10 +16,8 @@
 
 ```
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?type=ws&sni=nbhhh.mrcool.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS022%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.13:8443?type=tcp&sni=ams1.fromblancwithlove.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL005%204.9MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@67.230.175.91:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS002%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@47.239.4.246:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK004%2032.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://BxceQaOe@18.162.50.252:9149?sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG008%202.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://b3eed393-e990-40a0-978c-689d40be9da4@77.74.123.132:448?sni=www.samsung.com&security=tls&security=reality&pbk=i3cJbIu8AN7qCD7xQTVfCN7de9RkxVohk_PGQgHqRl8&sid=52a74e01683e9173#%F0%9F%87%B7%F0%9F%87%B4%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9ARO004%201.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.19.67:443?type=ws&sni=nbhhh.mrcool.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS021%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
