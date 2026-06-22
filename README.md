@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-22 16:47:35 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-22 22:24:23 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@156.231.113.204:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP004%2012.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@193.123.233.175:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR004%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@23.156.153.57:443?sni=hhcm.hhxaf.cc.cd#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK009%202.8MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
+vless://4e620802-82e8-45ed-bb4b-184a6cf46543@167.82.101.210:443?type=xhttp&sni=global.fastly.com&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE004%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.157:8443?type=tcp&sni=ams1.fromblancwithlove.com&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL015%208.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@47.79.39.45:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP003%207.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
