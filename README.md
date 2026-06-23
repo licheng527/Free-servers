@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-23 10:08:57 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-23 14:38:30 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://1c3927cb-6141-4473-a17d-4b290f7c6980@8.6.112.121:443?type=xhttp&sni=ProxyVPN11.dns.xn--q9jyb4c&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI002%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://044aa4fc-d4e4-45e8-94cf-dd597e972b82@199.181.197.176:8443?type=xhttp&sni=sla.sorixset.ir&security=tls#%F0%9F%87%A6%F0%9F%87%AA%E9%98%BF%E8%81%94%E9%85%8BAE001%203.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+
 ```
 
 ---
