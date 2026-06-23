@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-24 03:48:17 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-24 06:06:44 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://8f8a4b5f-2656-450e-95a6-6fb5e628bfb7@yandex.plan-vpn.ru:443?type=tcp&sni=yandex.plan-vpn.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ICOdUjV4l0pQKechbg5GIDyo0mvDH373CR1dcWxXCXg&sid=7baebcace7b4d3a6#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU013%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?type=ws&sni=max-gb1.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE004%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://27f914c5-bdcc-441a-9459-368daf552606@media6.hihidress.com:443?type=tcp&sni=www.mi.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zCeRZCK7gCGFmPlOzBaTWHVkmysMFJlPqgDTPZRjRx0&sid=6ba85179e30d4fc2#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS013%200.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
