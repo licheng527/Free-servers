@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-25 03:24:54 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-25 06:06:56 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjXHU2NWIwXHU1MmEwXHU1NzYxU0cwMTUgNC4zTUIvc1x1N2VhZlx1NTFjMCBUR0BqY25vZGUiLCAiYWRkIjogImNpd2U3Zy5janh5b3VuZy5jb20iLCAicG9ydCI6ICIxMjAxOCIsICJpZCI6ICIzYjJmMmE0My1iZjkzLTMzMzYtYTA2OS05NWZkNjZmN2M2ZWEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
-hysteria2://3b2f2a43-bf93-3336-a069-95fd66f7c6ea@mutvulenu.d33tqmk.cc:12002?sni=f132cdn-us.ckpfef.top#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS032%203.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.38.151:80?type=ws&sni=max-gb1.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE030%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c2befb9a-b9c4-4279-84bc-58dc1b1bd101@104.16.72.70:8443?type=xhttp&sni=sa.sorixset.ir&security=tls#%F0%9F%87%A6%F0%9F%87%AA%E9%98%BF%E8%81%94%E9%85%8BAE001%201.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@154.36.176.47:8443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP005%204.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://3b2f2a43-bf93-3336-a069-95fd66f7c6ea@fg7xl1div.d33tqmk.cc:11325?sni=f132cdn-sg.ckpfef.top#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG009%206.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.35:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE086%205.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.242.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE126%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
