@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-24 10:10:56 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-24 14:35:38 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.69.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE073%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@43.153.155.143:2053?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP003%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@219.76.13.166:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20001%201.8MB/s%20TG%40jcnode
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.38.151:80?type=ws&sni=max-gb1.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE030%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?type=ws&sni=max-gb1.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE004%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.73.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE105%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@154.9.239.44:443?type=ws&sni=s5.868001.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS006%205.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://17109048-db2b-350f-b8bd-dcae726bd53a@t1.feiyue706.com:36800?type=grpc&sni=t1.feiyue706.com&security=tls#%F0%9F%87%B5%F0%9F%87%AD%E8%8F%B2%E5%BE%8B%E5%AE%BEPH001%201.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
