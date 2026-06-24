@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-25 00:58:54 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-25 03:24:54 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://d56897c3-a83d-4572-9b97-25440bb189c5@103.227.84.59:443?type=grpc&sni=www.microsoft.com&security=tls&security=reality&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef#%F0%9F%87%A8%F0%9F%87%BF%E6%8D%B7%E5%85%8BCZ001%200.6MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-hysteria2://3b2f2a43-bf93-3336-a069-95fd66f7c6ea@jw9r3arluu.d33tqmk.cc:10044?sni=f132cdn-us.ckpfef.top#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS025%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.171.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE008%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.3.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE100%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.153.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE065%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjXHU2NWIwXHU1MmEwXHU1NzYxU0cwMTUgNC4zTUIvc1x1N2VhZlx1NTFjMCBUR0BqY25vZGUiLCAiYWRkIjogImNpd2U3Zy5janh5b3VuZy5jb20iLCAicG9ydCI6ICIxMjAxOCIsICJpZCI6ICIzYjJmMmE0My1iZjkzLTMzMzYtYTA2OS05NWZkNjZmN2M2ZWEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+hysteria2://3b2f2a43-bf93-3336-a069-95fd66f7c6ea@mutvulenu.d33tqmk.cc:12002?sni=f132cdn-us.ckpfef.top#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS032%203.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.38.151:80?type=ws&sni=max-gb1.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE030%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
