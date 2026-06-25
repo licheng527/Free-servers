@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-25 10:10:38 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-25 14:39:29 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://17109048-db2b-350f-b8bd-dcae726bd53a@t3.feiyue706.com:56785?type=grpc&sni=t3.feiyue706.com&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR%20004%205.5MB/s%20TG%40jcnode
-vless://0c08af4a-2d79-44c4-addd-14b00f3489d6@tw3.miyazono-kaori.com:443?type=tcp&sni=dlcdnets.asus.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=JE82iOR_U_H7ffxJ5yfoxXeRkMlE-aVu1wxR7n6jrVM&sid=473277e2#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20001%200.2MB/s%20TG%40jcnode
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.103.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20001%204.8MB/s%20TG%40jcnode
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.196.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE101%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.74.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE162%203.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.34.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE030%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://16b0d274-3532-4062-9c5b-9f8e4bf176c2@fi.libertynet.pro:8443?type=grpc&sni=fi.libertynet.pro&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB003%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.199.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE164%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.74.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE163%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.192.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE066%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
