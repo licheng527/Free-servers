@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-26 03:43:58 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-26 06:14:18 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.238.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE151%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.103.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20001%204.8MB/s%20TG%40jcnode
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.33.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE014%205.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@134.195.101.117:2377#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS005%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.74.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE162%203.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.239.151:80?type=ws&sni=max-gb1.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE023%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.7.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE104%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.19.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE022%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://hysteria2_fastlane_doif060eb:jJCoEouaqsURB0HFnAYtmytX3W3tQbfT@2.27.29.158:1935?sni=de10.h.fastlanehosting.ru#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE081%200.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
