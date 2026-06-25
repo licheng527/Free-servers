@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-25 22:01:49 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-26 01:03:14 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.115.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE141%203.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?type=xhttp&sni=germany4.alibaba1405.org&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE%20005%203.1MB/s%20TG%40jcnode
-vless://16b0d274-3532-4062-9c5b-9f8e4bf176c2@fi.libertynet.pro:8443?type=grpc&sni=fi.libertynet.pro&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB003%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.96.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE052%207.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.48.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE135%202.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://17109048-db2b-350f-b8bd-dcae726bd53a@t3.feiyue706.com:56783?type=grpc&sni=t3.feiyue706.com&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE165%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.160.151:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE143%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.196.151:80?type=ws&sni=max-gb1.global.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE100%203.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
