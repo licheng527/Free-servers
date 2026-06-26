@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-27 00:54:56 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-27 03:27:01 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6b89f475-913c-4381-a102-f5e06a129685@104.16.106.213:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS006%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-004.fastervpn.world:443?sni=vpn-us-004.fastervpn.world#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS002%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://62ef3d06-a2f5-4606-9283-39c456202a00@mg.baiyi.cloudns.org:48273?sni=mg.baiyi.cloudns.org#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS021%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://9c772ed7-2843-4554-9a96-4a88f827de58@104.16.106.213:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS007%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjXHU2NWIwXHU1MmEwXHU1NzYxU0cwMDMgMC4yTUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIm50LmFzdDEudG9wIiwgInBvcnQiOiAiNzc4OCIsICJpZCI6ICJjYjEyNjk4NC1lZTFlLTMwZDktYWQwNy02Mjg4ZWRjNDA3NzkiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIm50LmFzdDgudG9wIiwgInBhdGgiOiAiL2FiY2QiLCAidGxzIjogInRscyIsICJzbmkiOiAibnQuYXN0OC50b3AifQ==
+vless://5fdf2809-9b94-0021-bd50-81027af9cef4@82.202.136.255:443?type=tcp&sni=cascad.anotherboring.top&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ho7BivYLLBlfgtWEaRqF_g6OOHiKINEyAFDm6wbPDXI&sid=b8357afdce856d30#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99ES001%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://Mitivpn@151.101.110.219:443?sni=ssl.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE006%200.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
