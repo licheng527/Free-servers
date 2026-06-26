@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-26 14:42:04 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-26 19:38:09 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://17109048-db2b-350f-b8bd-dcae726bd53a@t1.feiyue706.com:36782?type=grpc&sni=t1.feiyue706.com&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20001%204.3MB/s%20TG%40jcnode
-vless://083471bf-bbf4-4e1d-8953-912b8d3b6255@82.202.177.144:5269?type=tcp&sni=max.ru&security=tls&security=reality&pbk=hx1gkWBL2ixtwQSGXEvLT1Yz8GBsCFWriz_WLzLQNHQ&sid=4eb166dbed98e63d#%F0%9F%87%B1%F0%9F%87%BB%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9ALV001%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://Mitivpn@151.101.56.6:443?sni=ssl.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE005%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
