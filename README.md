@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-27 06:01:27 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-27 10:07:30 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-
+vless://dda82e57-02c8-4d0b-9c6c-c2945e5509e5@kr.kefenhuimin.com:9001?type=tcp&sni=www.apple.com&security=tls&security=reality&pbk=Ep_RxUq0kSY2xhXtVRHJNQPgl3V_T4UGhTzOYXVPQEk&sid=458ff70ea97eeac2#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20001%202.4MB/s%20TG%40jcnode
+trojan://SoftNetConnect@83.228.251.47:42549?sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH002%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://b576be55-4ac5-4fda-a323-4241c6483585@ser2.fredomiran.com:443?type=xhttp&sni=panel.fredomiran.com&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB003%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
