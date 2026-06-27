@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-27 21:07:26 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-27 23:58:07 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG001%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:56168?sni=d.usj1.cat.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS017%206.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://b576be55-4ac5-4fda-a323-4241c6483585@45.130.125.88:443?type=xhttp&sni=panel.fredomiran.com&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB012%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://55a5044d-5b35-405f-971c-ea7aacaafcb4@185.137.157.72:443?sni=www.nvidia.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=z6_OFl0jskilOOxkQcUcdQOCS4-LVndwFF9i7kIOPzg&sid=d23753491eefde7e#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE001%202.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
