@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-27 14:20:31 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-27 18:52:19 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://b576be55-4ac5-4fda-a323-4241c6483585@ser9.fredomiran.com:443?type=xhttp&sni=panel.fredomiran.com&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB004%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:18268?sni=d.usj1.cat.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS045%203.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:56168?sni=d.usj1.cat.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS017%206.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@217.149.29.251:9888?type=grpc&sni=dl.google.com&security=tls&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%B8%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9ARS001%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://a3ca2f6f-3905-406b-b15e-873bed123033@104.16.72.70:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG001%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
