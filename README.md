@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-28 14:53:13 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-28 18:58:19 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:29187?sni=d.usj1.cat.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS026%206.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.147:8443?sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#%F0%9F%87%B1%F0%9F%87%B9%E7%AB%8B%E9%99%B6%E5%AE%9BLT006%200.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://Mitivpn@151.101.110.219:443?sni=global.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE006%206.6MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:33574?sni=d.usj1.cat.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS065%200.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:14423?sni=d.usj1.cat.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS056%204.7MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
