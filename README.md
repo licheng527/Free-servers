@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-29 03:00:54 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-29 05:52:58 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:31504?sni=d.usj1.cat.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS072%203.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:33147?sni=d.usj1.cat.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS069%200.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d1.catcat321.com:35141?sni=d.usj1.cat.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS048%201.1MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.156:8443?sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#%F0%9F%87%B1%F0%9F%87%B9%E7%AB%8B%E9%99%B6%E5%AE%9BLT002%200.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.181.4.41:443#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR001%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://Mitivpn@151.101.110.219:443?sni=ssl.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE007%206.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
