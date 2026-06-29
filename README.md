@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-30 03:41:03 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-30 06:03:28 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://9794d18f-9280-3553-a7a5-a23da75aca76@s8021.uugfw.top:443?type=xhttp&sni=u691611uabba8c8fs8020.uugfw.top&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR005%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://Mitivpn@151.101.1.242:443?sni=cdn.gamingdll.ir#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG001%2018.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://a855ec8d-d966-47f9-8e6c-61e84a5103fb@72.56.89.74:33554?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL003%200.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
