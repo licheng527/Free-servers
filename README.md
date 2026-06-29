@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-29 20:56:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-30 01:26:30 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.34:8443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH002%200.4MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
 vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?type=tcp#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL004%200.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://d6c595c9-bff4-4510-893a-dfa3c87fa0cd@skk.moe:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS006%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?type=xhttp&sni=fl2.forall-npv.shop&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI001%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
