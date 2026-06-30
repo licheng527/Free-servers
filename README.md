@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-30 14:44:52 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-30 19:37:57 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://192bc523-26fe-4233-b10d-725deb710ea5@198.41.211.111:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS126%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@89.144.30.104:443?type=xhttp&sni=dey.lnmarketplace.net&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE014%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://14aedc8e-66d3-4e38-8f03-e7315fcf5b36@158.101.214.54:443?type=ws&sni=ee.seaspirit.dpdns.org&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL027%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@91.107.148.154:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR008%206.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://f6664b46-3508-3f2a-8830-cb310a89df88@t1.feiyue706.com:36783?type=grpc&sni=t1.feiyue706.com&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW%20005%204.3MB/s%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.188.90.72:443#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR001%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://192bc523-26fe-4233-b10d-725deb710ea5@172.64.52.52:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS138%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://84205690-b389-4689-86ad-95cd169ba862@104.20.39.109:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG060%203.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://84205690-b389-4689-86ad-95cd169ba862@172.67.170.54:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG026%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://1ee0c3d2-9c42-463f-8497-ee05f76b84e5@ee-t2.vinnypuxtomoon.today:2053?type=tcp&sni=ee-t2.vinnypuxtomoon.today&security=tls&flow=xtls-rprx-vision&security=reality&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE008%200.6MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
