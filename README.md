@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-30 19:37:57 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-30 21:53:14 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.188.90.72:443#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR001%204.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://192bc523-26fe-4233-b10d-725deb710ea5@172.64.52.52:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS138%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://84205690-b389-4689-86ad-95cd169ba862@104.20.39.109:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG060%203.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://84205690-b389-4689-86ad-95cd169ba862@172.67.170.54:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG026%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://1ee0c3d2-9c42-463f-8497-ee05f76b84e5@ee-t2.vinnypuxtomoon.today:2053?type=tcp&sni=ee-t2.vinnypuxtomoon.today&security=tls&flow=xtls-rprx-vision&security=reality&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE008%200.6MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://14aedc8e-66d3-4e38-8f03-e7315fcf5b36@104.16.145.97:443?type=ws&sni=ee.seaspirit.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS112%205.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://Mitivpn@151.101.193.242:443?sni=cdn.gamingdll.ir#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK001%2012.9MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
+vless://14aedc8e-66d3-4e38-8f03-e7315fcf5b36@104.21.2.192:443?type=ws&sni=ee.seaspirit.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS073%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.46.226:8443?type=ws&sni=t1s1.rittbo.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS032%204.9MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?type=xhttp&sni=fl2.forall-npv.shop&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI%20001%202.5MB/s%20TG%40jcnode
 ```
 
 ---
