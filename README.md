@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-06-30 21:53:14 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-01 00:59:34 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://14aedc8e-66d3-4e38-8f03-e7315fcf5b36@104.16.145.97:443?type=ws&sni=ee.seaspirit.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS112%205.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://Mitivpn@151.101.193.242:443?sni=cdn.gamingdll.ir#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK001%2012.9MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://14aedc8e-66d3-4e38-8f03-e7315fcf5b36@104.21.2.192:443?type=ws&sni=ee.seaspirit.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS073%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.46.226:8443?type=ws&sni=t1s1.rittbo.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS032%204.9MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?type=xhttp&sni=fl2.forall-npv.shop&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI%20001%202.5MB/s%20TG%40jcnode
+vless://f4ffe80b-7ab8-4962-96d3-199e67d0375f@31.56.188.190:443?type=tcp&sni=cinema-city.pl&security=tls&flow=xtls-rprx-vision&security=reality&pbk=XIMED1ib7Z8XaLIcw7T6lxKDFmRHy0Z6MLMyxAnDRSE&sid=9e5a335de26d1f5a#%F0%9F%87%A6%F0%9F%87%AA%E9%98%BF%E8%81%94%E9%85%8BAE001%200.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://14aedc8e-66d3-4e38-8f03-e7315fcf5b36@172.66.3.101:443?type=ws&sni=ee.seaspirit.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS120%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://84205690-b389-4689-86ad-95cd169ba862@104.26.2.173:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG016%209.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://14aedc8e-66d3-4e38-8f03-e7315fcf5b36@57.129.137.224:443?type=ws&sni=ee.seaspirit.dpdns.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB011%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://84205690-b389-4689-86ad-95cd169ba862@104.17.131.20:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG021%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
