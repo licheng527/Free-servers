@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-01 19:49:18 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-01 22:05:45 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://192bc523-26fe-4233-b10d-725deb710ea5@172.64.156.8:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS171%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://192bc523-26fe-4233-b10d-725deb710ea5@162.159.44.62:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS093%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://84205690-b389-4689-86ad-95cd169ba862@172.64.49.72:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG080%203.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://84205690-b389-4689-86ad-95cd169ba862@198.41.208.19:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG009%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6c7a6a6a-6a6a-4000-8000-000000000002@104.20.2.221:8443?type=ws&sni=bycf.lzjnb.shop&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS039%205.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@37.59.96.21:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR023%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://84205690-b389-4689-86ad-95cd169ba862@198.41.211.250:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG036%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
