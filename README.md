@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-02 03:28:24 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-02 06:12:00 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.168.146.122:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS231%200.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://84205690-b389-4689-86ad-95cd169ba862@162.159.25.189:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG010%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://14aedc8e-66d3-4e38-8f03-e7315fcf5b36@172.67.170.54:443?type=ws&sni=ee.seaspirit.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20181%205.5MB/s%20TG%40jcnode
-vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf3.466688.xyz:443?type=ws&sni=mia6.pages.dev&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS006%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://14aedc8e-66d3-4e38-8f03-e7315fcf5b36@104.16.151.109:443?type=ws&sni=ee.seaspirit.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20065%204.9MB/s%20TG%40jcnode
+vless://14aedc8e-66d3-4e38-8f03-e7315fcf5b36@45.85.117.190:443?type=ws&sni=ee.seaspirit.dpdns.org&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL%20018%206.8MB/s%20TG%40jcnode
+vless://Telegram🇨🇳 @WangCai2@47.93.235.180:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS008%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://88888888-8888-8888-8888-888888888888@47.93.235.180:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS009%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.2.87:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS108%204.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://84205690-b389-4689-86ad-95cd169ba862@172.64.229.227:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG039%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
