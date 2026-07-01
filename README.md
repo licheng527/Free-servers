@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-01 06:07:44 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-01 10:29:58 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://14aedc8e-66d3-4e38-8f03-e7315fcf5b36@91.226.124.53:443?type=ws&sni=ee.seaspirit.dpdns.org&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL019%200.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://84205690-b389-4689-86ad-95cd169ba862@172.67.209.16:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG038%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://14aedc8e-66d3-4e38-8f03-e7315fcf5b36@173.245.59.195:443?type=ws&sni=ee.seaspirit.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS075%206.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://84205690-b389-4689-86ad-95cd169ba862@172.67.72.174:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG008%2014.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://84205690-b389-4689-86ad-95cd169ba862@162.159.35.35:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG068%203.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://84205690-b389-4689-86ad-95cd169ba862@172.67.209.16:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG019%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://84205690-b389-4689-86ad-95cd169ba862@162.159.43.43:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG076%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.26.2.173:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK008%2011.7MB/s%E6%9C%89%E9%A3%8E%E9%99%A9%20TG%40jcnode
+vless://14aedc8e-66d3-4e38-8f03-e7315fcf5b36@104.17.178.224:443?type=ws&sni=ee.seaspirit.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20133%205.5MB/s%20TG%40jcnode
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.19.35.206:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS223%205.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
