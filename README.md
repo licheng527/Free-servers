@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-02 10:09:23 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-02 14:29:06 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@86.107.197.239:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL004%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://4ecdf2bd-3ef1-4356-8323-420ed29e8e89@43.108.23.174:32521?type=tcp#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR004%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@162.159.23.117:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS034%205.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://8dd8af16-cae0-4431-b04c-a637b4d7645b@172.64.53.9:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS114%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.198.43:8443?type=ws&sni=t1s1.rittbo.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS006%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://8dd8af16-cae0-4431-b04c-a637b4d7645b@108.162.194.130:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS093%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
