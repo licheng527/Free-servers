@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-03 00:43:21 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-03 03:07:37 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://8dd8af16-cae0-4431-b04c-a637b4d7645b@104.25.242.134:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS119%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@162.159.38.105:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS061%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.45.249:8443?type=ws&sni=t1s1.rittbo.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS011%205.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?type=grpc&sni=gbos2.osvp.online&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE003%204.9MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://21b93e91-5bb1-4d6d-9093-1fd09ae06903@104.26.4.39:8880?type=ws#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK034%200.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.3.133:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS044%205.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://e63daf8b-d5ef-4dab-a43b-f731eb72e1f4@jp3-r.vortexio.cc:8443?type=tcp&sni=www.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&sid=b2c3d4e5#%F0%9F%87%B8%F0%9F%87%A8SCSC004%204.7MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://6e5270b6-9f28-4bc6-8a41-9c197f33f4bb@104.17.21.32:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS003%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
