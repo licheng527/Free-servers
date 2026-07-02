@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-02 21:27:58 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-03 00:43:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://8dd8af16-cae0-4431-b04c-a637b4d7645b@172.64.53.9:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS114%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.21.2.192:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS066%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://6f5c719b-fe3b-4c57-9f30-f604aa04818f@de2.miyazono-kaori.com:443?type=tcp&sni=www.siemens.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=JH9UnU0LFCDS3Q8zR7dhQDYrQ4iZGDgDB-sQcQ1q-kA&sid=5a9ab320#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE006%204.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://8dd8af16-cae0-4431-b04c-a637b4d7645b@104.25.242.134:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS119%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@162.159.38.105:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS061%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.45.249:8443?type=ws&sni=t1s1.rittbo.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS011%205.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?type=grpc&sni=gbos2.osvp.online&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE003%204.9MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://21b93e91-5bb1-4d6d-9093-1fd09ae06903@104.26.4.39:8880?type=ws#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK034%200.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
