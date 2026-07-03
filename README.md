@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-04 02:59:58 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-04 05:55:40 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://MiTiVPN@celestara.biz:443?sni=sw.App-Cloud.ir#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS009%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://51d686b6-d209-4257-be19-f939b590b5bb@us03.459292.xyz:20000?sni=us03.459292.xyz#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS027%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://48c20f0a-c2a4-453f-8a61-ec73ea7829c5@104.16.246.231:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS057%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.12:8443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#%F0%9F%87%AD%F0%9F%87%BA%E5%8C%88%E7%89%99%E5%88%A9HU001%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://58417667-11fa-34b3-bde9-1b038613052e@t2.feiyue706.com:46785?type=grpc&sni=t2.feiyue706.com&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR%20006%202.5MB/s%20TG%40jcnode
 ```
 
 ---
