@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-03 05:57:53 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-03 09:53:32 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.19.35.206:443?type=ws&sni=support.zoom.us.yxls.eu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS051%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://dongtaiwang.com@www.838491.xyz:13377?sni=www.838491.xyz#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR002%204.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://21b93e91-5bb1-4d6d-9093-1fd09ae06903@172.67.72.174:8880?type=ws#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK037%200.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://bdcac7d2-b7e0-49bb-9eb0-1192324ceb90@de3-r.vortexio.cc:443?type=tcp&sni=www.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&sid=b2c3d4e5#%F0%9F%87%B8%F0%9F%87%A8SCSC001%201.8MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://8dd8af16-cae0-4431-b04c-a637b4d7645b@104.18.16.216:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS079%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://48c20f0a-c2a4-453f-8a61-ec73ea7829c5@104.17.116.155:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS035%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
