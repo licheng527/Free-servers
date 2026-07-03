@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-03 19:24:26 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-03 21:40:24 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://51d686b6-d209-4257-be19-f939b590b5bb@sg06.459921.xyz:8080?sni=sg06.459921.xyz#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG002%2011.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://1266E7B0-607F-43D3-9B19-18963D8E526B@kr3-r.link-t7.com:10048?type=grpc&sni=s0.awsstatic.com&security=tls&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR002%209.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://MiTiVPN@celestara.biz:443?sni=sw.App-Cloud.ir#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS009%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://bdcac7d2-b7e0-49bb-9eb0-1192324ceb90@it-r.vortexio.cc:8443?type=tcp&sni=www.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=JKljeAoIvgygSC7PzCz74fckLcRv7udl4qCUEHxrOQk&sid=b2c3d4e5#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT001%204.9MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://48c20f0a-c2a4-453f-8a61-ec73ea7829c5@162.159.48.178:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS041%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://a1eff292-7143-11f1-a1d6-3ae6ed0c2f59@api.gruztrack.online:2053?type=grpc&sni=api.gruztrack.online&security=tls&security=reality&pbk=75W-x6PKwwG6fJJbrIkGcsBgMKP7pQnw2HlM8oevDjM&sid=29c9b82395df8529#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL002%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
