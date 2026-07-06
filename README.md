@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-06 15:00:07 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-06 20:34:58 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.162.99:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS359%205.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.162.99:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS360%205.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.47.137:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS228%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c9399d16-a0ae-451a-d069-39280bc363f4@45.32.49.72:9443?type=ws&sni=us2.wxgqlfx.icu&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS030%205.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+trojan://MiTiVPN@104.18.37.237:443?sni=S-o-W.MaQror.ir#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS006%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://21b93e91-5bb1-4d6d-9093-1fd09ae06903@162.159.33.216:8880?type=ws#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK%20029%204.9MB/s%20TG%40jcnode
 ```
 
 ---
