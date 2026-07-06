@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-07 01:34:03 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-07 03:40:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.154:443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI013%200.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://c9399d16-a0ae-451a-d069-39280bc363f4@141.148.164.46:57239?type=ws&sni=us2.wxgqlfx.icu&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS031%204.3MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.195.233:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20309%205.3MB/s%20TG%40jcnode
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.147.249:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20189%204.9MB/s%20TG%40jcnode
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.74:443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI035%200.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.38.115:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS361%205.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.162.195.44:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS206%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.146.94:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS291%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://13d29042-ab82-4195-9cd4-2bafc518e201@45.88.42.29:50117?sni=iosapps.itunes.apple.com#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG003%201.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
