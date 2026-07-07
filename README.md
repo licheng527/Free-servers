@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-07 22:04:48 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-08 01:04:06 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1nY206OGYyZDc5NGMtNGE1NS0zYmE0LTkwYWItNWM3MjVhMjA1ZjNm@h.6.8.b.v.r.s.e.d.hk05-ae5.entry.v51124-5.qpon:1815#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK011%2029.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.253:8449?sni=sni.fi-m247-02.com#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI016%200.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjSlAwMDMgNS45TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogImVuY2lyY2xlNTMxMS5janh5b3VuZy5jb20iLCAicG9ydCI6ICIxMTM5OCIsICJpZCI6ICJkMzU1OTRmMS00Y2E3LTNhNTUtODI5OC05Zjg4YmM0YmNjNDYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.155:443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI049%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.51:443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI041%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://e79d4c97-0a08-4aca-bcd8-cb8075844b37@195.208.65.150:443?type=ws&sni=s46270.cdn.ngenix.net&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE013%202.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.58:443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI036%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
