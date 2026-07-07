@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-07 14:35:48 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-07 19:36:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://040782e7-07a7-4e15-b2a0-ea63aaac17fc@germaan.jetstoreapp.ru:2055?type=tcp&sni=www.icloud.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=CWfqf06pemmlwAM8Ju1SMmnrYnAxoxMdGve0Bnu3yQ0&sid=a1b2c3d4e5f6a7b8#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB001%203.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.148:443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI045%200.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://c9399d16-a0ae-451a-d069-39280bc363f4@158.101.39.0:42979?type=ws&sni=us2.wxgqlfx.icu&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20013%205.5MB/s%20TG%40jcnode
-vless://c9399d16-a0ae-451a-d069-39280bc363f4@107.173.34.130:8443?type=ws&sni=us2.wxgqlfx.icu&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20009%205.5MB/s%20TG%40jcnode
+vless://d844c6ba-9387-4bfc-aad1-4967fa5e8ec1@195.208.65.150:443?type=ws&sni=s46270.cdn.ngenix.net&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE014%202.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.48.245:443?type=ws&sni=t1s1.rittbo.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS001%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://4af89b09-ce0c-4dab-b798-629d8b900af0@45.195.111.22:443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#%F0%9F%87%AD%F0%9F%87%BA%E5%8C%88%E7%89%99%E5%88%A9HU011%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
