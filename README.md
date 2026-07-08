@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-08 09:42:15 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-08 13:40:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://E62180FE-7703-4626-80FA-41499DC6CD3F@us1.dexlos.com:20030?sni=us1.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS005%203.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://XG59623478@peaceful-muskrat.rooster465.autos:443?sni=peaceful-muskrat.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP029%2014.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://76138152-68ea-471f-8c6e-c440907058cf@45.32.49.72:9443?type=ws&sni=us2.wxgqlfx.icu&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS024%205.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHU1ZmI3XHU1NmZkREUwMTggMS4yTUIvc1x1N2VhZlx1NTFjMCBUR0BqY25vZGUiLCAiYWRkIjogIjE5My4zNi44NC4xNDYiLCAicG9ydCI6ICI2MjgxIiwgImlkIjogImRiYzQ2NGFkLWU2NzQtNDA3OC1hOTgzLTI2NTE4NGE0ODdmNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2Fya2kiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
