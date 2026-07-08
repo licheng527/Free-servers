@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-09 03:05:07 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-09 05:57:45 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://XG59623478@bright-cicada.rooster465.autos:443?sni=bright-cicada.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP008%2016.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@cloudflare.182682.xyz:443?type=ws&sni=edt2.yfqh08811.ccwu.cc&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS100%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.27.216:60111?sni=bing.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR001%204.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://E62180FE-7703-4626-80FA-41499DC6CD3F@us3-r.link-t7.com:10240?type=grpc&sni=s0.awsstatic.com&security=tls&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS003%204.9MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+trojan://XG59623478@charmed-cheetah.rooster465.autos:443?sni=charmed-cheetah.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP053%2016.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://98dab41c-f18a-406b-8de2-3cc8bb797d5d@144.31.224.188:443?sni=argglive.auragg.org#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL005%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.132:8449?sni=https://t.me/QiangLieTuiJian#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI015%200.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.48.245:443?type=ws&sni=t1s1.rittbo.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS014%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
