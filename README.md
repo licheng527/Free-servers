@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-12 09:43:18 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-12 13:46:24 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://8ce3af34-308f-456c-93a6-e6dff9f03d77@www.shopify.com:443?type=ws&sni=zdy.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS054%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.59.31.133:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS091%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://2fb948c4-3120-415a-bf4f-be18c74cd466@151.101.117.177:443?type=xhttp&sni=manage.fastly.com&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR004%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://21aa5e0e-58d4-43dc-b78f-92e5950ab3de@146.190.171.187:486?type=ws&sni=jr61rsc8fog5f.l6yr5b4ialxnf2ll2zcsgmlqf3u.workers.dev&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS003%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
