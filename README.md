@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-12 15:57:34 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-12 18:17:19 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@upgg2ge.auragg.org:443?type=grpc&sni=upgg2ge.auragg.org&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB009%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6ed74ff5-8435-4318-8ae6-c2d08691b09f@216.152.145.148:7443?type=ws&sni=jr61rsc8fog5f.l6yr5b4ialxnf2ll2zcsgmlqf3u.workers.dev&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB001%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://601fdd82-dc9d-4e6d-afa8-7f4a4f5ab03c@220.72.143.166:12016?type=ws&sni=jr61rsc8fog5f.l6yr5b4ialxnf2ll2zcsgmlqf3u.workers.dev&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR005%202.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd8.466688.xyz:443?type=ws&sni=edge-4cb23bf6.pages.dev&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20079%205.5MB/s%20TG%40jcnode
 ```
 
 ---
