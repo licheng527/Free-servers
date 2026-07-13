@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-13 17:16:52 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-13 22:02:32 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://1e06c388-d31c-420e-916a-94a990648e34@vkmks.hysteria.ltd:5443?sni=vkmks.hysteria.ltd#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU009%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1XHU2NWU1XHU2NzJjSlAwMDYgMy42TUIvc1x1NGUyZFx1NjAyNyBUR0BqY25vZGUiLCAiYWRkIjogIjE2MS4zMy4xMzkuMTM4IiwgInBvcnQiOiAiNTg5MDUiLCAiaWQiOiAiMTYxMGY4ZGMtMDY2MS00MDMyLWFjNmEtYTcyNTA2MDNmNjA4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvMTYxMGY4ZGMtMDY2MS00MDMyLWFjNmEtYTcyNTA2MDNmNjA4LXZtIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+vless://b8c87d4c-04d7-487b-b08b-f02d863edda9@freeyx.cloudflare88.eu.org:443?type=ws&sni=do-lon1.862400.xyz&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB001%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
