@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-13 09:46:17 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-13 13:57:24 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://935b4c83-6fab-469f-93ea-f7cae11d8a6e@ru7.netfix.app:443?type=tcp&sni=haharu7.xixihaha.it.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=UkWs8ZVCrm_MxuzW9a8wKJC3IPjwBJcaz7Rb5czATyA&sid=da122c35#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU007%200.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://935b4c83-6fab-469f-93ea-f7cae11d8a6e@5.129.243.64:443?type=raw&sni=haharu7.xixihaha.it.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=UkWs8ZVCrm_MxuzW9a8wKJC3IPjwBJcaz7Rb5czATyA&sid=da122c35#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU005%200.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://d0069ea4-18b3-4af1-bc64-f525d0fac759@212.22.82.138:8443?type=raw&sni=api-maps.yandex.ru&security=tls&security=reality&pbk=GoARpHEm6UEmBN9i78FnpQw4qcQDgn6FoIIQZ1yBOxI&sid=01b3e33129#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU002%200.8MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://45c8814c-c06f-4444-acda-1b745e74d33e@195.209.87.181:443?type=ws&sni=s76276.cdn.ngenix.net&security=tls#%F0%9F%87%A8%F0%9F%87%BF%E6%8D%B7%E5%85%8BCZ002%200.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://e806fecb-af6c-4256-94ec-078c5ff3a700@tw.serviceoda.ru:443?type=tcp&sni=api-maps.yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=JTDF2NcBkHPybo8UokBD01cGbFQ1Rsa2j-TJknU3TGE&sid=a2046727f1bb6a06#%F0%9F%87%AA%F0%9F%87%AA%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9AEE%20001%202.5MB/s%20TG%40jcnode
+vless://01c1e826-9c41-4c06-a3bc-7cf26c8151bd@54.179.79.12:53646?type=ws&sni=2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG001%2016.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://935b4c83-6fab-469f-93ea-f7cae11d8a6e@5.129.243.64:443?type=raw&sni=haharu7.xixihaha.it.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=UkWs8ZVCrm_MxuzW9a8wKJC3IPjwBJcaz7Rb5czATyA&sid=da122c35#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU006%202.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
