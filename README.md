@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-14 01:04:53 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-14 03:10:10 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://48139d20-931e-4e2b-83f5-8ea97d226c18@aestheticperforator.ru:8443?sni=aestheticperforator.ru#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE001%200.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0735b6f3-fdaa-4413-9c98-9af58e8a9052@220.72.143.166:12016?type=ws&sni=2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR005%204.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.46.24:8443?type=ws&sni=t1s1.rittbo.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS037%205.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.153.159:443?type=ws&sni=t1s1.rittbo.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS015%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
