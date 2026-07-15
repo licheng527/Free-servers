@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-16 02:53:33 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-16 05:46:17 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,11 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://e7b178da-65e8-45ad-8550-de40eb0a7835@104.18.105.41:80?type=ws#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG010%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://5ce8a8cc-a519-44d5-8b31-999dfe5fa421@172.67.152.162:2053?type=ws&sni=by1.d0f7q.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS141%205.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://5ce8a8cc-a519-44d5-8b31-999dfe5fa421@198.41.223.86:2083?type=ws&sni=by2.d0f7q.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS264%204.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://00000000-0000-4000-8000-000000000000@sgjia.7511111.xyz:60002?sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG003%203.7MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://72d0a00a-6798-4911-99f5-e99ac8fd05d4@89.22.224.146:43788?type=ws&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI001%203.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://5ce8a8cc-a519-44d5-8b31-999dfe5fa421@172.67.145.70:2053?type=ws&sni=by1.d0f7q.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS%20092%205.5MB/s%20TG%40jcnode
+vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@199.232.22.39:443?type=ws&sni=ssl.fastly.com&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE011%206.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://5ce8a8cc-a519-44d5-8b31-999dfe5fa421@198.41.223.86:2053?type=ws&sni=by1.d0f7q.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS098%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
