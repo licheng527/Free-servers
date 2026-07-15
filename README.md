@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-15 13:21:05 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-15 15:48:48 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://5ce8a8cc-a519-44d5-8b31-999dfe5fa421@162.159.62.1:8443?type=ws&sni=by1.d0f7q.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS237%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://5ce8a8cc-a519-44d5-8b31-999dfe5fa421@104.21.36.11:2053?type=ws&sni=by1.d0f7q.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS130%201.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://5ce8a8cc-a519-44d5-8b31-999dfe5fa421@172.67.141.155:2083?type=ws&sni=by2.d0f7q.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS282%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://6b56bad4-8eb7-46f3-af28-120420c504a6@61.111.244.247:46177?type=ws&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR005%201.0MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://5ce8a8cc-a519-44d5-8b31-999dfe5fa421@162.159.43.101:2096?type=ws&sni=by1.d0f7q.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS204%205.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://5ce8a8cc-a519-44d5-8b31-999dfe5fa421@172.67.174.10:8443?type=ws&sni=by1.d0f7q.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS255%204.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://5ce8a8cc-a519-44d5-8b31-999dfe5fa421@172.67.152.40:2053?type=ws&sni=by1.d0f7q.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS154%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://5ce8a8cc-a519-44d5-8b31-999dfe5fa421@162.159.38.189:8443?type=ws&sni=by1.d0f7q.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS218%205.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
