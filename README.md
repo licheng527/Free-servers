@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-16 09:28:58 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-16 13:30:01 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://8bba3194-4856-46d1-8319-075817d87eb1@gb1.cyphervpn.pro:443?type=tcp&sni=gb1.cyphervpn.pro&security=tls&flow=xtls-rprx-vision&security=reality&pbk=2cfC4N-V5UGaoDjrRXWb6TYJNfuXzhlITdKoCx9mLwM&sid=408763178ac4cb55#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB002%201.53MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://3d244afc-60ef-468a-9b19-f4bbad7e8ef1@81.31.211.112:2085?type=grpc#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE097%200.6MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://KV63147582@together-insect.rooster465.autos:443?sni=together-insect.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE091%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://1afa594e-5f09-4bf7-9912-56b24c626cea@5.188.115.241:443?type=tcp&sni=svet2015.shop&security=tls&flow=xtls-rprx-vision&security=reality&pbk=BA2abAfdUdsFSjeiJMMJJtCX-fm1W-93eTU8mf0Eb2w&sid=5678#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL022%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://666@da.mfa.gov.ua:443?sni=31f49.y8kc.1qj.hh.hhhdl.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS014%202.15MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://CF68213490@54.169.255.31:443?sni=gentle-raptor.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG005%205.92MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
