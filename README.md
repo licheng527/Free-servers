@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-17 00:08:38 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-17 02:54:03 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://CF68213490@ultimate-jaguar.rooster465.autos:443?sni=#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP006%204.64MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://68eee13f-1a7a-4761-b71e-83b997eeccf9@104.19.32.41:443?type=ws&sni=c8ge1.ev01.2x1.hh.hhyf.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS145%200.43MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://68eee13f-1a7a-4761-b71e-83b997eeccf9@162.159.58.65:443?type=ws&sni=c8ge1.ev01.2x1.hh.hhyf.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS036%201.96MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@45.91.54.113:443?type=raw&sni=ads.x5.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=OD-2VgiGzoTEekLuLg5sEsGmlxgqUML3n2OR9Qj6YT0&sid=135f6d63#%F0%9F%87%A8%F0%9F%87%BFCZ004%200.77MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+trojan://CF68213490@3.112.189.201:443?sni=wealthy-gobbler.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP004%205MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443?type=tcp&sni=fin1.panel11.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI013%201.67MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
