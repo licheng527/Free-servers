@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-17 13:31:39 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-17 15:50:45 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://04c75bdf-461f-417e-8bcd-b3bf89a8524a@31.76.113.178:8443?type=xhttp&sni=ads.x5.ru&security=tls&security=reality&pbk=4qI0xhPUwTmO7yMwDlgf2eI-fFP9C9i0iu2d8WHoDTw&sid=c226283c4de5b1ad#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT008%200.6MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://86208db7-8bbc-42c2-9eb2-ffe5675502c3@api.onetimeok.com:443?type=grpc&sni=api.onetimeok.com&security=tls&security=reality&pbk=CQhnOxCj9UuA67kiDGGOcXB1G_XayWfHyhmlWGeG4Uw&sid=cfb882e7dcf03ef2#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL003%204.33MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://497631c4-a1a4-0030-a86a-f42873473bb6@160.191.164.164:8443?type=raw&sni=auto.quattro-tech.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%97VN001%201.48MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://ef14c532-b69a-4f46-ae29-272f2fdaf673@87.199.208.102:8090?type=ws#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL071%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://7b102311-43fd-4e8f-877e-8090623c101d@172.67.77.213:443?type=ws&sni=vp17.cc.cd&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG006%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://29db9d7a-2ce0-4d54-9c96-669fedc63f44@p9kz7mp4a97c1f-r7.edg3.org:13613?type=tcp&sni=v5-dy-e.ixigua.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=HHELCCDoATrULkMMKyMk_7gC3DnYiSBlcV0NALyM5S0&sid=0275ce45#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR001%203.81MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://152b1711-c74a-d177-ca11-efa3dc143145@116.44.53.251:12126?type=ws&sni=v.z.1.0.m.p.f.v.h.p.o.1.z.1.us.art-us.kdns.fr&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW051%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
