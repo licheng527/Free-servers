@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-17 05:54:29 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-17 09:43:36 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://666@172.64.159.80:443?sni=31f49.y8kc.1qj.hh.hhhdl.kdns.fr#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS037%201.96MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@gre01.myxasecure.space:443?type=raw&sni=gre01.myxasecure.space&security=tls&flow=xtls-rprx-vision&security=reality&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#%F0%9F%87%AC%F0%9F%87%B7GR001%200.82MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+
 ```
 
 ---
