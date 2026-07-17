@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-18 02:51:22 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-18 05:40:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://7b102311-43fd-4e8f-877e-8090623c101d@198.41.223.30:2053?type=ws&sni=vp33.cc.cd&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS119%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@45.146.131.101:443?type=tcp&sni=ads.x5.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=oZTV3mNyn9tWeA_cTVonIidR6boRj5K9Wo8c1uQtZhk&sid=f3640a0a7f1c8b25#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE034%201.13MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://e4dfa054-4b6e-405f-c439-6e4f0b6b700b@162.159.39.192:443?type=ws&sni=40t1.wxgqlfx.vip&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS081%201.06MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://152b1711-c74a-d177-ca11-efa3dc143145@saas.sin.fan:443?type=ws&sni=v.z.1.0.m.p.f.v.h.p.o.1.z.1.us.art-us.kdns.fr&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW021%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
