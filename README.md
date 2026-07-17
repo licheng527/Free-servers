@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-17 15:50:45 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-17 18:28:50 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://7b102311-43fd-4e8f-877e-8090623c101d@172.67.77.213:443?type=ws&sni=vp17.cc.cd&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG006%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://29db9d7a-2ce0-4d54-9c96-669fedc63f44@p9kz7mp4a97c1f-r7.edg3.org:13613?type=tcp&sni=v5-dy-e.ixigua.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=HHELCCDoATrULkMMKyMk_7gC3DnYiSBlcV0NALyM5S0&sid=0275ce45#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR001%203.81MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://152b1711-c74a-d177-ca11-efa3dc143145@116.44.53.251:12126?type=ws&sni=v.z.1.0.m.p.f.v.h.p.o.1.z.1.us.art-us.kdns.fr&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW051%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://11c3c90f-d681-4f71-929e-68834d18b5cd@pobos-yezha.ru:443?type=tcp&sni=pobos-yezha.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=QAuH8zM3gn1RhOc9g9gTU-8WCVVyRZ2gC4xFrS5C7mY&sid=a1b2c3d4#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL069%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
