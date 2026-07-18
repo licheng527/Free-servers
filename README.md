@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-18 23:43:27 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-19 02:44:18 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://c280cb0f-a115-403d-8b80-0e979032eb5f@38.107.237.50:33146?type=tcp&sni=yahoo.com&security=tls&security=reality&pbk=Y9QFFxxFgbnKAplJdZK9vgyGTqzeOI_f_A9NzluxU0g&sid=a796eb22ff924c#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS003%201.96MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.54.80.37:1080#%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0UA001%201.18MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@95.85.228.34:443?type=grpc&sni=1vga81kaw013f-topology-gslb-yccdn.ru&security=tls&security=reality&pbk=ibignrnL_bVupAb4hFM939eT22FtlzPvc1FZY_FDwnw&sid=5e3ab3ab228625#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL007%203.44MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://NQ26071394@upward-squid.rooster465.autos:443?sni=upward-squid.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG002%205.61MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
