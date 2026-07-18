@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-18 05:40:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-18 09:23:52 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://e4dfa054-4b6e-405f-c439-6e4f0b6b700b@162.159.39.192:443?type=ws&sni=40t1.wxgqlfx.vip&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS081%201.06MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://152b1711-c74a-d177-ca11-efa3dc143145@saas.sin.fan:443?type=ws&sni=v.z.1.0.m.p.f.v.h.p.o.1.z.1.us.art-us.kdns.fr&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW021%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?type=tcp&sni=www.wikihow.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&sid=#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL006%201.71MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@cz.srv.anti-zapret.com:443?type=tcp&sni=cz.srv.anti-zapret.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=17faf32cb516c9cb#%F0%9F%87%A8%F0%9F%87%BFCZ003%201.16MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://8bba3194-4856-46d1-8319-075817d87eb1@ge1.cyphervpn.pro:8443?type=grpc&sni=ge1.cyphervpn.pro&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE011%202.86MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
