@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-18 13:14:40 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-18 15:25:40 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://320fb564-c329-4d32-8187-89d7058af0eb@2.26.125.51:443?type=tcp&sni=site.rumedia-cdn.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=HOTVBbrNu_CXdYbnC8sumXQfZ_W7NG2vcN8o8SblTGI&sid=e6b0240761f538e1#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE022%201.62MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:8443?type=xhttp&sni=wikihow.com&security=tls&security=reality&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&sid=#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL002%203.81MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+
 ```
 
 ---
