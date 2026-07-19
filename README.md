@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-19 05:39:27 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-19 09:29:59 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@172.237.5.208:2053?type=ws&sni=s5gydl.936.us.ci&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW005%201.42MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?sni=ru3.kinotorg.net#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL014%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.75.172.120:443#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE016%202.19MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@162.159.4.214:2053?type=ws&sni=s5gydl.936.us.ci&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW068%201.66MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@88.99.60.34:2053?type=ws&sni=s5gydl.936.us.ci&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW171%201.11MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
