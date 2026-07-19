@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-19 15:56:59 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-19 18:18:04 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://29fa091f-65db-44fd-b388-22dc76dd4b97@3.fognet.ru:443?type=ws&security=tls#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE003%201.45MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@104.17.28.220:2053?type=ws&sni=s5gydl.936.us.ci&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW230%200.68MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?sni=grape-sos-de.roxa.org#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE015%202.21MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@69.63.206.96:8443?type=ws&sni=s5gydl.936.us.ci&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW266%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@49.13.161.60:8443?type=ws&sni=s5gydl.936.us.ci&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW165%201.15MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@162.159.17.155:2053?type=ws&sni=s5gydl.936.us.ci&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW012%201.78MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://@mi6vpn@69.46.46.41:443?type=ws&sni=node-7946883854-80433a-production.up.railway.app&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL020%201.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
