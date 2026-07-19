@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-20 02:48:39 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-20 05:41:16 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@49.13.161.60:8443?type=ws&sni=s5gydl.936.us.ci&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW165%201.15MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://c539ee6c-8e56-42a4-9d10-d530e2cea09f@193.168.46.180:443?type=raw&sni=rruu.persik.host&security=tls&flow=xtls-rprx-vision&security=reality&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU048%201.29MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.19.46.187:443?type=ws&sni=t1s1.rittbo.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS121%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYkVmR293WnRWMUJFRlhaT3RnQVhp@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS151%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@172.64.41.206:443?type=ws&sni=s5gydl.936.us.ci&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW137%201.54MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
