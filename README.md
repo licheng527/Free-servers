@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-20 05:41:16 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-20 09:56:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYkVmR293WnRWMUJFRlhaT3RnQVhp@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS151%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@172.64.41.206:443?type=ws&sni=s5gydl.936.us.ci&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW137%201.54MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@91.107.251.113:8443?type=ws&sni=cf12.evan00.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS157%200.68MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://29fa091f-65db-44fd-b388-22dc76dd4b97@2.fognet.ru:443?type=ws&sni=2.fognet.ru&security=tls#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE009%201.27MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEswMTMgXHU2ZDRiXHU5MDFmXHU2NzJhXHU3N2U1XHU0ZTJkXHU2MDI3IFRHQGpjbm9kZSIsICJhZGQiOiAidjkuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MDkiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
 ```
 
 ---
