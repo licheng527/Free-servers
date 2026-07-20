@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-20 19:34:41 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-20 21:46:12 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3XHU1NzFmXHU4MDMzXHU1MTc2VFIwMDEgMS4xOU1CL3NcdTdlYWZcdTUxYzAgVEdAamNub2RlIiwgImFkZCI6ICI5My4xODAuMTM0LjUyIiwgInBvcnQiOiAiMjA3OCIsICJpZCI6ICIxYzE4ZGE2Ni1hOTEyLTQwYWYtYjkwZC03ODc1NzRlZmU2ZDMiLCAiYWlkIjogIjAiLCAibmV0IjogImh0dHAiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@57.129.137.218:8443?type=ws&sni=cf12.evan00.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS148%201.02MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.ru:443?type=tcp&sni=api-maps.yandex.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU002%200.96MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@123.111.169.70:8443?type=ws&sni=cf12.evan00.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS037%201.68MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
