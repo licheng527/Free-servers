@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-21 21:14:17 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-22 00:14:32 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://652ff060-1aee-4cc4-8167-30bb5c75d255@yx.cloudflare.182682.xyz:443?type=ws&sni=hhgy.hh0mg.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS061%201.76MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://IQ68037294@brave-cattle.rooster465.autos:443?sni=#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG012%200.76MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://652ff060-1aee-4cc4-8167-30bb5c75d255@cucc.cloudflare.seeck.cn:443?type=ws&sni=hhgy.hh0mg.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS090%201.51MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://f58ca40f-846c-460b-a0cd-6e3e95cf6d9f@uswx3.wxgqlfx.vip:50140?sni=uswx3.wxgqlfx.vip#美国3@wxgqlfx#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS001%202.67MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
