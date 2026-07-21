@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-22 03:02:07 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-22 05:53:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?sni=#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR004%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://9ca88322-38bd-4ed7-aac9-8e10ae779699@138.124.100.13:443?type=tcp&sni=estonia.milas.click&security=tls&flow=xtls-rprx-vision&security=reality&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3#%F0%9F%87%AA%F0%9F%87%AAEE002%201.21MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-trojan://123321@45.127.35.143:443?sni=hhgy.hh0mg.kdns.fr#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG002%202MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://652ff060-1aee-4cc4-8167-30bb5c75d255@108.162.194.29:443?type=ws&sni=hhgy.hh0mg.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS046%201.84MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.77.201.85:443?type=tcp&sni=ag-03.rita-cloud.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=yLDI5Qjzn4AHlXVDEXNVcLKAdr_dFeJ3p4eAScGkQjA&sid=0b0aa9caed9d011e#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT004%201.26MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
