@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-23 00:13:06 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-23 02:55:41 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://f54c3ae8-d80f-46ff-b967-cd6d4a2b93e1@162.159.44.125:443?type=ws&sni=hhgy.hh0mg.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS037%202MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://70289a41-983c-43bf-8331-c2c8cfb1ffa0@worm.paptomato.xyz:50645?type=tcp&sni=swdist.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=lVQSSf34tk9F9M1Pmn21dGB57J-TPk2c9h1mLybEBDc&sid=bf5b0621ae#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS125%201.45MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://f54c3ae8-d80f-46ff-b967-cd6d4a2b93e1@88.218.76.170:443?type=ws&sni=hhgy.hh0mg.kdns.fr&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE016%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://cf8906f5-63d3-44c2-8c1f-d2906cb3a229@195.58.49.41:33729?type=tcp&sni=ymail.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=b5vvvll6WHFXYBOc-P4iEYNFw_uVALgypTESN0Nup2s&sid=0bd4698a48#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL024%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://89192bd8-b163-4ba0-bcfd-64603458557a@jp03.459292.xyz:8443?sni=localhost#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP003%206.67MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
