@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-22 05:53:35 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-22 09:28:50 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://652ff060-1aee-4cc4-8167-30bb5c75d255@108.162.194.29:443?type=ws&sni=hhgy.hh0mg.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS046%201.84MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.77.201.85:443?type=tcp&sni=ag-03.rita-cloud.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=yLDI5Qjzn4AHlXVDEXNVcLKAdr_dFeJ3p4eAScGkQjA&sid=0b0aa9caed9d011e#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT004%201.26MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://f54c3ae8-d80f-46ff-b967-cd6d4a2b93e1@104.18.42.182:443?type=ws&sni=hhgy.hh0mg.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS047%201.93MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://64beb03f-886e-48be-9bdf-2fa68156fd74@us3.boboly.ir:43780?type=tcp&sni=ourworldindata.org&security=tls&security=reality&pbk=xqkFi7Uvyxb7749s6mqs9OMd_-IWOvkDHRWOE-mgW1I&sid=006e47f4a13a08cc#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL014%201.31MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://9b4986aa-c166-49ca-b5dc-56469dab532f@doufovh.papstore.xyz:26968?type=tcp&sni=images-na.ssl-images-amazon.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=IwMxv6Qwg6pWExtNPebIfOc6nhG82nNyKYVlKQwOPhI&sid=edec63#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS038%202MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
