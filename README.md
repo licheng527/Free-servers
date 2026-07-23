@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-23 09:48:10 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-23 13:43:31 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://f54c3ae8-d80f-46ff-b967-cd6d4a2b93e1@172.64.157.118:443?type=ws&sni=hhgy.hh0mg.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS191%201.32MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3XHU4MmYxXHU1NmZkR0IwMDYgXHU2ZDRiXHU5MDFmXHU2NzJhXHU3N2U1XHU0ZTJkXHU2MDI3IFRHQGpjbm9kZSIsICJhZGQiOiAidjM2LmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODM2IiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@clr.raketa-balance.com:443?type=xhttp&sni=clr.raketa-balance.com&security=tls&security=reality&pbk=oK3eb_sY6-XOyWrarFHNLqc9GsgL7GrDQYDzM2lO_zM&sid=bdd854ff1eae61af#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE001%203.37MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://5a4ea216-9597-4df7-a119-02949a3b6b82@88.99.189.60:443?type=ws&sni=ger.wafer.fun&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE112%201.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
