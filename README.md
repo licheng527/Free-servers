@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-24 18:52:43 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-24 21:15:40 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://7b102311-43fd-4e8f-877e-8090623c101d@94.159.101.36:443?type=ws&sni=vp58.cc.cd&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE025%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.193.55.183:443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS126%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.eovay.com:58805?type=tcp&sni=www.lamer.com.sg&security=tls&flow=xtls-rprx-vision&security=reality&pbk=4xgWDvCQOD4e4OLKAGhb5p5s3tLumhGYCzpGpWs8oSU&sid=3ab3865e#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG003%200.45MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
