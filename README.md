@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-24 05:55:22 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-24 09:43:45 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@sw02.auragg.org:8443?sni=sw02.auragg.org#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE001%202.08MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://f54c3ae8-d80f-46ff-b967-cd6d4a2b93e1@89.110.68.158:443?type=ws&sni=hhgy.hh0mg.kdns.fr&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE210%201.03MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://5a4ea216-9597-4df7-a119-02949a3b6b82@89.110.122.74:443?type=ws&sni=ger.wafer.fun&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE194%201.11MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://f54c3ae8-d80f-46ff-b967-cd6d4a2b93e1@185.208.206.40:443?type=ws&sni=hhgy.hh0mg.kdns.fr&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE134%201.26MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+
 ```
 
 ---
