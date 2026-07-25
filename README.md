@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-25 20:58:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-25 23:55:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://2bb2d011-71a7-4d81-bfe2-a077d1a1d823@185.198.165.92:443?type=ws&sni=powerfullp1.magical-bridge.ir&security=tls#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH048%201.07MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://0ba5211f-fb2b-42a0-8e18-9ce7a41745a5@108.162.194.244:443?type=ws&sni=sg.xfj123.top&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS025%202.19MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://46445435-11cd-47e8-87dc-1acc159fc360@151.101.56.7:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE023%201.82MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6f98a077-004e-4b86-8b78-8d09308d3868@desrv.noooo.win:443?type=xhttp&sni=stats.vk-portal.net&security=tls&security=reality&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=992f3294e2336744#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE002%203.77MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
