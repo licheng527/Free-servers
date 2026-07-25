@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-25 18:19:39 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-25 20:58:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://2bb2d011-71a7-4d81-bfe2-a077d1a1d823@104.18.47.157:443?type=ws&sni=powerfullp1.magical-bridge.ir&security=tls#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH010%201.65MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://2bb2d011-71a7-4d81-bfe2-a077d1a1d823@94.159.106.205:443?type=ws&sni=powerfullp1.magical-bridge.ir&security=tls#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH022%201.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://humanity@104.18.152.159:443?sni=www.calmloud.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR014%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://2bb2d011-71a7-4d81-bfe2-a077d1a1d823@185.198.165.92:443?type=ws&sni=powerfullp1.magical-bridge.ir&security=tls#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH048%201.07MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0ba5211f-fb2b-42a0-8e18-9ce7a41745a5@108.162.194.244:443?type=ws&sni=sg.xfj123.top&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS025%202.19MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
