@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-25 23:55:13 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-26 02:51:05 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://46445435-11cd-47e8-87dc-1acc159fc360@151.101.56.7:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE023%201.82MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://6f98a077-004e-4b86-8b78-8d09308d3868@desrv.noooo.win:443?type=xhttp&sni=stats.vk-portal.net&security=tls&security=reality&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=992f3294e2336744#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE002%203.77MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+hysteria2://b78b3b0c-8b89-4a95-94f4-42a3edf9f1b3@95.181.189.42:8992?sni=95.181.189.42#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS001%202.96MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://RWn1s1QBjJ@212.74.39.202:2087?sni=www.oracle.com#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB001%203.14MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
