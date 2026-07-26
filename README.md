@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-26 16:05:52 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-26 18:27:48 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMxNjcgXHU2ZDRiXHU5MDFmXHU2NzJhXHU3N2U1XHU0ZTJkXHU2MDI3IFRHQGpjbm9kZSIsICJhZGQiOiAidjQuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MDQiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443?sni=mercedes-grape.yyuyy.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE020%202.13MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
