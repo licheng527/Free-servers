@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-27 02:54:32 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-27 05:48:08 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@2.26.84.95:443?type=tcp&sni=api.avito.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=WTCfu0XRIGi93MomsdOxuLOdnjXBkaaVZqaJWpxxYlk&sid=d8f3a9c2#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE023%201.84MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.14:443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6TR039%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.95.225.70:443?sni=54.95.225.70#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP011%201.28MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.194:443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6TR010%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://1725a950-c09a-6b74-5bb8-eb1845ac3e54@47.102.212.166:443?type=ws&sni=2.r.y.a.j.7.c.z.d.z.8.f.f.r.us.art-us.kdns.fr&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW012%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@nd12.myxasecure.space:443?type=tcp&sni=nd12.myxasecure.space&security=tls&flow=xtls-rprx-vision&security=reality&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL025%201.14MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
