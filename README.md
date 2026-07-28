@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-28 09:28:08 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-28 13:36:59 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@store.ubi.com:443?type=ws&sni=871bl.pm3j.mhn.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS013%202.27MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://4572D477-103D-4E01-A26D-32A5A4612D35@hk2-r.link-t7.com:10127?type=grpc&sni=s0.awsstatic.com&security=tls&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK001%206.04MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.72:443?type=ws&sni=871bl.pm3j.mhn.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS050%201.93MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
