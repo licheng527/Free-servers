@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-28 05:55:24 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-28 09:28:08 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443?sni=usp.noesissite.ru#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS006%202.99MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.174:443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB023%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.7.244:443?type=ws&sni=n4lci.c7ih.ydz.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS044%201.85MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://9d1f3ed0-7426-4100-ac06-21ec1f01c51b@45.41.204.232:25565?type=tcp&sni=gateway.icloud.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=vSD7OjQzz4Bl1a-Q9LljpZrccUdLGdaVMWCLgkJht10&sid=d8acb17fe3c9e4f2#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS103%201.36MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@store.ubi.com:443?type=ws&sni=871bl.pm3j.mhn.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS013%202.27MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://4572D477-103D-4E01-A26D-32A5A4612D35@hk2-r.link-t7.com:10127?type=grpc&sni=s0.awsstatic.com&security=tls&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK001%206.04MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
