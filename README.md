@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-28 19:08:05 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-28 21:28:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://c7e9c591-2764-423a-afca-efbd010fd396@89.110.120.140:2053?type=ws&sni=forfreeuse.sub-flow.online&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI061%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://5c2a674b-bf9d-4461-b56d-a9c2bc299d9a@155.117.137.201:443?sni=cdn9-33.yahoo.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=3c9c5d01c6f824dd#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE044%201.28MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20056?sni=#%F0%9F%87%AE%F0%9F%87%A9%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9AID004%202MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+hysteria2://7vtdsItbTEcumDWJlv4zONV-UiY7rnxf@213.108.3.228:43327?sni=gate-v1.not-a-projects.xyz#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS008%202.52MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.152:443?type=tcp&sni=storage.yandex.net&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#%F0%9F%87%B9%F0%9F%87%B7%E5%9C%9F%E8%80%B3%E5%85%B6TR012%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
