@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-30 09:21:11 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-30 13:29:58 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@82.117.87.248:8443?sni=de-two.quiet-rogue.site#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE013%202.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.59.170.251:2053?type=ws&sni=forfreeuse.sub-flow.online&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI020%201.84MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://c7e9c591-2764-423a-afca-efbd010fd396@146.59.19.208:2053?type=ws&sni=forfreeuse.sub-flow.online&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI059%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?type=tcp&sni=www.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&sid=0990d22f#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS181%201.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://65ED2A4D-E1DB-4310-AB85-65C711BA873A@jp3-r.link-t7.com:10033?type=grpc&sni=s0.awsstatic.com&security=tls&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP003%206.15MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@87.120.196.68:443?type=tcp&sni=yahoo.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI068%200.99MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@88.218.248.195:443?type=ws&sni=u61op.o3ue.5g1.hh.vavava.kdns.fr&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL061%200.75MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
