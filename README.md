@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-31 05:58:15 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-07-31 09:48:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.40.246:443?type=ws&sni=u61op.o3ue.5g1.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS067%201.95MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://c7e9c591-2764-423a-afca-efbd010fd396@93.85.88.60:2053?type=ws&sni=forfreeuse.sub-flow.online&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI081%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://5e243126-4a2a-84b6-782a-73b14797fb5f@170.168.97.3:443?type=xhttp&sni=download.nvidia.com&security=tls&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI011%202.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c7e9c591-2764-423a-afca-efbd010fd396@51.91.102.36:2053?type=ws&sni=forfreeuse.sub-flow.online&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI106%201.48MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c7e9c591-2764-423a-afca-efbd010fd396@146.59.156.154:2053?type=ws&sni=forfreeuse.sub-flow.online&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI113%201.47MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
