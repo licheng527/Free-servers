@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-02 18:24:24 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-02 20:56:20 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,11 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@172.66.1.35:8443?type=ws&sni=sni.ehb.cc.cd&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS167%201.94MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://767a17d0-0579-4d98-ae13-413198f44752@hu0001.kubservice.icu:443?type=tcp&sni=hu0001.kubservice.icu&security=tls&flow=xtls-rprx-vision&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sid=#%F0%9F%87%AD%F0%9F%87%BAHU002%201.94MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@108.162.198.113:2096?type=ws&sni=sni.ehb.cc.cd&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS483%201.08MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@211.104.99.209:11019?type=ws&sni=sni.ehb.cc.cd&security=tls#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR011%201.12MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://ef6c9625-62de-4b9d-b7e2-0d4a9f67a9b2@147.45.173.149:443?type=ws&sni=sni.ehb.cc.cd&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL077%201.27MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://f50822b7-02ec-4611-83bd-ff29411e0e10@2.59.163.54:2086?type=grpc&sni=2ip.ru&security=tls&security=reality&pbk=B_Thzq96IJQtpCkmfFO-MR531UQcasQN5GD8j6AJyjE&sid=7ba8267bdc423e63#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL002%203.55MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
