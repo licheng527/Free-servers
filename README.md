@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-03 09:48:05 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-03 14:08:56 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://ND91608427@communal-sunbird.rooster465.autos:443?sni=communal-sunbird.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR013%203.11MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c46e2605-be24-4555-b7db-0fc6773ad004@45.149.147.155:30160?type=xhttp&sni=yandex.tr&security=tls&security=reality&pbk=WrOqucxSJjag_N6FYt9ErHwRF97CZv5_nIhcL1im9Ao&sid=12294e#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI009%202.76MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://d3b3f278-2cca-4abf-aa27-bf0c0f27cbd0@31.76.253.3:443?type=tcp&sni=pro-us.emrata.top&security=tls&flow=xtls-rprx-vision&security=reality&pbk=uY-4wMHFY1pD8SIwHBfcxVRdolB7NAJIWIbYjaG8iw0&sid=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS136%201.29MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
 ```
 
 ---
