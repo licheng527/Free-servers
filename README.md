@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-04 03:17:13 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-04 05:57:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-
+hysteria2://300f8c21-6341-4503-a5db-c13d331c63c8@mg-1.yuanbaojc.site:20801?sni=mg-1.yuanbaojc.site#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS013%202.37MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?sni=download.nvidia.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&sid=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS147%201.26MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@191.101.184.215:443?type=grpc&sni=cdn-pl.ai-apiroute.cc&security=tls&security=reality&pbk=lNql9-H0lrk0hFbBYzOwiMG7wVe0iZUmlW_MTeCPXX4&sid=b512d49930874a31#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL001%203.11MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
