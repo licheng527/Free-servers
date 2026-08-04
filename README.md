@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-04 19:14:19 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-04 21:45:04 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@www.shopify.com:443?type=ws&sni=b8k86.z3xq.fzi.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS058%201.99MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://ND91608427@informed-alpaca.rooster465.autos:443?sni=informed-alpaca.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE028%201.84MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@hkdcrtc-e.catcat321.com:20066?sni=#%F0%9F%87%BA%F0%9F%87%A6%E4%B9%8C%E5%85%8B%E5%85%B0UA004%201.68MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://0c0a91de-5250-4d6c-9922-f3594d99f096@2.26.79.48:443?type=tcp&sni=pro-se.emrata.top&security=tls&security=reality&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sid=#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE004%201.33MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
