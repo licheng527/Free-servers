@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-04 16:17:32 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-04 19:14:19 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.168.87.130:443?type=ws&sni=b8k86.z3xq.fzi.hh.vavava.kdns.fr&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR013%201.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://f7c99a56-d756-4352-af3c-ae764261ba03@95.163.232.183:443?type=grpc&sni=5post-gate.x5.ru&security=tls&security=reality&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI004%203.64MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@www.shopify.com:443?type=ws&sni=b8k86.z3xq.fzi.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS058%201.99MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://ND91608427@informed-alpaca.rooster465.autos:443?sni=informed-alpaca.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE028%201.84MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
