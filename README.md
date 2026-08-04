@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-04 13:38:02 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-04 16:17:32 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://28863986-75fb-4b2f-b006-65e62194358d@45.92.179.7:16923?type=grpc&sni=yandex.ru&security=tls&security=reality&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU006%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.17.162.2:443?type=ws&sni=b8k86.z3xq.fzi.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS029%202.11MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@cloudflare.seeck.cn:443?type=ws&sni=b8k86.z3xq.fzi.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS258%200.99MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.168.87.130:443?type=ws&sni=b8k86.z3xq.fzi.hh.vavava.kdns.fr&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR013%201.1MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://f7c99a56-d756-4352-af3c-ae764261ba03@95.163.232.183:443?type=grpc&sni=5post-gate.x5.ru&security=tls&security=reality&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI004%203.64MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
