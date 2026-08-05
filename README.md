@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-06 00:25:16 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-06 03:12:32 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://c95edc3e-cb00-4504-ae38-9d36d96a08ca@88.99.189.60:443?type=ws&sni=mms-statlc-hxzy-f.hzedu.men&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS407%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@cdns.doon.eu.org:443?type=ws&sni=hn205.54dn.96i.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS047%202.01MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?sni=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE038%200.91MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.151.172:443?type=ws&sni=hn205.54dn.96i.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS052%201.96MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.58.65:443?type=ws&sni=hn205.54dn.96i.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS035%202.04MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
