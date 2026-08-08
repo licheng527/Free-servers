@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-09 02:20:47 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-09 05:19:07 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-
+hysteria2://claire123@60.71.150.71:8443?sni=tuimao.space#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP002%207.28MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.217:8443?sni=mercedes-grape.yyuyy.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE011%202.09MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
