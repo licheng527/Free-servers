@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-10 12:21:24 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-10 15:07:32 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://08d31ab3-6ab7-4fb8-9948-a572e3196fff@45.131.212.36:443?type=tcp&sni=sellflow.org&security=tls&flow=xtls-rprx-vision&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR024%201.93MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+
 ```
 
 ---
