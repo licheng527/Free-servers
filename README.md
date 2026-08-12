@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-12 09:00:20 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-12 12:39:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://16b3793b-3335-4832-b1fd-877b2c5e15d6@36.151.187.225:12887?type=tcp&sni=www.spotify.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=a3H5ffQkcW4xELeJEGQ8FsaXLG4sGomkB7_ms0d5xzc&sid=b48d22a492#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP001%204.21MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+
 ```
 
 ---
