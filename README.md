@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-15 02:39:07 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-15 05:14:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@5.187.7.220:443?type=ws&sni=vod.ensf.top&security=tls#%F0%9F%87%A6%F0%9F%87%B9%E5%A5%A5%E5%9C%B0%E5%88%A9AT010%201.63MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@94.159.110.41:443?type=ws&sni=vod.ensf.top&security=tls#%F0%9F%87%A6%F0%9F%87%B9%E5%A5%A5%E5%9C%B0%E5%88%A9AT003%201.86MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://humanity@render.com:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR028%201.23MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@188.253.26.128:443?type=ws&sni=vod.ensf.top&security=tls#%F0%9F%87%A6%F0%9F%87%B9%E5%A5%A5%E5%9C%B0%E5%88%A9AT037%201.01MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
