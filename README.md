@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-15 14:18:41 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-15 17:15:29 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://FH72359861@tough-tuna.rooster465.autos:443?sni=tough-tuna.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS127%201.26MB/s%20TG%40jcnode
 trojan://FH72359861@needed-gelding.rooster465.autos:443?sni=needed-gelding.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP037%203.48MB/s%20TG%40jcnode
+trojan://FH72359861@magical-prawn.rooster465.autos:443?sni=#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR007%203.17MB/s%20TG%40jcnode
 ```
 
 ---
