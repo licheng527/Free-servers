@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-17 20:20:16 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-17 23:15:12 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://c5c76051-abad-4dfe-bf16-1ee0ee3aca31@82.26.74.5:443?type=tcp&sni=cdn.byteark.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL078%201.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://XpnTeam-3@199.232.78.160:443?type=ws&sni=ssl.fastly.com&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE013%202.15MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://67f4f66d-3020-4f86-b092-99c9eb8d70fe@69.164.205.61:28443?sni=vpn-node.internal#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS259%200.79MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://707db87b-9cbf-438f-b4c7-9d984c8e944a@83.147.255.147:7771?type=grpc&sni=5post-gate.x5.ru&security=tls&security=reality&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL002%202.81MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
