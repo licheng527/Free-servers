@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-18 02:21:46 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-18 05:15:24 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://1ef571c9-b9f0-48bb-a6d6-866c98c80eb9@note.magazinetut.online:443?type=tcp&security=tls&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR017%201.37MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://c5c76051-abad-4dfe-bf16-1ee0ee3aca31@82.26.74.5:443?type=tcp&sni=cdn.byteark.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL078%201.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+trojan://PQ05174892@pleased-albacore.rooster465.autos:443?sni=pleased-albacore.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG011%205.24MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@83.143.112.146:443?type=tcp&sni=nordic.cendora.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI012%201.62MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://4ed50399-3527-42b1-a19a-8df01a35c809@jp2.miyazono-kaori.com:443?type=tcp&sni=www.capcom.co.jp&security=tls&flow=xtls-rprx-vision&security=reality&pbk=3yorIs_psiYbIeESwMdne5mPe2JVzeNOpDa2IJxQ-Es&sid=21fa8a1ebf#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP003%203.86MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
