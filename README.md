@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-17 17:29:17 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-17 20:20:16 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://c7e9c591-2764-423a-afca-efbd010fd396@145.239.88.255:2053?type=ws&sni=forfreeuse.rtqa.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI016%201.55MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?sni=yahoo.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS084%201.6MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c5c76051-abad-4dfe-bf16-1ee0ee3aca31@82.26.74.5:443?type=tcp&sni=cdn.byteark.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL078%201.2MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
