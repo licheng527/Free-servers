@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-18 20:22:02 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-18 23:20:05 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://humanity@104.16.174.12:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR007%201.69MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMxNjMgMS4zMU1CL3NcdTRlMmRcdTYwMjcgVEdAamNub2RlIiwgImFkZCI6ICIxODUuMjI3LjI1Mi4yMDQiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogImU4Y2QyODgzLWQ4ZjQtNDBmMC04ZGY0LWQ4NDhlM2IxODMwMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+trojan://2763afef-32a8-410a-b76b-4f42e3f505a1@221.181.169.92:49026?sni=vpn-node.internal#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK057%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
