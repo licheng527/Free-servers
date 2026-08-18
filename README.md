@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-18 23:20:05 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-19 02:20:27 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMxNjMgMS4zMU1CL3NcdTRlMmRcdTYwMjcgVEdAamNub2RlIiwgImFkZCI6ICIxODUuMjI3LjI1Mi4yMDQiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogImU4Y2QyODgzLWQ4ZjQtNDBmMC04ZGY0LWQ4NDhlM2IxODMwMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-trojan://2763afef-32a8-410a-b76b-4f42e3f505a1@221.181.169.92:49026?sni=vpn-node.internal#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK057%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.77.141.65:443?type=tcp&sni=eu-west.cendora.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE025%200.68MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
