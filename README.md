@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-18 11:35:00 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-18 14:23:36 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@ru-5b7331.atlanta-games.com:443?sni=#%F0%9F%87%AA%F0%9F%87%AAEE001%202.78MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+trojan://humanity@172.67.149.60:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR026%201.17MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@144.31.54.118:2053?type=grpc&sni=ni.cryptoofarm.com&security=tls&security=reality&pbk=0DYv-zQp_9zz2MoLjwLSqOyhWRU7DcC8c_pvq6sLjkg&sid=8b97509663#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL001%202.48MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
