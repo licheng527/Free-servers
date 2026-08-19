@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-20 02:17:32 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-20 05:15:21 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://EQ30679154@54.74.185.175:443?sni=romantic-kangaroo.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%E7%88%B1%E5%B0%94%E5%85%B0IE002%201.53MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?type=ws&sni=ssl.fastly.com&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE009%202.16MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMTYgMS44N01CL3NcdTdlYWZcdTUxYzAgVEdAamNub2RlIiwgImFkZCI6ICIzOC4yNDYuMjI2LjI0MCIsICJwb3J0IjogIjUyMDgwIiwgImlkIjogIjdkNGJkOTYxLTIzMGMtNGIzNC1hYjVkLTA1Y2YwZGZiNGVhNSIsICJhaWQiOiAiMCIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=
 ```
 
 ---
