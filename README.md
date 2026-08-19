@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-19 14:24:16 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-19 17:22:09 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@151.242.160.49:443?type=tcp&sni=eu-central.cendora.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE036%201.25MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://8890a66f-c7af-47ee-a682-2a4e343d3daa@sg4.miyazono-kaori.com:443?type=tcp&sni=www.changiairport.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=I2PQq5bidT2RjVCJt2r-eSVpLNY61quSYgS2dseomF8&sid=1dd8558159ecd0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG005%205.81MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c7e9c591-2764-423a-afca-efbd010fd396@62.84.102.169:2053?type=ws&sni=forfreeuse.rtqa.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI037%201.07MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?sni=disagreedebut.net&security=tls&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU003%201.53MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@176.109.108.83:9830?type=grpc&sni=dl.google.com&security=tls&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE044%200.47MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
