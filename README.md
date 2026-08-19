@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-19 08:36:12 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-19 11:36:47 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@177.3.213.91:8443?type=tcp&sni=b2.cryptoofarm.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=K28I3JdleSg0t7keUUZrS1CgtyC37WA32ViMkSXywHw&sid=0c22c11e7224#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE021%201.63MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://48d6a7ca-4257-4400-b810-eecb16e9e30f@guzljsefoasducuxk86.gxiwoxwecuowerfns.com:28186?type=tcp&sni=www.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=HBeH_uPYOMp9D7Mq1KxBzduX07OZ9C8rT4zSHNjiO3g&sid=c1cd56a8#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG015%203.48MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?sni=#%F0%9F%87%B1%F0%9F%87%BALU001%201.26MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
