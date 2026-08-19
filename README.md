@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-19 11:36:47 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-19 14:24:16 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://48d6a7ca-4257-4400-b810-eecb16e9e30f@guzljsefoasducuxk86.gxiwoxwecuowerfns.com:28186?type=tcp&sni=www.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=HBeH_uPYOMp9D7Mq1KxBzduX07OZ9C8rT4zSHNjiO3g&sid=c1cd56a8#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG015%203.48MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?sni=#%F0%9F%87%B1%F0%9F%87%BALU001%201.26MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@151.242.160.49:443?type=tcp&sni=eu-central.cendora.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE036%201.25MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://8890a66f-c7af-47ee-a682-2a4e343d3daa@sg4.miyazono-kaori.com:443?type=tcp&sni=www.changiairport.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=I2PQq5bidT2RjVCJt2r-eSVpLNY61quSYgS2dseomF8&sid=1dd8558159ecd0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG005%205.81MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
