@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-21 20:23:22 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-21 23:22:06 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@166.1.89.213:443?type=ws&sni=bceox.rmf7.2l7.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS076%200.69MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://c7e9c591-2764-423a-afca-efbd010fd396@159.253.21.228:443?type=ws&sni=forfreeuse.rtqa.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI040%201.48MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://c7e9c591-2764-423a-afca-efbd010fd396@194.58.47.105:443?type=ws&sni=forfreeuse.rtqa.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI036%201.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.3:2053?type=ws&sni=forfreeuse.rtqa.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI123%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
