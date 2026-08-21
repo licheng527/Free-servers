@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-21 14:25:54 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-21 17:24:48 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjXHU2NWIwXHU1MmEwXHU1NzYxU0cwMTIgXHU2ZDRiXHU5MDFmXHU2NzJhXHU3N2U1XHU0ZTJkXHU2MDI3IFRHQGpjbm9kZSIsICJhZGQiOiAiMTQ5LjEwNC4yOS4yMzciLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMjRlZDRiNDMtNTQ1ZC00M2Y1LWFjYjgtMjliYTI0OWUxZjhkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJyZW1lZHktcGFsLXRpb25zLWJhY2t1cC50cnljbG91ZGZsYXJlLmNvbSIsICJwYXRoIjogIi8yNGVkNGI0My01NDVkLTQzZjUtYWNiOC0yOWJhMjQ5ZTFmOGQtdm0iLCAidGxzIjogInRscyIsICJzbmkiOiAicmVtZWR5LXBhbC10aW9ucy1iYWNrdXAudHJ5Y2xvdWRmbGFyZS5jb20ifQ==
+vless://c7e9c591-2764-423a-afca-efbd010fd396@94.72.108.133:2053?type=ws&sni=forfreeuse.rtqa.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI041%201.47MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
