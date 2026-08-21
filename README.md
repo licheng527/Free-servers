@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-21 05:17:28 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-21 08:38:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://dc174401-1aed-4eef-9084-8dfddbe4f390@pq.aws57.yydjc.top:443?type=tcp&sni=updates.cdn-apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=KeIvEyXB-ftboKdIoaSDyUKJPQpmcZiVaqY2JndkX08&sid=55fbcc37#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP028%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
-hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?sni=fast.wwwinternetvideo.click#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI099%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@143.20.160.43:443?type=ws&sni=fin4.wba-pn.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI014%201.77MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+
 ```
 
 ---
