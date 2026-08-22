@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-23 02:13:19 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-23 05:11:06 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://67ae3c37-aa0e-40b6-872e-b3b90339e870@my2.miyazono-kaori.com:443?type=tcp&sni=www.setel.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=R6q8qhMxgq3ynJPUgudaRkcDXj0qgoc_UU1N0SWGLwM&sid=ed77ac35a310#%F0%9F%87%B2%F0%9F%87%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9AMY001%205.81MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://humanity@104.18.152.143:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR037%200.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c7e9c591-2764-423a-afca-efbd010fd396@147.90.26.86:443?type=ws&sni=forfreeuse.rtqa.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI109%201.21MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://fg20mtCFHy@172.234.103.243:5443?sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AA%E7%91%9E%E5%85%B8SE002%201.51MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c7e9c591-2764-423a-afca-efbd010fd396@83.228.193.188:443?type=ws&sni=forfreeuse.rtqa.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI019%201.73MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
