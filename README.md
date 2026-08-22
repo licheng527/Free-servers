@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-22 05:12:46 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-22 08:36:02 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://c7e9c591-2764-423a-afca-efbd010fd396@88.218.193.1:443?type=ws&sni=forfreeuse.rtqa.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI075%201.23MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://c7e9c591-2764-423a-afca-efbd010fd396@85.192.40.42:443?type=ws&sni=forfreeuse.rtqa.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI048%201.4MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c7e9c591-2764-423a-afca-efbd010fd396@91.245.226.122:2053?type=ws&sni=forfreeuse.rtqa.ru&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI052%201.58MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@95.85.248.120:8443?sni=speedtestmark.com#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL005%202.18MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
