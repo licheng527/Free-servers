@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-23 08:39:06 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-23 11:40:33 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://eb85f61f-acb3-4689-8b7c-d8ad2a6aa43f@5.175.161.47:8443?type=grpc&sni=gateway.icloud.com&security=tls&security=reality&pbk=6hrP_JlRUK40WwXk9ZL0FpB19bTR0RnrUGYX5SaZkCE&sid=0501b478da6a4950#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE010%201.73MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443?type=tcp&sni=www.apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG009%200.69MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://237f91bf-102e-4077-8cc3-baebccb42936@85.198.70.200:14406?type=raw&sni=vk.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&sid=1a2b3c4d5e6f7a8b#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL057%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
