@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-25 02:23:02 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-25 05:18:12 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://ee511cf0-41c6-408e-9358-23a793c3f2be@104.253.175.216:8443?type=tcp&sni=www.sony.com&security=tls&security=reality&pbk=rRRBbLyYSuC10iG_J7obkZktq52w4nRsGbvaMQ99ziQ&sid=e3a52ebcf2#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK007%201.79MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+
 ```
 
 ---
