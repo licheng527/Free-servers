@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-24 08:37:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-24 11:43:31 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://8f4a24de-58da-4a61-9529-94234292b62c@128.14.146.132:28443?sni=vpn-node.internal#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS210%200.87MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://4d4fd6c4-1524-40c1-a810-519cef5ba522@my2.miyazono-kaori.com:443?type=tcp&sni=www.setel.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=R6q8qhMxgq3ynJPUgudaRkcDXj0qgoc_UU1N0SWGLwM&sid=ed77ac35a310#%F0%9F%87%B2%F0%9F%87%BE%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9AMY002%205.42MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://11f75919-38dd-47d2-bdf5-c93980317309@172.233.143.225:28443?sni=vpn-node.internal#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS214%200.81MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+
 ```
 
 ---
