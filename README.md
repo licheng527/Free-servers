@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-25 23:32:21 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-26 02:22:17 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20068?sni=hk.catxstar.com#%F0%9F%87%B2%F0%9F%87%B4%E6%BE%B3%E9%97%A8MO001%205.17MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://2b15627c-f62b-465f-81d1-0b5f7d4277ba@cache.shehapp.com:443?type=grpc&sni=cache.shehapp.com&security=tls&security=reality&pbk=kbz9c9xkV606G5soRO0Fne1borW9Ex_qFjGt0e5NxEE&sid=63481617af5e001c#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL079%201.37MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://humanity@165.215.250.14:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR046%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc=@103.236.66.4:50001#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS140%201.67MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
