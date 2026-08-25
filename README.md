@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-25 14:25:55 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-25 17:23:44 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://f230254f-d4cd-4d83-8a2d-e83927ef98ac@one.alpheratzz.org:443?type=xhttp&sni=app-6a8c51f9.adhil.uk&security=tls#%F0%9F%87%AA%F0%9F%87%AAEE004%201.45MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHU1ZmI3XHU1NmZkREUwNjIgXHU2ZDRiXHU5MDFmXHU2NzJhXHU3N2U1XHU0ZTJkXHU2MDI3IFRHQGpjbm9kZSIsICJhZGQiOiAidjMzLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODMzIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+vless://699ce9a1-abbb-4525-988e-b940381352e8@itproxy3.lockdwn.com:443?type=ws&sni=itproxy3.lockdwn.com#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT009%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://2dd48980-5c2a-4f3b-bc8f-e20a8ae24ab1@lta.mythos-wargame.fun:443?type=grpc&sni=lta.mythos-wargame.fun&security=tls#%F0%9F%87%B1%F0%9F%87%BBLV001%202.35MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://11f75919-38dd-47d2-bdf5-c93980317309@172.233.143.225:28443?sni=vpn-node.internal#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS303%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
