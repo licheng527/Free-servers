@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-25 08:37:11 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-25 11:38:33 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://a126f35c-e832-4115-8593-b723ade3f7be@kkvlvvq-a.catcat321.com:20115?sni=hk.catxstar.com#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW002%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://d34a3c99-5ea8-488b-8df4-a20af43b740b@79.174.92.85:6443?type=grpc&sni=iv.kommersant.ru&security=tls&security=reality&pbk=lU1yF2A1b0lM9DZbXWPpLfoU7_KQpXOYX0NFrPEIJy8&sid=bad5722c72a0#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI011%200.44MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@103.242.2.214:8443?type=ws&sni=rubifen.adaspoloandco.com&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE038%200.65MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHU1ZmI3XHU1NmZkREUwNjAgXHU2ZDRiXHU5MDFmXHU2NzJhXHU3N2U1XHU0ZTJkXHU2MDI3IFRHQGpjbm9kZSIsICJhZGQiOiAidjMzLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODMzIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@176.109.108.83:9830?type=grpc&sni=dl.google.com&security=tls&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE011%202.73MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://d67af820-f54c-48ab-862c-19086357f276@46.29.235.9:443?sni=telegraf.lv&security=tls&flow=xtls-rprx-vision&security=reality&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&sid=a1b2c3d4#%F0%9F%87%A9%F0%9F%87%B0DK002%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
