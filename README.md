@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-30 06:54:45 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-08-30 10:17:31 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6ed49e74-b33b-46af-9b79-ef5e1429bfdf@47.251.95.178:443?type=ws&sni=holland.fqrrqfevk.top&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL062%201.01MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-hysteria2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111?sni=bing.com#🇫🇷|FR|@wxgqlfx|44#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR002%202.05MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://humanity@45.130.125.160:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR009%201.45MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+ss://YWVzLTI1Ni1jZmI6N2VhZGM2ZGJlMmFl@121.46.230.232:65443#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS099%201.05MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
