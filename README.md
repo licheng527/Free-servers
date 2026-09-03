@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-03 15:27:49 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-03 21:05:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://8595d7b10bd426a917e6b1331f50e9c54056e8be6626a33b@45.133.239.225:8443?sni=www.apple.com#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK002%206.4MB/s%20TG%40jcnode
+vless://05249269-4695-4df8-8968-9cba7a3db33f@138.124.242.252:10443?type=xhttp#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH003%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMDQgMi4wNE1CL3MgVEdAamNub2RlIiwgImFkZCI6ICJVUzAzMjAxOS5zc2dyZWVuLm9yZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI2NTAwYmFhNy1jN2U5LTQ1MzMtOWVkMC1kZjZkYTBiOWZlZDkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi93ZXMiLCAidGxzIjogInRscyIsICJzbmkiOiAiIn0=
+vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE004%201.1MB/s%20TG%40jcnode
 ```
 
 ---
