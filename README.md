@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-05 15:11:17 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-05 20:12:24 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?type=tcp&sni=ch-1.kihsuyhf8jkiugsxb.cfd&security=tls&flow=xtls-rprx-vision&security=reality&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&sid=#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH001%201.48MB/s%20TG%40jcnode
-vless://16b8c926-76a5-4451-99a5-1a81e0326ab1@82.40.62.197:46059?type=tcp&sni=amp-api-edge.apps.apple.com&security=tls&security=reality&pbk=YYXAgMxWrqeSWpRqILvNRpjA4VFE_j9b3R0tYv0ULHI&sid=#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL007%200.88MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://DFDBA849-E8F0-4C1B-9BD6-C4C87679B0A3@hk2-r.link-t7.com:10127?type=grpc&sni=s0.awsstatic.com&security=tls&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK001%207.11MB/s%20TG%40jcnode
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@95.143.190.125:9895?type=grpc&sni=dl.google.com&security=tls&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL013%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
