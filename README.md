@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-05 20:12:24 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-06 00:59:52 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://DFDBA849-E8F0-4C1B-9BD6-C4C87679B0A3@hk2-r.link-t7.com:10127?type=grpc&sni=s0.awsstatic.com&security=tls&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK001%207.11MB/s%20TG%40jcnode
-vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@95.143.190.125:9895?type=grpc&sni=dl.google.com&security=tls&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL013%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHU1ZmI3XHU1NmZkREUwNTQgXHU2ZDRiXHU5MDFmXHU2NzJhXHU3N2U1XHU0ZTJkXHU2MDI3IFRHQGpjbm9kZSIsICJhZGQiOiAiMTcyLjY2LjAuMTY3IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwgInBhdGgiOiAiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3cifQ==
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@at-1.kihsuyhf8jkiugsxb.cfd:443?type=tcp&sni=at-1.kihsuyhf8jkiugsxb.cfd&security=tls&flow=xtls-rprx-vision&security=reality&pbk=5iID-q-DSMMgT8cn3klfHimWR0TF6KP99GnDrDEcYS0&sid=None#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE046%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
+trojan://humanity@8.6.112.0:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR036%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
 ```
 
 ---
