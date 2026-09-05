@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-05 09:54:24 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-05 15:11:17 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://humanity@216.24.57.1:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR008%201.39MB/s%20TG%40jcnode
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@194.154.29.149:443?type=tcp&sni=ch-1.kihsuyhf8jkiugsxb.cfd&security=tls&flow=xtls-rprx-vision&security=reality&pbk=bnUUlOHnKSj_dwJQP-zMTTVjJ9IierDOleYNKA_kpn4&sid=#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH001%201.48MB/s%20TG%40jcnode
+vless://16b8c926-76a5-4451-99a5-1a81e0326ab1@82.40.62.197:46059?type=tcp&sni=amp-api-edge.apps.apple.com&security=tls&security=reality&pbk=YYXAgMxWrqeSWpRqILvNRpjA4VFE_j9b3R0tYv0ULHI&sid=#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL007%200.88MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
