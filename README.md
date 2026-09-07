@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-07 22:33:55 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-08 02:54:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://2feda6f7-8baa-4591-a851-1e2037a58572@109.121.44.61:443?type=tcp&sni=s3-m.perecmusic.ru&security=tls&flow=xtls-rprx-vision&security=reality&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&sid=4a1b0c7d#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL050%201.22MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://6A0DA164-BBBF-4A5F-8AB8-6ADB0935D154@jp1-r.link-t7.com:10031?type=grpc&sni=s0.awsstatic.com&security=tls&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP003%206.67MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMjAgMS44Nk1CL3NcdTRlMmRcdTYwMjcgVEdAamNub2RlIiwgImFkZCI6ICJVUzAzMjAxNC5zc2dyZWVuLm9yZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI4NjA0NTM2YS1hOTIxLTQ5YmItOTc1Ni1kOWNjNDIwNzJiZDAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi93ZXMiLCAidGxzIjogInRscyIsICJzbmkiOiAiIn0=
+vless://6A0DA164-BBBF-4A5F-8AB8-6ADB0935D154@kr2-r.link-t7.com:10047?type=grpc&sni=s0.awsstatic.com&security=tls&security=reality&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR005%205.52MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
