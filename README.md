@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-08 21:08:44 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-09 02:10:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHU1ZmI3XHU1NmZkREUwMzEgXHU2ZDRiXHU5MDFmXHU2NzJhXHU3N2U1XHU0ZTJkXHU2MDI3IFRHQGpjbm9kZSIsICJhZGQiOiAiMTMuMTQwLjI4LjQ2IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwgInBhdGgiOiAiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3cifQ==
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?type=ws&sni=Telegram-Leviko_v2ray#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL052%200.56MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://af4a4dc0-33dc-4a79-bdbe-16ff961d1e0d@186.190.213.72:443?type=ws&sni=ujp2.xn--ghqu5fm27b67w.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP050%201.05MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://af4a4dc0-33dc-4a79-bdbe-16ff961d1e0d@85.215.41.19:443?type=ws&sni=ujp2.xn--ghqu5fm27b67w.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP036%201.25MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHU1ZmI3XHU1NmZkREUwNDQgXHU2ZDRiXHU5MDFmXHU2NzJhXHU3N2U1XHU0ZTJkXHU2MDI3IFRHQGpjbm9kZSIsICJhZGQiOiAiNS4xODguMjYuODUiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCAicGF0aCI6ICIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwgInRscyI6ICJ0bHMiLCAic25pIjogInJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyJ9
 ```
 
 ---
