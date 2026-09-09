@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-09 10:02:31 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-09 15:38:57 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://832f3ebc-86ab-4292-bbbc-d66838a67e57@62.60.245.67:443?type=ws&sni=ujp1.xn--ghqu5fm27b67w.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP031%201MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@130.12.102.125:443?type=tcp&sni=localhost&security=tls&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=None#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP050%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://832f3ebc-86ab-4292-bbbc-d66838a67e57@94.159.103.41:443?type=ws&sni=ujp1.xn--ghqu5fm27b67w.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP025%201.09MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
