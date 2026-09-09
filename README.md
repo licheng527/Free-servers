@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-10 02:08:01 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-10 06:49:27 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://400cbddc-b88d-4b3a-aee1-25e286753dfa@36.133.126.13:443?type=ws&sni=usa1s.xn--ghqu5fm27b67w.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS083%201.68MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://humanity@176.97.66.175:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR025%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://832f3ebc-86ab-4292-bbbc-d66838a67e57@178.173.248.215:443?type=ws&sni=sgp1.xn--ghq880n3na965a.com&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG019%201.13MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://dbfc2c8a-8898-4f30-a621-93ce6733b32d@de2.miyazono-kaori.com:443?type=tcp&sni=www.siemens.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=JH9UnU0LFCDS3Q8zR7dhQDYrQ4iZGDgDB-sQcQ1q-kA&sid=5a9ab320#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE005%201.8MB/s%20TG%40jcnode
+trojan://humanity@8.6.112.0:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR011%200.83MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://f081b5e2-f3a0-4ef5-833b-1ea59e0797b6@87.239.251.89:443?type=ws&sni=fcs013.getdcz.me&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE024%201.47MB/s%20TG%40jcnode
 ```
 
 ---
