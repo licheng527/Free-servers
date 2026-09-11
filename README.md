@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-11 21:05:34 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-12 01:58:52 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@193.180.208.234:443?type=ws&sni=bab-6.site&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR023%200.59MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://906f32ff-9293-46ee-a694-a5eee40b8b42@207.57.131.123:26631?type=tcp&sni=www.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=x2oZng_IPNINd3JLak1Rtv05OdkwgChhgHzBT7Z3byQ&sid=#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK019%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://c924d2b9-fd6d-4992-ae9c-6b68468bd6c1@uk2.miyazono-kaori.com:443?type=tcp&sni=www.bp.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=QdYs12kmf0mAXNOEPgMpLN5dbZUlgvRK2zCqynOmqBk&sid=20#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB001%201.81MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
