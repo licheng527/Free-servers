@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-13 15:44:37 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-13 21:30:51 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://a2c11dbc-5b0b-40f9-be69-4066ef97f2c2@tw4.miyazono-kaori.com:443?type=tcp&sni=dlcdnets.asus.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=IqsN_cPeCP6oEXtYQMMWBiUim-r9lxq7YGj_mE3992g&sid=e6d59aff03e5b0#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW001%203.59MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://a2c11dbc-5b0b-40f9-be69-4066ef97f2c2@sg1.miyazono-kaori.com:443?type=tcp&sni=sg-hyp-api.hoyoverse.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=vUhHTgZiXSho6Nv84w_JZW7Mo7XjJr0TsOBf19Dpols&sid=37c94ae25b69a93a#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG003%206.27MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://e6c5f137-641a-4d01-b296-3a61953d4b3f@104.156.239.15:443?type=ws&sni=ujp1.xn--ghqu5fm27b67w.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP005%202.86MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://e6c5f137-641a-4d01-b296-3a61953d4b3f@45.76.79.246:443?type=ws&sni=ujp1.xn--ghqu5fm27b67w.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP065%201.06MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://a2c11dbc-5b0b-40f9-be69-4066ef97f2c2@sg3.miyazono-kaori.com:443?type=tcp&sni=www.changiairport.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=jpn2pLj_p5lxGwycLht80v2qNeP7jHwh1Gv-nTU8zXY&sid=ddcd71ec09e5893a#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG001%206.67MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://a2c11dbc-5b0b-40f9-be69-4066ef97f2c2@us1.miyazono-kaori.com:443?type=tcp&sni=download-porter.hoyoverse.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=0_UOGGSOr0NZqCA-nQo-Ct0MjQPfghmBL_sh6XU5pW8&sid=8e218ca02a#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS176%201.26MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://e6c5f137-641a-4d01-b296-3a61953d4b3f@146.190.30.107:443?type=ws&sni=ujp1.xn--ghqu5fm27b67w.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP057%201.13MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
