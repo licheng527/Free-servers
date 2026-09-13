@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-13 09:57:15 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-13 15:44:37 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@89.185.81.65:40443?type=tcp&sni=deepl.com&security=tls&security=reality&pbk=dvx6zPztKbgHpYaW6J4OZQC74Uy0JS6HUVdDfbjG5V4&sid=7606#%F0%9F%87%B3%F0%9F%87%B4%E6%8C%AA%E5%A8%81NO003%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://e6c5f137-641a-4d01-b296-3a61953d4b3f@161.35.89.53:443?type=ws&sni=usa1s.xn--ghqu5fm27b67w.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS210%201.08MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://a2c11dbc-5b0b-40f9-be69-4066ef97f2c2@tw4.miyazono-kaori.com:443?type=tcp&sni=dlcdnets.asus.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=IqsN_cPeCP6oEXtYQMMWBiUim-r9lxq7YGj_mE3992g&sid=e6d59aff03e5b0#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW001%203.59MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://a2c11dbc-5b0b-40f9-be69-4066ef97f2c2@sg1.miyazono-kaori.com:443?type=tcp&sni=sg-hyp-api.hoyoverse.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=vUhHTgZiXSho6Nv84w_JZW7Mo7XjJr0TsOBf19Dpols&sid=37c94ae25b69a93a#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG003%206.27MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://e6c5f137-641a-4d01-b296-3a61953d4b3f@104.156.239.15:443?type=ws&sni=ujp1.xn--ghqu5fm27b67w.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP005%202.86MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
