@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-18 07:13:52 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-18 10:04:24 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMDMgMi4wOE1CL3NcdTRlMmRcdTYwMjcgVEdAamNub2RlIiwgImFkZCI6ICJVUzEyMjIwNS5zc2dyZWVuLm9yZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhM2UxZjM0ZS0zMDEwLTRmMTMtOTJhNi1iOTA0ZjYwN2JhMDQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi93ZXMiLCAidGxzIjogInRscyIsICJzbmkiOiAiIn0=
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.161.222:9892?type=grpc&sni=dl.google.com&security=tls&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE002%202.96MB/s%20TG%40jcnode
 ```
 
 ---
