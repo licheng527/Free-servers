@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-21 16:19:43 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-21 23:27:04 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://416c5142-667c-4213-a826-02185a3030b3@68.64.180.244:14738?type=tcp&sni=dash.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=9fmJUGDBBcdT0WITLiZtF7mKKDnzfQ8kvBj0r5nIZyc&sid=None#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK011%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://fd33946a-ad66-48bb-bece-36a19009a20e@193.134.211.12:40229?type=tcp&sni=www.cloudflare.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=NdYhIYluMQg_VZTxYc9DtlCWl6bNDXS421HBsTECaBE&sid=None#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK037%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
+vless://26307b62-7404-4df8-951f-95c854e7e00c@unamecf.xn--ghqu5fm27b67w.com:443?type=ws&sni=ujp1.xn--ghqu5fm27b67w.com&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP013%201.86MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@5.104.107.80:2053?type=ws&sni=cdn8848.776676.xyz&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE014%201.54MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
