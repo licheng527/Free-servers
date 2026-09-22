@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-22 10:19:06 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-22 16:02:15 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.36.30:443?type=tcp&sni=ad-dedic-3.failspace.top&security=tls&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%B9%E5%A5%A5%E5%9C%B0%E5%88%A9AT005%201.18MB/s%20TG%40jcnode
+vless://ddf09ad0-02dc-485b-9048-1038de5bebf0@es.cache-4d8a.com:443?type=grpc&sni=es.cache-4d8a.com&security=tls&security=reality&pbk=S6t9-gOX2mxWKNGvGSJ8NxDdlJy78d4gN2-wv2d0hFw&sid=8319913f2e5f5711#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99ES002%200.48MB/s%20TG%40jcnode
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@188.166.17.13:443?type=ws&sni=shuma.ccwu.cc&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL132%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@185.250.37.47:443?type=ws&sni=shuma.ccwu.cc&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE076%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@2a14:3f87:f001:46::a:443?type=xhttp&sni=dey.lnmarketplace.net&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL035%201.59MB/s%20TG%40jcnode
 ```
 
 ---
