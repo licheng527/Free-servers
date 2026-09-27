@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-28 02:45:10 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-28 07:28:43 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.2:8443?type=grpc&sni=download.nvidia.com&security=tls&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=None#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI003%203.33MB/s%20TG%40jcnode
+
 ```
 
 ---
