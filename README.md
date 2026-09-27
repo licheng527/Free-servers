@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-27 16:41:38 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-27 22:23:14 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://b8c16ec9-3574-46eb-a39a-fe09550710c1@43.108.98.29:443?type=tcp&sni=www.samsung.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=IfHHOvL5aYfIX_FuDpggAGTMD-CbU567fxiTkBPyXmA&sid=0c30407d613f958a#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR001%202.18MB/s%20TG%40jcnode
+
 ```
 
 ---
