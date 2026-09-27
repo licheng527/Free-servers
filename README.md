@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-27 10:24:31 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-27 16:41:38 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://83b4af70-376e-427c-8c11-a025bec6b085@185.234.100.241:443?type=ws&sni=fserver-worker-001.mapleridgeway.top&security=tls#%F0%9F%87%AE%F0%9F%87%B1%E4%BB%A5%E8%89%B2%E5%88%97IL063%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-trojan://humanity@45.130.125.158:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR097%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://b8c16ec9-3574-46eb-a39a-fe09550710c1@43.108.98.29:443?type=tcp&sni=www.samsung.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=IfHHOvL5aYfIX_FuDpggAGTMD-CbU567fxiTkBPyXmA&sid=0c30407d613f958a#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR001%202.18MB/s%20TG%40jcnode
 ```
 
 ---
