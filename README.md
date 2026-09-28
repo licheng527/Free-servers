@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-28 17:04:59 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-29 02:54:47 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?type=ws&sni=media-se.compressor.work&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE016%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://22a375e0-f7c6-4d8f-a154-81189914bbf4@89.105.197.202:443?type=tcp&sni=findmypackets.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL009%201.8MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@95.163.232.171:14443?type=ws&sni=media-se.compressor.work&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE018%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://0590ab38-cb22-41d3-8312-6f396a5cec58@173.249.207.28:32692?type=tcp&sni=www.microsoft.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS005%201.92MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://humanity@172.67.188.109:443?sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR023%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
 ```
 
 ---
