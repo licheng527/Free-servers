@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-29 17:13:59 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-09-30 01:13:13 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://4588f7a2-5df0-4f32-89d0-813a848ad593@sg1.miyazono-kaori.com:443?type=tcp&sni=sg-hyp-api.hoyoverse.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=vUhHTgZiXSho6Nv84w_JZW7Mo7XjJr0TsOBf19Dpols&sid=37c94ae25b69a93a#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG001%206.95MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://723c410e-5789-4b21-abb9-d6ec05547ba9@172.64.94.251:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS317%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.40:8880?type=ws#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE030%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@markmonitor.com:443?type=ws&sni=lunj8.erzb.w55.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS006%202.21MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://afb13fa2-bba2-417f-b8c2-62565f92a78d@172.67.174.37:8880?type=ws#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP052%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://a545e637-ca12-477f-9f91-f80e15cb51b0@pq.aws57.yydjc.top:443?type=tcp&sni=updates.cdn-apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=KeIvEyXB-ftboKdIoaSDyUKJPQpmcZiVaqY2JndkX08&sid=55fbcc37#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP021%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
