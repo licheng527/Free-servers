@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-03 00:59:47 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-03 05:32:52 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://7b102311-43fd-4e8f-877e-8090623c101d@207.57.124.108:443?type=ws&sni=vp58.cc.cd&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG007%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://2fdf56f7-7bd0-43c5-8c57-a505a74c61b0@156.38.157.171:8443?type=ws&sni=fm3.pages.dev&security=tls#%F0%9F%87%BF%F0%9F%87%A6%E5%8D%97%E9%9D%9EZA004%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://a15d1b88-e3f4-4f4d-9c04-462a2965a60a@ee174.mech-pro.online:443?type=tcp&sni=ee174.mech-pro.online&security=tls&flow=xtls-rprx-vision&security=reality&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&sid=16e0f049#%F0%9F%87%AA%F0%9F%87%AAEE001%201.22MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
