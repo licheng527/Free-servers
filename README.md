@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-02 19:32:26 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-03 00:59:47 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://24916ad0-847d-4522-9e17-f4347dee57fd@104.207.157.238:8443?type=ws&sni=kv.074167.xyz&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS723%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjXHU1M2YwXHU2ZTdlVFcwMDcgXHU2ZDRiXHU5MDFmXHU2NzJhXHU3N2U1XHU3ZWFmXHU1MWMwIFRHQGpjbm9kZSIsICJhZGQiOiAic2JnZmdvdi52aXAyMy53b2dhY25tbmFnZndnb3YuY29tIiwgInBvcnQiOiAiMTEyMjMiLCAiaWQiOiAiNjA1OTU2ZWUtNTQ0ZC0zMDhlLThiOTAtNTFlNjdjNmVhOGRhIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
-trojan://ymk9eBP4Ams3-ncYCV4kDAezUzBfkR8x@194.55.239.108:443?sni=api-v2.captaingold.app#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU018%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
+vless://7b102311-43fd-4e8f-877e-8090623c101d@207.57.124.108:443?type=ws&sni=vp58.cc.cd&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG007%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://2fdf56f7-7bd0-43c5-8c57-a505a74c61b0@156.38.157.171:8443?type=ws&sni=fm3.pages.dev&security=tls#%F0%9F%87%BF%F0%9F%87%A6%E5%8D%97%E9%9D%9EZA004%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
