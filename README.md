@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-04 02:25:14 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-04 07:25:35 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.229.123:443?type=ws&sni=wlyhc.c0mn.hvu.hh.vavava.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS0020%201.93MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://4b21fbc7-00c2-4665-9788-02153832f9e5@51.75.32.106:443?type=ws&sni=v2ray.aizgl.com&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS1115%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://XpnTeam-64@199.232.78.160:443?type=ws&sni=ssl.fastly.com&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR026%200.91MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
