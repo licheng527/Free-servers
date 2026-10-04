@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-04 19:29:16 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-05 00:07:32 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://ff35ca20-2304-4b3a-80e5-2c82953cf2ce@de158.mech-pro.online:443?type=tcp&sni=de158.mech-pro.online&security=tls&flow=xtls-rprx-vision&security=reality&pbk=jbiddtGRgeBvlkjbuA3aU-WPjKgEX87tOVh1mFfvOUI&sid=16e0f049#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE056%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@152.67.198.36:443?type=ws&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP008%202.65MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://mitivpn@199.232.78.160:443?sni=ssl.fastly.com#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE018%201.83MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://7b102311-43fd-4e8f-877e-8090623c101d@45.138.72.141:443?type=ws&sni=vp58.cc.cd&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE061%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
