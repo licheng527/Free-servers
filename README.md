@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-07 11:12:35 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-07 20:15:36 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEswMTQgXHU2ZDRiXHU5MDFmXHU2NzJhXHU3N2U1XHU0ZTJkXHU2MDI3IFRHQGpjbm9kZSIsICJhZGQiOiAiNDcuMjQyLjgxLjk0IiwgInBvcnQiOiAiNTIwODAiLCAiaWQiOiAiZTQ3YjlmNzctNjBlNC00NzM4LThkNTMtNzcyYjYwMDJlMTQ2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJodHRwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-vless://a2778d3e-10a1-49f0-ab30-dca4220201cc@142.91.101.39:627?type=ws&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP004%203.11MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@104.248.80.71:443?type=ws&sni=bab-6.site&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR058%201.06MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://3536e1fa-0850-44d1-b123-925ce12476cf@2a14:3f87:f001:46::a:443?type=xhttp&sni=dey.lnmarketplace.net&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL051%201.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
