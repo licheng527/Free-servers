@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-07 20:15:36 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-08 04:17:42 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@2a14:3f87:f001:46::a:443?type=xhttp&sni=dey.lnmarketplace.net&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL051%201.5MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://095ed44e-b2f9-4f61-ba77-2142583578d8@162.35.224.113:443?type=tcp&sni=mk-de6.silalink.sbs&security=tls&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE001%202.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
