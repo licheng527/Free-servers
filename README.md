@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-08 08:32:42 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-08 17:40:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@45.138.72.141:443?type=ws&sni=bab-6.site&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR135%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.77.109.35:443?type=tcp&sni=d3-de1.cloud-cdn.xyz&security=tls&flow=xtls-rprx-vision&security=reality&pbk=SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY&sid=494afdc75f8c2fa8#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE056%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@store.ubi.com:443?type=ws&sni=etdk3.px8d.lme.hh.ov0.kdns.fr&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS157%200.64MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
