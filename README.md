@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-09 02:07:48 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-09 08:47:44 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@amphetamine.adaspoloandco.com:2087?type=ws&sni=amphetamine.adaspoloandco.com&security=tls#%F0%9F%87%A8%F0%9F%87%A6%E5%8A%A0%E6%8B%BF%E5%A4%A7CA003%201.26MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@134.209.185.10:443?type=ws&sni=bab-6.site&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR084%200.42MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://c6395e12-45a4-48db-9169-16264f6da764@142.91.101.39:627?type=ws&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP060%200.34MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@84.32.184.220:443?type=xhttp&sni=20ef7310.ferrin.uk&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL130%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
+vless://bcfbb19f-5b0e-4862-a77b-904fffd0b513@ali-hk.qrfly.top:10102?type=tcp&sni=tesla.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=kVpVhfT5_4__Sxj4i0S2DOQKKfK549rgy2HWP9QU4iw&sid=db6c60f1#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW002%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
