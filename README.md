@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-09 08:47:44 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-09 17:46:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://c6395e12-45a4-48db-9169-16264f6da764@142.91.101.39:627?type=ws&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP060%200.34MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://20ef7310-0b50-4943-98a6-3d0856b383b1@84.32.184.220:443?type=xhttp&sni=20ef7310.ferrin.uk&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL130%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
-vless://bcfbb19f-5b0e-4862-a77b-904fffd0b513@ali-hk.qrfly.top:10102?type=tcp&sni=tesla.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=kVpVhfT5_4__Sxj4i0S2DOQKKfK549rgy2HWP9QU4iw&sid=db6c60f1#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW002%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://7b102311-43fd-4e8f-877e-8090623c101d@45.76.206.46:443?type=ws&sni=vp58.cc.cd&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP092%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://7b102311-43fd-4e8f-877e-8090623c101d@191.44.32.253:443?type=ws&sni=vp58.cc.cd&security=tls#%F0%9F%87%A7%F0%9F%87%B7%E5%B7%B4%E8%A5%BFBR004%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
+vless://7b102311-43fd-4e8f-877e-8090623c101d@96.126.179.194:443?type=ws&sni=vp58.cc.cd&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG061%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://b5618864-8599-4d4d-95ce-dbc4fc788039@175.195.149.58:10280?type=ws&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP107%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
