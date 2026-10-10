@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-11 00:33:01 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-11 04:50:47 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-hysteria2://https://xship.2fa.cat@starlink-ft.251313.xyz:443?sni=xship.top#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS286%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
-vless://5d85c2e3-cb03-4ec4-b068-bd6ad778c02f@129.151.64.169:31867?type=ws&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP028%201.14MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@51.15.236.52:443?type=ws&sni=cf-1rm.pages.dev&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR127%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
