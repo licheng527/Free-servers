@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-15 10:16:28 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-15 15:48:50 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMjkgMS43Mk1CL3NcdTRlMmRcdTYwMjcgVEdAamNub2RlIiwgImFkZCI6ICJVUzEyMjIwNS5zc2dyZWVuLm9yZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI2YmM0YjgzZS1hZTM1LTQzYmEtOTdjNy1kYWUzZThkMmE4YmMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi93ZXMiLCAidGxzIjogInRscyIsICJzbmkiOiAiIn0=
+vless://44d636ef-7056-4bdf-a3f4-acabe2adfc6f@103.214.68.191:443?type=ws&sni=a7c1.kn7.hhll.vavava.kdns.fr&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW045%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@103.238.129.141:443?type=ws&sni=kkkk-8oc.pages.dev&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP022%201.94MB/s%20TG%40jcnode
 ```
 
 ---
