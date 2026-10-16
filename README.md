@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-16 21:36:30 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-17 02:30:09 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3XHU2Y2Q1XHU1NmZkRlIwMzIgMC43N01CL3NcdTRlMmRcdTYwMjcgVEdAamNub2RlIiwgImFkZCI6ICIyMDAxOmJjODozMmQ3OjFhOTo6MyIsICJwb3J0IjogIjE4OTAxIiwgImlkIjogIjNhOTY2ZDIwLTdiOWQtNDhjYy1iYTJjLThkMzgxNjFiNmQzYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5LW5ld3BhYy9mYW5xaWFuZyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-trojan://Trojan@82164024@in.tronsg.com:443?sni=in.tronsg.com#%F0%9F%87%AE%F0%9F%87%B3%E5%8D%B0%E5%BA%A6IN002%201.62MB/s%20TG%40jcnode
+
 ```
 
 ---
