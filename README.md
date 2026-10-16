@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-16 10:07:59 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-16 15:38:11 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-trojan://Trojan@82164024@kr.tronsg.com:443?sni=kr.tronsg.com#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR012%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://d3f0d021-6a98-43c1-ba26-b75bd0d145f0@154.29.159.211:26763?type=tcp&sni=apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=9tgCHwsQFN0j6FaMsAeJN8TSD2qQFnX6JdTaEdp8TRU&sid=b72b5eed#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS222%200.54MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://44d636ef-7056-4bdf-a3f4-acabe2adfc6f@172.66.0.118:443?type=ws&sni=1r9o.f1y.hhll.vavava.kdns.fr&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW009%201.71MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.166.42.149:443?type=ws&sni=snip.edgeoneai.cc.cd&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL051%201.39MB/s%20TG%40jcnode
+vless://44d636ef-7056-4bdf-a3f4-acabe2adfc6f@www.vmware.com:443?type=ws&sni=1r9o.f1y.hhll.vavava.kdns.fr&security=tls#%F0%9F%87%B9%F0%9F%87%BC%E5%8F%B0%E6%B9%BETW002%201.85MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
