@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-16 02:45:17 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-16 10:07:59 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://ed88e91c-52da-449a-8ab8-fb8e5c43344a@144.31.135.38:9444?type=ws&sni=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP057%200.68MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+trojan://Trojan@82164024@kr.tronsg.com:443?sni=kr.tronsg.com#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BDKR012%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://d3f0d021-6a98-43c1-ba26-b75bd0d145f0@154.29.159.211:26763?type=tcp&sni=apple.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=9tgCHwsQFN0j6FaMsAeJN8TSD2qQFnX6JdTaEdp8TRU&sid=b72b5eed#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS222%200.54MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
