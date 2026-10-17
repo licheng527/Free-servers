@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-17 15:16:35 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-17 20:33:34 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@207.148.123.149:443?type=ws&sni=u.srilankangrill.online&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG023%201.3MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediakaskad.cc:443?type=tcp&sni=api.mediakaskad.cc&security=tls&flow=xtls-rprx-vision&security=reality&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%A6%F0%9F%87%B9%E5%A5%A5%E5%9C%B0%E5%88%A9AT003%201.03MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://efe6ee5f-7e4d-49fc-a4f9-77eefd4ad110@134.195.101.122:443?type=tcp&sni=www.mi.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ptYLYuVba16lu-OtadiE8Wd-cGHHVZh0XkxVUqrhmDE&sid=2546d239#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS233%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@149.62.44.41:443?type=ws&sni=kkkk-8oc.pages.dev&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP031%200.89MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.168.132.109:443?type=ws&sni=u.srilankangrill.online&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG022%201.35MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@134.209.183.179:443?type=ws&sni=cf-1rm.pages.dev&security=tls#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB013%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
