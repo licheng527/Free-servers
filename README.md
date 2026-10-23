@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-23 10:27:04 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-23 16:03:01 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@54.36.98.82:443?type=ws&sni=kkkk-8oc.pages.dev&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR018%201.2MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://19208402-53e4-4ff9-b6b6-aee478ca83c9@188.245.191.19:2040?type=ws&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE066%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
-vless://d623f979-df61-4b00-9f88-00a8b1ad861c@144.31.135.38:9444?type=ws&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP042%200.59MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.144.100:443?type=ws&sni=snip.edgeoneai.cc.cd&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS228%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
