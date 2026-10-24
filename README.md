@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-24 10:25:01 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-24 15:42:33 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://5e610f80-fc6a-479d-8621-b672355b96a1@69.8.128.50:443?type=ws&sni=cf-1rm.pages.dev&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP013%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://a500be68-4ff6-433b-9968-472be69fab14@77.239.110.89:443?type=tcp&sni=netherlands02.azotvpn.xyz&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ui9MLRYZIz7S6_1E4fZgoamwTypfQAMwJ1olxGcWomE&sid=fc70174007a393b4#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL062%201.26MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@64.176.34.130:443?type=ws&sni=snip.edgeoneai.cc.cd&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP003%201.65MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@89.147.111.185:443?type=ws&sni=cf-1rm.pages.dev&security=tls#%F0%9F%87%AE%F0%9F%87%AA%E7%88%B1%E5%B0%94%E5%85%B0IE009%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
