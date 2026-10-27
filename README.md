@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-27 22:59:59 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-28 03:54:07 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://345e0ef7-6861-4722-ab44-799c37507b24@spa.ikistore.online:443?type=xhttp&sni=spa.ikistore.online&security=tls&security=reality&pbk=RA96nXAM5OoBkVSecYR0Rp-KBQ2LulWIc2883BFJeiY&sid=5f5962cc9ec6b180#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99ES002%201.24MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://a1324b20-596e-4c9e-9538-97322bac22f0@57.129.130.34:52014?type=ws&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP008%201.01MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://6beaf1ad-c3ac-43eb-9490-f1bc8efdb70c@79.137.197.212:2105?type=ws&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP009%200.92MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
