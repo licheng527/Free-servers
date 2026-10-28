@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-28 17:06:14 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-29 01:35:10 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwXHU5OTk5XHU2ZTJmSEswMDcgXHU2ZDRiXHU5MDFmXHU2NzJhXHU3N2U1XHU0ZTJkXHU2MDI3IFRHQGpjbm9kZSIsICJhZGQiOiAiUWx4WXRCcHVxajNxcUpzSi52LjNkbnMudmlwIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImI2NjRjYzM2LTQ4OTYtNDU0Yi1iYjljLTEzNzdjNzYxNzZkZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiUWx4WXRCcHVxajNxcUpzSi52LjNkbnMudmlwIiwgInBhdGgiOiAiL3dzLXZtZXNzIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9
-vless://5a519754-a673-4462-83f6-5eb25d2af141@pl5.h1cloud.net:25548?type=tcp&sni=www.cloudflare.com&security=tls&security=reality&pbk=lceynvFy326oU4ew9OPR7079m-L5ZcFELgCl0sqxU2M&sid=bceb5b2197b76818#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL010%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://bfe6190a-fee3-4e0d-b348-c55ae74ca001@45.192.12.48:443?type=ws&sni=db.abcai.online&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP027%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://72038860-a526-4385-8f69-b28a4d85fc10@147.45.72.251:443?type=ws&sni=ddd.abcai.online&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR020%201.04MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
