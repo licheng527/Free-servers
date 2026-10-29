@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-30 01:48:53 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-10-30 06:11:01 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://05c66efe-4f1e-4df9-99e6-2b1b624fa7ae@23.146.248.149:443?type=ws&sni=sg.jinggai.online&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG061%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://05c66efe-4f1e-4df9-99e6-2b1b624fa7ae@104.17.157.177:443?type=ws&sni=sg.jinggai.online&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG094%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E5%8D%B1%E9%99%A9%20TG%40jcnode
-vless://3536e1fa-0850-44d1-b123-925ce12476cf@2a14:3f87:f001:46::a:443?type=xhttp&sni=dey.lnmarketplace.net&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL025%200.88MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://f8bdf363-ff05-4fe6-a013-a5605266657e@144.31.242.142:443?type=xhttp&sni=883f1393.con.rasterparcel.tech&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS212%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
+vless://05c66efe-4f1e-4df9-99e6-2b1b624fa7ae@174.137.61.42:443?type=ws&sni=sg.jinggai.online&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG005%201.1MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
+vless://05c66efe-4f1e-4df9-99e6-2b1b624fa7ae@185.82.218.224:443?type=ws&sni=sg.jinggai.online&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG031%200.44MB/s%E5%8D%B1%E9%99%A9%20TG%40jcnode
 ```
 
 ---
