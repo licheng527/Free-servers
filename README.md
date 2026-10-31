@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-01 04:45:51 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-01 07:50:33 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,10 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-
+vless://1c8f7130-8c1a-4949-831d-1d45b39c795b@5.181.158.100:8481?type=raw&sni=svoboda16.bystriynet.online&security=tls&flow=xtls-rprx-vision&security=reality&pbk=-Ri2C7Y1tPrP8hQkgXOqVyR1Sqv5MdLZxAAu9M5kfn0&sid=44add17dbecb11ba#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BDGB002%200.98MB/s%20TG%40jcnode
+vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-mi-26.spbstudentlife.com:443?type=tcp&sni=assets-mi-26.spbstudentlife.com&security=tls&flow=xtls-rprx-vision&security=reality&pbk=cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc&sid=a7856800c2deb7b2#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL075%200.9MB/s%20TG%40jcnode
+vless://241306b3-9f27-4ed3-9524-6c0792c55856@ch2.h1cloud.net:25879?type=tcp&sni=www.bing.com&security=tls&security=reality&pbk=XuI492LMe1OPIwQH5TQlIo33JRqMM3kfnto62tbx5FU&sid=f1a7a14461a3f389#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH001%201.6MB/s%20TG%40jcnode
+vless://c6628db6-025d-40e8-b79d-033f4372a6b7@189.74.114.93:443?type=grpc&sni=api.mediaklenov.cc&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL004%202.11MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
