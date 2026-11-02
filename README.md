@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-02 18:14:08 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-03 05:00:08 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,9 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.242.242.30:8880?type=ws#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS077%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?type=tcp&sni=wordpress.com&security=tls&security=reality&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL186%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://3305c285-8d55-4f52-a3b0-2a582f5ffd59@188.253.21.238:8443?type=ws&sni=sdwf-amq.pages.dev&security=tls#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACJP006%200.96MB/s%20TG%40jcnode
+vless://f0c9ebf7-76cc-44b7-8b30-b33ee0ffc898@217.60.2.212:443?type=ws&sni=coding.grok2.indevs.in&security=tls#%F0%9F%87%B1%F0%9F%87%BBLV009%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
