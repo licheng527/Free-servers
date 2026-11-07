@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-08 01:08:06 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-08 05:12:25 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://f45d3da3-e488-44f8-b554-94131130e2f6@95.214.55.152:443?type=tcp&sni=7194a9t.pl9.h1clayd.click&security=tls&security=reality&pbk=Nx_8qS7F8ovEMk_3rb9gjFF2x1vOhfgMTa1NVsIweTw&sid=6bbddc360b1d6f51#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL002%201.22MB/s%20TG%40jcnode
-vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@172.67.67.89:2083?type=ws&sni=edge.yzkvm.top&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG006%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
+vless://0ad9eed9-ea49-4c97-9ac4-fe0ec7e6f97b@msma-hfgetway.hf.space:443?type=ws&sni=msma-hfgetway.hf.space&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS024%200.48MB/s%20TG%40jcnode
+vless://1c80222f-9fd9-db7b-c1ae-86c82c158b9d@122.8.47.4:8443?type=grpc&sni=download.nvidia.com&security=tls&security=reality&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&sid=#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS002%202.91MB/s%20TG%40jcnode
 ```
 
 ---
