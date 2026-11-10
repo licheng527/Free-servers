@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-10 13:07:03 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-10 21:55:28 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@87.242.102.102:443?type=tcp&sni=kakashechka.belka.tv&security=tls&flow=xtls-rprx-vision&security=reality&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE008%201.64MB/s%20TG%40jcnode
-vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.105:2083?type=grpc&sni=dl.google.com&security=tls&security=reality&pbk=B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4&sid=8bd80253#%F0%9F%87%B5%F0%9F%87%B1%E6%B3%A2%E5%85%B0PL001%203.48MB/s%20TG%40jcnode
-vless://20e565e1-3858-40bf-94e8-4ec9624fc985@179.255.191.82:443?type=ws&sni=wallweb8.pages.dev&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG090%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT009%201.06MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
