@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-11 11:40:34 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-11 21:09:11 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9%E6%84%8F%E5%A4%A7%E5%88%A9IT014%201MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.199.122.2:443?type=tcp&sni=7aa271t.es1.h1clayd.click&security=tls&flow=xtls-rprx-vision&security=reality&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41#%F0%9F%87%AA%F0%9F%87%B8%E8%A5%BF%E7%8F%AD%E7%89%99ES002%200.61MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
+vless://d73e3cdc-a80b-4e73-a11b-cc467d7a84f8@45.88.176.223:443?type=xhttp&sni=m.yourvibe.my&security=tls#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU003%201.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
