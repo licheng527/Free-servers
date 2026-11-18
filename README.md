@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-18 18:51:19 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-19 03:42:59 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,8 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://89573ddc-bc74-49d3-a1bf-96c293d07cea@ide.vipvirtualnet.eu:9990?type=grpc&sni=ide.vipvirtualnet.eu&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE001%203.9MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
-vless://1c0250ec-2dbc-40be-bd18-90b5e812ceaa@43.174.218.1:443?type=ws&sni=pg.fm6dw.dpdns.org&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS048%200.5MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@217.60.252.49:443?type=ws&sni=clover.filnex.baby&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE027%200.77MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
