@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-17 23:06:32 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-18 08:10:06 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,10 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://cd3d8e5c-794f-4c34-8222-59d3e99e35fe@104.18.117.226:443?type=ws&sni=joeypg.ezbiz.dynv6.net&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK129%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://54d07019-9b98-41f4-8d7f-971cee378fe7@104.143.219.12:3090?type=grpc#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE001%203.77MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://cd3d8e5c-794f-4c34-8222-59d3e99e35fe@172.66.133.61:443?type=ws&sni=joeypg.ezbiz.dynv6.net&security=tls#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFHK096%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://cd3d8e5c-794f-4c34-8222-59d3e99e35fe@104.17.180.190:443?type=ws&sni=joeypg.ezbiz.dynv6.net&security=tls#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BDUS246%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?type=tcp&sni=base.hosamobenl.co.uk&security=tls#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B0NL093%201.12MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
