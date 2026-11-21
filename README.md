@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-21 18:25:04 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-22 02:25:46 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4XHU3ZjhlXHU1NmZkVVMwMDYgMS45M01CL3NcdTRlMmRcdTYwMjcgVEdAamNub2RlIiwgImFkZCI6ICIxMDcuMTc0LjEzMy4xMTUiLCAicG9ydCI6ICI1MjA4MCIsICJpZCI6ICJlN2ZiOGJjNi01ZTBhLTRlNjQtODZjYy1lYjBkZGQ3ZWY0ZGQiLCAiYWlkIjogIjAiLCAibmV0IjogImh0dHAiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiJ9
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@188.225.78.178:443?type=grpc&sni=hemlock.elvano.website&security=tls#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AFRU008%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%20TG%40jcnode
 ```
 
 ---
