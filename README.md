@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-26 00:24:26 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-26 09:16:55 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,9 +15,7 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@81.49.182.202:443?type=ws&sni=lagoon.gerqix.online&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE129%200.57MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@179.237.99.57:443?type=ws&sni=rowanberry.moltex.click&security=tls#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BDDE248%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E7%BA%AF%E5%87%80%20TG%40jcnode
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@94.228.169.108:443?type=ws&sni=accessfooter.cleanfoodshop.org&security=tls#%F0%9F%87%AB%F0%9F%87%AE%E8%8A%AC%E5%85%B0FI036%201.36MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://7d31a423-4bb6-4c16-91b8-c08901a37780@143.246.41.232:443?type=tcp&sni=e0ddd1x.ee2.h1clayd.click&security=tls&flow=xtls-rprx-vision&security=reality&pbk=lI2vfdzBaAKrDxAdkAW8IHp9pkpQV6INmJrYriC_lyE&sid=9ef8ebef9638b9c7#%F0%9F%87%AA%F0%9F%87%AAEE001%201.31MB/s%E7%BA%AF%E5%87%80%20TG%40jcnode
 ```
 
 ---
