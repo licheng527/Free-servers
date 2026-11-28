@@ -5,7 +5,7 @@
 
 <h2>免费节点：</h2>
 <blockquote>
-<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-28 08:49:01 (北京时间)</p>
+<p style="text-align: center;">节点每3小时自动更新，更新时间：2026-11-28 19:04:12 (北京时间)</p>
 </blockquote>
 <h4>本页面由某人实时手动挨个节点测速，但不同地区运营商网络仍有差异，可能会有超时节点。</h4>
 <blockquote>
@@ -15,7 +15,8 @@
 <h4>节点列表：(这里仅展示部分节点)</h4>
 
 ```
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@107.161.160.91:443?type=ws&sni=cc20i5h7zc50yf204nto2kaw6dw6pn7l.pages.dev&security=tls#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BDFR035%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://7b102311-43fd-4e8f-877e-8090623c101d@83.228.207.11:443?type=ws&sni=vp58.cc.cd&security=tls#%F0%9F%87%A8%F0%9F%87%AD%E7%91%9E%E5%A3%ABCH010%20%E6%B5%8B%E9%80%9F%E6%9C%AA%E7%9F%A5%E4%B8%AD%E6%80%A7%20TG%40jcnode
+vless://1c0250ec-2dbc-40be-bd18-90b5e812ceaa@91.184.248.36:443?type=ws&sni=pg.fm6dw.dpdns.org&security=tls#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1SG011%200.97MB/s%E4%B8%AD%E6%80%A7%20TG%40jcnode
 ```
 
 ---
